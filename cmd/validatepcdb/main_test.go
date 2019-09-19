@@ -65,6 +65,18 @@ func TestValidateEventsContent(t *testing.T) {
 			},
 			failKey: 0,
 		},
+		{
+			events: []Event{
+				{Month: 7, Day: 1, Holiday: map[string][]string{"Invalid": nil}},
+			},
+			failKey: 0,
+		},
+		{
+			events: []Event{
+				{Month: 7, Day: 1, Holiday: map[string][]string{"Iran": nil}},
+			},
+			failKey: -1,
+		},
 	}
 
 	for i := range fixtures {

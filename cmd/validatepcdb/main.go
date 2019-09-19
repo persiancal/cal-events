@@ -12,6 +12,7 @@ import (
 
 // Event is a single event
 type Event struct {
+	Key         string
 	Title       map[string]string
 	Description map[string]string
 	Year        int
@@ -26,13 +27,18 @@ type File struct {
 	Events []Event
 }
 
-var validCountries = []string{
-	"Iran",
-}
-
 var (
 	file = flag.String("file", "", "The file to validate")
 )
+
+func isValidCountry(c string) bool {
+	switch c {
+	case "Iran":
+		return true
+	}
+
+	return false
+}
 
 func openFile(file string) ([]byte, error) {
 	fl, err := os.Open(file)
@@ -69,6 +75,12 @@ func validateEventContent(ev []Event) error {
 		if ev[i].Month > 6 {
 			if ev[i].Day <= 0 || ev[i].Day > 30 {
 				return fmt.Errorf("invalid day on key %d", i)
+			}
+		}
+
+		for country := range ev[i].Holiday {
+			if !isValidCountry(country) {
+				return fmt.Errorf("country is invalid: %q in key %d", country, i)
 			}
 		}
 	}

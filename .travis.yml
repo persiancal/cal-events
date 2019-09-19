@@ -1,0 +1,10 @@
+language: go
+
+go:
+  - 1.x
+
+sudo: false
+
+script:
+  - go test ./...
+  - go run ./cmd/validatepcdb/main.go -file ./jalali.yaml
