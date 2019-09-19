@@ -1,6 +1,7 @@
 ---
 Events:
-  - Title:
+  - Key: nowruz1
+    Title:
       Fa_IR: عید نوروز
     Description:
       Fa_IR: روز اول عید نوروز
@@ -12,7 +13,8 @@ Events:
     Holiday:
       - Iran: {}
 
-  - Title:
+  - Key: nowruz2
+    Title:
       Fa_IR: عید نوروز
     Description:
       Fa_IR: روز دوم عید نوروز
@@ -24,7 +26,8 @@ Events:
     Holiday:
       - Iran: {}
 
-  - Title:
+  - Key: nowruz3
+    Title:
       Fa_IR: عید نوروز
     Description:
       Fa_IR: روز سوم عید نوروز
@@ -36,7 +39,8 @@ Events:
     Holiday:
       - Iran: {}
 
-  - Title:
+  - Key: nowruz4
+    Title:
       Fa_IR: عید نوروز
     Description:
       Fa_IR: روز چهارم عید نوروز
@@ -48,7 +52,8 @@ Events:
     Holiday:
       - Iran: {}
 
-  - Title:
+  - Key: iriday
+    Title:
       Fa_IR: روز جمهوری اسلامی
     Description:
       Fa_IR: روز همه پرسی جمهوری اسلامی ایران
