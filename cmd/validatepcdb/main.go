@@ -22,6 +22,10 @@ type Event struct {
 	Holiday     map[string][]string
 }
 
+func (e *Event) idx() int {
+	return e.Month*12 + e.Day
+}
+
 // File is the single file
 type File struct {
 	Events []Event
@@ -90,30 +94,21 @@ func validateEventContent(ev []Event) error {
 
 func validateEventOrder(ev []Event) error {
 	var (
-		year, month, day int
+		lastIdx, year int
 	)
 
 	for i := range ev {
-		if ev[i].Month < month {
+		if lastIdx > ev[i].idx() {
 			return fmt.Errorf("the key %d is not in order", i)
 		}
 
-		// Reset for next month
-		if ev[i].Month != month {
-			day = 0
-		}
-
-		if ev[i].Day < day {
-			return fmt.Errorf("the key %d is not in order", i)
-		}
-
-		if ev[i].Month == month && ev[i].Day == day {
+		if lastIdx == ev[i].idx() {
 			if ev[i].Year < year {
 				return fmt.Errorf("the key %d is not in order", i)
 			}
 		}
 
-		year, month, day = ev[i].Year, ev[i].Month, ev[i].Day
+		year, lastIdx = ev[i].Year, ev[i].idx()
 	}
 
 	return nil

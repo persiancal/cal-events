@@ -7,4 +7,4 @@ sudo: false
 
 script:
   - go test ./...
-  - go run ./cmd/validatepcdb/main.go -file ./jalali.yaml
+  - go run ./cmd/validatepcdb/main.go -file ./jalali.yml
