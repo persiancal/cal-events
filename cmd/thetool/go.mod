@@ -1,4 +1,4 @@
-module github.com/fzerorubigd/pcdb/cmd/thetool
+module github.com/fzerorubigd/cal-events/cmd/thetool
 
 go 1.13
 

@@ -29,6 +29,22 @@ type File struct {
 	Events []Event `json:"events" yaml:"events"`
 }
 
+func (f *File) Len() int {
+	return len(f.Events)
+}
+
+func (f *File) Less(i, j int) bool {
+	if f.Events[i].idx() == f.Events[j].idx() {
+		return f.Events[i].Year < f.Events[j].Year
+	}
+
+	return f.Events[i].idx() < f.Events[j].idx()
+}
+
+func (f *File) Swap(i, j int) {
+	f.Events[i], f.Events[j] = f.Events[j], f.Events[i]
+}
+
 func openFile(file string) ([]byte, error) {
 	fl, err := os.Open(file)
 	if err != nil {
