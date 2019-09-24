@@ -1,15 +1,15 @@
 export ROOT:=$(realpath $(dir $(firstword $(MAKEFILE_LIST))))
-
+export GO111MODULE=on
 test:
-	go test ./...
+	cd $(ROOT)/cmd/thetool &&  go test 
 
-thetool: test
-	go build ./cmd/thetool
+$(ROOT)/cmd/thetool/thetool: test
+	cd $(ROOT)/cmd/thetool && go build .
 
-generate: thetool
+generate: $(ROOT)/cmd/thetool/thetool
 	mkdir -p $(ROOT)/dist
-	./thetool -file $(ROOT)/jalali.yml generate -dist $(ROOT)/dist
+	$(ROOT)/cmd/thetool/thetool -file $(ROOT)/jalali.yml generate -dist $(ROOT)/dist
 
-validate: thetool
-	./thetool -file $(ROOT)/jalali.yml validate
-	./thetool -file $(ROOT)/jalali.yml generate -dist $(ROOT)/dist -compare
+validate: $(ROOT)/cmd/thetool/thetool
+	$(ROOT)/cmd/thetool/thetool -file $(ROOT)/jalali.yml validate
+	$(ROOT)/cmd/thetool/thetool -file $(ROOT)/jalali.yml generate -dist $(ROOT)/dist -compare
