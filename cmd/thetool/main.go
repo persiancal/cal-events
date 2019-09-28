@@ -31,6 +31,6 @@ func main() {
 
 	cmd := all.Find(args[0], args[1:])
 	if err := cmd.Run(cmd, fl); err != nil {
-		log.Fatalf("Command failed: %s", err)
+		log.Fatalf("command failed: %s", err)
 	}
 }

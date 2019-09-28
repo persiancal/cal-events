@@ -8,35 +8,35 @@ import (
 	"strings"
 )
 
-var all Commands
+var all commands
 
-type Command struct {
+type command struct {
 	Flags       *flag.FlagSet
 	Command     string
 	Description string
-	Run         func(*Command, *File) error
+	Run         func(*command, *File) error
 }
 
-type Commands []*Command
+type commands []*command
 
-func (c Commands) Len() int {
+func (c commands) Len() int {
 	return len(c)
 }
 
-func (c Commands) Less(i, j int) bool {
+func (c commands) Less(i, j int) bool {
 	return strings.Compare(c[i].Command, c[j].Command) < 0
 }
 
-func (c Commands) Swap(i, j int) {
+func (c commands) Swap(i, j int) {
 	c[i], c[j] = c[j], c[i]
 }
 
-func (c *Command) Usage() {
+func (c *command) Usage() {
 	_, _ = fmt.Fprintf(os.Stderr, "\n  %s : %s\n", c.Command, c.Description)
 	c.Flags.PrintDefaults()
 }
 
-func (c Commands) Usage() {
+func (c commands) Usage() {
 	_, _ = fmt.Fprintf(os.Stderr, "%s <global options> command <command options> : is the command to validate/generate calendar events\n", os.Args[0])
 	_, _ = fmt.Fprintf(os.Stderr, "\nGlobal Options:\n")
 	flag.PrintDefaults()
@@ -46,7 +46,7 @@ func (c Commands) Usage() {
 	}
 }
 
-func (c Commands) Find(cmd string, args []string) (*Command) {
+func (c commands) Find(cmd string, args []string) (*command) {
 	for i := range c {
 		if c[i].Command == cmd {
 			if err := c[i].Flags.Parse(args); err != nil {
@@ -63,13 +63,13 @@ func (c Commands) Find(cmd string, args []string) (*Command) {
 	return nil
 }
 
-func Register(cmd *Command) {
+func registerCommand(cmd *command) {
 	all = append(all, cmd)
 	sort.Sort(all)
 }
 
-func NewCommand(name, desc string, fn func(*Command, *File) error) *Command {
-	return &Command{
+func newCommand(name, desc string, fn func(*command, *File) error) *command {
+	return &command{
 		Flags:       flag.NewFlagSet(name, flag.ExitOnError),
 		Command:     name,
 		Description: desc,
