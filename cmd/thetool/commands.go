@@ -32,15 +32,15 @@ func (c Commands) Swap(i, j int) {
 }
 
 func (c *Command) Usage() {
-	fmt.Fprintf(os.Stderr, "\n  %s : %s\n", c.Command, c.Description)
+	_, _ = fmt.Fprintf(os.Stderr, "\n  %s : %s\n", c.Command, c.Description)
 	c.Flags.PrintDefaults()
 }
 
 func (c Commands) Usage() {
-	fmt.Fprintf(os.Stderr, "%s <global options> command <command options> : is the command to validate/generate calendar events\n", os.Args[0])
-	fmt.Fprintf(os.Stderr, "\nGlobal Options:\n")
+	_, _ = fmt.Fprintf(os.Stderr, "%s <global options> command <command options> : is the command to validate/generate calendar events\n", os.Args[0])
+	_, _ = fmt.Fprintf(os.Stderr, "\nGlobal Options:\n")
 	flag.PrintDefaults()
-	fmt.Fprintf(os.Stderr, "\nCommands:")
+	_, _ = fmt.Fprintf(os.Stderr, "\nCommands:")
 	for i := range c {
 		c[i].Usage()
 	}

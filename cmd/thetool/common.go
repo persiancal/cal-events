@@ -4,7 +4,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"gopkg.in/yaml.v2"
+	yaml "gopkg.in/yaml.v2"
 )
 
 // Event is a single event
@@ -50,7 +50,7 @@ func openFile(file string) ([]byte, error) {
 	if err != nil {
 		return nil, err
 	}
-	defer fl.Close()
+	defer func() { _ = fl.Close() }()
 
 	return ioutil.ReadAll(fl)
 }
