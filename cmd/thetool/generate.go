@@ -38,11 +38,11 @@ func compareFiles(src, dst []byte) error {
 		ToFile:   "old",
 	}
 	text, err := difflib.GetUnifiedDiffString(diff)
-	fmt.Fprint(os.Stderr, text)
+	_, _ = fmt.Fprint(os.Stderr, text)
 	return err
 }
 
-func generate(cmd *Command, fl *File) error {
+func generate(cmd *command, fl *File) error {
 	j, err := json.MarshalIndent(fl, "", "  ")
 	if err != nil {
 		return fmt.Errorf("converting to json failed: %w", err)
@@ -61,8 +61,8 @@ func generate(cmd *Command, fl *File) error {
 
 func init() {
 	cur, _ := os.Getwd()
-	cmd := NewCommand("generate", "generate the dist folder", generate)
+	cmd := newCommand("generate", "generate the dist folder", generate)
 	dist = cmd.Flags.String("dist", cur, "The dist folder")
 	compare = cmd.Flags.Bool("compare", false, "Compare the current dist with the base file")
-	Register(cmd)
+	registerCommand(cmd)
 }

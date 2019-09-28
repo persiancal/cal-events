@@ -10,7 +10,7 @@ import (
 
 var reorderOut *string
 
-func reorder(cmd *Command, fl *File) error {
+func reorder(cmd *command, fl *File) error {
 	sort.Sort(fl)
 	f := os.Stdout
 	var err error
@@ -32,7 +32,7 @@ func reorder(cmd *Command, fl *File) error {
 }
 
 func init() {
-	cmd := NewCommand("reorder", "reorder the input yaml file", reorder)
+	cmd := newCommand("reorder", "reorder the input yaml file", reorder)
 	reorderOut = cmd.Flags.String("output", "-", "teh output, - for stdout")
-	Register(cmd)
+	registerCommand(cmd)
 }

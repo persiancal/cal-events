@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func validate(cmd *Command, fl *File) error {
+func validate(cmd *command, fl *File) error {
 	if err := validateEventContent(fl.Events); err != nil {
 		return fmt.Errorf("validate events failed: %w", err)
 	}
@@ -77,6 +77,6 @@ func validateEventOrder(ev []Event) error {
 }
 
 func init() {
-	cmd := NewCommand("validate", "validate the input yaml file", validate)
-	Register(cmd)
+	cmd := newCommand("validate", "validate the input yaml file", validate)
+	registerCommand(cmd)
 }
