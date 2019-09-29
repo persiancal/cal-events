@@ -7,24 +7,16 @@ import (
 	"io/ioutil"
 	"os"
 	"path/filepath"
+	"strings"
 
 	"github.com/pmezard/go-difflib/difflib"
+	"gopkg.in/yaml.v2"
 )
 
 var (
 	compare *bool
 	dist    *string
 )
-
-func loadCurrent(path, name, ext string) ([]byte, error) {
-	fl := filepath.Join(path, name+ext)
-	return ioutil.ReadFile(fl)
-}
-
-func saveFile(path, name, ext string, data []byte) error {
-	fl := filepath.Join(path, name+ext)
-	return ioutil.WriteFile(fl, data, 0640)
-}
 
 func compareFiles(src, dst []byte) error {
 	if bytes.Compare(src, dst) == 0 {
@@ -42,21 +34,41 @@ func compareFiles(src, dst []byte) error {
 	return err
 }
 
+func compareAndWrite(fl string, data []byte) error {
+	if *compare {
+		c, err := ioutil.ReadFile(fl)
+		if err != nil {
+			return fmt.Errorf("the target file is not exist: %w", err)
+		}
+		return compareFiles(c, data)
+	}
+
+	return ioutil.WriteFile(fl, data, 0600)
+
+}
+
 func generate(cmd *command, fl *File) error {
+	path := filepath.Join(*dist, strings.ToLower(fl.Name))
+
 	j, err := json.MarshalIndent(fl, "", "  ")
 	if err != nil {
 		return fmt.Errorf("converting to json failed: %w", err)
 	}
 
-	if *compare {
-		c, err := loadCurrent(*dist, fl.Name, ".json")
-		if err != nil {
-			return fmt.Errorf("the target file is not exist: %w", err)
-		}
-		return compareFiles(c, j)
+	if err := compareAndWrite(path+".json", j); err != nil {
+		return err
 	}
 
-	return saveFile(*dist, fl.Name, ".json", j)
+	y, err := yaml.Marshal(fl)
+	if err != nil {
+		return fmt.Errorf("converting to yaml failed: %w", err)
+	}
+
+	if err := compareAndWrite(path+".yml", y); err != nil {
+		return err
+	}
+
+	return nil
 }
 
 func init() {

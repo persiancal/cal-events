@@ -1,0 +1,213 @@
+events:
+- key: "230"
+  title:
+    fa_IR: زادروز فردوسی
+  description:
+    fa_IR: زادروز فردوسی
+  month: 11
+  day: 1
+  calendar:
+    en_US:
+    - Ancient Iran
+    fa_IR:
+    - باستانی
+- key: "232"
+  title:
+    fa_IR: بهمن‌روز، جشن بهمنگان
+  description:
+    fa_IR: بهمن‌روز، جشن بهمنگان
+  month: 11
+  day: 2
+  calendar:
+    en_US:
+    - Ancient Iran
+    fa_IR:
+    - باستانی
+- key: "238"
+  title:
+    fa_IR: شهریورروز، آغاز پادشاهی داراب (کوروش)
+  description:
+    fa_IR: شهریورروز، آغاز پادشاهی داراب (کوروش)
+  month: 11
+  day: 4
+  calendar:
+    en_US:
+    - Ancient Iran
+    fa_IR:
+    - باستانی
+- key: "242"
+  title:
+    fa_IR: جشن نوسَره
+  description:
+    fa_IR: جشن نوسَره
+  month: 11
+  day: 5
+  calendar:
+    en_US:
+    - Ancient Iran
+    fa_IR:
+    - باستانی
+- key: "241"
+  title:
+    fa_IR: انتخابات اولین دورهٔ ریاست جمهوری
+  description:
+    fa_IR: انتخابات اولین دورهٔ ریاست جمهوری
+  year: 1358
+  month: 11
+  day: 5
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+- key: "245"
+  title:
+    fa_IR: سالروز حماسهٔ مردم آمل
+  description:
+    fa_IR: سالروز حماسهٔ مردم آمل
+  month: 11
+  day: 6
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+- key: "249"
+  title:
+    fa_IR: آبان‌روز، جشن سَدَه، آتش‌افروزی بر بام‌ها / نمایش‌بازی همگانی
+  description:
+    fa_IR: آبان‌روز، جشن سَدَه، آتش‌افروزی بر بام‌ها / نمایش‌بازی همگانی
+  month: 11
+  day: 10
+  calendar:
+    en_US:
+    - Ancient Iran
+    fa_IR:
+    - باستانی
+- key: "252"
+  title:
+    fa_IR: بازگشت امام خمینی به ایران و آغاز دههٔ فجر انقلاب اسلامی
+  description:
+    fa_IR: بازگشت امام خمینی به ایران  و آغاز دههٔ فجر انقلاب اسلامی
+  year: 1357
+  month: 11
+  day: 12
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+- key: "255"
+  title:
+    fa_IR: روز فناوری فضایی
+  description:
+    fa_IR: روز فناوری فضایی
+  month: 11
+  day: 14
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+- key: "258"
+  title:
+    fa_IR: جشن میانهٔ زمستان
+  description:
+    fa_IR: جشن میانهٔ زمستان
+  month: 11
+  day: 15
+  calendar:
+    en_US:
+    - Ancient Iran
+    fa_IR:
+    - باستانی
+- key: "263"
+  title:
+    fa_IR: روز نیروی هوایی
+  description:
+    fa_IR: روز نیروی هوایی
+  month: 11
+  day: 19
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+- key: "265"
+  title:
+    fa_IR: شکسته شدن حکومت نظامی به فرمان امام خمینی
+  description:
+    fa_IR: شکسته شدن حکومت نظامی به فرمان امام خمینی
+  year: 1357
+  month: 11
+  day: 21
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+- key: "268"
+  title:
+    fa_IR: بادروز، جشن بادروزی
+  description:
+    fa_IR: بادروز، جشن بادروزی
+  month: 11
+  day: 22
+  calendar:
+    en_US:
+    - Ancient Iran
+    fa_IR:
+    - باستانی
+- key: "269"
+  title:
+    fa_IR: پیروزی انقلاب اسلامی ایران و سقوط نظام شاهنشاهی
+  description:
+    fa_IR: پیروزی انقلاب اسلامی ایران و سقوط نظام شاهنشاهی
+  year: 1357
+  month: 11
+  day: 22
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+  holiday:
+    Iran: []
+- key: "270"
+  title:
+    fa_IR: صدور حکم امام خمینی مبنی بر ارتداد سلمان رشدی
+  description:
+    fa_IR: صدور حکم امام خمینی مبنی بر ارتداد سلمان رشدی
+  year: 1367
+  month: 11
+  day: 25
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+- key: "274"
+  title:
+    fa_IR: روز اقتصاد مقاومتی و کارآفرینی
+  description:
+    fa_IR: روز اقتصاد مقاومتی و کارآفرینی
+  month: 11
+  day: 29
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+- key: "273"
+  title:
+    fa_IR: قیام مردم تبریز به مناسبت چهلمین روز شهادت شهدای قم
+  description:
+    fa_IR: قیام مردم تبریز به مناسبت چهلمین روز شهادت شهدای قم
+  year: 1356
+  month: 11
+  day: 29
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران

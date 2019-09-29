@@ -1,0 +1,276 @@
+events:
+- key: "213"
+  title:
+    fa_IR: روز میلاد خورشید، جشن خرم‌روز / نخستین جشن دیگان / دیدار طلوع خورشید در
+      تقویم آفتابی چارتاقی نیاسر
+  description:
+    fa_IR: روز میلاد خورشید، جشن خرم‌روز / نخستین جشن دیگان / دیدار طلوع خورشید در
+      تقویم آفتابی چارتاقی نیاسر
+  month: 10
+  day: 1
+  calendar:
+    en_US:
+    - Ancient Iran
+    fa_IR:
+    - باستانی
+- key: "216"
+  title:
+    fa_IR: روز ثبت احوال
+  description:
+    fa_IR: روز ثبت احوال
+  month: 10
+  day: 3
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+- key: "218"
+  title:
+    fa_IR: بازارجشن
+  description:
+    fa_IR: بازارجشن
+  month: 10
+  day: 5
+  calendar:
+    en_US:
+    - Ancient Iran
+    fa_IR:
+    - باستانی
+- key: "220"
+  title:
+    fa_IR: روز ایمنی در برابر زلزله و کاهش اثرات بلایای طبیعی
+  description:
+    fa_IR: روز ایمنی در برابر زلزله و کاهش اثرات بلایای طبیعی
+  month: 10
+  day: 5
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+- key: "219"
+  title:
+    fa_IR: روز درگذشت زرتشت
+  description:
+    fa_IR: روز درگذشت زرتشت
+  month: 10
+  day: 5
+  calendar:
+    en_US:
+    - Ancient Iran
+    fa_IR:
+    - باستانی
+- key: "222"
+  title:
+    fa_IR: شهادت آیت‌الله حسین غفاری
+  description:
+    fa_IR: شهادت آیت‌الله حسین غفاری
+  year: 1353
+  month: 10
+  day: 7
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+- key: "223"
+  title:
+    fa_IR: تشکیل نهضت سوادآموزی
+  description:
+    fa_IR: تشکیل نهضت سوادآموزی
+  year: 1358
+  month: 10
+  day: 7
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+- key: "226"
+  title:
+    fa_IR: دی‌به‌آذرروز، دومین جشن دیگان
+  description:
+    fa_IR: دی‌به‌آذرروز، دومین جشن دیگان
+  month: 10
+  day: 8
+  calendar:
+    en_US:
+    - Ancient Iran
+    fa_IR:
+    - باستانی
+- key: "225"
+  title:
+    fa_IR: روز صنعت پتروشیمی
+  description:
+    fa_IR: روز صنعت پتروشیمی
+  month: 10
+  day: 8
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+- key: "228"
+  title:
+    fa_IR: ۹ دی
+  description:
+    fa_IR: ۹ دی
+  month: 10
+  day: 9
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+- key: "229"
+  title:
+    fa_IR: ابلاغ پیام تاریخی امام خمینی به گورباچف رهبر شوروی سابق
+  description:
+    fa_IR: ابلاغ پیام تاریخی امام خمینی به گورباچف رهبر شوروی سابق
+  year: 1367
+  month: 10
+  day: 13
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+- key: "234"
+  title:
+    fa_IR: سیرسور، جشن گیاه‌خواری
+  description:
+    fa_IR: سیرسور، جشن گیاه‌خواری
+  month: 10
+  day: 14
+  calendar:
+    en_US:
+    - Ancient Iran
+    fa_IR:
+    - باستانی
+- key: "237"
+  title:
+    fa_IR: جشن پیکرتراشی / دی‌به‌مهرروز، سومین جشن دیگان
+  description:
+    fa_IR: جشن پیکرتراشی / دی‌به‌مهرروز، سومین جشن دیگان
+  month: 10
+  day: 15
+  calendar:
+    en_US:
+    - Ancient Iran
+    fa_IR:
+    - باستانی
+- key: "239"
+  title:
+    fa_IR: جشن درامزینان، جشن درفش‌ها
+  description:
+    fa_IR: جشن درامزینان، جشن درفش‌ها
+  month: 10
+  day: 16
+  calendar:
+    en_US:
+    - Ancient Iran
+    fa_IR:
+    - باستانی
+- key: "240"
+  title:
+    fa_IR: اجرای طرح حذف حجاب
+  description:
+    fa_IR: اجرای طرح حذف حجاب
+  year: 1314
+  month: 10
+  day: 17
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+- key: "247"
+  title:
+    fa_IR: قیام خونین مردم قم
+  description:
+    fa_IR: قیام خونین مردم قم
+  year: 1356
+  month: 10
+  day: 19
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+- key: "248"
+  title:
+    fa_IR: شهادت میرزاتقی‌خان امیرکبیر
+  description:
+    fa_IR: شهادت میرزاتقی‌خان امیرکبیر
+  year: 1230
+  month: 10
+  day: 20
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+- key: "250"
+  title:
+    fa_IR: تشکیل شورای انقلاب
+  description:
+    fa_IR: تشکیل شورای انقلاب
+  year: 1357
+  month: 10
+  day: 22
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+- key: "251"
+  title:
+    fa_IR: دی‌به‌دین‌روز، چهارمین جشن دیگان
+  description:
+    fa_IR: دی‌به‌دین‌روز، چهارمین جشن دیگان
+  month: 10
+  day: 23
+  calendar:
+    en_US:
+    - Ancient Iran
+    fa_IR:
+    - باستانی
+- key: "254"
+  title:
+    fa_IR: خروج شاه از ایران
+  description:
+    fa_IR: خروج شاه از ایران
+  year: 1357
+  month: 10
+  day: 26
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+- key: "256"
+  title:
+    fa_IR: شهادت نواب صفوی، طهماسبی، برادران واحدی و ذوالقدر از اعضای فداییان اسلام
+  description:
+    fa_IR: شهادت نواب صفوی، طهماسبی، برادران واحدی و ذوالقدر از اعضای فداییان اسلام
+  year: 1334
+  month: 10
+  day: 27
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+- key: "260"
+  title:
+    fa_IR: روز غزه
+  description:
+    fa_IR: روز غزه
+  month: 10
+  day: 29
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
