@@ -8,6 +8,8 @@ import (
 	"gopkg.in/yaml.v2"
 )
 
+// TODO : this is a utility, and works with one file only as target, fix it or remove it
+
 var reorderOut *string
 
 func reorder(cmd *command, fl *File) error {

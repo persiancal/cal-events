@@ -8,11 +8,11 @@ $(ROOT)/cmd/thetool/thetool: test
 
 generate: $(ROOT)/cmd/thetool/thetool
 	mkdir -p $(ROOT)/dist
-	$(ROOT)/cmd/thetool/thetool -file $(ROOT)/jalali.yml generate -dist $(ROOT)/dist
+	$(ROOT)/cmd/thetool/thetool -dir $(ROOT)/jalali generate -dist $(ROOT)/dist
 
 validate: $(ROOT)/cmd/thetool/thetool
-	$(ROOT)/cmd/thetool/thetool -file $(ROOT)/jalali.yml validate
-	$(ROOT)/cmd/thetool/thetool -file $(ROOT)/jalali.yml generate -dist $(ROOT)/dist -compare
+	$(ROOT)/cmd/thetool/thetool -dir $(ROOT)/jalali validate
+	$(ROOT)/cmd/thetool/thetool -dir $(ROOT)/jalali generate -dist $(ROOT)/dist -compare
 
 reorder: $(ROOT)/cmd/thetool/thetool
-	$(ROOT)/cmd/thetool/thetool -file $(ROOT)/jalali.yml reorder -output - > $(ROOT)/jalali.yaml
+	$(ROOT)/cmd/thetool/thetool -dir $(ROOT)/jalali reorder -output - > $(ROOT)/jalali.yaml
