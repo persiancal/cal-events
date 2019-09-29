@@ -1,0 +1,294 @@
+events:
+- key: "143"
+  title:
+    fa_IR: جشن میتراکانا / سال نو هخامنشی
+  description:
+    fa_IR: جشن میتراکانا / سال نو هخامنشی
+  month: 7
+  day: 1
+  calendar:
+    en_US:
+    - Ancient Iran
+    fa_IR:
+    - باستانی
+- key: "151"
+  title:
+    fa_IR: شکست حصر آبادان در عملیات ثامن‌الأئمه (ع)
+  description:
+    fa_IR: شکست حصر آبادان در عملیات ثامن‌الأئمه (ع)
+  year: 1360
+  month: 7
+  day: 5
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+- key: "153"
+  title:
+    fa_IR: روز بزرگداشت فرماندهان شهید دفاع مقدس
+  description:
+    fa_IR: روز بزرگداشت فرماندهان شهید دفاع مقدس
+  month: 7
+  day: 7
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+- key: "154"
+  title:
+    fa_IR: روز بزرگداشت شمس
+  description:
+    fa_IR: روز بزرگداشت شمس
+  month: 7
+  day: 7
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+- key: "155"
+  title:
+    fa_IR: روز آتش‌نشانی و ایمنی
+  description:
+    fa_IR: روز آتش‌نشانی و ایمنی
+  month: 7
+  day: 7
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+- key: "156"
+  title:
+    fa_IR: شهادت فلاحی، فکوری، نامجو، کلاهدوز و جهان‌آرا از فرماندهان ارتش و سپاه
+  description:
+    fa_IR: شهادت فلاحی، فکوری، نامجو، کلاهدوز و جهان‌آرا از فرماندهان ارتش و سپاه
+  year: 1360
+  month: 7
+  day: 7
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+- key: "160"
+  title:
+    fa_IR: روز بزرگداشت مولوی
+  description:
+    fa_IR: روز بزرگداشت مولوی
+  month: 7
+  day: 8
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+- key: "162"
+  title:
+    fa_IR: روز همبستگی و همدردی با کودکان و نوجوانان فلسطینی
+  description:
+    fa_IR: روز همبستگی و همدردی با کودکان و نوجوانان فلسطینی
+  month: 7
+  day: 9
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+- key: "163"
+  title:
+    fa_IR: آیین قالیشویان اردهال، بازماندی از تیرگان
+  description:
+    fa_IR: آیین قالیشویان اردهال، بازماندی از تیرگان
+  month: 7
+  day: 12
+  calendar:
+    en_US:
+    - Ancient Iran
+    fa_IR:
+    - باستانی
+- key: "167"
+  title:
+    fa_IR: تیرروز، جشن تیرروزی
+  description:
+    fa_IR: تیرروز، جشن تیرروزی
+  month: 7
+  day: 13
+  calendar:
+    en_US:
+    - Ancient Iran
+    fa_IR:
+    - باستانی
+- key: "168"
+  title:
+    fa_IR: روز نیروی انتظامی
+  description:
+    fa_IR: روز نیروی انتظامی
+  month: 7
+  day: 13
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+- key: "166"
+  title:
+    fa_IR: هجرت امام خمینی از عراق به پاریس
+  description:
+    fa_IR: هجرت امام خمینی از عراق به پاریس
+  year: 1357
+  month: 7
+  day: 13
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+- key: "169"
+  title:
+    fa_IR: روز دامپزشکی
+  description:
+    fa_IR: روز دامپزشکی
+  month: 7
+  day: 14
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+- key: "172"
+  title:
+    fa_IR: روز روستا و عشایر
+  description:
+    fa_IR: روز روستا و عشایر
+  month: 7
+  day: 15
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+- key: "173"
+  title:
+    fa_IR: مهرروز، جشن مهرگان
+  description:
+    fa_IR: مهرروز، جشن مهرگان
+  month: 7
+  day: 16
+  calendar:
+    en_US:
+    - Ancient Iran
+    fa_IR:
+    - باستانی
+- key: "181"
+  title:
+    fa_IR: روز اسکان معلولان و سالمندان
+  description:
+    fa_IR: روز اسکان معلولان و سالمندان
+  month: 7
+  day: 20
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+- key: "184"
+  title:
+    fa_IR: روز بزرگداشت حافظ
+  description:
+    fa_IR: روز بزرگداشت حافظ
+  month: 7
+  day: 20
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+- key: "185"
+  title:
+    fa_IR: رام‌روز، جشن رام‌روزی / جشن پیروزی کاوه و فریدون
+  description:
+    fa_IR: رام‌روز، جشن رام‌روزی / جشن پیروزی کاوه و فریدون
+  month: 7
+  day: 21
+  calendar:
+    en_US:
+    - Ancient Iran
+    fa_IR:
+    - باستانی
+- key: "188"
+  title:
+    fa_IR: شهادت آیت‌الله اشرفی اصفهانی
+  description:
+    fa_IR: شهادت آیت‌الله اشرفی اصفهانی
+  year: 1361
+  month: 7
+  day: 23
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+- key: "190"
+  title:
+    fa_IR: روز پیوند اولیا و مربیان
+  description:
+    fa_IR: روز پیوند اولیا و مربیان
+  month: 7
+  day: 24
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+- key: "189"
+  title:
+    fa_IR: روز ملی پارالمپیک
+  description:
+    fa_IR: روز ملی پارالمپیک
+  month: 7
+  day: 24
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+- key: "191"
+  title:
+    fa_IR: به آتش کشیده‌شدن مسجد جامع شهر کرمان
+  description:
+    fa_IR: به آتش کشیده‌شدن مسجد جامع شهر کرمان
+  year: 1357
+  month: 7
+  day: 24
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+- key: "197"
+  title:
+    fa_IR: روز تربیت بدنی و ورزش
+  description:
+    fa_IR: روز تربیت بدنی و ورزش
+  month: 7
+  day: 26
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+- key: "202"
+  title:
+    fa_IR: روز صادرات
+  description:
+    fa_IR: روز صادرات
+  month: 7
+  day: 29
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران

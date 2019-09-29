@@ -5,7 +5,7 @@ import (
 )
 
 func validate(cmd *command, fl *File) error {
-	if err := validateEventContent(fl.Events); err != nil {
+	if err := validateEventContent(fl.Events, fl.Months, fl.Countries); err != nil {
 		return fmt.Errorf("validate events failed: %w", err)
 	}
 
@@ -16,36 +16,33 @@ func validate(cmd *command, fl *File) error {
 	return nil
 }
 
-func isValidCountry(c string) bool {
-	switch c {
-	case "Iran":
-		return true
+func isValidCountry(c string, list []string) bool {
+	for i := range list {
+		if list[i] == c {
+			return true
+		}
 	}
 
 	return false
 }
 
-// TODO: preset support. like Persian (the current one)
-func validateEventContent(ev []Event) error {
+func validateEventContent(ev []Event, p *Preset, countries []string) error {
 	for i := range ev {
-		if ev[i].Month <= 0 || ev[i].Month > 12 {
+		if ev[i].Month <= 0 || ev[i].Month > len(p.MonthsNormal) {
 			return fmt.Errorf("invalid month on key %d", i)
 		}
 
-		if ev[i].Month <= 6 {
-			if ev[i].Day <= 0 || ev[i].Day > 31 {
-				return fmt.Errorf("invalid day on key %d", i)
-			}
+		max := p.MonthsNormal[ev[i].Month-1]
+		if leap := p.MonthsLeap[ev[i].Month-1]; leap > max {
+			max = leap
 		}
 
-		if ev[i].Month > 6 {
-			if ev[i].Day <= 0 || ev[i].Day > 30 {
-				return fmt.Errorf("invalid day on key %d", i)
-			}
+		if ev[i].Day <= 0 || ev[i].Day > max {
+			return fmt.Errorf("invalid day on key %d", i)
 		}
 
 		for country := range ev[i].Holiday {
-			if !isValidCountry(country) {
+			if !isValidCountry(country, countries) {
 				return fmt.Errorf("country is invalid: %q in key %d", country, i)
 			}
 		}
@@ -61,7 +58,7 @@ func validateEventOrder(ev []Event) error {
 
 	for i := range ev {
 		if lastIdx > ev[i].idx() {
-			return fmt.Errorf("the key %d is not in order", i)
+			return fmt.Errorf("the key %d is not in order %+v => %+v", i, ev[i], ev[i-1])
 		}
 
 		if lastIdx == ev[i].idx() {

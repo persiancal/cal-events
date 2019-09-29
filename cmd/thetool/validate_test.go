@@ -79,8 +79,14 @@ func TestValidateEventsContent(t *testing.T) {
 		},
 	}
 
+	p := &Preset{
+		MonthsNormal: []int{31, 31, 31, 31, 31, 31, 30, 30, 30, 30, 30, 29},
+		MonthsLeap:   []int{31, 31, 31, 31, 31, 31, 30, 30, 30, 30, 30, 29},
+		MonthsName:   nil,
+	}
+
 	for i := range fixtures {
-		err := validateEventContent(fixtures[i].events)
+		err := validateEventContent(fixtures[i].events, p, []string{"Iran"})
 		if fixtures[i].failKey < 0 {
 			assert.NoError(t, err)
 			continue
