@@ -7,6 +7,7 @@ import (
 	"io/ioutil"
 	"os"
 	"path/filepath"
+	"strings"
 
 	"github.com/pmezard/go-difflib/difflib"
 )
@@ -15,16 +16,6 @@ var (
 	compare *bool
 	dist    *string
 )
-
-func loadCurrent(path, name, ext string) ([]byte, error) {
-	fl := filepath.Join(path, name+ext)
-	return ioutil.ReadFile(fl)
-}
-
-func saveFile(path, name, ext string, data []byte) error {
-	fl := filepath.Join(path, name+ext)
-	return ioutil.WriteFile(fl, data, 0640)
-}
 
 func compareFiles(src, dst []byte) error {
 	if bytes.Compare(src, dst) == 0 {
@@ -48,15 +39,16 @@ func generate(cmd *command, fl *File) error {
 		return fmt.Errorf("converting to json failed: %w", err)
 	}
 
+	path := filepath.Join(*dist, strings.ToLower(fl.Name)+".json")
 	if *compare {
-		c, err := loadCurrent(*dist, fl.Name, ".json")
+		c, err := ioutil.ReadFile(path)
 		if err != nil {
 			return fmt.Errorf("the target file is not exist: %w", err)
 		}
 		return compareFiles(c, j)
 	}
 
-	return saveFile(*dist, fl.Name, ".json", j)
+	return ioutil.WriteFile(path, j, 0600)
 }
 
 func init() {

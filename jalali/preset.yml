@@ -1,0 +1,55 @@
+name: Jalali
+countries:
+- Iran
+months:
+  normal:
+  - 31
+  - 31
+  - 31
+  - 31
+  - 31
+  - 31
+  - 30
+  - 30
+  - 30
+  - 30
+  - 30
+  - 29
+  leap:
+  - 31
+  - 31
+  - 31
+  - 31
+  - 31
+  - 31
+  - 30
+  - 30
+  - 30
+  - 30
+  - 30
+  - 30
+  name:
+  - en_US: Farvardin
+    fa_IR: فروردین
+  - en_US: Ordibehesht
+    fa_IR: اردیبهشت
+  - en_US: Khordad
+    fa_IR: خرداد
+  - en_US: Tir
+    fa_IR: تیر
+  - en_US: Mordad
+    fa_IR: مرداد
+  - en_US: Shahrivar
+    fa_IR: شهریور
+  - en_US: Mehr
+    fa_IR: مهر
+  - en_US: Aban
+    fa_IR: آبان
+  - en_US: Azar
+    fa_IR: آذر
+  - en_US: Dey
+    fa_IR: دی
+  - en_US: Bahman
+    fa_IR: بهمن
+  - en_US: Esfand
+    fa_IR: اسفند
