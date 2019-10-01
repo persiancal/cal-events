@@ -48,6 +48,11 @@ func compareAndWrite(fl string, data []byte) error {
 }
 
 func generate(cmd *command, fl *File) error {
+	// its time for calculating the event key
+	for i := range fl.Events {
+		fl.Events[i].CalculateKey(fl.Name)
+	}
+
 	path := filepath.Join(*dist, strings.ToLower(fl.Name))
 
 	j, err := json.MarshalIndent(fl, "", "  ")

@@ -13,19 +13,19 @@ func TestValidateEventsOrder(t *testing.T) {
 	}{
 		{
 			events: []Event{
-				{Month: 1, Day: 1},
-				{Month: 1, Day: 2},
-				{Month: 2, Day: 2},
-				{Month: 2, Day: 2, Year: 100},
-				{Month: 2, Day: 2, Year: 101},
-				{Month: 3, Day: 1},
+				{Month: 1, Day: 1, PartialKey: "PK"},
+				{Month: 1, Day: 2, PartialKey: "PK"},
+				{Month: 2, Day: 2, PartialKey: "PK"},
+				{Month: 2, Day: 2, Year: 100, PartialKey: "PK"},
+				{Month: 2, Day: 2, Year: 101, PartialKey: "PK"},
+				{Month: 3, Day: 1, PartialKey: "PK"},
 			},
 			failKey: -1,
 		},
 		{
 			events: []Event{
-				{Month: 2, Day: 2},
-				{Month: 2, Day: 1},
+				{Month: 2, Day: 2, PartialKey: "PK"},
+				{Month: 2, Day: 1, PartialKey: "PK"},
 			},
 			failKey: 1,
 		},
@@ -49,31 +49,31 @@ func TestValidateEventsContent(t *testing.T) {
 	}{
 		{
 			events: []Event{
-				{Month: 0, Day: 1},
+				{Month: 0, Day: 1, PartialKey: "PK"},
 			},
 			failKey: 0,
 		},
 		{
 			events: []Event{
-				{Month: 2, Day: -1},
+				{Month: 2, Day: -1, PartialKey: "PK"},
 			},
 			failKey: 0,
 		},
 		{
 			events: []Event{
-				{Month: 7, Day: 31},
+				{Month: 7, Day: 31, PartialKey: "PK"},
 			},
 			failKey: 0,
 		},
 		{
 			events: []Event{
-				{Month: 7, Day: 1, Holiday: map[string][]string{"Invalid": nil}},
+				{Month: 7, Day: 1, Holiday: map[string][]string{"Invalid": nil}, PartialKey: "PK"},
 			},
 			failKey: 0,
 		},
 		{
 			events: []Event{
-				{Month: 7, Day: 1, Holiday: map[string][]string{"Iran": nil}},
+				{Month: 7, Day: 1, Holiday: map[string][]string{"Iran": nil}, PartialKey: "PK"},
 			},
 			failKey: -1,
 		},

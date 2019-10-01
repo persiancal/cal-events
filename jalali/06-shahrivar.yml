@@ -1,5 +1,5 @@
 events:
-- key: "108"
+- partial_key: "108"
   title:
     fa_IR: روز پزشک
   description:
@@ -11,7 +11,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "109"
+- partial_key: "109"
   title:
     fa_IR: روز بزرگداشت ابوعلی سینا
   description:
@@ -23,7 +23,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "111"
+- partial_key: "111"
   title:
     fa_IR: فغدیه، جشن خنکی هوا
   description:
@@ -35,7 +35,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: "114"
+- partial_key: "114"
   title:
     fa_IR: آغاز هفتهٔ دولت
   description:
@@ -47,7 +47,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "112"
+- partial_key: "112"
   title:
     fa_IR: شهادت سید علی اندرزگو
   description:
@@ -60,7 +60,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "117"
+- partial_key: "117"
   title:
     fa_IR: جشن کشمین
   description:
@@ -72,7 +72,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: "120"
+- partial_key: "120"
   title:
     fa_IR: اشغال ایران به دست متفقین
   description:
@@ -85,7 +85,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "122"
+- partial_key: "122"
   title:
     fa_IR: شهریورروز، جشن شهریورگان / زادروز داراب (کوروش) / عروج مانی
   description:
@@ -97,7 +97,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: "123"
+- partial_key: "123"
   title:
     fa_IR: روز کارمند
   description:
@@ -109,7 +109,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "124"
+- partial_key: "124"
   title:
     fa_IR: روز کشتی
   description:
@@ -121,7 +121,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "125"
+- partial_key: "125"
   title:
     fa_IR: روز بزرگداشت محمد بن زکریای رازی
   description:
@@ -133,7 +133,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "126"
+- partial_key: "126"
   title:
     fa_IR: روز داروسازی
   description:
@@ -145,7 +145,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "131"
+- partial_key: "131"
   title:
     fa_IR: خزان‌جشن
   description:
@@ -157,7 +157,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: "130"
+- partial_key: "130"
   title:
     fa_IR: روز مبارزه با تروریسم (انفجار دفتر نخست‌وزیری و شهادت رجایی و باهنر
   description:
@@ -170,7 +170,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "134"
+- partial_key: "134"
   title:
     fa_IR: روز بانکداری اسلامی
   description:
@@ -182,7 +182,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "135"
+- partial_key: "135"
   title:
     fa_IR: تصویب قانون عملیات بانکی بدون ربا
   description:
@@ -195,7 +195,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "137"
+- partial_key: "137"
   title:
     fa_IR: روز صنعت چاپ
   description:
@@ -207,7 +207,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "139"
+- partial_key: "139"
   title:
     fa_IR: روز بهورز
   description:
@@ -219,7 +219,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "138"
+- partial_key: "138"
   title:
     fa_IR: روز مبارزه با استعمار انگلیس (سالروز شهادت رئیس‌علی دلواری)
   description:
@@ -231,7 +231,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "140"
+- partial_key: "140"
   title:
     fa_IR: روز تعاون
   description:
@@ -243,7 +243,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "141"
+- partial_key: "141"
   title:
     fa_IR: روز بزرگداشت ابوریحان بیرونی
   description:
@@ -255,7 +255,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "142"
+- partial_key: "142"
   title:
     fa_IR: روز مردم‌شناسی
   description:
@@ -267,7 +267,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "144"
+- partial_key: "144"
   title:
     fa_IR: شهادت آیت‌الله قدوسی و سرتیپ وحید دستجردی
   description:
@@ -280,7 +280,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "146"
+- partial_key: "146"
   title:
     fa_IR: بازارجشن
   description:
@@ -292,7 +292,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: "150"
+- partial_key: "150"
   title:
     fa_IR: قیام ۱۷ شهریور و کشتار جمعی از مردم به دست مأموران پهلوی
   description:
@@ -305,7 +305,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "157"
+- partial_key: "157"
   title:
     fa_IR: وفات آیت‌الله سید محمود طالقانی اولین امام جمعهٔ تهران
   description:
@@ -318,7 +318,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "159"
+- partial_key: "159"
   title:
     fa_IR: شهادت آیت‌الله مدنی
   description:
@@ -331,7 +331,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "161"
+- partial_key: "161"
   title:
     fa_IR: روز سینما
   description:
@@ -343,7 +343,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "170"
+- partial_key: "170"
   title:
     fa_IR: روز شعر و ادب فارسی
   description:
@@ -355,7 +355,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "171"
+- partial_key: "171"
   title:
     fa_IR: روز بزرگداشت استاد سید محمدحسین شهریار
   description:
@@ -367,7 +367,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "175"
+- partial_key: "175"
   title:
     fa_IR: روز گفت‌وگوی تمدن‌ها
   description:
@@ -379,7 +379,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "177"
+- partial_key: "177"
   title:
     fa_IR: آغاز هفتهٔ دفاع مقدس
   description:
@@ -391,7 +391,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "179"
+- partial_key: "179"
   title:
     fa_IR: گاهنبار پَتیَه‌شَهیم، جشن پایان تابستان
   description:
@@ -403,7 +403,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: "178"
+- partial_key: "178"
   title:
     fa_IR: آغاز جنگ تحمیلی
   description:

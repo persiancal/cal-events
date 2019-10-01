@@ -1,5 +1,5 @@
 events:
-- key: "253"
+- partial_key: "253"
   title:
     fa_IR: جشن اسفندی / جشن آبسالان، بهارجشن / نمایش‌بازی همگانی
   description:
@@ -11,7 +11,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: "257"
+- partial_key: "257"
   title:
     fa_IR: کودتای رضاخان
   description:
@@ -24,7 +24,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "259"
+- partial_key: "259"
   title:
     fa_IR: اسفندروز، جشن اسفندگان، گرامیداشت زمین و بانوان / جشن برزگران
   description:
@@ -36,7 +36,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: "261"
+- partial_key: "261"
   title:
     fa_IR: روز بزرگداشت خواجه نصیرالدین طوسی
   description:
@@ -48,7 +48,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "262"
+- partial_key: "262"
   title:
     fa_IR: روز مهندسی
   description:
@@ -60,7 +60,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "264"
+- partial_key: "264"
   title:
     fa_IR: روز امور تربیتی و تربیت اسلامی
   description:
@@ -72,7 +72,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "266"
+- partial_key: "266"
   title:
     fa_IR: روز ملی حمایت از حقوق مصرف‌کنندگان
   description:
@@ -84,7 +84,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "267"
+- partial_key: "267"
   title:
     fa_IR: جشن وخشنکام
   description:
@@ -96,7 +96,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: "271"
+- partial_key: "271"
   title:
     fa_IR: روز احسان و نیکوکاری
   description:
@@ -108,7 +108,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "272"
+- partial_key: "272"
   title:
     fa_IR: روز درختکاری
   description:
@@ -120,7 +120,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "275"
+- partial_key: "275"
   title:
     fa_IR: سالروز تأسیس کانون‌های فرهنگی و هنری مساجد کشور
   description:
@@ -132,7 +132,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "276"
+- partial_key: "276"
   title:
     fa_IR: روز بزرگداشت سید جمال‌الدین اسدآبادی
   description:
@@ -144,7 +144,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "277"
+- partial_key: "277"
   title:
     fa_IR: جشن نوروز رودها
   description:
@@ -156,7 +156,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: "278"
+- partial_key: "278"
   title:
     fa_IR: روز راهیان نور
   description:
@@ -168,7 +168,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "279"
+- partial_key: "279"
   title:
     fa_IR: جشن گلدان
   description:
@@ -180,7 +180,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: "280"
+- partial_key: "280"
   title:
     fa_IR: روز بزرگداشت نظامی گنجوی
   description:
@@ -192,7 +192,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "281"
+- partial_key: "281"
   title:
     fa_IR: روز بزرگداشت شهدا (تأسیس بنیاد شهید انقلاب اسلامی)
   description:
@@ -205,7 +205,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "282"
+- partial_key: "282"
   title:
     fa_IR: برگزاری انتخابات اولین دورهٔ مجلس شورای اسلامی
   description:
@@ -218,7 +218,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "283"
+- partial_key: "283"
   title:
     fa_IR: هزارهٔ شاهنامه، هزارمین سالگرد پایان سرایش شاهنامهٔ فردوسی
   description:
@@ -230,7 +230,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: "284"
+- partial_key: "284"
   title:
     fa_IR: روز بزرگداشت پروین اعتصامی
   description:
@@ -242,7 +242,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "285"
+- partial_key: "285"
   title:
     fa_IR: بمباران شیمیایی حلبچه توسط ارتش بعث عراق
   description:
@@ -255,7 +255,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "286"
+- partial_key: "286"
   title:
     fa_IR: فروردگان
   description:
@@ -267,7 +267,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: "287"
+- partial_key: "287"
   title:
     fa_IR: گاهنبار هَمَسپَتمَدَم، جشن پایان زمستان (در آخرین روز سال) / جشن اوشیدر
       (نجات‌بخش ایرانی) در دریاچهٔ هامون و کوه خواجه / آتش‌افروزی بر بام‌ها در استقبال
@@ -283,7 +283,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: "288"
+- partial_key: "288"
   title:
     fa_IR: روز ملی شدن صنعت نفت ایران
   description:
