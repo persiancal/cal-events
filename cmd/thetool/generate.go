@@ -48,6 +48,16 @@ func compareAndWrite(fl string, data []byte) error {
 }
 
 func generate(cmd *command, fl *File) error {
+	// its time for calculating the event key
+	allKey := make(map[uint32]bool)
+	for i := range fl.Events {
+		fl.Events[i].CalculateKey(fl.Name)
+		if allKey[fl.Events[i].Key] {
+			return fmt.Errorf("duplicate key, please change the partial key for %s", fl.Events[i].PartialKey)
+		}
+		allKey[fl.Events[i].Key] = true
+	}
+
 	path := filepath.Join(*dist, strings.ToLower(fl.Name))
 
 	j, err := json.MarshalIndent(fl, "", "  ")

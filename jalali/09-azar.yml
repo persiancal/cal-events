@@ -1,5 +1,5 @@
 events:
-- key: "193"
+- partial_key: "193"
   title:
     fa_IR: آذرجشن
   description:
@@ -11,7 +11,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: "201"
+- partial_key: "201"
   title:
     fa_IR: سالروز قیام مردم گرگان
   description:
@@ -24,7 +24,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "200"
+- partial_key: "200"
   title:
     fa_IR: تشکیل بسیج مستضعفان
   description:
@@ -37,7 +37,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "204"
+- partial_key: "204"
   title:
     fa_IR: روز نیروی دریایی
   description:
@@ -49,7 +49,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "205"
+- partial_key: "205"
   title:
     fa_IR: آذرروز، جشن آذرگان
   description:
@@ -61,7 +61,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: "206"
+- partial_key: "206"
   title:
     fa_IR: روز بزرگداشت شیخ مفید
   description:
@@ -73,7 +73,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "207"
+- partial_key: "207"
   title:
     fa_IR: روز مجلس
   description:
@@ -85,7 +85,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "208"
+- partial_key: "208"
   title:
     fa_IR: شهادت آیت‌الله سید حسن مدرس
   description:
@@ -98,7 +98,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "209"
+- partial_key: "209"
   title:
     fa_IR: شهادت میرزا کوچک خان جنگلی
   description:
@@ -111,7 +111,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "210"
+- partial_key: "210"
   title:
     fa_IR: روز قانون اساسی جمهوری اسلامی ایران (تصویب قانون اساسی جمهوری اسلامی ایران)
   description:
@@ -124,7 +124,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "214"
+- partial_key: "214"
   title:
     fa_IR: روز بیمه
   description:
@@ -136,7 +136,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "217"
+- partial_key: "217"
   title:
     fa_IR: روز دانشجو
   description:
@@ -148,7 +148,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "221"
+- partial_key: "221"
   title:
     fa_IR: معرفی عراق به عنوان مسئول و آغازگر جنگ از سوی سازمان ملل
   description:
@@ -161,7 +161,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "224"
+- partial_key: "224"
   title:
     fa_IR: تشکیل شورای عالی انقلاب فرهنگی
   description:
@@ -174,7 +174,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "227"
+- partial_key: "227"
   title:
     fa_IR: شهادت آیت‌الله دستغیب
   description:
@@ -187,7 +187,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "231"
+- partial_key: "231"
   title:
     fa_IR: روز پژوهش
   description:
@@ -199,7 +199,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "233"
+- partial_key: "233"
   title:
     fa_IR: روز حمل و نقل و رانندگان
   description:
@@ -211,7 +211,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "235"
+- partial_key: "235"
   title:
     fa_IR: روز وحدت حوزه و دانشگاه
   description:
@@ -223,7 +223,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "236"
+- partial_key: "236"
   title:
     fa_IR: شهادت آیت‌الله دکتر محمد مفتح
   description:
@@ -236,7 +236,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "243"
+- partial_key: "243"
   title:
     fa_IR: روز تجلیل از شهید تندگویان
   description:
@@ -248,7 +248,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "244"
+- partial_key: "244"
   title:
     fa_IR: شب یلدا (چله)
   description:
@@ -260,7 +260,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "246"
+- partial_key: "246"
   title:
     fa_IR: گاهنبار میدیارِم، جشن میانهٔ سال گاهنباری (از مبدأ آغاز تابستان)
   description:

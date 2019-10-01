@@ -1,5 +1,5 @@
 events:
-- key: "0"
+- partial_key: "0"
   title:
     fa_IR: آغاز عید نوروز
   description:
@@ -13,7 +13,7 @@ events:
     - ایران
   holiday:
     Iran: []
-- key: "3"
+- partial_key: "3"
   title:
     fa_IR: عید نوروز
   description:
@@ -27,7 +27,7 @@ events:
     - ایران
   holiday:
     Iran: []
-- key: "1"
+- partial_key: "1"
   title:
     fa_IR: هجوم به مدرسهٔ فیضیهٔ قم
   description:
@@ -40,7 +40,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "2"
+- partial_key: "2"
   title:
     fa_IR: آغاز عملیات فتح‌المبین
   description:
@@ -53,7 +53,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "4"
+- partial_key: "4"
   title:
     fa_IR: عید نوروز
   description:
@@ -67,7 +67,7 @@ events:
     - ایران
   holiday:
     Iran: []
-- key: "5"
+- partial_key: "5"
   title:
     fa_IR: عید نوروز
   description:
@@ -81,7 +81,7 @@ events:
     - ایران
   holiday:
     Iran: []
-- key: "6"
+- partial_key: "6"
   title:
     fa_IR: روز امید، روز شادباش‌نویسی
   description:
@@ -93,7 +93,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: "7"
+- partial_key: "7"
   title:
     fa_IR: روز تولد زرتشت
   description:
@@ -105,7 +105,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: "8"
+- partial_key: "8"
   title:
     fa_IR: روز هنرهای نمایشی
   description:
@@ -117,7 +117,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "9"
+- partial_key: "9"
   title:
     fa_IR: جشن آبانگاه
   description:
@@ -129,7 +129,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: "10"
+- partial_key: "10"
   title:
     fa_IR: همه‌پرسی تغییر نظام شاهنشاهی به جمهوری اسلامی ایران
   description:
@@ -142,7 +142,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "11"
+- partial_key: "11"
   title:
     fa_IR: روز جمهوری اسلامی ایران
   description:
@@ -156,7 +156,7 @@ events:
     - ایران
   holiday:
     Iran: []
-- key: "12"
+- partial_key: "12"
   title:
     fa_IR: روز طبیعت
   description:
@@ -170,7 +170,7 @@ events:
     - ایران
   holiday:
     Iran: []
-- key: "14"
+- partial_key: "14"
   title:
     fa_IR: جشن سیزده‌بدر
   description:
@@ -182,7 +182,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: "21"
+- partial_key: "21"
   title:
     fa_IR: روز ذخایر ژنتیکی و زیستی
   description:
@@ -194,7 +194,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "23"
+- partial_key: "23"
   title:
     fa_IR: سروش‌روز، جشن سروشگان
   description:
@@ -206,7 +206,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: "24"
+- partial_key: "24"
   title:
     fa_IR: روز سلامتی
   description:
@@ -218,7 +218,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "26"
+- partial_key: "26"
   title:
     fa_IR: فرورین‌روز، جشن فروردینگان
   description:
@@ -230,7 +230,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: "27"
+- partial_key: "27"
   title:
     fa_IR: شهادت آیت‌الله سید محمد باقر صدر و خواهرشان بنت‌الهدی
   description:
@@ -243,7 +243,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "29"
+- partial_key: "29"
   title:
     fa_IR: روز هنر انقلاب اسلامی
   description:
@@ -255,7 +255,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "28"
+- partial_key: "28"
   title:
     fa_IR: روز ملی فناوری هسته‌ای
   description:
@@ -267,7 +267,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "31"
+- partial_key: "31"
   title:
     fa_IR: قطع مناسبات سیاسی ایران و آمریکا
   description:
@@ -280,7 +280,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "30"
+- partial_key: "30"
   title:
     fa_IR: شهادت سید مرتضی آوینی
   description:
@@ -293,7 +293,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "32"
+- partial_key: "32"
   title:
     fa_IR: سالروز افتتاح حساب شمارهٔ ۱۰۰ و تأسیس بنیاد مسکن انقلاب اسلامی
   description:
@@ -306,7 +306,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "34"
+- partial_key: "34"
   title:
     fa_IR: شهادت امیر سپهبد علی صیاد شیرازی
   description:
@@ -319,7 +319,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "43"
+- partial_key: "43"
   title:
     fa_IR: روز بزرگداشت عطار نیشابوری
   description:
@@ -331,7 +331,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "50"
+- partial_key: "50"
   title:
     fa_IR: روز ارتش جمهوری اسلامی و نیروی زمینی
   description:

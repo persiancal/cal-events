@@ -1,5 +1,5 @@
 events:
-- key: "60"
+- partial_key: "60"
   title:
     fa_IR: جشن آب‌پاشونک، جشن آغاز تابستان / سال نو در گاهشماری گاهنباری / دیدار طلوع
       خورشید در تقویم آفتابی چارتاقی نیاسر
@@ -13,7 +13,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: "61"
+- partial_key: "61"
   title:
     fa_IR: روز اصناف
   description:
@@ -25,7 +25,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "59"
+- partial_key: "59"
   title:
     fa_IR: روز تبلیغ و اطلاع‌رسانی دینی (تأسیس سازمان تبلیغات اسلامی)
   description:
@@ -38,7 +38,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "68"
+- partial_key: "68"
   title:
     fa_IR: جشن نیلوفر
   description:
@@ -50,7 +50,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: "71"
+- partial_key: "71"
   title:
     fa_IR: روز قوهٔ قضاییه
   description:
@@ -62,7 +62,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "72"
+- partial_key: "72"
   title:
     fa_IR: شهادت آیت‌الله دکتر بهشتی و ۷۲ تن از یاران
   description:
@@ -75,7 +75,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "74"
+- partial_key: "74"
   title:
     fa_IR: روز مبارزه با سلاح‌های شیمیایی و میکروبی
   description:
@@ -87,7 +87,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "76"
+- partial_key: "76"
   title:
     fa_IR: روز آزادسازی شهر مهران
   description:
@@ -99,7 +99,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "77"
+- partial_key: "77"
   title:
     fa_IR: روز صنعت و معدن
   description:
@@ -111,7 +111,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "78"
+- partial_key: "78"
   title:
     fa_IR: شهادت آیت‌الله صدوقی
   description:
@@ -124,7 +124,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "79"
+- partial_key: "79"
   title:
     fa_IR: روز افشای حقوق بشر آمریکایی
   description:
@@ -136,7 +136,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "81"
+- partial_key: "81"
   title:
     fa_IR: روز بزرگداشت علامه امینی
   description:
@@ -149,7 +149,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "80"
+- partial_key: "80"
   title:
     fa_IR: حملهٔ ناوگان آمریکا به هواپیمای مسافربری ایران
   description:
@@ -162,7 +162,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "82"
+- partial_key: "82"
   title:
     fa_IR: تیرروز، جشن تیرگان
   description:
@@ -174,7 +174,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: "84"
+- partial_key: "84"
   title:
     fa_IR: روز شهرداری و دهیاری
   description:
@@ -186,7 +186,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "86"
+- partial_key: "86"
   title:
     fa_IR: روز قلم
   description:
@@ -198,7 +198,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "88"
+- partial_key: "88"
   title:
     fa_IR: جشن خام‌خواری
   description:
@@ -210,7 +210,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: "89"
+- partial_key: "89"
   title:
     fa_IR: روز مالیات
   description:
@@ -222,7 +222,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "94"
+- partial_key: "94"
   title:
     fa_IR: روز ادبیات کودکان و نوجوانان
   description:
@@ -234,7 +234,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "92"
+- partial_key: "92"
   title:
     fa_IR: کشف کودتای نوژه
   description:
@@ -247,7 +247,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "101"
+- partial_key: "101"
   title:
     fa_IR: روز عفاف و حجاب
   description:
@@ -259,7 +259,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "102"
+- partial_key: "102"
   title:
     fa_IR: حمله به مسجد گوهرشاد و کشتار مردم
   description:
@@ -272,7 +272,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "100"
+- partial_key: "100"
   title:
     fa_IR: کشف توطئهٔ کودتا در پایگاه هوایی شهید نوژه
   description:
@@ -285,7 +285,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "106"
+- partial_key: "106"
   title:
     fa_IR: روز گفت‌وگو و تعامل سازنده با جهان
   description:
@@ -297,7 +297,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "105"
+- partial_key: "105"
   title:
     fa_IR: گشایش نخستین مجلس خبرگان رهبری
   description:
@@ -310,7 +310,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "110"
+- partial_key: "110"
   title:
     fa_IR: روز بهزیستی و تامین اجتماعی
   description:
@@ -322,7 +322,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "115"
+- partial_key: "115"
   title:
     fa_IR: سالروز تأسیس نهاد شورای نگهبان
   description:
@@ -334,7 +334,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "119"
+- partial_key: "119"
   title:
     fa_IR: اعلام پذیرش قطعنامهٔ ۵۹۸ شورای امنیت از سوی ایران
   description:
@@ -347,7 +347,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "129"
+- partial_key: "129"
   title:
     fa_IR: روز بزرگداشت آیت‌الله سیدابوالقاسم کاشانی
   description:
