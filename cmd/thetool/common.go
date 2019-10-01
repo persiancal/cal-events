@@ -18,7 +18,7 @@ type Event struct {
 	Day         int                 `json:"day" yaml:"day"`
 	Calendar    map[string][]string `json:"calendar" yaml:"calendar"`
 	Holiday     map[string][]string `json:"holiday,omitempty" yaml:",omitempty"`
-	Sources     []string            `json:"sources" yaml:"sources"`
+	Sources     []string            `json:"sources,omitempty" yaml:"sources,omitempty"`
 }
 
 func (e *Event) idx() int {

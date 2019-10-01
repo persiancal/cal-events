@@ -68,7 +68,6 @@ events:
     - ایران
   holiday:
     Iran: []
-  sources: []
 - key: "3"
   title:
     fa_IR: عید نوروز
@@ -83,7 +82,6 @@ events:
     - ایران
   holiday:
     Iran: []
-  sources: []
 - key: "1"
   title:
     fa_IR: هجوم به مدرسهٔ فیضیهٔ قم
@@ -97,7 +95,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "2"
   title:
     fa_IR: آغاز عملیات فتح‌المبین
@@ -111,7 +108,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "4"
   title:
     fa_IR: عید نوروز
@@ -126,7 +122,6 @@ events:
     - ایران
   holiday:
     Iran: []
-  sources: []
 - key: "5"
   title:
     fa_IR: عید نوروز
@@ -141,7 +136,6 @@ events:
     - ایران
   holiday:
     Iran: []
-  sources: []
 - key: "6"
   title:
     fa_IR: روز امید، روز شادباش‌نویسی
@@ -154,7 +148,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "7"
   title:
     fa_IR: روز تولد زرتشت
@@ -167,7 +160,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "8"
   title:
     fa_IR: روز هنرهای نمایشی
@@ -180,7 +172,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "9"
   title:
     fa_IR: جشن آبانگاه
@@ -193,7 +184,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "10"
   title:
     fa_IR: همه‌پرسی تغییر نظام شاهنشاهی به جمهوری اسلامی ایران
@@ -207,7 +197,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "11"
   title:
     fa_IR: روز جمهوری اسلامی ایران
@@ -222,7 +211,6 @@ events:
     - ایران
   holiday:
     Iran: []
-  sources: []
 - key: "12"
   title:
     fa_IR: روز طبیعت
@@ -237,7 +225,6 @@ events:
     - ایران
   holiday:
     Iran: []
-  sources: []
 - key: "14"
   title:
     fa_IR: جشن سیزده‌بدر
@@ -250,7 +237,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "21"
   title:
     fa_IR: روز ذخایر ژنتیکی و زیستی
@@ -263,7 +249,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "23"
   title:
     fa_IR: سروش‌روز، جشن سروشگان
@@ -276,7 +261,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "24"
   title:
     fa_IR: روز سلامتی
@@ -289,7 +273,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "26"
   title:
     fa_IR: فرورین‌روز، جشن فروردینگان
@@ -302,7 +285,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "27"
   title:
     fa_IR: شهادت آیت‌الله سید محمد باقر صدر و خواهرشان بنت‌الهدی
@@ -316,7 +298,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "29"
   title:
     fa_IR: روز هنر انقلاب اسلامی
@@ -329,7 +310,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "28"
   title:
     fa_IR: روز ملی فناوری هسته‌ای
@@ -342,7 +322,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "31"
   title:
     fa_IR: قطع مناسبات سیاسی ایران و آمریکا
@@ -356,7 +335,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "30"
   title:
     fa_IR: شهادت سید مرتضی آوینی
@@ -370,7 +348,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "32"
   title:
     fa_IR: سالروز افتتاح حساب شمارهٔ ۱۰۰ و تأسیس بنیاد مسکن انقلاب اسلامی
@@ -384,7 +361,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "34"
   title:
     fa_IR: شهادت امیر سپهبد علی صیاد شیرازی
@@ -398,7 +374,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "43"
   title:
     fa_IR: روز بزرگداشت عطار نیشابوری
@@ -411,7 +386,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "50"
   title:
     fa_IR: روز ارتش جمهوری اسلامی و نیروی زمینی
@@ -424,7 +398,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "13"
   title:
     fa_IR: روز بزرگداشت سعدی
@@ -437,7 +410,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "15"
   title:
     fa_IR: روز زمین پاک
@@ -450,7 +422,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "16"
   title:
     fa_IR: جشن گیاه‌آوری
@@ -463,7 +434,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "18"
   title:
     fa_IR: تأسیس سپاه پاسداران انقلاب اسلامی
@@ -477,7 +447,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "17"
   title:
     fa_IR: اعلام انقلاب فرهنگی
@@ -491,7 +460,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "19"
   title:
     fa_IR: اردیبهشت‌روز، جشن اردیبهشتگان
@@ -504,7 +472,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "20"
   title:
     fa_IR: روز بزرگداشت شیخ بهایی
@@ -517,7 +484,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "22"
   title:
     fa_IR: شکست حملهٔ نظامی آمریکا به ایران در طبس
@@ -531,7 +497,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "25"
   title:
     fa_IR: روز ایمنی حمل‌ونقل
@@ -544,7 +509,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "33"
   title:
     fa_IR: روز شوراها
@@ -557,7 +521,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "36"
   title:
     fa_IR: جشن چهلم نوروز
@@ -570,7 +533,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "37"
   title:
     fa_IR: روز ملی خلیج فارس
@@ -583,7 +545,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "35"
   title:
     fa_IR: آغاز عملیات بیت المقدس
@@ -597,7 +558,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "39"
   title:
     fa_IR: روز معلم
@@ -611,7 +571,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "40"
   title:
     fa_IR: شهادت استاد مرتضی مطهری
@@ -625,7 +584,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "46"
   title:
     fa_IR: روز بزرگداشت شیخ صدوق
@@ -638,7 +596,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "47"
   title:
     fa_IR: گاهنبار میدیوزَرِم، جشن میانهٔ بهار، جشن بهاربُد / روز پیام‌آوری زرتشت
@@ -651,7 +608,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "53"
   title:
     fa_IR: روز بیماری‌های خاص و صعب‌العلاج
@@ -664,7 +620,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "54"
   title:
     fa_IR: روز بزرگداشت شیخ کلینی
@@ -677,7 +632,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "56"
   title:
     fa_IR: روز اسناد ملی و میراث مکتوب
@@ -690,7 +644,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "58"
   title:
     fa_IR: لغو امتیاز تنباکو به فتوای آیت‌الله میرزا حسن شیرازی
@@ -704,7 +657,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "62"
   title:
     fa_IR: روز پاسداشت زبان فارسی و بزرگداشت حکیم ابوالقاسم فردوسی
@@ -717,7 +669,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "67"
   title:
     fa_IR: روز بزرگداشت حکیم عمر خیام
@@ -730,7 +681,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "69"
   title:
     fa_IR: روز ملی جمعیت
@@ -743,7 +693,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "73"
   title:
     fa_IR: روز اهدای عضو، اهدای زندگی
@@ -756,7 +705,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "41"
   title:
     fa_IR: روز بزرگداشت ملاصدرا (صدرالمتألهین)
@@ -769,7 +717,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "42"
   title:
     fa_IR: روز بهره‌وری و بهینه‌سازی مصرف
@@ -782,7 +729,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "44"
   title:
     fa_IR: ارغاسوان، جشن گرما
@@ -795,7 +741,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "45"
   title:
     fa_IR: فتح خرمشهر در عملیات بیت‌المقدس (۱۳۶۱ ه‍.ش) و روز مقاومت، ایثار و پیروزی
@@ -808,7 +753,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "48"
   title:
     fa_IR: روز دزفول
@@ -821,7 +765,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "49"
   title:
     fa_IR: ' روز مقاومت و پایداری'
@@ -834,7 +777,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "51"
   title:
     fa_IR: روز نسیم مهر (روز حمایت از خانوادهٔ زندانیان)
@@ -847,7 +789,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "52"
   title:
     fa_IR: خردادروز، جشن خردادگان
@@ -860,7 +801,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "55"
   title:
     fa_IR: افتتاح اولین دورهٔ مجلس شورای اسلامی
@@ -874,7 +814,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "63"
   title:
     fa_IR: رحلت امام خمینی رهبر انقلاب اسلامی
@@ -890,7 +829,6 @@ events:
     - ایران
   holiday:
     Iran: []
-  sources: []
 - key: "64"
   title:
     fa_IR: انتخاب آیت‌الله خامنه‌ای به رهبری
@@ -904,7 +842,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "65"
   title:
     fa_IR: زندانی شدن امام خمینی
@@ -918,7 +855,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "66"
   title:
     fa_IR: قیام خونین ۱۵ خرداد
@@ -934,7 +870,6 @@ events:
     - ایران
   holiday:
     Iran: []
-  sources: []
 - key: "75"
   title:
     fa_IR: شهادت آیت‌الله سعیدی
@@ -948,7 +883,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "83"
   title:
     fa_IR: روز گل و گیاه
@@ -961,7 +895,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "85"
   title:
     fa_IR: شهادت بخارایی، امانی، صفار هرندی و نیک‌نژاد از اعضای فدائیان اسلام
@@ -975,7 +908,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "87"
   title:
     fa_IR: روز جهاد کشاورزی (تشکیل جهاد سازندگی)
@@ -989,7 +921,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "90"
   title:
     fa_IR: درگذشت دکتر علی شریعتی
@@ -1003,7 +934,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "93"
   title:
     fa_IR: شهادت زائران حرم رضوی (ع) (عاشورای ۱۳۷۳ ه‍.ش)
@@ -1017,7 +947,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "98"
   title:
     fa_IR: روز بسیج استادان
@@ -1030,7 +959,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "97"
   title:
     fa_IR: شهادت دکتر مصطفی چمران
@@ -1044,7 +972,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "60"
   title:
     fa_IR: جشن آب‌پاشونک، جشن آغاز تابستان / سال نو در گاهشماری گاهنباری / دیدار طلوع
@@ -1059,7 +986,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "61"
   title:
     fa_IR: روز اصناف
@@ -1072,7 +998,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "59"
   title:
     fa_IR: روز تبلیغ و اطلاع‌رسانی دینی (تأسیس سازمان تبلیغات اسلامی)
@@ -1086,7 +1011,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "68"
   title:
     fa_IR: جشن نیلوفر
@@ -1099,7 +1023,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "71"
   title:
     fa_IR: روز قوهٔ قضاییه
@@ -1112,7 +1035,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "72"
   title:
     fa_IR: شهادت آیت‌الله دکتر بهشتی و ۷۲ تن از یاران
@@ -1126,7 +1048,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "74"
   title:
     fa_IR: روز مبارزه با سلاح‌های شیمیایی و میکروبی
@@ -1139,7 +1060,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "76"
   title:
     fa_IR: روز آزادسازی شهر مهران
@@ -1152,7 +1072,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "77"
   title:
     fa_IR: روز صنعت و معدن
@@ -1165,7 +1084,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "78"
   title:
     fa_IR: شهادت آیت‌الله صدوقی
@@ -1179,7 +1097,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "79"
   title:
     fa_IR: روز افشای حقوق بشر آمریکایی
@@ -1192,7 +1109,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "81"
   title:
     fa_IR: روز بزرگداشت علامه امینی
@@ -1206,7 +1122,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "80"
   title:
     fa_IR: حملهٔ ناوگان آمریکا به هواپیمای مسافربری ایران
@@ -1220,7 +1135,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "82"
   title:
     fa_IR: تیرروز، جشن تیرگان
@@ -1233,7 +1147,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "84"
   title:
     fa_IR: روز شهرداری و دهیاری
@@ -1246,7 +1159,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "86"
   title:
     fa_IR: روز قلم
@@ -1259,7 +1171,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "88"
   title:
     fa_IR: جشن خام‌خواری
@@ -1272,7 +1183,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "89"
   title:
     fa_IR: روز مالیات
@@ -1285,7 +1195,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "94"
   title:
     fa_IR: روز ادبیات کودکان و نوجوانان
@@ -1298,7 +1207,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "92"
   title:
     fa_IR: کشف کودتای نوژه
@@ -1312,7 +1220,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "101"
   title:
     fa_IR: روز عفاف و حجاب
@@ -1325,7 +1232,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "102"
   title:
     fa_IR: حمله به مسجد گوهرشاد و کشتار مردم
@@ -1339,7 +1245,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "100"
   title:
     fa_IR: کشف توطئهٔ کودتا در پایگاه هوایی شهید نوژه
@@ -1353,7 +1258,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "106"
   title:
     fa_IR: روز گفت‌وگو و تعامل سازنده با جهان
@@ -1366,7 +1270,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "105"
   title:
     fa_IR: گشایش نخستین مجلس خبرگان رهبری
@@ -1380,7 +1283,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "110"
   title:
     fa_IR: روز بهزیستی و تامین اجتماعی
@@ -1393,7 +1295,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "115"
   title:
     fa_IR: سالروز تأسیس نهاد شورای نگهبان
@@ -1406,7 +1307,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "119"
   title:
     fa_IR: اعلام پذیرش قطعنامهٔ ۵۹۸ شورای امنیت از سوی ایران
@@ -1420,7 +1320,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "129"
   title:
     fa_IR: روز بزرگداشت آیت‌الله سیدابوالقاسم کاشانی
@@ -1433,7 +1332,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "91"
   title:
     fa_IR: سالروز عملیات مرصاد
@@ -1447,7 +1345,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "95"
   title:
     fa_IR: روز کارآفرینی و آموزش‌های فنی و حرفه‌ای
@@ -1460,7 +1357,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "96"
   title:
     fa_IR: مردادروز، جشن مردادگان
@@ -1473,7 +1369,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "99"
   title:
     fa_IR: روز بزرگداشت شیخ شهاب‌الدین سهروردی (شیخ اشراق)
@@ -1486,7 +1381,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "103"
   title:
     fa_IR: روز اهدای خون
@@ -1499,7 +1393,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "104"
   title:
     fa_IR: جشن چلهٔ تابستان
@@ -1512,7 +1405,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "107"
   title:
     fa_IR: شهادت آیت‌الله شیخ فضل‌الله نوری
@@ -1526,7 +1418,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "116"
   title:
     fa_IR: روز حقوق بشر اسلامی و کرامت انسانی
@@ -1539,7 +1430,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "113"
   title:
     fa_IR: صدور فرمان مشروطیت
@@ -1553,7 +1443,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "118"
   title:
     fa_IR: گاهنبار میدیوشِم، جشن میانهٔ تابستان
@@ -1566,7 +1455,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "121"
   title:
     fa_IR: تشکیل جهاد دانشگاهی
@@ -1580,7 +1468,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "127"
   title:
     fa_IR: روز خبرنگار
@@ -1593,7 +1480,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "128"
   title:
     fa_IR: جشن مَی‌خواره
@@ -1606,7 +1492,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "132"
   title:
     fa_IR: روز حمایت از صنایع کوچک
@@ -1619,7 +1504,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "133"
   title:
     fa_IR: روز تشکل‌ها و مشارکت‌های اجتماعی
@@ -1632,7 +1516,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "136"
   title:
     fa_IR: روز مقاومت اسلامی
@@ -1645,7 +1528,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "145"
   title:
     fa_IR: آغاز بازگشت آزادگان به ایران
@@ -1659,7 +1541,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "147"
   title:
     fa_IR: کودتای ۲۸ مرداد
@@ -1673,7 +1554,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "148"
   title:
     fa_IR: آتش‌سوزی سینما رکس آبادان
@@ -1687,7 +1567,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "149"
   title:
     fa_IR: گشایش مجلس خبرگان برای بررسی نهایی قانون اساسی جمهوری اسلامی ایران
@@ -1701,7 +1580,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "152"
   title:
     fa_IR: روز بزرگداشت علامه مجلسی
@@ -1714,7 +1592,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "158"
   title:
     fa_IR: روز صنعت دفاعی
@@ -1727,7 +1604,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "108"
   title:
     fa_IR: روز پزشک
@@ -1740,7 +1616,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "109"
   title:
     fa_IR: روز بزرگداشت ابوعلی سینا
@@ -1753,7 +1628,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "111"
   title:
     fa_IR: فغدیه، جشن خنکی هوا
@@ -1766,7 +1640,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "114"
   title:
     fa_IR: آغاز هفتهٔ دولت
@@ -1779,7 +1652,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "112"
   title:
     fa_IR: شهادت سید علی اندرزگو
@@ -1793,7 +1665,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "117"
   title:
     fa_IR: جشن کشمین
@@ -1806,7 +1677,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "120"
   title:
     fa_IR: اشغال ایران به دست متفقین
@@ -1820,7 +1690,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "122"
   title:
     fa_IR: شهریورروز، جشن شهریورگان / زادروز داراب (کوروش) / عروج مانی
@@ -1833,7 +1702,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "123"
   title:
     fa_IR: روز کارمند
@@ -1846,7 +1714,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "124"
   title:
     fa_IR: روز کشتی
@@ -1859,7 +1726,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "125"
   title:
     fa_IR: روز بزرگداشت محمد بن زکریای رازی
@@ -1872,7 +1738,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "126"
   title:
     fa_IR: روز داروسازی
@@ -1885,7 +1750,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "131"
   title:
     fa_IR: خزان‌جشن
@@ -1898,7 +1762,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "130"
   title:
     fa_IR: روز مبارزه با تروریسم (انفجار دفتر نخست‌وزیری و شهادت رجایی و باهنر
@@ -1912,7 +1775,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "134"
   title:
     fa_IR: روز بانکداری اسلامی
@@ -1925,7 +1787,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "135"
   title:
     fa_IR: تصویب قانون عملیات بانکی بدون ربا
@@ -1939,7 +1800,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "137"
   title:
     fa_IR: روز صنعت چاپ
@@ -1952,7 +1812,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "139"
   title:
     fa_IR: روز بهورز
@@ -1965,7 +1824,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "138"
   title:
     fa_IR: روز مبارزه با استعمار انگلیس (سالروز شهادت رئیس‌علی دلواری)
@@ -1978,7 +1836,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "140"
   title:
     fa_IR: روز تعاون
@@ -1991,7 +1848,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "141"
   title:
     fa_IR: روز بزرگداشت ابوریحان بیرونی
@@ -2004,7 +1860,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "142"
   title:
     fa_IR: روز مردم‌شناسی
@@ -2017,7 +1872,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "144"
   title:
     fa_IR: شهادت آیت‌الله قدوسی و سرتیپ وحید دستجردی
@@ -2031,7 +1885,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "146"
   title:
     fa_IR: بازارجشن
@@ -2044,7 +1897,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "150"
   title:
     fa_IR: قیام ۱۷ شهریور و کشتار جمعی از مردم به دست مأموران پهلوی
@@ -2058,7 +1910,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "157"
   title:
     fa_IR: وفات آیت‌الله سید محمود طالقانی اولین امام جمعهٔ تهران
@@ -2072,7 +1923,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "159"
   title:
     fa_IR: شهادت آیت‌الله مدنی
@@ -2086,7 +1936,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "161"
   title:
     fa_IR: روز سینما
@@ -2099,7 +1948,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "170"
   title:
     fa_IR: روز شعر و ادب فارسی
@@ -2112,7 +1960,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "171"
   title:
     fa_IR: روز بزرگداشت استاد سید محمدحسین شهریار
@@ -2125,7 +1972,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "175"
   title:
     fa_IR: روز گفت‌وگوی تمدن‌ها
@@ -2138,7 +1984,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "177"
   title:
     fa_IR: آغاز هفتهٔ دفاع مقدس
@@ -2151,7 +1996,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "179"
   title:
     fa_IR: گاهنبار پَتیَه‌شَهیم، جشن پایان تابستان
@@ -2164,7 +2008,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "178"
   title:
     fa_IR: آغاز جنگ تحمیلی
@@ -2178,7 +2021,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "143"
   title:
     fa_IR: جشن میتراکانا / سال نو هخامنشی
@@ -2191,7 +2033,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "151"
   title:
     fa_IR: شکست حصر آبادان در عملیات ثامن‌الأئمه (ع)
@@ -2205,7 +2046,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "153"
   title:
     fa_IR: روز بزرگداشت فرماندهان شهید دفاع مقدس
@@ -2218,7 +2058,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "154"
   title:
     fa_IR: روز بزرگداشت شمس
@@ -2231,7 +2070,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "155"
   title:
     fa_IR: روز آتش‌نشانی و ایمنی
@@ -2244,7 +2082,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "156"
   title:
     fa_IR: شهادت فلاحی، فکوری، نامجو، کلاهدوز و جهان‌آرا از فرماندهان ارتش و سپاه
@@ -2258,7 +2095,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "160"
   title:
     fa_IR: روز بزرگداشت مولوی
@@ -2271,7 +2107,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "162"
   title:
     fa_IR: روز همبستگی و همدردی با کودکان و نوجوانان فلسطینی
@@ -2284,7 +2119,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "163"
   title:
     fa_IR: آیین قالیشویان اردهال، بازماندی از تیرگان
@@ -2297,7 +2131,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "167"
   title:
     fa_IR: تیرروز، جشن تیرروزی
@@ -2310,7 +2143,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "168"
   title:
     fa_IR: روز نیروی انتظامی
@@ -2323,7 +2155,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "166"
   title:
     fa_IR: هجرت امام خمینی از عراق به پاریس
@@ -2337,7 +2168,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "169"
   title:
     fa_IR: روز دامپزشکی
@@ -2350,7 +2180,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "172"
   title:
     fa_IR: روز روستا و عشایر
@@ -2363,7 +2192,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "173"
   title:
     fa_IR: مهرروز، جشن مهرگان
@@ -2376,7 +2204,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "181"
   title:
     fa_IR: روز اسکان معلولان و سالمندان
@@ -2389,7 +2216,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "184"
   title:
     fa_IR: روز بزرگداشت حافظ
@@ -2402,7 +2228,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "185"
   title:
     fa_IR: رام‌روز، جشن رام‌روزی / جشن پیروزی کاوه و فریدون
@@ -2415,7 +2240,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "188"
   title:
     fa_IR: شهادت آیت‌الله اشرفی اصفهانی
@@ -2429,7 +2253,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "190"
   title:
     fa_IR: روز پیوند اولیا و مربیان
@@ -2442,7 +2265,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "189"
   title:
     fa_IR: روز ملی پارالمپیک
@@ -2455,7 +2277,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "191"
   title:
     fa_IR: به آتش کشیده‌شدن مسجد جامع شهر کرمان
@@ -2469,7 +2290,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "197"
   title:
     fa_IR: روز تربیت بدنی و ورزش
@@ -2482,7 +2302,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "202"
   title:
     fa_IR: روز صادرات
@@ -2495,7 +2314,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "165"
   title:
     fa_IR: روز آمار و برنامه‌ریزی
@@ -2508,7 +2326,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "164"
   title:
     fa_IR: شهادت آیت‌الله حاج سید مصطفی خمینی
@@ -2522,7 +2339,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "174"
   title:
     fa_IR: اعتراض امام خمینی علیه پذیرش کاپیتولاسیون
@@ -2536,7 +2352,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "176"
   title:
     fa_IR: ' روز کوروش بزرگ'
@@ -2549,7 +2364,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "182"
   title:
     fa_IR: شهادت محمد حسین فهمیده (بسیجی ۱۳ ساله)
@@ -2562,7 +2376,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "183"
   title:
     fa_IR: روز نوجوان و بسیج دانش‌آموزی
@@ -2575,7 +2388,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "180"
   title:
     fa_IR: روز پدافند غیرعامل
@@ -2588,7 +2400,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "187"
   title:
     fa_IR: آبان‌روز، جشن آبانگان
@@ -2601,7 +2412,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "186"
   title:
     fa_IR: شهادت آیت‌الله قاضی طباطبایی
@@ -2615,7 +2425,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "194"
   title:
     fa_IR: روز دانش‌آموز
@@ -2628,7 +2437,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "195"
   title:
     fa_IR: روز ملی مبارزه با استکبار جهانی
@@ -2641,7 +2449,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "196"
   title:
     fa_IR: تبعید امام خمینی از ایران به ترکیه
@@ -2655,7 +2462,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "192"
   title:
     fa_IR: تسخیر سفارت آمریکا
@@ -2669,7 +2475,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "198"
   title:
     fa_IR: روز فرهنگ عمومی
@@ -2682,7 +2487,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "199"
   title:
     fa_IR: گاهنبار اَیاثرَم، جشن میانهٔ پاییز
@@ -2695,7 +2499,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "203"
   title:
     fa_IR: روز کیفیت
@@ -2708,7 +2511,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "211"
   title:
     fa_IR: روز کتاب، کتابخوانی و کتابدار
@@ -2721,7 +2523,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "212"
   title:
     fa_IR: روز بزرگداشت آیت‌الله علامه سید محمد حسین طباطبایی
@@ -2735,7 +2536,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "215"
   title:
     fa_IR: آزادسازی سوسنگرد
@@ -2748,7 +2548,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "193"
   title:
     fa_IR: آذرجشن
@@ -2761,7 +2560,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "201"
   title:
     fa_IR: سالروز قیام مردم گرگان
@@ -2775,7 +2573,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "200"
   title:
     fa_IR: تشکیل بسیج مستضعفان
@@ -2789,7 +2586,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "204"
   title:
     fa_IR: روز نیروی دریایی
@@ -2802,7 +2598,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "205"
   title:
     fa_IR: آذرروز، جشن آذرگان
@@ -2815,7 +2610,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "206"
   title:
     fa_IR: روز بزرگداشت شیخ مفید
@@ -2828,7 +2622,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "207"
   title:
     fa_IR: روز مجلس
@@ -2841,7 +2634,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "208"
   title:
     fa_IR: شهادت آیت‌الله سید حسن مدرس
@@ -2855,7 +2647,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "209"
   title:
     fa_IR: شهادت میرزا کوچک خان جنگلی
@@ -2869,7 +2660,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "210"
   title:
     fa_IR: روز قانون اساسی جمهوری اسلامی ایران (تصویب قانون اساسی جمهوری اسلامی ایران)
@@ -2883,7 +2673,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "214"
   title:
     fa_IR: روز بیمه
@@ -2896,7 +2685,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "217"
   title:
     fa_IR: روز دانشجو
@@ -2909,7 +2697,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "221"
   title:
     fa_IR: معرفی عراق به عنوان مسئول و آغازگر جنگ از سوی سازمان ملل
@@ -2923,7 +2710,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "224"
   title:
     fa_IR: تشکیل شورای عالی انقلاب فرهنگی
@@ -2937,7 +2723,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "227"
   title:
     fa_IR: شهادت آیت‌الله دستغیب
@@ -2951,7 +2736,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "231"
   title:
     fa_IR: روز پژوهش
@@ -2964,7 +2748,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "233"
   title:
     fa_IR: روز حمل و نقل و رانندگان
@@ -2977,7 +2760,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "235"
   title:
     fa_IR: روز وحدت حوزه و دانشگاه
@@ -2990,7 +2772,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "236"
   title:
     fa_IR: شهادت آیت‌الله دکتر محمد مفتح
@@ -3004,7 +2785,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "243"
   title:
     fa_IR: روز تجلیل از شهید تندگویان
@@ -3017,7 +2797,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "244"
   title:
     fa_IR: شب یلدا (چله)
@@ -3030,7 +2809,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "246"
   title:
     fa_IR: گاهنبار میدیارِم، جشن میانهٔ سال گاهنباری (از مبدأ آغاز تابستان)
@@ -3043,7 +2821,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "213"
   title:
     fa_IR: روز میلاد خورشید، جشن خرم‌روز / نخستین جشن دیگان / دیدار طلوع خورشید در
@@ -3058,7 +2835,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "216"
   title:
     fa_IR: روز ثبت احوال
@@ -3071,7 +2847,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "218"
   title:
     fa_IR: بازارجشن
@@ -3084,7 +2859,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "220"
   title:
     fa_IR: روز ایمنی در برابر زلزله و کاهش اثرات بلایای طبیعی
@@ -3097,7 +2871,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "219"
   title:
     fa_IR: روز درگذشت زرتشت
@@ -3110,7 +2883,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "222"
   title:
     fa_IR: شهادت آیت‌الله حسین غفاری
@@ -3124,7 +2896,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "223"
   title:
     fa_IR: تشکیل نهضت سوادآموزی
@@ -3138,7 +2909,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "226"
   title:
     fa_IR: دی‌به‌آذرروز، دومین جشن دیگان
@@ -3151,7 +2921,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "225"
   title:
     fa_IR: روز صنعت پتروشیمی
@@ -3164,7 +2933,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "228"
   title:
     fa_IR: ۹ دی
@@ -3177,7 +2945,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "229"
   title:
     fa_IR: ابلاغ پیام تاریخی امام خمینی به گورباچف رهبر شوروی سابق
@@ -3191,7 +2958,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "234"
   title:
     fa_IR: سیرسور، جشن گیاه‌خواری
@@ -3204,7 +2970,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "237"
   title:
     fa_IR: جشن پیکرتراشی / دی‌به‌مهرروز، سومین جشن دیگان
@@ -3217,7 +2982,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "239"
   title:
     fa_IR: جشن درامزینان، جشن درفش‌ها
@@ -3230,7 +2994,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "240"
   title:
     fa_IR: اجرای طرح حذف حجاب
@@ -3244,7 +3007,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "247"
   title:
     fa_IR: قیام خونین مردم قم
@@ -3258,7 +3020,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "248"
   title:
     fa_IR: شهادت میرزاتقی‌خان امیرکبیر
@@ -3272,7 +3033,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "250"
   title:
     fa_IR: تشکیل شورای انقلاب
@@ -3286,7 +3046,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "251"
   title:
     fa_IR: دی‌به‌دین‌روز، چهارمین جشن دیگان
@@ -3299,7 +3058,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "254"
   title:
     fa_IR: خروج شاه از ایران
@@ -3313,7 +3071,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "256"
   title:
     fa_IR: شهادت نواب صفوی، طهماسبی، برادران واحدی و ذوالقدر از اعضای فداییان اسلام
@@ -3327,7 +3084,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "260"
   title:
     fa_IR: روز غزه
@@ -3340,7 +3096,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "230"
   title:
     fa_IR: زادروز فردوسی
@@ -3353,7 +3108,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "232"
   title:
     fa_IR: بهمن‌روز، جشن بهمنگان
@@ -3366,7 +3120,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "238"
   title:
     fa_IR: شهریورروز، آغاز پادشاهی داراب (کوروش)
@@ -3379,7 +3132,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "242"
   title:
     fa_IR: جشن نوسَره
@@ -3392,7 +3144,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "241"
   title:
     fa_IR: انتخابات اولین دورهٔ ریاست جمهوری
@@ -3406,7 +3157,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "245"
   title:
     fa_IR: سالروز حماسهٔ مردم آمل
@@ -3419,7 +3169,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "249"
   title:
     fa_IR: آبان‌روز، جشن سَدَه، آتش‌افروزی بر بام‌ها / نمایش‌بازی همگانی
@@ -3432,7 +3181,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "252"
   title:
     fa_IR: بازگشت امام خمینی به ایران و آغاز دههٔ فجر انقلاب اسلامی
@@ -3446,7 +3194,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "255"
   title:
     fa_IR: روز فناوری فضایی
@@ -3459,7 +3206,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "258"
   title:
     fa_IR: جشن میانهٔ زمستان
@@ -3472,7 +3218,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "263"
   title:
     fa_IR: روز نیروی هوایی
@@ -3485,7 +3230,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "265"
   title:
     fa_IR: شکسته شدن حکومت نظامی به فرمان امام خمینی
@@ -3499,7 +3243,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "268"
   title:
     fa_IR: بادروز، جشن بادروزی
@@ -3512,7 +3255,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "269"
   title:
     fa_IR: پیروزی انقلاب اسلامی ایران و سقوط نظام شاهنشاهی
@@ -3528,7 +3270,6 @@ events:
     - ایران
   holiday:
     Iran: []
-  sources: []
 - key: "270"
   title:
     fa_IR: صدور حکم امام خمینی مبنی بر ارتداد سلمان رشدی
@@ -3542,7 +3283,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "274"
   title:
     fa_IR: روز اقتصاد مقاومتی و کارآفرینی
@@ -3555,7 +3295,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "273"
   title:
     fa_IR: قیام مردم تبریز به مناسبت چهلمین روز شهادت شهدای قم
@@ -3569,7 +3308,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "253"
   title:
     fa_IR: جشن اسفندی / جشن آبسالان، بهارجشن / نمایش‌بازی همگانی
@@ -3582,7 +3320,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "257"
   title:
     fa_IR: کودتای رضاخان
@@ -3596,7 +3333,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "259"
   title:
     fa_IR: اسفندروز، جشن اسفندگان، گرامیداشت زمین و بانوان / جشن برزگران
@@ -3609,7 +3345,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "261"
   title:
     fa_IR: روز بزرگداشت خواجه نصیرالدین طوسی
@@ -3622,7 +3357,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "262"
   title:
     fa_IR: روز مهندسی
@@ -3635,7 +3369,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "264"
   title:
     fa_IR: روز امور تربیتی و تربیت اسلامی
@@ -3648,7 +3381,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "266"
   title:
     fa_IR: روز ملی حمایت از حقوق مصرف‌کنندگان
@@ -3661,7 +3393,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "267"
   title:
     fa_IR: جشن وخشنکام
@@ -3674,7 +3405,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "271"
   title:
     fa_IR: روز احسان و نیکوکاری
@@ -3687,7 +3417,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "272"
   title:
     fa_IR: روز درختکاری
@@ -3700,7 +3429,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "275"
   title:
     fa_IR: سالروز تأسیس کانون‌های فرهنگی و هنری مساجد کشور
@@ -3713,7 +3441,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "276"
   title:
     fa_IR: روز بزرگداشت سید جمال‌الدین اسدآبادی
@@ -3726,7 +3453,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "277"
   title:
     fa_IR: جشن نوروز رودها
@@ -3739,7 +3465,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "278"
   title:
     fa_IR: روز راهیان نور
@@ -3752,7 +3477,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "279"
   title:
     fa_IR: جشن گلدان
@@ -3765,7 +3489,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "280"
   title:
     fa_IR: روز بزرگداشت نظامی گنجوی
@@ -3778,7 +3501,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "281"
   title:
     fa_IR: روز بزرگداشت شهدا (تأسیس بنیاد شهید انقلاب اسلامی)
@@ -3792,7 +3514,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "282"
   title:
     fa_IR: برگزاری انتخابات اولین دورهٔ مجلس شورای اسلامی
@@ -3806,7 +3527,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "283"
   title:
     fa_IR: هزارهٔ شاهنامه، هزارمین سالگرد پایان سرایش شاهنامهٔ فردوسی
@@ -3819,7 +3539,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "284"
   title:
     fa_IR: روز بزرگداشت پروین اعتصامی
@@ -3832,7 +3551,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "285"
   title:
     fa_IR: بمباران شیمیایی حلبچه توسط ارتش بعث عراق
@@ -3846,7 +3564,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: []
 - key: "286"
   title:
     fa_IR: فروردگان
@@ -3859,7 +3576,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "287"
   title:
     fa_IR: گاهنبار هَمَسپَتمَدَم، جشن پایان زمستان (در آخرین روز سال) / جشن اوشیدر
@@ -3876,7 +3592,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: []
 - key: "288"
   title:
     fa_IR: روز ملی شدن صنعت نفت ایران
@@ -3892,4 +3607,3 @@ events:
     - ایران
   holiday:
     Iran: []
-  sources: []
