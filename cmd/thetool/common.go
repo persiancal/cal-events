@@ -2,11 +2,11 @@ package main
 
 import (
 	"fmt"
+	"hash/fnv"
 	"io/ioutil"
 	"os"
 	"path/filepath"
 
-	"github.com/dchest/siphash"
 	"gopkg.in/yaml.v2"
 )
 
@@ -19,7 +19,7 @@ const (
 // Event is a single event
 type Event struct {
 	PartialKey  string              `json:"partial_key,omitempty" yaml:"partial_key,omitempty"`
-	Key         uint64              `json:"key,omitempty" yaml:"key,omitempty"`
+	Key         uint32              `json:"key,omitempty" yaml:"key,omitempty"`
 	Title       map[string]string   `json:"title,omitempty" yaml:"title,omitempty"`
 	Description map[string]string   `json:"description,omitempty" yaml:"description,omitempty"`
 	Year        int                 `json:"year,omitempty" yaml:"year,omitempty"`
@@ -35,10 +35,9 @@ func (e *Event) idx() int {
 }
 
 func (e *Event) CalculateKey(collection string) {
-	e.Key = siphash.Hash(
-		key0, key1,
-		[]byte(fmt.Sprintf("%s_%d_%d_%s", collection, e.Month, e.Day, e.PartialKey)),
-	)
+	hash := fnv.New32()
+	_, _ = fmt.Fprintf(hash, "%d_%s_%d_%d_%s_%d", key0, collection, e.Month, e.Day, e.PartialKey, key1)
+	e.Key = hash.Sum32()
 }
 
 // Preset is the month structure validator
