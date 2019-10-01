@@ -62,7 +62,7 @@ func validateLinks(_ *command, fl *File) error {
 	go func() {
 		for i := range fl.Events {
 			if len(fl.Events[i].Sources) == 0 {
-				log.Printf("The event with key %s has no source\n", fl.Events[i].Key)
+				log.Printf("The event with key %s has no source\n", fl.Events[i].PartialKey)
 				continue
 			}
 
