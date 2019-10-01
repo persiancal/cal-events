@@ -1,5 +1,5 @@
 events:
-- key: "13"
+- partial_key: "13"
   title:
     fa_IR: روز بزرگداشت سعدی
   description:
@@ -11,7 +11,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "15"
+- partial_key: "15"
   title:
     fa_IR: روز زمین پاک
   description:
@@ -23,7 +23,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "16"
+- partial_key: "16"
   title:
     fa_IR: جشن گیاه‌آوری
   description:
@@ -35,7 +35,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: "18"
+- partial_key: "18"
   title:
     fa_IR: تأسیس سپاه پاسداران انقلاب اسلامی
   description:
@@ -48,7 +48,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "17"
+- partial_key: "17"
   title:
     fa_IR: اعلام انقلاب فرهنگی
   description:
@@ -61,7 +61,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "19"
+- partial_key: "19"
   title:
     fa_IR: اردیبهشت‌روز، جشن اردیبهشتگان
   description:
@@ -73,7 +73,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: "20"
+- partial_key: "20"
   title:
     fa_IR: روز بزرگداشت شیخ بهایی
   description:
@@ -85,7 +85,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "22"
+- partial_key: "22"
   title:
     fa_IR: شکست حملهٔ نظامی آمریکا به ایران در طبس
   description:
@@ -98,7 +98,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "25"
+- partial_key: "25"
   title:
     fa_IR: روز ایمنی حمل‌ونقل
   description:
@@ -110,7 +110,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "33"
+- partial_key: "33"
   title:
     fa_IR: روز شوراها
   description:
@@ -122,7 +122,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "36"
+- partial_key: "36"
   title:
     fa_IR: جشن چهلم نوروز
   description:
@@ -134,7 +134,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: "37"
+- partial_key: "37"
   title:
     fa_IR: روز ملی خلیج فارس
   description:
@@ -146,7 +146,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "35"
+- partial_key: "35"
   title:
     fa_IR: آغاز عملیات بیت المقدس
   description:
@@ -159,7 +159,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "39"
+- partial_key: "39"
   title:
     fa_IR: روز معلم
   description:
@@ -172,7 +172,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "40"
+- partial_key: "40"
   title:
     fa_IR: شهادت استاد مرتضی مطهری
   description:
@@ -185,7 +185,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "46"
+- partial_key: "46"
   title:
     fa_IR: روز بزرگداشت شیخ صدوق
   description:
@@ -197,7 +197,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "47"
+- partial_key: "47"
   title:
     fa_IR: گاهنبار میدیوزَرِم، جشن میانهٔ بهار، جشن بهاربُد / روز پیام‌آوری زرتشت
   description:
@@ -209,7 +209,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: "53"
+- partial_key: "53"
   title:
     fa_IR: روز بیماری‌های خاص و صعب‌العلاج
   description:
@@ -221,7 +221,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "54"
+- partial_key: "54"
   title:
     fa_IR: روز بزرگداشت شیخ کلینی
   description:
@@ -233,7 +233,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "56"
+- partial_key: "56"
   title:
     fa_IR: روز اسناد ملی و میراث مکتوب
   description:
@@ -245,7 +245,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "58"
+- partial_key: "58"
   title:
     fa_IR: لغو امتیاز تنباکو به فتوای آیت‌الله میرزا حسن شیرازی
   description:
@@ -258,7 +258,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "62"
+- partial_key: "62"
   title:
     fa_IR: روز پاسداشت زبان فارسی و بزرگداشت حکیم ابوالقاسم فردوسی
   description:
@@ -270,7 +270,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "67"
+- partial_key: "67"
   title:
     fa_IR: روز بزرگداشت حکیم عمر خیام
   description:
@@ -282,7 +282,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "69"
+- partial_key: "69"
   title:
     fa_IR: روز ملی جمعیت
   description:
@@ -294,7 +294,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "73"
+- partial_key: "73"
   title:
     fa_IR: روز اهدای عضو، اهدای زندگی
   description:

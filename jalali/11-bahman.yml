@@ -1,5 +1,5 @@
 events:
-- key: "230"
+- partial_key: "230"
   title:
     fa_IR: زادروز فردوسی
   description:
@@ -11,7 +11,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: "232"
+- partial_key: "232"
   title:
     fa_IR: بهمن‌روز، جشن بهمنگان
   description:
@@ -23,7 +23,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: "238"
+- partial_key: "238"
   title:
     fa_IR: شهریورروز، آغاز پادشاهی داراب (کوروش)
   description:
@@ -35,7 +35,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: "242"
+- partial_key: "242"
   title:
     fa_IR: جشن نوسَره
   description:
@@ -47,7 +47,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: "241"
+- partial_key: "241"
   title:
     fa_IR: انتخابات اولین دورهٔ ریاست جمهوری
   description:
@@ -60,7 +60,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "245"
+- partial_key: "245"
   title:
     fa_IR: سالروز حماسهٔ مردم آمل
   description:
@@ -72,7 +72,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "249"
+- partial_key: "249"
   title:
     fa_IR: آبان‌روز، جشن سَدَه، آتش‌افروزی بر بام‌ها / نمایش‌بازی همگانی
   description:
@@ -84,7 +84,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: "252"
+- partial_key: "252"
   title:
     fa_IR: بازگشت امام خمینی به ایران و آغاز دههٔ فجر انقلاب اسلامی
   description:
@@ -97,7 +97,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "255"
+- partial_key: "255"
   title:
     fa_IR: روز فناوری فضایی
   description:
@@ -109,7 +109,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "258"
+- partial_key: "258"
   title:
     fa_IR: جشن میانهٔ زمستان
   description:
@@ -121,7 +121,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: "263"
+- partial_key: "263"
   title:
     fa_IR: روز نیروی هوایی
   description:
@@ -133,7 +133,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "265"
+- partial_key: "265"
   title:
     fa_IR: شکسته شدن حکومت نظامی به فرمان امام خمینی
   description:
@@ -146,7 +146,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "268"
+- partial_key: "268"
   title:
     fa_IR: بادروز، جشن بادروزی
   description:
@@ -158,7 +158,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: "269"
+- partial_key: "269"
   title:
     fa_IR: پیروزی انقلاب اسلامی ایران و سقوط نظام شاهنشاهی
   description:
@@ -173,7 +173,7 @@ events:
     - ایران
   holiday:
     Iran: []
-- key: "270"
+- partial_key: "270"
   title:
     fa_IR: صدور حکم امام خمینی مبنی بر ارتداد سلمان رشدی
   description:
@@ -186,7 +186,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "274"
+- partial_key: "274"
   title:
     fa_IR: روز اقتصاد مقاومتی و کارآفرینی
   description:
@@ -198,7 +198,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "273"
+- partial_key: "273"
   title:
     fa_IR: قیام مردم تبریز به مناسبت چهلمین روز شهادت شهدای قم
   description:

@@ -1,16 +1,25 @@
 package main
 
 import (
+	"fmt"
 	"io/ioutil"
 	"os"
 	"path/filepath"
 
+	"github.com/dchest/siphash"
 	"gopkg.in/yaml.v2"
+)
+
+// Rest in peace...
+const (
+	key0 = 0x61_73_68_6b_61_6e
+	key1 = 0x76_61_6e_65_68
 )
 
 // Event is a single event
 type Event struct {
-	Key         string              `json:"key" yaml:"key"`
+	PartialKey  string              `json:"partial_key,omitempty" yaml:"partial_key,omitempty"`
+	Key         uint64              `json:"key,omitempty" yaml:"key,omitempty"`
 	Title       map[string]string   `json:"title,omitempty" yaml:"title,omitempty"`
 	Description map[string]string   `json:"description,omitempty" yaml:"description,omitempty"`
 	Year        int                 `json:"year,omitempty" yaml:"year,omitempty"`
@@ -23,6 +32,13 @@ type Event struct {
 
 func (e *Event) idx() int {
 	return e.Month*100 + e.Day
+}
+
+func (e *Event) CalculateKey(collection string) {
+	e.Key = siphash.Hash(
+		key0, key1,
+		[]byte(fmt.Sprintf("%s_%d_%d_%s", collection, e.Month, e.Day, e.PartialKey)),
+	)
 }
 
 // Preset is the month structure validator

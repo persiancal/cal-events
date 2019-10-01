@@ -1,5 +1,5 @@
 events:
-- key: "41"
+- partial_key: "41"
   title:
     fa_IR: روز بزرگداشت ملاصدرا (صدرالمتألهین)
   description:
@@ -11,7 +11,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "42"
+- partial_key: "42"
   title:
     fa_IR: روز بهره‌وری و بهینه‌سازی مصرف
   description:
@@ -23,7 +23,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "44"
+- partial_key: "44"
   title:
     fa_IR: ارغاسوان، جشن گرما
   description:
@@ -35,7 +35,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: "45"
+- partial_key: "45"
   title:
     fa_IR: فتح خرمشهر در عملیات بیت‌المقدس (۱۳۶۱ ه‍.ش) و روز مقاومت، ایثار و پیروزی
   description:
@@ -47,7 +47,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "48"
+- partial_key: "48"
   title:
     fa_IR: روز دزفول
   description:
@@ -59,7 +59,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "49"
+- partial_key: "49"
   title:
     fa_IR: ' روز مقاومت و پایداری'
   description:
@@ -71,7 +71,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "51"
+- partial_key: "51"
   title:
     fa_IR: روز نسیم مهر (روز حمایت از خانوادهٔ زندانیان)
   description:
@@ -83,7 +83,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "52"
+- partial_key: "52"
   title:
     fa_IR: خردادروز، جشن خردادگان
   description:
@@ -95,7 +95,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: "55"
+- partial_key: "55"
   title:
     fa_IR: افتتاح اولین دورهٔ مجلس شورای اسلامی
   description:
@@ -108,7 +108,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "63"
+- partial_key: "63"
   title:
     fa_IR: رحلت امام خمینی رهبر انقلاب اسلامی
   description:
@@ -123,7 +123,7 @@ events:
     - ایران
   holiday:
     Iran: []
-- key: "64"
+- partial_key: "64"
   title:
     fa_IR: انتخاب آیت‌الله خامنه‌ای به رهبری
   description:
@@ -136,7 +136,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "65"
+- partial_key: "65"
   title:
     fa_IR: زندانی شدن امام خمینی
   description:
@@ -149,7 +149,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "66"
+- partial_key: "66"
   title:
     fa_IR: قیام خونین ۱۵ خرداد
   description:
@@ -164,7 +164,7 @@ events:
     - ایران
   holiday:
     Iran: []
-- key: "75"
+- partial_key: "75"
   title:
     fa_IR: شهادت آیت‌الله سعیدی
   description:
@@ -177,7 +177,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "83"
+- partial_key: "83"
   title:
     fa_IR: روز گل و گیاه
   description:
@@ -189,7 +189,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "85"
+- partial_key: "85"
   title:
     fa_IR: شهادت بخارایی، امانی، صفار هرندی و نیک‌نژاد از اعضای فدائیان اسلام
   description:
@@ -202,7 +202,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "87"
+- partial_key: "87"
   title:
     fa_IR: روز جهاد کشاورزی (تشکیل جهاد سازندگی)
   description:
@@ -215,7 +215,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "90"
+- partial_key: "90"
   title:
     fa_IR: درگذشت دکتر علی شریعتی
   description:
@@ -228,7 +228,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "93"
+- partial_key: "93"
   title:
     fa_IR: شهادت زائران حرم رضوی (ع) (عاشورای ۱۳۷۳ ه‍.ش)
   description:
@@ -241,7 +241,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "98"
+- partial_key: "98"
   title:
     fa_IR: روز بسیج استادان
   description:
@@ -253,7 +253,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: "97"
+- partial_key: "97"
   title:
     fa_IR: شهادت دکتر مصطفی چمران
   description:

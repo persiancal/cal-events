@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"strings"
 )
 
 func validate(cmd *command, fl *File) error {
@@ -28,6 +29,14 @@ func isValidCountry(c string, list []string) bool {
 
 func validateEventContent(ev []Event, p *Preset, countries []string) error {
 	for i := range ev {
+		if ev[i].Key != 0 {
+			return fmt.Errorf("the Key should not be in the input file")
+		}
+
+		if strings.Trim(ev[i].PartialKey, "\n\t ") == "" {
+			return fmt.Errorf("the partial key is empty")
+		}
+
 		if ev[i].Month <= 0 || ev[i].Month > len(p.MonthsNormal) {
 			return fmt.Errorf("invalid month on key %d", i)
 		}
