@@ -12,6 +12,7 @@ generate: $(ROOT)/cmd/thetool/thetool
 
 validate: $(ROOT)/cmd/thetool/thetool
 	$(ROOT)/cmd/thetool/thetool -dir $(ROOT)/jalali validate
+	$(ROOT)/cmd/thetool/thetool -dir $(ROOT)/jalali validate-links -ignore
 	$(ROOT)/cmd/thetool/thetool -dir $(ROOT)/jalali generate -dist $(ROOT)/dist -compare
 
 reorder: $(ROOT)/cmd/thetool/thetool
