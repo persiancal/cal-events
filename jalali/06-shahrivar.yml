@@ -12,7 +12,7 @@ events:
     fa_IR:
     - ایران
   sources:
-    - https://fa.wikipedia.org/wiki/۱_شهریور
+    - https://fa.wikipedia.org/wiki/روز_پزشک
 - partial_key: "abu_ali_sina_commemoration_day"
   title:
     fa_IR: روز بزرگداشت ابوعلی سینا
@@ -26,7 +26,7 @@ events:
     fa_IR:
     - ایران
   sources:
-    - https://fa.wikipedia.org/wiki/۱_شهریور
+    - https://fa.wikipedia.org/wiki/ابن_سینا
 - partial_key: "faghdieh_cool_celebration"
   title:
     fa_IR: فغدیه، جشن خنکی هوا
@@ -51,8 +51,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources:
-  - https://fa.wikipedia.org/wiki/۲_شهریور
 - partial_key: "andarzgo_martyrdom"
   title:
     fa_IR: شهادت سید علی اندرزگو
@@ -121,8 +119,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources:
-    - https://fa.wikipedia.org/wiki/۴_شهریور
 - partial_key: "wrestling_day"
   title:
     fa_IR: روز کشتی
@@ -195,7 +191,7 @@ events:
     fa_IR: روز بانکداری اسلامی (تصویب قانون عملیات بانکی بدون ربا)
   description:
     fa_IR: روز بانکداری اسلامی (تصویب قانون عملیات بانکی بدون ربا)
-   month: 6
+  month: 6
   day: 10
   calendar:
     en_US:
@@ -252,8 +248,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources:
-    - https://fa.wikipedia.org/wiki/۱۳_شهریور
 - partial_key: "abu_rayhan_al_biruni_commemoration_day"
   title:
     fa_IR: روز بزرگداشت ابوریحان بیرونی
@@ -267,7 +261,7 @@ events:
     fa_IR:
     - ایران
   sources:
-    - https://fa.wikipedia.org/wiki/۱۳_شهریور
+    - https://fa.wikipedia.org/wiki/ابوریحان_بیرونی
 - partial_key: "anthropology_day"
   title:
     fa_IR: روز مردم‌شناسی
@@ -280,8 +274,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources:
-    - https://fa.wikipedia.org/wiki/۱۳_شهریور
 - partial_key: " qodosi_and_dastjerdi_martyrdom"
   title:
     fa_IR: شهادت آیت‌الله قدوسی و سرتیپ وحید دستجردی
