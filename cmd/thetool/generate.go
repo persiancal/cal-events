@@ -29,9 +29,9 @@ func compareFiles(src, dst []byte) error {
 		FromFile: "new",
 		ToFile:   "old",
 	}
-	text, err := difflib.GetUnifiedDiffString(diff)
+	text, _ := difflib.GetUnifiedDiffString(diff)
 	_, _ = fmt.Fprint(os.Stderr, text)
-	return err
+	return fmt.Errorf("the dist folder is not up to date, please run make generate command and commit the result")
 }
 
 func compareAndWrite(fl string, data []byte) error {
