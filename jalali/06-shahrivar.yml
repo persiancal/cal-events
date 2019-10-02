@@ -51,7 +51,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "andarzgo_martyrdom"
+- partial_key: "ali_andarzgo_martyrdom"
   title:
     fa_IR: شهادت سید علی اندرزگو
   description:
@@ -119,11 +119,11 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "wrestling_day"
+- partial_key: "qolamreza_takhti_wrestling_day"
   title:
-    fa_IR: روز کشتی
+    fa_IR:  تولد جهان پهلوان غلامرضاتختی و روز کشتی
   description:
-    fa_IR: روز کشتی
+    fa_IR:  تولد جهان پهلوان غلامرضاتختی و روز کشتی
   month: 6
   day: 5
   calendar:
@@ -131,6 +131,9 @@ events:
     - Iran
     fa_IR:
     - ایران
+  sources:
+  - https://fa.wikipedia.org/wiki/غلامرضا_تختی
+  - https://fa.wikipedia.org/wiki/کشتی_(ورزش)
 - partial_key: "mohammad_ibn_zakariya_razi_commemoration_day"
   title:
     fa_IR: روز بزرگداشت محمد بن زکریای رازی
@@ -171,7 +174,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "day_against_terrorism"
+- partial_key: "counter_terrorism_day"
   title:
     fa_IR: روز مبارزه با تروریسم (انفجار دفتر نخست‌وزیری و شهادت رجایی و باهنر)
   description:
@@ -186,7 +189,7 @@ events:
     - ایران
   sources:
     - https://fa.wikipedia.org/wiki/انفجار_در_دفتر_نخست‌وزیری_جمهوری_اسلامی_ایران
-- partial_key: "islamic_banking"
+- partial_key: "islamic_banking_day"
   title:
     fa_IR: روز بانکداری اسلامی (تصویب قانون عملیات بانکی بدون ربا)
   description:
@@ -198,6 +201,8 @@ events:
     - Iran
     fa_IR:
     - ایران
+  sources:
+    - https://fa.wikipedia.org/wiki/بانکداری_اسلامی
 - partial_key: "printing_industry_day"
   title:
     fa_IR: روز صنعت چاپ
@@ -236,7 +241,7 @@ events:
     - ایران
   sources:
     - https://fa.wikipedia.org/wiki/رئیس‌علی_دلواری
-- partial_key: "tavon_day"
+- partial_key: "cooperative_day"
   title:
     fa_IR: روز تعاون
   description:
@@ -274,7 +279,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: " qodosi_and_dastjerdi_martyrdom"
+- partial_key: "qodosi_and_dastjerdi_martyrdom"
   title:
     fa_IR: شهادت آیت‌الله قدوسی و سرتیپ وحید دستجردی
   description:
