@@ -11,11 +11,11 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "257"
+- partial_key: "RezaKhan_English_coup"
   title:
-    fa_IR: کودتای رضاخان
+    fa_IR: کودتای انگلیسی رضاخان (۱۲۹۹ه.ش)
   description:
-    fa_IR: کودتای رضاخان
+    fa_IR: کودتای انگلیسی رضاخان (۱۲۹۹ه.ش)
   year: 1299
   month: 12
   day: 3
@@ -24,6 +24,8 @@ events:
     - Iran
     fa_IR:
     - ایران
+  sources:
+    - https://fa.wikipedia.org/wiki/کودتای_۳_اسفند_۱۲۹۹
 - partial_key: "259"
   title:
     fa_IR: اسفندروز، جشن اسفندگان، گرامیداشت زمین و بانوان / جشن برزگران
@@ -60,7 +62,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "264"
+- partial_key: "Education_and_Islamic_Education"
   title:
     fa_IR: روز امور تربیتی و تربیت اسلامی
   description:
@@ -72,7 +74,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "266"
+- partial_key: "Consumer_Rights"
   title:
     fa_IR: روز ملی حمایت از حقوق مصرف‌کنندگان
   description:
@@ -242,11 +244,11 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "285"
+- partial_key: "Chemical_bombing_of_Halabja"
   title:
-    fa_IR: بمباران شیمیایی حلبچه توسط ارتش بعث عراق
+    fa_IR: بمباران شیمیایی حلبچه توسط ارتش بعث عراق (۱۳۶۶ ه.ش)
   description:
-    fa_IR: بمباران شیمیایی حلبچه توسط ارتش بعث عراق
+    fa_IR: بمباران شیمیایی حلبچه توسط ارتش بعث عراق (۱۳۶۶ ه.ش)
   year: 1366
   month: 12
   day: 25
@@ -255,6 +257,8 @@ events:
     - Iran
     fa_IR:
     - ایران
+  sources:
+    - https://fa.wikipedia.org/wiki/حمله_شیمیایی_به_حلبچه
 - partial_key: "286"
   title:
     fa_IR: فروردگان
