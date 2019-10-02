@@ -1,5 +1,5 @@
 export ROOT:=$(realpath $(dir $(firstword $(MAKEFILE_LIST))))
-export GO111MODULE=on
+export GO111MODULE=off
 test:
 	cd $(ROOT)/cmd/thetool &&  go test
 
