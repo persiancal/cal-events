@@ -1,5 +1,5 @@
 events:
-- partial_key: "41"
+- partial_key: "mollasadra_commemoration_day"
   title:
     fa_IR: روز بزرگداشت ملاصدرا (صدرالمتألهین)
   description:
@@ -11,7 +11,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "42"
+  sources:
+    - https://fa.wikipedia.org/wiki/ملاصدرا
+- partial_key: "efficiency_and_consumption_optimization_day"
   title:
     fa_IR: روز بهره‌وری و بهینه‌سازی مصرف
   description:
@@ -23,7 +25,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "44"
+- partial_key: "arghasoan_heat_celebration"
   title:
     fa_IR: ارغاسوان، جشن گرما
   description:
@@ -35,11 +37,12 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "45"
+- partial_key: "liberation_of_khorramshahr"
   title:
     fa_IR: فتح خرمشهر در عملیات بیت‌المقدس (۱۳۶۱ ه‍.ش) و روز مقاومت، ایثار و پیروزی
   description:
     fa_IR: فتح خرمشهر در عملیات بیت‌المقدس (۱۳۶۱ ه‍.ش) و روز مقاومت، ایثار و پیروزی
+  year: 1361
   month: 3
   day: 3
   calendar:
@@ -47,11 +50,13 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "48"
+  sources:
+    - https://fa.wikipedia.org/wiki/آزادسازی_خرمشهر
+- partial_key: "dezful_resistance_day"
   title:
-    fa_IR: روز دزفول
+    fa_IR: روز دزفول و روز مقاومت و پایداری
   description:
-    fa_IR: روز دزفول
+    fa_IR: روز دزفول و روز مقاومت و پایداری
   month: 3
   day: 4
   calendar:
@@ -59,23 +64,13 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "49"
+  sources:
+    - https://fa.wikipedia.org/wiki/روز_مقاومت_دزفول
+- partial_key: "nasim_mehr_day"
   title:
-    fa_IR: ' روز مقاومت و پایداری'
+    fa_IR: روز نسیم مهر (روز حمایت از خانواده ی زندانیان)
   description:
-    fa_IR: ' روز مقاومت و پایداری'
-  month: 3
-  day: 4
-  calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "51"
-  title:
-    fa_IR: روز نسیم مهر (روز حمایت از خانوادهٔ زندانیان)
-  description:
-    fa_IR: روز نسیم مهر (روز حمایت از خانوادهٔ زندانیان)
+    fa_IR: روز نسیم مهر (روز حمایت از خانواده ی زندانیان)
   month: 3
   day: 5
   calendar:
@@ -83,7 +78,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "52"
+- partial_key: "khordadegan_celebration"
   title:
     fa_IR: خردادروز، جشن خردادگان
   description:
@@ -95,7 +90,9 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "55"
+  sources:
+    - https://fa.wikipedia.org/wiki/خردادگان
+- partial_key: "opening_of_iranian_parliament"
   title:
     fa_IR: افتتاح اولین دورهٔ مجلس شورای اسلامی
   description:
@@ -108,7 +105,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "63"
+  sources:
+    - https://fa.wikipedia.org/wiki/مجلس_شورای_اسلامی
+- partial_key: "ruhollah_khomeini_death"
   title:
     fa_IR: رحلت امام خمینی رهبر انقلاب اسلامی
   description:
@@ -123,7 +122,9 @@ events:
     - ایران
   holiday:
     Iran: []
-- partial_key: "64"
+  sources:
+    - https://fa.wikipedia.org/wiki/سید_روح‌الله_خمینی
+- partial_key: "khamenei_election_to_supreme_leader"
   title:
     fa_IR: انتخاب آیت‌الله خامنه‌ای به رهبری
   description:
@@ -136,7 +137,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "65"
+  sources:
+    - https://fa.wikipedia.org/wiki/سید_علی_خامنه‌ای
+- partial_key: "arrest_of_ruhollah_khomeini"
   title:
     fa_IR: زندانی شدن امام خمینی
   description:
@@ -149,7 +152,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "66"
+  sources:
+    - https://fa.wikipedia.org/wiki/سید_روح‌الله_خمینی#سخنرانی_روز_عاشورا،_دستگیری_و_تظاهرات_۱۵_خرداد
+- partial_key: "15_khordad_uprising"
   title:
     fa_IR: قیام خونین ۱۵ خرداد
   description:
@@ -164,7 +169,9 @@ events:
     - ایران
   holiday:
     Iran: []
-- partial_key: "75"
+  sources:
+    - https://fa.wikipedia.org/wiki/تظاهرات_۱۵_خرداد
+- partial_key: "mohammad_reza_saedi_martyrdom"
   title:
     fa_IR: شهادت آیت‌الله سعیدی
   description:
@@ -177,7 +184,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "83"
+  sources:
+    - https://fa.wikipedia.org/wiki/سید_محمدرضا_سعیدی
+- partial_key: "flower_and_plant_day"
   title:
     fa_IR: روز گل و گیاه
   description:
@@ -189,7 +198,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "85"
+- partial_key: "fedayeen_of_islam_members_martyrdom"
   title:
     fa_IR: شهادت بخارایی، امانی، صفار هرندی و نیک‌نژاد از اعضای فدائیان اسلام
   description:
@@ -202,7 +211,13 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "87"
+  sources:
+    - https://fa.wikipedia.org/wiki/محمد_بخارایی
+    - https://fa.wikipedia.org/wiki/محمدصادق_امانی
+    - https://fa.wikipedia.org/wiki/رضا_صفار_هرندی
+    - https://fa.wikipedia.org/wiki/مرتضی_نیک‌نژاد
+    - https://fa.wikipedia.org/wiki/فدائیان_اسلام
+- partial_key: "jihad_of_construction_day"
   title:
     fa_IR: روز جهاد کشاورزی (تشکیل جهاد سازندگی)
   description:
@@ -215,7 +230,10 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "90"
+  sources:
+    - https://fa.wikipedia.org/wiki/جهاد_سازندگی
+    - https://fa.wikipedia.org/wiki/وزارت_جهاد_سازندگی
+- partial_key: "ali_shariati_death"
   title:
     fa_IR: درگذشت دکتر علی شریعتی
   description:
@@ -228,7 +246,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "93"
+  sources:
+    - https://fa.wikipedia.org/wiki/علی_شریعتی
+- partial_key: "imam_reza_shrine_bombing"
   title:
     fa_IR: شهادت زائران حرم رضوی (ع) (عاشورای ۱۳۷۳ ه‍.ش)
   description:
@@ -241,7 +261,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "98"
+  sources:
+    - https://fa.wikipedia.org/wiki/بمب‌گذاری_در_حرم_امام_رضا
+- partial_key: "masters_basij_day"
   title:
     fa_IR: روز بسیج استادان
   description:
@@ -253,7 +275,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "97"
+- partial_key: "mostafa_chamran_martyrdom"
   title:
     fa_IR: شهادت دکتر مصطفی چمران
   description:
@@ -266,3 +288,20 @@ events:
     - Iran
     fa_IR:
     - ایران
+  sources:
+    - https://fa.wikipedia.org/wiki/مصطفی_چمران
+- partial_key: "parliament_vote_on_banisadr_inadequacy"
+  title:
+    fa_IR: صدور رأی مجلس به عدم کفایت بنی صدر
+  description:
+    fa_IR: صدور رأی مجلس به عدم کفایت بنی صدر
+  year: 1360
+  month: 3
+  day: 31
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+  sources:
+    - https://fa.wikipedia.org/wiki/ابوالحسن_بنی‌صدر
