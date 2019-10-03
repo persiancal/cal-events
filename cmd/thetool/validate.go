@@ -2,7 +2,11 @@ package main
 
 import (
 	"fmt"
-	"strings"
+	"regexp"
+)
+
+var (
+	partialValidator = regexp.MustCompile("^[a-z0-9_]+$")
 )
 
 func validate(cmd *command, fl *File) error {
@@ -33,8 +37,9 @@ func validateEventContent(ev []Event, p *Preset, countries []string) error {
 			return fmt.Errorf("the Key should not be in the input file")
 		}
 
-		if strings.Trim(ev[i].PartialKey, "\n\t ") == "" {
-			return fmt.Errorf("the partial key is empty")
+
+		if !partialValidator.MatchString(ev[i].PartialKey) {
+			return fmt.Errorf("the partial key %q is invalid, only lower english chars, _ and numbers are allowed ([a-z0-9_])", ev[i].PartialKey)
 		}
 
 		if ev[i].Month <= 0 || ev[i].Month > len(p.MonthsNormal) {

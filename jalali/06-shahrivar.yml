@@ -78,7 +78,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "soviet_invasion_of_iran "
+- partial_key: "soviet_invasion_of_iran"
   title:
     fa_IR: اشغال ایران به دست متفقین
   description:
