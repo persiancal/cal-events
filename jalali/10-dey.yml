@@ -1,11 +1,10 @@
 events:
-- partial_key: "213"
+- partial_key: "sun_birth_day"
   title:
     fa_IR: روز میلاد خورشید، جشن خرم‌روز / نخستین جشن دیگان / دیدار طلوع خورشید در
       تقویم آفتابی چارتاقی نیاسر
   description:
-    fa_IR: روز میلاد خورشید، جشن خرم‌روز / نخستین جشن دیگان / دیدار طلوع خورشید در
-      تقویم آفتابی چارتاقی نیاسر
+    fa_IR:  به مناسبت برخورد نام روز با نام ماه که نام خداوند نیز بود در ایران باستان جشن گرفته می‌شد
   month: 10
   day: 1
   calendar:
@@ -13,7 +12,8 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "216"
+  sources: https://fa.wikipedia.org/wiki/خرم‌روز
+- partial_key: "registry_office_day"
   title:
     fa_IR: روز ثبت احوال
   description:
@@ -25,7 +25,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "218"
+- partial_key: "bazaar_celebration"
   title:
     fa_IR: بازارجشن
   description:
@@ -37,7 +37,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "220"
+- partial_key: "earthquake_safety_day"
   title:
     fa_IR: روز ایمنی در برابر زلزله و کاهش اثرات بلایای طبیعی
   description:
@@ -49,11 +49,11 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "219"
+- partial_key: "zartosht_no_diso"
   title:
     fa_IR: روز درگذشت زرتشت
   description:
-    fa_IR: روز درگذشت زرتشت
+    fa_IR: مرگ زرتشت در پنجم دی ماه گاه‌شماری ایرانی واقع شده‌است این روز را روز خورایزد گویند
   month: 10
   day: 5
   calendar:
@@ -61,6 +61,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
+  sources : https://fa.wikipedia.org/wiki/مرگ_زرتشت
 - partial_key: "222"
   title:
     fa_IR: شهادت آیت‌الله حسین غفاری
@@ -74,7 +75,8 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "223"
+  sources : https://fa.wikipedia.org/wiki/حسین_غفاری_(روحانی)
+- partial_key: "literacy_movement_organization_formation"
   title:
     fa_IR: تشکیل نهضت سوادآموزی
   description:
@@ -87,7 +89,8 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "226"
+  sources: https://fa.wikipedia.org/wiki/سازمان_نهضت_سوادآموزی
+- partial_key: "dey_second_celebration"
   title:
     fa_IR: دی‌به‌آذرروز، دومین جشن دیگان
   description:
@@ -99,7 +102,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "225"
+- partial_key: "petrochemical_industry_day"
   title:
     fa_IR: روز صنعت پتروشیمی
   description:
@@ -111,19 +114,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "228"
-  title:
-    fa_IR: ۹ دی
-  description:
-    fa_IR: ۹ دی
-  month: 10
-  day: 9
-  calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "229"
+- partial_key: "imam_to_gorbachov_message"
   title:
     fa_IR: ابلاغ پیام تاریخی امام خمینی به گورباچف رهبر شوروی سابق
   description:
@@ -136,7 +127,8 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "234"
+  sources: https://fa.wikipedia.org/wiki/نامه_سید_روح‌الله_خمینی_به_میخائیل_گورباچف
+- partial_key: "vegan_celebration"
   title:
     fa_IR: سیرسور، جشن گیاه‌خواری
   description:
@@ -148,7 +140,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "237"
+- partial_key: "dey_third_celebration"
   title:
     fa_IR: جشن پیکرتراشی / دی‌به‌مهرروز، سومین جشن دیگان
   description:
@@ -160,7 +152,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "239"
+- partial_key: "derafshs_celebration"
   title:
     fa_IR: جشن درامزینان، جشن درفش‌ها
   description:
@@ -185,6 +177,7 @@ events:
     - Iran
     fa_IR:
     - ایران
+  sources: https://fa.wikipedia.org/wiki/کشف_حجاب_در_ایران
 - partial_key: "247"
   title:
     fa_IR: قیام خونین مردم قم
