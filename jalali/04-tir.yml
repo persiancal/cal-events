@@ -188,7 +188,7 @@ events:
     - ایران
   sources:
     - https://fa.wikipedia.org/wiki/عبدالحسین_امینی
-- partial_key: "iran_air_Flight_655_shot_down"
+- partial_key: "iran_air_flight_655_shot_down"
   title:
     fa_IR: حملهٔ ناوگان آمریکا به هواپیمای مسافربری ایران
   description:
