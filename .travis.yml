@@ -4,6 +4,7 @@ go:
 sudo: false
 script:
 - make validate
+- make generate
 deploy:
   provider: pages:git
   edge: true
