@@ -12,7 +12,8 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: https://fa.wikipedia.org/wiki/خرم‌روز
+  sources:
+    - https://fa.wikipedia.org/wiki/خرم‌روز
 - partial_key: "registry_office_day"
   title:
     fa_IR: روز ثبت احوال
@@ -61,7 +62,8 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources : https://fa.wikipedia.org/wiki/مرگ_زرتشت
+  sources :
+    - https://fa.wikipedia.org/wiki/مرگ_زرتشت
 - partial_key: "qafari_death"
   title:
     fa_IR: شهادت آیت‌الله حسین غفاری
@@ -75,7 +77,8 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources : https://fa.wikipedia.org/wiki/حسین_غفاری_(روحانی)
+  sources :
+    - https://fa.wikipedia.org/wiki/حسین_غفاری_(روحانی)
 - partial_key: "literacy_movement_organization_formation"
   title:
     fa_IR: تشکیل نهضت سوادآموزی
@@ -89,7 +92,8 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: https://fa.wikipedia.org/wiki/سازمان_نهضت_سوادآموزی
+  sources:
+    - https://fa.wikipedia.org/wiki/سازمان_نهضت_سوادآموزی
 - partial_key: "dey_second_celebration"
   title:
     fa_IR: دی‌به‌آذرروز، دومین جشن دیگان
@@ -102,7 +106,8 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources : https://fa.wikipedia.org/wiki/جشن‌های_زرتشتی#جشن_دی‌گان
+  sources :
+    - https://fa.wikipedia.org/wiki/جشن‌های_زرتشتی#جشن_دی‌گان
 - partial_key: "petrochemical_industry_day"
   title:
     fa_IR: روز صنعت پتروشیمی
@@ -128,7 +133,8 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: https://fa.wikipedia.org/wiki/نامه_سید_روح‌الله_خمینی_به_میخائیل_گورباچف
+  sources:
+    - https://fa.wikipedia.org/wiki/نامه_سید_روح‌الله_خمینی_به_میخائیل_گورباچف
 - partial_key: "vegan_celebration"
   title:
     fa_IR: سیرسور، جشن گیاه‌خواری
@@ -153,7 +159,8 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: https://fa.wikipedia.org/wiki/جشن‌های_زرتشتی#جشن_دی‌گان
+  sources:
+    - https://fa.wikipedia.org/wiki/جشن‌های_زرتشتی#جشن_دی‌گان
 - partial_key: "derafshs_celebration"
   title:
     fa_IR: جشن درامزینان، جشن درفش‌ها
@@ -179,7 +186,8 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: https://fa.wikipedia.org/wiki/کشف_حجاب_در_ایران
+  sources:
+    - https://fa.wikipedia.org/wiki/کشف_حجاب_در_ایران
 - partial_key: "qom_protest"
   title:
     fa_IR: قیام خونین مردم قم
@@ -193,7 +201,8 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources : https://fa.wikipedia.org/wiki/تظاهرات_۱۹_دی_قم
+  sources :
+    - https://fa.wikipedia.org/wiki/تظاهرات_۱۹_دی_قم
 - partial_key: "amir_kabir_murder"
   title:
     fa_IR: قتل میرزاتقی‌خان امیرکبیر
@@ -207,7 +216,8 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: https://fa.wikipedia.org/wiki/امیرکبیر#قتل
+  sources:
+    - https://fa.wikipedia.org/wiki/امیرکبیر#قتل
 - partial_key: "islamic_revolution_council_formation"
   title:
     fa_IR: تشکیل شورای انقلاب
@@ -221,7 +231,8 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources: https://fa.wikipedia.org/wiki/شورای_انقلاب_اسلامی_ایران
+  sources:
+    - https://fa.wikipedia.org/wiki/شورای_انقلاب_اسلامی_ایران
 - partial_key: "dey_fourth_celebration"
   title:
     fa_IR: دی‌به‌دین‌روز، چهارمین جشن دیگان
@@ -234,7 +245,8 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-  sources: https://fa.wikipedia.org/wiki/جشن‌های_زرتشتی#جشن_دی‌گان
+  sources:
+    - https://fa.wikipedia.org/wiki/جشن‌های_زرتشتی#جشن_دی‌گان
 - partial_key: "shah_leaving"
   title:
     fa_IR: خروج شاه از ایران
@@ -248,7 +260,8 @@ events:
     - Iran
     fa_IR:
     - ایران
-  sources : https://fa.wikipedia.org/wiki/محمدرضا_پهلوی#انقلاب_۱۳۵۷_و_ترک_ایران
+  sources :
+    - https://fa.wikipedia.org/wiki/محمدرضا_پهلوی#انقلاب_۱۳۵۷_و_ترک_ایران
 - partial_key: "safavi_death"
   title:
     fa_IR: شهادت نواب صفوی، طهماسبی، برادران واحدی و ذوالقدر از اعضای فداییان اسلام
