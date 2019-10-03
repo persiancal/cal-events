@@ -62,7 +62,7 @@ events:
     fa_IR:
     - باستانی
   sources : https://fa.wikipedia.org/wiki/مرگ_زرتشت
-- partial_key: "222"
+- partial_key: "qafari_death"
   title:
     fa_IR: شهادت آیت‌الله حسین غفاری
   description:
@@ -102,6 +102,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
+  sources : https://fa.wikipedia.org/wiki/جشن‌های_زرتشتی#جشن_دی‌گان
 - partial_key: "petrochemical_industry_day"
   title:
     fa_IR: روز صنعت پتروشیمی
@@ -114,7 +115,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "imam_to_gorbachov_message"
+- partial_key: "imam_to_gorbachov_historical_message"
   title:
     fa_IR: ابلاغ پیام تاریخی امام خمینی به گورباچف رهبر شوروی سابق
   description:
@@ -152,6 +153,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
+  sources: https://fa.wikipedia.org/wiki/جشن‌های_زرتشتی#جشن_دی‌گان
 - partial_key: "derafshs_celebration"
   title:
     fa_IR: جشن درامزینان، جشن درفش‌ها
@@ -164,7 +166,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "240"
+- partial_key: "unveiling"
   title:
     fa_IR: اجرای طرح حذف حجاب
   description:
@@ -178,7 +180,7 @@ events:
     fa_IR:
     - ایران
   sources: https://fa.wikipedia.org/wiki/کشف_حجاب_در_ایران
-- partial_key: "247"
+- partial_key: "qom_protest"
   title:
     fa_IR: قیام خونین مردم قم
   description:
@@ -191,11 +193,12 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "248"
+  sources : https://fa.wikipedia.org/wiki/تظاهرات_۱۹_دی_قم
+- partial_key: "amir_kabir_murder"
   title:
-    fa_IR: شهادت میرزاتقی‌خان امیرکبیر
+    fa_IR: قتل میرزاتقی‌خان امیرکبیر
   description:
-    fa_IR: شهادت میرزاتقی‌خان امیرکبیر
+    fa_IR: قتل میرزاتقی‌خان امیرکبیر
   year: 1230
   month: 10
   day: 20
@@ -204,7 +207,8 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "250"
+  sources: https://fa.wikipedia.org/wiki/امیرکبیر#قتل
+- partial_key: "islamic_revolution_council_formation"
   title:
     fa_IR: تشکیل شورای انقلاب
   description:
@@ -217,7 +221,8 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "251"
+  sources: https://fa.wikipedia.org/wiki/شورای_انقلاب_اسلامی_ایران
+- partial_key: "dey_fourth_celebration"
   title:
     fa_IR: دی‌به‌دین‌روز، چهارمین جشن دیگان
   description:
@@ -229,7 +234,8 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "254"
+  sources: https://fa.wikipedia.org/wiki/جشن‌های_زرتشتی#جشن_دی‌گان
+- partial_key: "shah_leaving"
   title:
     fa_IR: خروج شاه از ایران
   description:
@@ -242,7 +248,8 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "256"
+  sources : https://fa.wikipedia.org/wiki/محمدرضا_پهلوی#انقلاب_۱۳۵۷_و_ترک_ایران
+- partial_key: "safavi_death"
   title:
     fa_IR: شهادت نواب صفوی، طهماسبی، برادران واحدی و ذوالقدر از اعضای فداییان اسلام
   description:
@@ -255,7 +262,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "260"
+- partial_key: "qazeh_day"
   title:
     fa_IR: روز غزه
   description:
