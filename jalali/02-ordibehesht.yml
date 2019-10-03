@@ -26,36 +26,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "establishment_of_the_islamic_revolutionary_guard_corps"
-  title:
-    fa_IR: تأسیس سپاه پاسداران انقلاب اسلامی
-  description:
-    fa_IR: تأسیس سپاه پاسداران انقلاب اسلامی
-  year: 1358
-  month: 2
-  day: 2
-  calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  sources:
-    - https://fa.wikipedia.org/wiki/سپاه_پاسداران_انقلاب_اسلامی
-- partial_key: "anniversary_of_the_iranian_cultural_revolution"
-  title:
-    fa_IR: اعلام انقلاب فرهنگی
-  description:
-    fa_IR: اعلام انقلاب فرهنگی
-  year: 1359
-  month: 2
-  day: 2
-  calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  sources:
-    - https://fa.wikipedia.org/wiki/انقلاب_فرهنگی_ایران
 - partial_key: "ordibeheshtegan_celebration"
   title:
     fa_IR: اردیبهشت‌روز، جشن اردیبهشتگان
@@ -70,6 +40,36 @@ events:
     - باستانی
   sources:
     - https://fa.wikipedia.org/wiki/اردیبهشتگان
+- partial_key: "establishment_of_the_islamic_revolutionary_guard_corps"
+  title:
+    fa_IR: تأسیس سپاه پاسداران انقلاب اسلامی
+  description:
+    fa_IR: تأسیس سپاه پاسداران انقلاب اسلامی
+  year: 1358
+  month: 2
+  day: 2
+  calendar:
+    en_US:
+      - Iran
+    fa_IR:
+      - ایران
+  sources:
+    - https://fa.wikipedia.org/wiki/سپاه_پاسداران_انقلاب_اسلامی
+- partial_key: "anniversary_of_the_iranian_cultural_revolution"
+  title:
+    fa_IR: اعلام انقلاب فرهنگی
+  description:
+    fa_IR: اعلام انقلاب فرهنگی
+  year: 1359
+  month: 2
+  day: 2
+  calendar:
+    en_US:
+      - Iran
+    fa_IR:
+      - ایران
+  sources:
+    - https://fa.wikipedia.org/wiki/انقلاب_فرهنگی_ایران
 - partial_key: "shaykh_bahai_commemoration_day"
   title:
     fa_IR: روز بزرگداشت شیخ بهایی
