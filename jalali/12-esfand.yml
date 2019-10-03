@@ -201,8 +201,8 @@ events:
     - Iran
     fa_IR:
     - ایران
-   sources:
-    - https://fa.wikipedia.org/wiki/راهیان_نور  
+  sources:
+    - https://fa.wikipedia.org/wiki/راهیان_نور
 - partial_key: "flower_pot_celebration"
   title:
     fa_IR: جشن گلدان
