@@ -3702,8 +3702,8 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "253"
-  key: 2803912925
+- partial_key: absalan_celebration
+  key: 3048677326
   title:
     fa_IR: جشن اسفندی / جشن آبسالان، بهارجشن / نمایش‌بازی همگانی
   description:
@@ -3715,8 +3715,8 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "257"
-  key: 1503397335
+- partial_key: reza_khan_coup
+  key: 692716334
   title:
     fa_IR: کودتای رضاخان
   description:
@@ -3729,8 +3729,10 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "259"
-  key: 116971711
+  sources:
+  - https://fa.wikipedia.org/wiki/کودتای_۳_اسفند_۱۲۹۹
+- partial_key: spndarmzgan_celebration
+  key: 2022109073
   title:
     fa_IR: اسفندروز، جشن اسفندگان، گرامیداشت زمین و بانوان / جشن برزگران
   description:
@@ -3742,12 +3744,14 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "261"
-  key: 3257138848
+  sources:
+  - https://fa.wikipedia.org/wiki/جشن_سپندارمذگان
+- partial_key: engineers_day
+  key: 3641538488
   title:
-    fa_IR: روز بزرگداشت خواجه نصیرالدین طوسی
+    fa_IR: روز بزرگداشت خواجه نصیر الدین طوسی و روز مهندس
   description:
-    fa_IR: روز بزرگداشت خواجه نصیرالدین طوسی
+    fa_IR: روز بزرگداشت خواجه نصیر الدین طوسی و روز مهندس
   month: 12
   day: 5
   calendar:
@@ -3755,21 +3759,39 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "262"
-  key: 1623934185
+  sources:
+  - https://fa.wikipedia.org/wiki/روز_مهندس
+- partial_key: attorneys_day
+  key: 2408904087
   title:
-    fa_IR: روز مهندسی
+    fa_IR: سالروز استقلال کانون وکلای دادگستری و روز وکیل مدافع
   description:
-    fa_IR: روز مهندسی
+    fa_IR: سالروز استقلال کانون وکلای دادگستری و روز وکیل مدافع
   month: 12
-  day: 5
+  day: 7
   calendar:
     en_US:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "264"
-  key: 3776983212
+- partial_key: ali_akbar_dehkhoda_commemoration_day
+  key: 3243098950
+  title:
+    fa_IR: سالروز درگذشت علی اکبر دهخدا
+  description:
+    fa_IR: سالروز درگذشت علی اکبر دهخدا
+  year: 1334
+  month: 12
+  day: 7
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+  sources:
+  - https://fa.wikipedia.org/wiki/علی‌اکبر_دهخدا
+- partial_key: education_and_islamic_education
+  key: 2979393316
   title:
     fa_IR: روز امور تربیتی و تربیت اسلامی
   description:
@@ -3781,8 +3803,8 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "266"
-  key: 1091139393
+- partial_key: consumer_rights_day
+  key: 3480320380
   title:
     fa_IR: روز ملی حمایت از حقوق مصرف‌کنندگان
   description:
@@ -3794,8 +3816,10 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "267"
-  key: 3014928322
+  sources:
+  - https://fa.wikipedia.org/wiki/حمایت_از_مصرف‌کننده
+- partial_key: vkhshnkam_celebration
+  key: 3019924643
   title:
     fa_IR: جشن وخشنکام
   description:
@@ -3807,12 +3831,13 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "271"
-  key: 857324053
+- partial_key: charity_day
+  key: 2863594514
   title:
-    fa_IR: روز احسان و نیکوکاری
+    fa_IR: روز احسان و نیکوکاری و روز تأسیس کمیته امداد امام خمینی
   description:
-    fa_IR: روز احسان و نیکوکاری
+    fa_IR: روز احسان و نیکوکاری و روز تأسیس کمیته امداد امام خمینی
+  year: 1357
   month: 12
   day: 14
   calendar:
@@ -3820,8 +3845,10 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "272"
-  key: 1741691131
+  sources:
+  - https://fa.wikipedia.org/wiki/کمیته_امداد_امام_خمینی
+- partial_key: planting_tree_day
+  key: 3040617981
   title:
     fa_IR: روز درختکاری
   description:
@@ -3833,8 +3860,10 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "275"
-  key: 3185288613
+  sources:
+  - https://fa.wikipedia.org/wiki/روز_درخت‌کاری
+- partial_key: establishing_cultural_and_artistic_centers_of_mosques
+  key: 3318503156
   title:
     fa_IR: سالروز تأسیس کانون‌های فرهنگی و هنری مساجد کشور
   description:
@@ -3846,12 +3875,13 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "276"
-  key: 3745301660
+- partial_key: sayyid_jamal_al_din_asad_abadi_commemoration_day
+  key: 1689389888
   title:
     fa_IR: روز بزرگداشت سید جمال‌الدین اسدآبادی
   description:
     fa_IR: روز بزرگداشت سید جمال‌الدین اسدآبادی
+  year: 1275
   month: 12
   day: 18
   calendar:
@@ -3859,8 +3889,10 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "277"
-  key: 1049716156
+  sources:
+  - https://fa.wikipedia.org/wiki/سید_جمال‌الدین_اسدآبادی
+- partial_key: nowruz_rivers_celebration
+  key: 304958038
   title:
     fa_IR: جشن نوروز رودها
   description:
@@ -3872,8 +3904,10 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "278"
-  key: 1375346977
+  sources:
+  - https://fa.wikipedia.org/wiki/جشن_نوروز_رودها
+- partial_key: rahiyan_noor_day
+  key: 1087647552
   title:
     fa_IR: روز راهیان نور
   description:
@@ -3885,8 +3919,10 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "279"
-  key: 2101879882
+  sources:
+  - https://fa.wikipedia.org/wiki/راهیان_نور
+- partial_key: flower_pot_celebration
+  key: 1073186056
   title:
     fa_IR: جشن گلدان
   description:
@@ -3898,8 +3934,8 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "280"
-  key: 434985865
+- partial_key: nizami_ganjavi_commemoration_day
+  key: 586034324
   title:
     fa_IR: روز بزرگداشت نظامی گنجوی
   description:
@@ -3911,8 +3947,10 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "281"
-  key: 861472603
+  sources:
+  - https://fa.wikipedia.org/wiki/نظامی_گنجوی
+- partial_key: martyrs_day
+  key: 26447559
   title:
     fa_IR: روز بزرگداشت شهدا (تأسیس بنیاد شهید انقلاب اسلامی)
   description:
@@ -3925,8 +3963,8 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "282"
-  key: 3618349308
+- partial_key: first_parliament_election
+  key: 1834714338
   title:
     fa_IR: برگزاری انتخابات اولین دورهٔ مجلس شورای اسلامی
   description:
@@ -3939,8 +3977,10 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "283"
-  key: 2476445452
+  sources:
+  - https://fa.wikipedia.org/wiki/دوره_نخست_مجلس_شورای_اسلامی
+- partial_key: ferdowsis_shahnameh
+  key: 3568323225
   title:
     fa_IR: هزارهٔ شاهنامه، هزارمین سالگرد پایان سرایش شاهنامهٔ فردوسی
   description:
@@ -3952,12 +3992,15 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "284"
-  key: 821175065
+  sources:
+  - https://fa.wikipedia.org/wiki/شاهنامه
+- partial_key: parvin_etesami_commemoration_day
+  key: 1016800166
   title:
     fa_IR: روز بزرگداشت پروین اعتصامی
   description:
     fa_IR: روز بزرگداشت پروین اعتصامی
+  year: 1320
   month: 12
   day: 25
   calendar:
@@ -3965,8 +4008,10 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "285"
-  key: 1756915874
+  sources:
+  - https://fa.wikipedia.org/wiki/پروین_اعتصامی
+- partial_key: chemical_bombing_of_halabja
+  key: 771972650
   title:
     fa_IR: بمباران شیمیایی حلبچه توسط ارتش بعث عراق
   description:
@@ -3979,8 +4024,10 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "286"
-  key: 3140744870
+  sources:
+  - https://fa.wikipedia.org/wiki/حمله_شیمیایی_به_حلبچه
+- partial_key: farvardegan_celebration
+  key: 1344612988
   title:
     fa_IR: فروردگان
   description:
@@ -3992,8 +4039,10 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "287"
-  key: 630785988
+  sources:
+  - https://fa.wikipedia.org/wiki/فروردگان
+- partial_key: oshidar_celebration
+  key: 2225627556
   title:
     fa_IR: گاهنبار هَمَسپَتمَدَم، جشن پایان زمستان (در آخرین روز سال) / جشن اوشیدر
       (نجات‌بخش ایرانی) در دریاچهٔ هامون و کوه خواجه / آتش‌افروزی بر بام‌ها در استقبال
@@ -4009,8 +4058,8 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "288"
-  key: 2720825785
+- partial_key: oil_nationalization_movement
+  key: 224704606
   title:
     fa_IR: روز ملی شدن صنعت نفت ایران
   description:
@@ -4025,3 +4074,5 @@ events:
     - ایران
   holiday:
     Iran: []
+  sources:
+  - https://fa.wikipedia.org/wiki/نهضت_ملی‌شدن_نفت
