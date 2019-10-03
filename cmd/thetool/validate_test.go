@@ -13,19 +13,19 @@ func TestValidateEventsOrder(t *testing.T) {
 	}{
 		{
 			events: []Event{
-				{Month: 1, Day: 1, PartialKey: "PK"},
-				{Month: 1, Day: 2, PartialKey: "PK"},
-				{Month: 2, Day: 2, PartialKey: "PK"},
-				{Month: 2, Day: 2, Year: 100, PartialKey: "PK"},
-				{Month: 2, Day: 2, Year: 101, PartialKey: "PK"},
-				{Month: 3, Day: 1, PartialKey: "PK"},
+				{Month: 1, Day: 1, PartialKey: "partial_key"},
+				{Month: 1, Day: 2, PartialKey: "partial_key"},
+				{Month: 2, Day: 2, PartialKey: "partial_key"},
+				{Month: 2, Day: 2, Year: 100, PartialKey: "partial_key"},
+				{Month: 2, Day: 2, Year: 101, PartialKey: "partial_key"},
+				{Month: 3, Day: 1, PartialKey: "partial_key"},
 			},
 			failKey: -1,
 		},
 		{
 			events: []Event{
-				{Month: 2, Day: 2, PartialKey: "PK"},
-				{Month: 2, Day: 1, PartialKey: "PK"},
+				{Month: 2, Day: 2, PartialKey: "partial_key"},
+				{Month: 2, Day: 1, PartialKey: "partial_key"},
 			},
 			failKey: 1,
 		},
@@ -49,31 +49,31 @@ func TestValidateEventsContent(t *testing.T) {
 	}{
 		{
 			events: []Event{
-				{Month: 0, Day: 1, PartialKey: "PK"},
+				{Month: 0, Day: 1, PartialKey: "partial_key"},
 			},
 			failKey: 0,
 		},
 		{
 			events: []Event{
-				{Month: 2, Day: -1, PartialKey: "PK"},
+				{Month: 2, Day: -1, PartialKey: "partial_key"},
 			},
 			failKey: 0,
 		},
 		{
 			events: []Event{
-				{Month: 7, Day: 31, PartialKey: "PK"},
+				{Month: 7, Day: 31, PartialKey: "partial_key"},
 			},
 			failKey: 0,
 		},
 		{
 			events: []Event{
-				{Month: 7, Day: 1, Holiday: map[string][]string{"Invalid": nil}, PartialKey: "PK"},
+				{Month: 7, Day: 1, Holiday: map[string][]string{"Invalid": nil}, PartialKey: "partial_key"},
 			},
 			failKey: 0,
 		},
 		{
 			events: []Event{
-				{Month: 7, Day: 1, Holiday: map[string][]string{"Iran": nil}, PartialKey: "PK"},
+				{Month: 7, Day: 1, Holiday: map[string][]string{"Iran": nil}, PartialKey: "partial_key"},
 			},
 			failKey: -1,
 		},
