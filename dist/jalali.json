@@ -919,17 +919,17 @@
         ]
       },
       "sources": [
-        "https://fa.wikipedia.org/wiki/عملیات_بیت%E2%80%8Cالمقدس"
+        "https://fa.wikipedia.org/wiki/عملیات_بیت‌المقدس"
       ]
     },
     {
-      "partial_key": "teacher_day",
-      "key": 3064246383,
+      "partial_key": "morteza_motahari_death_and_teacher_day",
+      "key": 44093583,
       "title": {
-        "fa_IR": "روز معلم"
+        "fa_IR": "شهادت استاد مرتضی مطهری و روز معلم"
       },
       "description": {
-        "fa_IR": "روز معلم"
+        "fa_IR": "شهادت استاد مرتضی مطهری و روز معلم"
       },
       "year": 1358,
       "month": 2,
@@ -943,31 +943,8 @@
         ]
       },
       "sources": [
+        "https://fa.wikipedia.org/wiki/مرتضی_مطهری",
         "https://fa.wikipedia.org/wiki/روز_معلم"
-      ]
-    },
-    {
-      "partial_key": "morteza_motahari_death",
-      "key": 4188243905,
-      "title": {
-        "fa_IR": "شهادت استاد مرتضی مطهری"
-      },
-      "description": {
-        "fa_IR": "شهادت استاد مرتضی مطهری"
-      },
-      "year": 1358,
-      "month": 2,
-      "day": 12,
-      "calendar": {
-        "en_US": [
-          "Iran"
-        ],
-        "fa_IR": [
-          "ایران"
-        ]
-      },
-      "sources": [
-        "https://fa.wikipedia.org/wiki/مرتضی_مطهری"
       ]
     },
     {
@@ -1018,7 +995,7 @@
     },
     {
       "partial_key": "national_documents_day",
-      "key": 1306690175,
+      "key": 295750217,
       "title": {
         "fa_IR": "روز اسناد ملی و میراث مکتوب"
       },
@@ -1026,7 +1003,7 @@
         "fa_IR": "روز اسناد ملی و میراث مکتوب"
       },
       "month": 2,
-      "day": 17,
+      "day": 19,
       "calendar": {
         "en_US": [
           "Iran"
@@ -1038,26 +1015,6 @@
       "sources": [
         "https://fa.wikipedia.org/wiki/سازمان_اسناد_ملی_ایران"
       ]
-    },
-    {
-      "partial_key": "day_of_special_diseases",
-      "key": 4101886318,
-      "title": {
-        "fa_IR": "روز بیماری‌های خاص و صعب‌العلاج"
-      },
-      "description": {
-        "fa_IR": "روز بیماری‌های خاص و صعب‌العلاج"
-      },
-      "month": 2,
-      "day": 18,
-      "calendar": {
-        "en_US": [
-          "Iran"
-        ],
-        "fa_IR": [
-          "ایران"
-        ]
-      }
     },
     {
       "partial_key": "shaykh_kolayni_commemoration_day",
