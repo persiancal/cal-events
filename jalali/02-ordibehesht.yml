@@ -165,27 +165,12 @@ events:
     fa_IR:
     - ایران
   sources:
-    - https://fa.wikipedia.org/wiki/عملیات_بیت%E2%80%8Cالمقدس
-- partial_key: "teacher_day"
+    - https://fa.wikipedia.org/wiki/عملیات_بیت‌المقدس
+- partial_key: "morteza_motahari_death_and_teacher_day"
   title:
-    fa_IR: روز معلم
+    fa_IR: شهادت استاد مرتضی مطهری و روز معلم
   description:
-    fa_IR: روز معلم
-  year: 1358
-  month: 2
-  day: 12
-  calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  sources:
-    - https://fa.wikipedia.org/wiki/روز_معلم
-- partial_key: "morteza_motahari_death"
-  title:
-    fa_IR: شهادت استاد مرتضی مطهری
-  description:
-    fa_IR: شهادت استاد مرتضی مطهری
+    fa_IR: شهادت استاد مرتضی مطهری و روز معلم
   year: 1358
   month: 2
   day: 12
@@ -196,6 +181,7 @@ events:
     - ایران
   sources:
     - https://fa.wikipedia.org/wiki/مرتضی_مطهری
+    - https://fa.wikipedia.org/wiki/روز_معلم
 - partial_key: "shaykh_sadogh_commemoration_day"
   title:
     fa_IR: روز بزرگداشت شیخ صدوق
@@ -230,7 +216,7 @@ events:
   description:
     fa_IR: روز اسناد ملی و میراث مکتوب
   month: 2
-  day: 17
+  day: 19
   calendar:
     en_US:
     - Iran
@@ -238,18 +224,6 @@ events:
     - ایران
   sources:
     - https://fa.wikipedia.org/wiki/سازمان_اسناد_ملی_ایران
-- partial_key: "day_of_special_diseases"
-  title:
-    fa_IR: روز بیماری‌های خاص و صعب‌العلاج
-  description:
-    fa_IR: روز بیماری‌های خاص و صعب‌العلاج
-  month: 2
-  day: 18
-  calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
 - partial_key: "shaykh_kolayni_commemoration_day"
   title:
     fa_IR: روز بزرگداشت شیخ کلینی
