@@ -3176,14 +3176,14 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "213"
-  key: 142660043
+- partial_key: sun_birth_day
+  key: 2679545892
   title:
     fa_IR: روز میلاد خورشید، جشن خرم‌روز / نخستین جشن دیگان / دیدار طلوع خورشید در
       تقویم آفتابی چارتاقی نیاسر
   description:
-    fa_IR: روز میلاد خورشید، جشن خرم‌روز / نخستین جشن دیگان / دیدار طلوع خورشید در
-      تقویم آفتابی چارتاقی نیاسر
+    fa_IR: به مناسبت برخورد نام روز با نام ماه که نام خداوند نیز بود در ایران باستان
+      جشن گرفته می‌شد
   month: 10
   day: 1
   calendar:
@@ -3191,8 +3191,10 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "216"
-  key: 2082232106
+  sources:
+  - https://fa.wikipedia.org/wiki/خرم‌روز
+- partial_key: registry_office_day
+  key: 2502023198
   title:
     fa_IR: روز ثبت احوال
   description:
@@ -3204,8 +3206,8 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "218"
-  key: 3295379866
+- partial_key: bazaar_celebration
+  key: 4282517583
   title:
     fa_IR: بازارجشن
   description:
@@ -3217,12 +3219,29 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "220"
-  key: 4060004645
+- partial_key: zartosht_no_diso
+  key: 498878940
+  title:
+    fa_IR: روز درگذشت زرتشت
+  description:
+    fa_IR: مرگ زرتشت در پنجم دی ماه گاه‌شماری ایرانی واقع شده‌است این روز را روز خورایزد
+      گویند
+  month: 10
+  day: 5
+  calendar:
+    en_US:
+    - Ancient Iran
+    fa_IR:
+    - باستانی
+  sources:
+  - https://fa.wikipedia.org/wiki/مرگ_زرتشت
+- partial_key: earthquake_safety_day
+  key: 4206080512
   title:
     fa_IR: روز ایمنی در برابر زلزله و کاهش اثرات بلایای طبیعی
   description:
     fa_IR: روز ایمنی در برابر زلزله و کاهش اثرات بلایای طبیعی
+  year: 1358
   month: 10
   day: 5
   calendar:
@@ -3230,21 +3249,8 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "219"
-  key: 1027118513
-  title:
-    fa_IR: روز درگذشت زرتشت
-  description:
-    fa_IR: روز درگذشت زرتشت
-  month: 10
-  day: 5
-  calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-- partial_key: "222"
-  key: 3388461561
+- partial_key: qafari_death
+  key: 2288013666
   title:
     fa_IR: شهادت آیت‌الله حسین غفاری
   description:
@@ -3257,8 +3263,10 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "223"
-  key: 2351155458
+  sources:
+  - https://fa.wikipedia.org/wiki/حسین_غفاری_(روحانی)
+- partial_key: literacy_movement_organization_formation
+  key: 198097646
   title:
     fa_IR: تشکیل نهضت سوادآموزی
   description:
@@ -3271,8 +3279,10 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "226"
-  key: 3590115952
+  sources:
+  - https://fa.wikipedia.org/wiki/سازمان_نهضت_سوادآموزی
+- partial_key: dey_second_celebration
+  key: 1600623794
   title:
     fa_IR: دی‌به‌آذرروز، دومین جشن دیگان
   description:
@@ -3284,8 +3294,10 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "225"
-  key: 3721682297
+  sources:
+  - https://fa.wikipedia.org/wiki/جشن‌های_زرتشتی#جشن_دی‌گان
+- partial_key: petrochemical_industry_day
+  key: 493907254
   title:
     fa_IR: روز صنعت پتروشیمی
   description:
@@ -3297,12 +3309,12 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "228"
-  key: 3837954865
+- partial_key: 9th_of_dey
+  key: 1814254851
   title:
-    fa_IR: ۹ دی
+    fa_IR: روز بصيرت و ميثاق امت با ولايت
   description:
-    fa_IR: ۹ دی
+    fa_IR: روز بصيرت و ميثاق امت با ولايت
   month: 10
   day: 9
   calendar:
@@ -3310,8 +3322,10 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "229"
-  key: 3527182427
+  sources:
+  - https://fa.wikipedia.org/wiki/راهپیمایی_۹_دی
+- partial_key: imam_to_gorbachov_historical_message
+  key: 1613461881
   title:
     fa_IR: ابلاغ پیام تاریخی امام خمینی به گورباچف رهبر شوروی سابق
   description:
@@ -3324,8 +3338,10 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "234"
-  key: 4279479716
+  sources:
+  - https://fa.wikipedia.org/wiki/نامه_سید_روح‌الله_خمینی_به_میخائیل_گورباچف
+- partial_key: vegan_celebration
+  key: 2124535227
   title:
     fa_IR: سیرسور، جشن گیاه‌خواری
   description:
@@ -3337,8 +3353,8 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "237"
-  key: 3669887030
+- partial_key: dey_third_celebration
+  key: 1138203481
   title:
     fa_IR: جشن پیکرتراشی / دی‌به‌مهرروز، سومین جشن دیگان
   description:
@@ -3350,8 +3366,10 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "239"
-  key: 2111555465
+  sources:
+  - https://fa.wikipedia.org/wiki/جشن‌های_زرتشتی#جشن_دی‌گان
+- partial_key: derafshs_celebration
+  key: 488737646
   title:
     fa_IR: جشن درامزینان، جشن درفش‌ها
   description:
@@ -3363,8 +3381,8 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "240"
-  key: 2959746650
+- partial_key: unveiling
+  key: 2207616313
   title:
     fa_IR: اجرای طرح حذف حجاب
   description:
@@ -3377,8 +3395,10 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "247"
-  key: 2261200765
+  sources:
+  - https://fa.wikipedia.org/wiki/کشف_حجاب_در_ایران
+- partial_key: qom_protest
+  key: 2571247473
   title:
     fa_IR: قیام خونین مردم قم
   description:
@@ -3391,12 +3411,14 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "248"
-  key: 4109614548
+  sources:
+  - https://fa.wikipedia.org/wiki/تظاهرات_۱۹_دی_قم
+- partial_key: amir_kabir_murder
+  key: 2999915773
   title:
-    fa_IR: شهادت میرزاتقی‌خان امیرکبیر
+    fa_IR: قتل میرزاتقی‌خان امیرکبیر
   description:
-    fa_IR: شهادت میرزاتقی‌خان امیرکبیر
+    fa_IR: قتل میرزاتقی‌خان امیرکبیر
   year: 1230
   month: 10
   day: 20
@@ -3405,8 +3427,10 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "250"
-  key: 2745966035
+  sources:
+  - https://fa.wikipedia.org/wiki/امیرکبیر#قتل
+- partial_key: islamic_revolution_council_formation
+  key: 746842600
   title:
     fa_IR: تشکیل شورای انقلاب
   description:
@@ -3419,8 +3443,10 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "251"
-  key: 3451342855
+  sources:
+  - https://fa.wikipedia.org/wiki/شورای_انقلاب_اسلامی_ایران
+- partial_key: dey_fourth_celebration
+  key: 3509446021
   title:
     fa_IR: دی‌به‌دین‌روز، چهارمین جشن دیگان
   description:
@@ -3432,8 +3458,10 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "254"
-  key: 3230637419
+  sources:
+  - https://fa.wikipedia.org/wiki/جشن‌های_زرتشتی#جشن_دی‌گان
+- partial_key: shah_leaving
+  key: 4065439629
   title:
     fa_IR: خروج شاه از ایران
   description:
@@ -3446,8 +3474,10 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "256"
-  key: 2156726778
+  sources:
+  - https://fa.wikipedia.org/wiki/محمدرضا_پهلوی#انقلاب_۱۳۵۷_و_ترک_ایران
+- partial_key: safavi_death
+  key: 2622502112
   title:
     fa_IR: شهادت نواب صفوی، طهماسبی، برادران واحدی و ذوالقدر از اعضای فداییان اسلام
   description:
@@ -3460,8 +3490,8 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "260"
-  key: 89306229
+- partial_key: qazeh_day
+  key: 906328093
   title:
     fa_IR: روز غزه
   description:
