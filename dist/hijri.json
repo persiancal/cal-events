@@ -1,0 +1,86 @@
+{
+  "name": "Hijri",
+  "countries": [
+    "Iran"
+  ],
+  "months": {
+    "normal": [
+      29,
+      29,
+      29,
+      29,
+      29,
+      29,
+      29,
+      29,
+      29,
+      29,
+      29,
+      29
+    ],
+    "leap": [
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30
+    ],
+    "name": [
+      {
+        "en_US": "Muharram",
+        "fa_IR": "محرّم"
+      },
+      {
+        "en_US": "Safar",
+        "fa_IR": "صفر"
+      },
+      {
+        "en_US": "Rabi al-Awwal",
+        "fa_IR": "ربیع‌الاول"
+      },
+      {
+        "en_US": "Rabi al-Thani",
+        "fa_IR": "ربیع‌الثانی"
+      },
+      {
+        "en_US": "Jumada al-Ula",
+        "fa_IR": "جمادی‌الاول"
+      },
+      {
+        "en_US": "Jumada al-Akhirah",
+        "fa_IR": "جمادی‌الثانی"
+      },
+      {
+        "en_US": "Rajab",
+        "fa_IR": "رجب"
+      },
+      {
+        "en_US": "Sha'ban",
+        "fa_IR": "شعبان"
+      },
+      {
+        "en_US": "Ramadan",
+        "fa_IR": "رمضان"
+      },
+      {
+        "en_US": "Shawwal",
+        "fa_IR": "شوّال"
+      },
+      {
+        "en_US": "Zulqiddah",
+        "fa_IR": "ذوالقعده"
+      },
+      {
+        "en_US": "Zulhijjah",
+        "fa_IR": "ذوالحجّه"
+      }
+    ]
+  }
+}
