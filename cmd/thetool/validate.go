@@ -77,7 +77,7 @@ func validateEventOrder(ev []Event) error {
 
 		if lastIdx == ev[i].idx() {
 			if ev[i].Year < year {
-				return fmt.Errorf("the key %d is not in order", i)
+				return fmt.Errorf("the key %q is not in order",ev[i].PartialKey)
 			}
 		}
 
