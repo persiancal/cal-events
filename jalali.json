@@ -85,7 +85,6 @@
   },
   "events": [
     {
-      "partial_key": "beginning_of_nowruz",
       "key": 2201418938,
       "title": {
         "fa_IR": "آغاز عید نوروز"
@@ -111,7 +110,6 @@
       ]
     },
     {
-      "partial_key": "nowruz",
       "key": 815888249,
       "title": {
         "fa_IR": "عید نوروز"
@@ -137,7 +135,6 @@
       ]
     },
     {
-      "partial_key": "the_invasion_of_feyziyeh_seminary",
       "key": 1320873914,
       "title": {
         "fa_IR": "هجوم به مدرسهٔ فیضیهٔ قم"
@@ -161,7 +158,6 @@
       ]
     },
     {
-      "partial_key": "operation_fathol_mobin",
       "key": 2894039138,
       "title": {
         "fa_IR": "آغاز عملیات فتح‌المبین"
@@ -185,7 +181,6 @@
       ]
     },
     {
-      "partial_key": "nowruz",
       "key": 3906876776,
       "title": {
         "fa_IR": "عید نوروز"
@@ -211,7 +206,6 @@
       ]
     },
     {
-      "partial_key": "nowruz",
       "key": 3355627411,
       "title": {
         "fa_IR": "عید نوروز"
@@ -237,7 +231,6 @@
       ]
     },
     {
-      "partial_key": "hope_day",
       "key": 980911887,
       "title": {
         "fa_IR": "روز امید، روز شادباش‌نویسی"
@@ -257,7 +250,6 @@
       }
     },
     {
-      "partial_key": "zoroasters_birthday",
       "key": 565009964,
       "title": {
         "fa_IR": "روز تولد زرتشت"
@@ -280,7 +272,6 @@
       ]
     },
     {
-      "partial_key": "visual_arts_day",
       "key": 2595578161,
       "title": {
         "fa_IR": "روز هنرهای نمایشی"
@@ -303,7 +294,6 @@
       ]
     },
     {
-      "partial_key": "abangah_celebration",
       "key": 3428368902,
       "title": {
         "fa_IR": "جشن آبانگاه"
@@ -323,7 +313,6 @@
       }
     },
     {
-      "partial_key": "iranian_islamic_republic_referendum",
       "key": 2862514651,
       "title": {
         "fa_IR": "همه‌پرسی تغییر نظام شاهنشاهی به جمهوری اسلامی ایران"
@@ -347,7 +336,6 @@
       ]
     },
     {
-      "partial_key": "iranian_islamic_republic_day",
       "key": 2896434018,
       "title": {
         "fa_IR": "روز جمهوری اسلامی ایران"
@@ -373,7 +361,6 @@
       ]
     },
     {
-      "partial_key": "natures_day",
       "key": 3354116121,
       "title": {
         "fa_IR": "روز طبیعت"
@@ -399,7 +386,6 @@
       ]
     },
     {
-      "partial_key": "sizdah_bedar_celebration",
       "key": 2580897303,
       "title": {
         "fa_IR": "جشن سیزده‌بدر"
@@ -422,7 +408,6 @@
       ]
     },
     {
-      "partial_key": "genetic_and_biological_resources_day",
       "key": 4280302786,
       "title": {
         "fa_IR": "روز ذخایر ژنتیکی و زیستی"
@@ -445,7 +430,6 @@
       ]
     },
     {
-      "partial_key": "soroshegan_celebration",
       "key": 148622734,
       "title": {
         "fa_IR": "سروش‌روز، جشن سروشگان"
@@ -465,7 +449,6 @@
       }
     },
     {
-      "partial_key": "farvardinegan_celebration",
       "key": 556171547,
       "title": {
         "fa_IR": "فرورین‌روز، جشن فروردینگان"
@@ -488,7 +471,6 @@
       ]
     },
     {
-      "partial_key": "the_martyrdom_of_muhammad_baqir_sadr_and_his_sister_bint_al_huda",
       "key": 2468335674,
       "title": {
         "fa_IR": "شهادت آیت‌الله سید محمد باقر صدر و خواهرشان بنت‌الهدی"
@@ -513,7 +495,6 @@
       ]
     },
     {
-      "partial_key": "islamic_revolution_art_day",
       "key": 2866025425,
       "title": {
         "fa_IR": "روز هنر انقلاب اسلامی"
@@ -536,7 +517,6 @@
       ]
     },
     {
-      "partial_key": "national_nuclear_technology_day",
       "key": 993812645,
       "title": {
         "fa_IR": "روز ملی فناوری هسته‌ای"
@@ -560,7 +540,6 @@
       ]
     },
     {
-      "partial_key": "cutting_off_iran_and_america_political_relations",
       "key": 2528006806,
       "title": {
         "fa_IR": "قطع مناسبات سیاسی ایران و آمریکا"
@@ -584,7 +563,6 @@
       ]
     },
     {
-      "partial_key": "morteza_avini_martyrdom",
       "key": 1277758440,
       "title": {
         "fa_IR": "شهادت سید مرتضی آوینی"
@@ -608,7 +586,6 @@
       ]
     },
     {
-      "partial_key": "islamic_revolution_housing_foundation",
       "key": 1465699861,
       "title": {
         "fa_IR": "سالروز افتتاح حساب شمارهٔ ۱۰۰ و تأسیس بنیاد مسکن انقلاب اسلامی"
@@ -632,7 +609,6 @@
       ]
     },
     {
-      "partial_key": "ali_sayad_shirazi_martyrdom",
       "key": 579800691,
       "title": {
         "fa_IR": "شهادت امیر سپهبد علی صیاد شیرازی"
@@ -656,7 +632,6 @@
       ]
     },
     {
-      "partial_key": "attar_of_nishapur_commemoration_day",
       "key": 780198210,
       "title": {
         "fa_IR": "روز بزرگداشت عطار نیشابوری"
@@ -679,7 +654,6 @@
       ]
     },
     {
-      "partial_key": "islamic_republic_of_iran_army_and_ground_forces_day",
       "key": 1192758511,
       "title": {
         "fa_IR": "روز ارتش جمهوری اسلامی و نیروی زمینی"
@@ -703,7 +677,6 @@
       ]
     },
     {
-      "partial_key": "sadi_day",
       "key": 433769162,
       "title": {
         "fa_IR": "روز بزرگداشت سعدی"
@@ -727,7 +700,6 @@
       ]
     },
     {
-      "partial_key": "giahavari_celebration",
       "key": 1204052030,
       "title": {
         "fa_IR": "جشن گیاه‌آوری"
@@ -747,7 +719,6 @@
       }
     },
     {
-      "partial_key": "ordibeheshtegan_celebration",
       "key": 1297862384,
       "title": {
         "fa_IR": "اردیبهشت‌روز، جشن اردیبهشتگان"
@@ -770,7 +741,6 @@
       ]
     },
     {
-      "partial_key": "establishment_of_the_islamic_revolutionary_guard_corps",
       "key": 1387185231,
       "title": {
         "fa_IR": "تأسیس سپاه پاسداران انقلاب اسلامی"
@@ -794,7 +764,6 @@
       ]
     },
     {
-      "partial_key": "anniversary_of_the_iranian_cultural_revolution",
       "key": 2927353305,
       "title": {
         "fa_IR": "اعلام انقلاب فرهنگی"
@@ -818,7 +787,6 @@
       ]
     },
     {
-      "partial_key": "shaykh_bahai_commemoration_day",
       "key": 1340911384,
       "title": {
         "fa_IR": "روز بزرگداشت شیخ بهایی"
@@ -841,7 +809,6 @@
       ]
     },
     {
-      "partial_key": "tabas_operation_day",
       "key": 4023161780,
       "title": {
         "fa_IR": "شکست حملهٔ نظامی آمریکا به ایران در طبس"
@@ -865,7 +832,6 @@
       ]
     },
     {
-      "partial_key": "transportation_safety_day",
       "key": 398994190,
       "title": {
         "fa_IR": "روز ایمنی حمل‌ونقل"
@@ -885,7 +851,6 @@
       }
     },
     {
-      "partial_key": "council_day",
       "key": 3907650390,
       "title": {
         "fa_IR": "روز شوراها"
@@ -908,7 +873,6 @@
       ]
     },
     {
-      "partial_key": "forty_nowruz_celebration",
       "key": 3889499705,
       "title": {
         "fa_IR": "جشن چهلم نوروز"
@@ -928,7 +892,6 @@
       }
     },
     {
-      "partial_key": "persian_gulf_national_day",
       "key": 172997577,
       "title": {
         "fa_IR": "روز ملی خلیج فارس"
@@ -951,7 +914,6 @@
       ]
     },
     {
-      "partial_key": "beytolmoghadas_operation_day",
       "key": 1286047752,
       "title": {
         "fa_IR": "آغاز عملیات بیت المقدس"
@@ -975,7 +937,6 @@
       ]
     },
     {
-      "partial_key": "morteza_motahari_death_and_teacher_day",
       "key": 44093583,
       "title": {
         "fa_IR": "شهادت استاد مرتضی مطهری و روز معلم"
@@ -1000,7 +961,6 @@
       ]
     },
     {
-      "partial_key": "shaykh_sadogh_commemoration_day",
       "key": 2164486894,
       "title": {
         "fa_IR": "روز بزرگداشت شیخ صدوق"
@@ -1023,7 +983,6 @@
       ]
     },
     {
-      "partial_key": "gahanbar_day",
       "key": 1118323610,
       "title": {
         "fa_IR": "گاهنبار میدیوزَرِم، جشن میانهٔ بهار، جشن بهاربُد / روز پیام‌آوری زرتشت"
@@ -1046,7 +1005,6 @@
       ]
     },
     {
-      "partial_key": "national_documents_day",
       "key": 295750217,
       "title": {
         "fa_IR": "روز اسناد ملی و میراث مکتوب"
@@ -1069,7 +1027,6 @@
       ]
     },
     {
-      "partial_key": "shaykh_kolayni_commemoration_day",
       "key": 45260989,
       "title": {
         "fa_IR": "روز بزرگداشت شیخ کلینی"
@@ -1092,7 +1049,6 @@
       ]
     },
     {
-      "partial_key": "cancel_tobacco_points",
       "key": 2315700277,
       "title": {
         "fa_IR": "لغو امتیاز تنباکو به فتوای آیت‌الله میرزا حسن شیرازی"
@@ -1116,7 +1072,6 @@
       ]
     },
     {
-      "partial_key": "ferdowsi_commemoration_day",
       "key": 3781290833,
       "title": {
         "fa_IR": "روز پاسداشت زبان فارسی و بزرگداشت حکیم ابوالقاسم فردوسی"
@@ -1139,7 +1094,6 @@
       ]
     },
     {
-      "partial_key": "omar_khayam_commemoration_day",
       "key": 4156825260,
       "title": {
         "fa_IR": "روز بزرگداشت حکیم عمر خیام"
@@ -1162,7 +1116,6 @@
       ]
     },
     {
-      "partial_key": "national_population_day",
       "key": 3189375045,
       "title": {
         "fa_IR": "روز ملی جمعیت"
@@ -1182,7 +1135,6 @@
       }
     },
     {
-      "partial_key": "organ_donation_day",
       "key": 258897496,
       "title": {
         "fa_IR": "روز اهدای عضو، اهدای زندگی"
@@ -1202,7 +1154,6 @@
       }
     },
     {
-      "partial_key": "mollasadra_commemoration_day",
       "key": 963051399,
       "title": {
         "fa_IR": "روز بزرگداشت ملاصدرا (صدرالمتألهین)"
@@ -1225,7 +1176,6 @@
       ]
     },
     {
-      "partial_key": "efficiency_and_consumption_optimization_day",
       "key": 3439955615,
       "title": {
         "fa_IR": "روز بهره‌وری و بهینه‌سازی مصرف"
@@ -1245,7 +1195,6 @@
       }
     },
     {
-      "partial_key": "arghasoan_heat_celebration",
       "key": 346324151,
       "title": {
         "fa_IR": "ارغاسوان، جشن گرما"
@@ -1265,7 +1214,6 @@
       }
     },
     {
-      "partial_key": "liberation_of_khorramshahr",
       "key": 3634692281,
       "title": {
         "fa_IR": "فتح خرمشهر در عملیات بیت‌المقدس و روز مقاومت، ایثار و پیروزی"
@@ -1289,7 +1237,6 @@
       ]
     },
     {
-      "partial_key": "dezful_resistance_day",
       "key": 2359232311,
       "title": {
         "fa_IR": "روز دزفول و روز مقاومت و پایداری"
@@ -1312,7 +1259,6 @@
       ]
     },
     {
-      "partial_key": "nasim_mehr_day",
       "key": 1047936385,
       "title": {
         "fa_IR": "روز نسیم مهر (روز حمایت از خانواده ی زندانیان)"
@@ -1332,7 +1278,6 @@
       }
     },
     {
-      "partial_key": "khordadegan_celebration",
       "key": 221075205,
       "title": {
         "fa_IR": "خردادروز، جشن خردادگان"
@@ -1355,7 +1300,6 @@
       ]
     },
     {
-      "partial_key": "opening_of_iranian_parliament",
       "key": 1105840854,
       "title": {
         "fa_IR": "افتتاح اولین دورهٔ مجلس شورای اسلامی"
@@ -1379,7 +1323,6 @@
       ]
     },
     {
-      "partial_key": "ruhollah_khomeini_death",
       "key": 1918883532,
       "title": {
         "fa_IR": "رحلت امام خمینی رهبر انقلاب اسلامی"
@@ -1406,7 +1349,6 @@
       ]
     },
     {
-      "partial_key": "khamenei_election_to_supreme_leader",
       "key": 1382155089,
       "title": {
         "fa_IR": "انتخاب آیت‌الله خامنه‌ای به رهبری"
@@ -1430,7 +1372,6 @@
       ]
     },
     {
-      "partial_key": "arrest_of_ruhollah_khomeini",
       "key": 2105320122,
       "title": {
         "fa_IR": "زندانی شدن امام خمینی"
@@ -1454,7 +1395,6 @@
       ]
     },
     {
-      "partial_key": "15_khordad_uprising",
       "key": 2725017120,
       "title": {
         "fa_IR": "قیام خونین ۱۵ خرداد"
@@ -1481,7 +1421,6 @@
       ]
     },
     {
-      "partial_key": "mohammad_reza_saedi_martyrdom",
       "key": 246550960,
       "title": {
         "fa_IR": "شهادت آیت‌الله سعیدی"
@@ -1505,7 +1444,6 @@
       ]
     },
     {
-      "partial_key": "flower_and_plant_day",
       "key": 1463956479,
       "title": {
         "fa_IR": "روز گل و گیاه"
@@ -1525,7 +1463,6 @@
       }
     },
     {
-      "partial_key": "fedayeen_of_islam_members_martyrdom",
       "key": 971477200,
       "title": {
         "fa_IR": "شهادت بخارایی، امانی، صفار هرندی و نیک‌نژاد از اعضای فدائیان اسلام"
@@ -1553,7 +1490,6 @@
       ]
     },
     {
-      "partial_key": "jihad_of_construction_day",
       "key": 4029172986,
       "title": {
         "fa_IR": "روز جهاد کشاورزی (تشکیل جهاد سازندگی)"
@@ -1578,7 +1514,6 @@
       ]
     },
     {
-      "partial_key": "ali_shariati_death",
       "key": 1109017284,
       "title": {
         "fa_IR": "درگذشت دکتر علی شریعتی"
@@ -1602,7 +1537,6 @@
       ]
     },
     {
-      "partial_key": "imam_reza_shrine_bombing",
       "key": 223076069,
       "title": {
         "fa_IR": "شهادت زائران حرم رضوی (ع) (عاشورای ۱۳۷۳ ه‍.ش)"
@@ -1626,7 +1560,6 @@
       ]
     },
     {
-      "partial_key": "masters_basij_day",
       "key": 2628070662,
       "title": {
         "fa_IR": "روز بسیج استادان"
@@ -1646,7 +1579,6 @@
       }
     },
     {
-      "partial_key": "mostafa_chamran_martyrdom",
       "key": 4072387466,
       "title": {
         "fa_IR": "شهادت دکتر مصطفی چمران"
@@ -1670,7 +1602,6 @@
       ]
     },
     {
-      "partial_key": "parliament_vote_on_banisadr_inadequacy",
       "key": 2730678960,
       "title": {
         "fa_IR": "صدور رأی مجلس به عدم کفایت بنی صدر"
@@ -1694,7 +1625,6 @@
       ]
     },
     {
-      "partial_key": "summer_beginning_celebration",
       "key": 3013003756,
       "title": {
         "fa_IR": "جشن آب‌پاشونک، جشن آغاز تابستان / سال نو در گاهشماری گاهنباری / دیدار طلوع خورشید در تقویم آفتابی چارتاقی نیاسر"
@@ -1717,7 +1647,6 @@
       ]
     },
     {
-      "partial_key": "corporation_day",
       "key": 2951226653,
       "title": {
         "fa_IR": "روز اصناف"
@@ -1740,7 +1669,6 @@
       ]
     },
     {
-      "partial_key": "opening_of_islamic_development_organization",
       "key": 2279015105,
       "title": {
         "fa_IR": "روز تبلیغ و اطلاع‌رسانی دینی (تأسیس سازمان تبلیغات اسلامی)"
@@ -1764,7 +1692,6 @@
       ]
     },
     {
-      "partial_key": "lotus_celebration",
       "key": 658288091,
       "title": {
         "fa_IR": "جشن نیلوفر"
@@ -1787,7 +1714,6 @@
       ]
     },
     {
-      "partial_key": "judicial_system_day",
       "key": 2008316868,
       "title": {
         "fa_IR": "روز قوهٔ قضاییه"
@@ -1810,7 +1736,6 @@
       ]
     },
     {
-      "partial_key": "7_tir_bombing",
       "key": 491098970,
       "title": {
         "fa_IR": "شهادت آیت‌الله دکتر بهشتی و ۷۲ تن از یاران"
@@ -1835,7 +1760,6 @@
       ]
     },
     {
-      "partial_key": "fight_against_chemical_weapons_day",
       "key": 1625040763,
       "title": {
         "fa_IR": "روز مبارزه با سلاح‌های شیمیایی و میکروبی"
@@ -1858,7 +1782,6 @@
       ]
     },
     {
-      "partial_key": "chemical_bombing_of_sardasht",
       "key": 3410835387,
       "title": {
         "fa_IR": "بمباران شیمیایی سردشت"
@@ -1882,7 +1805,6 @@
       ]
     },
     {
-      "partial_key": "liberation_of_mehran",
       "key": 3789023995,
       "title": {
         "fa_IR": "روز آزادسازی شهر مهران"
@@ -1906,7 +1828,6 @@
       ]
     },
     {
-      "partial_key": "industry_mine_day",
       "key": 2137890737,
       "title": {
         "fa_IR": "روز صنعت و معدن"
@@ -1929,7 +1850,6 @@
       ]
     },
     {
-      "partial_key": "mohammad_sadoghi_martyrdom",
       "key": 453722865,
       "title": {
         "fa_IR": "شهادت آیت‌الله صدوقی"
@@ -1953,7 +1873,6 @@
       ]
     },
     {
-      "partial_key": "american_human_rights_disclosure",
       "key": 2656751724,
       "title": {
         "fa_IR": "روز افشای حقوق بشر آمریکایی"
@@ -1973,7 +1892,6 @@
       }
     },
     {
-      "partial_key": "abdul_hosein_amini_commemoration_day",
       "key": 3328878056,
       "title": {
         "fa_IR": "روز بزرگداشت علامه امینی"
@@ -1997,7 +1915,6 @@
       ]
     },
     {
-      "partial_key": "iran_air_flight_655_shot_down",
       "key": 3590039721,
       "title": {
         "fa_IR": "حملهٔ ناوگان آمریکا به هواپیمای مسافربری ایران"
@@ -2021,7 +1938,6 @@
       ]
     },
     {
-      "partial_key": "tirgan_celebration",
       "key": 3374977263,
       "title": {
         "fa_IR": "تیرروز، جشن تیرگان"
@@ -2044,7 +1960,6 @@
       ]
     },
     {
-      "partial_key": "municipality_day",
       "key": 576528509,
       "title": {
         "fa_IR": "روز شهرداری و دهیاری"
@@ -2068,7 +1983,6 @@
       ]
     },
     {
-      "partial_key": "pen_day",
       "key": 3638212778,
       "title": {
         "fa_IR": "روز قلم"
@@ -2091,7 +2005,6 @@
       ]
     },
     {
-      "partial_key": "raw_eating_celebration",
       "key": 3574597271,
       "title": {
         "fa_IR": "جشن خام‌خواری"
@@ -2114,7 +2027,6 @@
       ]
     },
     {
-      "partial_key": "tax_day",
       "key": 2679762086,
       "title": {
         "fa_IR": "روز مالیات"
@@ -2137,7 +2049,6 @@
       ]
     },
     {
-      "partial_key": "children_literature_day",
       "key": 357211414,
       "title": {
         "fa_IR": "روز ادبیات کودکان و نوجوانان"
@@ -2160,7 +2071,6 @@
       ]
     },
     {
-      "partial_key": "nojeh_coup_plot",
       "key": 2797985518,
       "title": {
         "fa_IR": "کشف کودتای نوژه"
@@ -2184,7 +2094,6 @@
       ]
     },
     {
-      "partial_key": "hijab_day",
       "key": 958815133,
       "title": {
         "fa_IR": "روز عفاف و حجاب"
@@ -2207,7 +2116,6 @@
       ]
     },
     {
-      "partial_key": "goharshad_mosque_rebellion",
       "key": 3850697339,
       "title": {
         "fa_IR": "حمله به مسجد گوهرشاد و کشتار مردم"
@@ -2231,7 +2139,6 @@
       ]
     },
     {
-      "partial_key": "opening_assembly_of_experts",
       "key": 2747958339,
       "title": {
         "fa_IR": "گشایش نخستین مجلس خبرگان رهبری"
@@ -2255,7 +2162,6 @@
       ]
     },
     {
-      "partial_key": "barjam_day",
       "key": 3132398608,
       "title": {
         "fa_IR": "تصویب برجام و روز گفت‌وگو و تعامل سازنده با جهان"
@@ -2279,7 +2185,6 @@
       ]
     },
     {
-      "partial_key": "social_security_day",
       "key": 1286171143,
       "title": {
         "fa_IR": "روز بهزیستی و تامین اجتماعی"
@@ -2303,7 +2208,6 @@
       ]
     },
     {
-      "partial_key": "opening_guardian_council",
       "key": 3287894957,
       "title": {
         "fa_IR": "سالروز تأسیس نهاد شورای نگهبان"
@@ -2326,7 +2230,6 @@
       ]
     },
     {
-      "partial_key": "united_nations_security_council_resolution_598",
       "key": 2468992829,
       "title": {
         "fa_IR": "اعلام پذیرش قطعنامهٔ ۵۹۸ شورای امنیت از سوی ایران"
@@ -2350,7 +2253,6 @@
       ]
     },
     {
-      "partial_key": "abol_ghasem_kashani_commemoration_day",
       "key": 3579400120,
       "title": {
         "fa_IR": "روز بزرگداشت آیت‌الله سیدابوالقاسم کاشانی"
@@ -2373,7 +2275,6 @@
       ]
     },
     {
-      "partial_key": "91",
       "key": 3284680161,
       "title": {
         "fa_IR": "سالروز عملیات مرصاد"
@@ -2394,7 +2295,6 @@
       }
     },
     {
-      "partial_key": "95",
       "key": 1633853542,
       "title": {
         "fa_IR": "روز کارآفرینی و آموزش‌های فنی و حرفه‌ای"
@@ -2414,7 +2314,6 @@
       }
     },
     {
-      "partial_key": "96",
       "key": 3884143454,
       "title": {
         "fa_IR": "مردادروز، جشن مردادگان"
@@ -2434,7 +2333,6 @@
       }
     },
     {
-      "partial_key": "99",
       "key": 1160065880,
       "title": {
         "fa_IR": "روز بزرگداشت شیخ شهاب‌الدین سهروردی (شیخ اشراق)"
@@ -2454,7 +2352,6 @@
       }
     },
     {
-      "partial_key": "103",
       "key": 595569855,
       "title": {
         "fa_IR": "روز اهدای خون"
@@ -2474,7 +2371,6 @@
       }
     },
     {
-      "partial_key": "104",
       "key": 1540935090,
       "title": {
         "fa_IR": "جشن چلهٔ تابستان"
@@ -2494,7 +2390,6 @@
       }
     },
     {
-      "partial_key": "107",
       "key": 3190720992,
       "title": {
         "fa_IR": "شهادت آیت‌الله شیخ فضل‌الله نوری"
@@ -2515,7 +2410,6 @@
       }
     },
     {
-      "partial_key": "116",
       "key": 2505986265,
       "title": {
         "fa_IR": "روز حقوق بشر اسلامی و کرامت انسانی"
@@ -2535,7 +2429,6 @@
       }
     },
     {
-      "partial_key": "113",
       "key": 3521853150,
       "title": {
         "fa_IR": "صدور فرمان مشروطیت"
@@ -2556,7 +2449,6 @@
       }
     },
     {
-      "partial_key": "118",
       "key": 3370783856,
       "title": {
         "fa_IR": "گاهنبار میدیوشِم، جشن میانهٔ تابستان"
@@ -2576,7 +2468,6 @@
       }
     },
     {
-      "partial_key": "121",
       "key": 1542346985,
       "title": {
         "fa_IR": "تشکیل جهاد دانشگاهی"
@@ -2597,7 +2488,6 @@
       }
     },
     {
-      "partial_key": "127",
       "key": 248807896,
       "title": {
         "fa_IR": "روز خبرنگار"
@@ -2617,7 +2507,6 @@
       }
     },
     {
-      "partial_key": "128",
       "key": 2140076520,
       "title": {
         "fa_IR": "جشن مَی‌خواره"
@@ -2637,7 +2526,6 @@
       }
     },
     {
-      "partial_key": "132",
       "key": 998111707,
       "title": {
         "fa_IR": "روز حمایت از صنایع کوچک"
@@ -2657,7 +2545,6 @@
       }
     },
     {
-      "partial_key": "133",
       "key": 750779973,
       "title": {
         "fa_IR": "روز تشکل‌ها و مشارکت‌های اجتماعی"
@@ -2677,7 +2564,6 @@
       }
     },
     {
-      "partial_key": "136",
       "key": 2616119129,
       "title": {
         "fa_IR": "روز مقاومت اسلامی"
@@ -2697,7 +2583,6 @@
       }
     },
     {
-      "partial_key": "145",
       "key": 109733552,
       "title": {
         "fa_IR": "آغاز بازگشت آزادگان به ایران"
@@ -2718,7 +2603,6 @@
       }
     },
     {
-      "partial_key": "147",
       "key": 2746586448,
       "title": {
         "fa_IR": "کودتای ۲۸ مرداد"
@@ -2739,7 +2623,6 @@
       }
     },
     {
-      "partial_key": "148",
       "key": 4252183405,
       "title": {
         "fa_IR": "آتش‌سوزی سینما رکس آبادان"
@@ -2760,7 +2643,6 @@
       }
     },
     {
-      "partial_key": "149",
       "key": 3984869366,
       "title": {
         "fa_IR": "گشایش مجلس خبرگان برای بررسی نهایی قانون اساسی جمهوری اسلامی ایران"
@@ -2781,7 +2663,6 @@
       }
     },
     {
-      "partial_key": "152",
       "key": 3425690991,
       "title": {
         "fa_IR": "روز بزرگداشت علامه مجلسی"
@@ -2801,7 +2682,6 @@
       }
     },
     {
-      "partial_key": "158",
       "key": 3551078022,
       "title": {
         "fa_IR": "روز صنعت دفاعی"
@@ -2821,7 +2701,6 @@
       }
     },
     {
-      "partial_key": "iranians_doctors_day",
       "key": 3525773079,
       "title": {
         "fa_IR": "روز پزشک"
@@ -2844,7 +2723,6 @@
       ]
     },
     {
-      "partial_key": "abu_ali_sina_commemoration_day",
       "key": 3548008849,
       "title": {
         "fa_IR": "روز بزرگداشت ابوعلی سینا"
@@ -2867,7 +2745,6 @@
       ]
     },
     {
-      "partial_key": "faghdieh_cool_celebration",
       "key": 2928980223,
       "title": {
         "fa_IR": "فغدیه، جشن خنکی هوا"
@@ -2887,7 +2764,6 @@
       }
     },
     {
-      "partial_key": "government_week_beginning_day",
       "key": 4144489568,
       "title": {
         "fa_IR": "آغاز هفتهٔ دولت"
@@ -2907,7 +2783,6 @@
       }
     },
     {
-      "partial_key": "ali_andarzgo_martyrdom",
       "key": 4168511194,
       "title": {
         "fa_IR": "شهادت سید علی اندرزگو"
@@ -2931,7 +2806,6 @@
       ]
     },
     {
-      "partial_key": "keshmin_celebration",
       "key": 521560092,
       "title": {
         "fa_IR": "جشن کشمین"
@@ -2951,7 +2825,6 @@
       }
     },
     {
-      "partial_key": "soviet_invasion_of_iran",
       "key": 3180591399,
       "title": {
         "fa_IR": "اشغال ایران به دست متفقین"
@@ -2975,7 +2848,6 @@
       ]
     },
     {
-      "partial_key": "shahrivargan_celebration",
       "key": 2228742716,
       "title": {
         "fa_IR": "شهریورروز، جشن شهریورگان / زادروز داراب (کوروش) / عروج مانی"
@@ -2998,7 +2870,6 @@
       ]
     },
     {
-      "partial_key": "employee_day",
       "key": 4125019352,
       "title": {
         "fa_IR": "روز کارمند"
@@ -3018,7 +2889,6 @@
       }
     },
     {
-      "partial_key": "qolamreza_takhti_wrestling_day",
       "key": 3332237173,
       "title": {
         "fa_IR": "تولد جهان پهلوان غلامرضاتختی و روز کشتی"
@@ -3042,7 +2912,6 @@
       ]
     },
     {
-      "partial_key": "mohammad_ibn_zakariya_razi_commemoration_day",
       "key": 282514106,
       "title": {
         "fa_IR": "روز بزرگداشت محمد بن زکریای رازی"
@@ -3065,7 +2934,6 @@
       ]
     },
     {
-      "partial_key": "pharmacy_day",
       "key": 4256896120,
       "title": {
         "fa_IR": "روز داروسازی"
@@ -3088,7 +2956,6 @@
       ]
     },
     {
-      "partial_key": "fall_celebration",
       "key": 4062562703,
       "title": {
         "fa_IR": "خزان‌جشن"
@@ -3108,7 +2975,6 @@
       }
     },
     {
-      "partial_key": "counter_terrorism_day",
       "key": 3925161096,
       "title": {
         "fa_IR": "روز مبارزه با تروریسم (انفجار دفتر نخست‌وزیری و شهادت رجایی و باهنر)"
@@ -3132,7 +2998,6 @@
       ]
     },
     {
-      "partial_key": "islamic_banking_day",
       "key": 1476415964,
       "title": {
         "fa_IR": "روز بانکداری اسلامی (تصویب قانون عملیات بانکی بدون ربا)"
@@ -3155,7 +3020,6 @@
       ]
     },
     {
-      "partial_key": "printing_industry_day",
       "key": 4247921668,
       "title": {
         "fa_IR": "روز صنعت چاپ"
@@ -3175,7 +3039,6 @@
       }
     },
     {
-      "partial_key": "behvarz_day",
       "key": 2336237651,
       "title": {
         "fa_IR": "روز بهورز"
@@ -3195,7 +3058,6 @@
       }
     },
     {
-      "partial_key": "rais_ali_delvari_commemoration_day",
       "key": 2060556766,
       "title": {
         "fa_IR": "روز مبارزه با استعمار انگلیس (سالروز شهادت رئیس‌علی دلواری)"
@@ -3218,7 +3080,6 @@
       ]
     },
     {
-      "partial_key": "cooperative_day",
       "key": 3856623841,
       "title": {
         "fa_IR": "روز تعاون"
@@ -3238,7 +3099,6 @@
       }
     },
     {
-      "partial_key": "abu_rayhan_al_biruni_commemoration_day",
       "key": 676179519,
       "title": {
         "fa_IR": "روز بزرگداشت ابوریحان بیرونی"
@@ -3261,7 +3121,6 @@
       ]
     },
     {
-      "partial_key": "anthropology_day",
       "key": 4127805796,
       "title": {
         "fa_IR": "روز مردم‌شناسی"
@@ -3281,7 +3140,6 @@
       }
     },
     {
-      "partial_key": "qodosi_and_dastjerdi_martyrdom",
       "key": 1286939006,
       "title": {
         "fa_IR": "شهادت آیت‌الله قدوسی و سرتیپ وحید دستجردی"
@@ -3306,7 +3164,6 @@
       ]
     },
     {
-      "partial_key": "bazar_celebration",
       "key": 3893795436,
       "title": {
         "fa_IR": "بازارجشن"
@@ -3326,7 +3183,6 @@
       }
     },
     {
-      "partial_key": "black_friday",
       "key": 2060500682,
       "title": {
         "fa_IR": "قیام ۱۷ شهریور و کشتار جمعی از مردم به دست مأموران پهلوی"
@@ -3350,7 +3206,6 @@
       ]
     },
     {
-      "partial_key": "mahmoud_taleqani_martyrdom",
       "key": 1082350250,
       "title": {
         "fa_IR": "وفات آیت‌الله سید محمود طالقانی اولین امام جمعهٔ تهران"
@@ -3374,7 +3229,6 @@
       ]
     },
     {
-      "partial_key": "madani_martyrdom",
       "key": 999923469,
       "title": {
         "fa_IR": "شهادت آیت‌الله مدنی"
@@ -3398,7 +3252,6 @@
       ]
     },
     {
-      "partial_key": "cinema_day",
       "key": 1335108260,
       "title": {
         "fa_IR": "روز سینما"
@@ -3421,7 +3274,6 @@
       ]
     },
     {
-      "partial_key": "persian_poetry_and_literature_day",
       "key": 1817153241,
       "title": {
         "fa_IR": "روز شعر و ادب فارسی"
@@ -3444,7 +3296,6 @@
       ]
     },
     {
-      "partial_key": "shahriar_day",
       "key": 4124978417,
       "title": {
         "fa_IR": "روز بزرگداشت استاد سید محمدحسین شهریار"
@@ -3467,7 +3318,6 @@
       ]
     },
     {
-      "partial_key": "dialog_among_civilization",
       "key": 2014083761,
       "title": {
         "fa_IR": "روز گفت‌وگوی تمدن‌ها"
@@ -3490,7 +3340,6 @@
       ]
     },
     {
-      "partial_key": "sacred_defence_week",
       "key": 742632063,
       "title": {
         "fa_IR": "آغاز هفتهٔ دفاع مقدس"
@@ -3513,7 +3362,6 @@
       ]
     },
     {
-      "partial_key": "end_of_summer_celebration",
       "key": 928767737,
       "title": {
         "fa_IR": "گاهنبار پَتیَه‌شَهیم، جشن پایان تابستان"
@@ -3533,7 +3381,6 @@
       }
     },
     {
-      "partial_key": "iraq_invasion_of_iran",
       "key": 1799406363,
       "title": {
         "fa_IR": "آغاز جنگ تحمیلی"
@@ -3557,7 +3404,6 @@
       ]
     },
     {
-      "partial_key": "143",
       "key": 756200997,
       "title": {
         "fa_IR": "جشن میتراکانا / سال نو هخامنشی"
@@ -3577,7 +3423,6 @@
       }
     },
     {
-      "partial_key": "151",
       "key": 3397061458,
       "title": {
         "fa_IR": "شکست حصر آبادان در عملیات ثامن‌الأئمه (ع)"
@@ -3598,7 +3443,6 @@
       }
     },
     {
-      "partial_key": "153",
       "key": 701211122,
       "title": {
         "fa_IR": "روز بزرگداشت فرماندهان شهید دفاع مقدس"
@@ -3618,7 +3462,6 @@
       }
     },
     {
-      "partial_key": "154",
       "key": 4132414331,
       "title": {
         "fa_IR": "روز بزرگداشت شمس"
@@ -3638,7 +3481,6 @@
       }
     },
     {
-      "partial_key": "155",
       "key": 2291206940,
       "title": {
         "fa_IR": "روز آتش‌نشانی و ایمنی"
@@ -3658,7 +3500,6 @@
       }
     },
     {
-      "partial_key": "156",
       "key": 1731193893,
       "title": {
         "fa_IR": "شهادت فلاحی، فکوری، نامجو، کلاهدوز و جهان‌آرا از فرماندهان ارتش و سپاه"
@@ -3679,7 +3520,6 @@
       }
     },
     {
-      "partial_key": "160",
       "key": 1967421797,
       "title": {
         "fa_IR": "روز بزرگداشت مولوی"
@@ -3699,7 +3539,6 @@
       }
     },
     {
-      "partial_key": "162",
       "key": 2800745512,
       "title": {
         "fa_IR": "روز همبستگی و همدردی با کودکان و نوجوانان فلسطینی"
@@ -3719,7 +3558,6 @@
       }
     },
     {
-      "partial_key": "163",
       "key": 2561666141,
       "title": {
         "fa_IR": "آیین قالیشویان اردهال، بازماندی از تیرگان"
@@ -3739,7 +3577,6 @@
       }
     },
     {
-      "partial_key": "167",
       "key": 3040423142,
       "title": {
         "fa_IR": "تیرروز، جشن تیرروزی"
@@ -3759,7 +3596,6 @@
       }
     },
     {
-      "partial_key": "168",
       "key": 1601861871,
       "title": {
         "fa_IR": "روز نیروی انتظامی"
@@ -3779,7 +3615,6 @@
       }
     },
     {
-      "partial_key": "166",
       "key": 2393336093,
       "title": {
         "fa_IR": "هجرت امام خمینی از عراق به پاریس"
@@ -3800,7 +3635,6 @@
       }
     },
     {
-      "partial_key": "169",
       "key": 1644748421,
       "title": {
         "fa_IR": "روز دامپزشکی"
@@ -3820,7 +3654,6 @@
       }
     },
     {
-      "partial_key": "172",
       "key": 2754843434,
       "title": {
         "fa_IR": "روز روستا و عشایر"
@@ -3840,7 +3673,6 @@
       }
     },
     {
-      "partial_key": "173",
       "key": 28691032,
       "title": {
         "fa_IR": "مهرروز، جشن مهرگان"
@@ -3860,7 +3692,6 @@
       }
     },
     {
-      "partial_key": "181",
       "key": 3869154136,
       "title": {
         "fa_IR": "روز اسکان معلولان و سالمندان"
@@ -3880,7 +3711,6 @@
       }
     },
     {
-      "partial_key": "184",
       "key": 1521880371,
       "title": {
         "fa_IR": "روز بزرگداشت حافظ"
@@ -3900,7 +3730,6 @@
       }
     },
     {
-      "partial_key": "185",
       "key": 1679583267,
       "title": {
         "fa_IR": "رام‌روز، جشن رام‌روزی / جشن پیروزی کاوه و فریدون"
@@ -3920,7 +3749,6 @@
       }
     },
     {
-      "partial_key": "188",
       "key": 1672157518,
       "title": {
         "fa_IR": "شهادت آیت‌الله اشرفی اصفهانی"
@@ -3941,7 +3769,6 @@
       }
     },
     {
-      "partial_key": "190",
       "key": 136769762,
       "title": {
         "fa_IR": "روز پیوند اولیا و مربیان"
@@ -3961,7 +3788,6 @@
       }
     },
     {
-      "partial_key": "189",
       "key": 3327705068,
       "title": {
         "fa_IR": "روز ملی پارالمپیک"
@@ -3981,7 +3807,6 @@
       }
     },
     {
-      "partial_key": "191",
       "key": 3495996249,
       "title": {
         "fa_IR": "به آتش کشیده‌شدن مسجد جامع شهر کرمان"
@@ -4002,7 +3827,6 @@
       }
     },
     {
-      "partial_key": "197",
       "key": 843740325,
       "title": {
         "fa_IR": "روز تربیت بدنی و ورزش"
@@ -4022,7 +3846,6 @@
       }
     },
     {
-      "partial_key": "202",
       "key": 1549284015,
       "title": {
         "fa_IR": "روز صادرات"
@@ -4042,7 +3865,6 @@
       }
     },
     {
-      "partial_key": "165",
       "key": 3963989716,
       "title": {
         "fa_IR": "روز آمار و برنامه‌ریزی"
@@ -4062,7 +3884,6 @@
       }
     },
     {
-      "partial_key": "164",
       "key": 1365990099,
       "title": {
         "fa_IR": "شهادت آیت‌الله حاج سید مصطفی خمینی"
@@ -4083,7 +3904,6 @@
       }
     },
     {
-      "partial_key": "174",
       "key": 2833475453,
       "title": {
         "fa_IR": "اعتراض امام خمینی علیه پذیرش کاپیتولاسیون"
@@ -4104,7 +3924,6 @@
       }
     },
     {
-      "partial_key": "176",
       "key": 2464466246,
       "title": {
         "fa_IR": " روز کوروش بزرگ"
@@ -4124,7 +3943,6 @@
       }
     },
     {
-      "partial_key": "182",
       "key": 1416747348,
       "title": {
         "fa_IR": "شهادت محمد حسین فهمیده (بسیجی ۱۳ ساله)"
@@ -4144,7 +3962,6 @@
       }
     },
     {
-      "partial_key": "183",
       "key": 3113715027,
       "title": {
         "fa_IR": "روز نوجوان و بسیج دانش‌آموزی"
@@ -4164,7 +3981,6 @@
       }
     },
     {
-      "partial_key": "180",
       "key": 4241510886,
       "title": {
         "fa_IR": "روز پدافند غیرعامل"
@@ -4184,7 +4000,6 @@
       }
     },
     {
-      "partial_key": "187",
       "key": 2151126694,
       "title": {
         "fa_IR": "آبان‌روز، جشن آبانگان"
@@ -4204,7 +4019,6 @@
       }
     },
     {
-      "partial_key": "186",
       "key": 1504039645,
       "title": {
         "fa_IR": "شهادت آیت‌الله قاضی طباطبایی"
@@ -4225,7 +4039,6 @@
       }
     },
     {
-      "partial_key": "194",
       "key": 1097833891,
       "title": {
         "fa_IR": "روز دانش‌آموز"
@@ -4245,7 +4058,6 @@
       }
     },
     {
-      "partial_key": "195",
       "key": 3128467940,
       "title": {
         "fa_IR": "روز ملی مبارزه با استکبار جهانی"
@@ -4265,7 +4077,6 @@
       }
     },
     {
-      "partial_key": "196",
       "key": 223741421,
       "title": {
         "fa_IR": "تبعید امام خمینی از ایران به ترکیه"
@@ -4286,7 +4097,6 @@
       }
     },
     {
-      "partial_key": "192",
       "key": 1242172081,
       "title": {
         "fa_IR": "تسخیر سفارت آمریکا"
@@ -4307,7 +4117,6 @@
       }
     },
     {
-      "partial_key": "198",
       "key": 3402734074,
       "title": {
         "fa_IR": "روز فرهنگ عمومی"
@@ -4327,7 +4136,6 @@
       }
     },
     {
-      "partial_key": "199",
       "key": 1030054078,
       "title": {
         "fa_IR": "گاهنبار اَیاثرَم، جشن میانهٔ پاییز"
@@ -4347,7 +4155,6 @@
       }
     },
     {
-      "partial_key": "203",
       "key": 435788191,
       "title": {
         "fa_IR": "روز کیفیت"
@@ -4367,7 +4174,6 @@
       }
     },
     {
-      "partial_key": "211",
       "key": 1605822763,
       "title": {
         "fa_IR": "روز کتاب، کتابخوانی و کتابدار"
@@ -4387,7 +4193,6 @@
       }
     },
     {
-      "partial_key": "212",
       "key": 225773726,
       "title": {
         "fa_IR": "روز بزرگداشت آیت‌الله علامه سید محمد حسین طباطبایی"
@@ -4408,7 +4213,6 @@
       }
     },
     {
-      "partial_key": "215",
       "key": 787089009,
       "title": {
         "fa_IR": "آزادسازی سوسنگرد"
@@ -4428,7 +4232,6 @@
       }
     },
     {
-      "partial_key": "193",
       "key": 4248528266,
       "title": {
         "fa_IR": "آذرجشن"
@@ -4448,7 +4251,6 @@
       }
     },
     {
-      "partial_key": "201",
       "key": 2627658992,
       "title": {
         "fa_IR": "سالروز قیام مردم گرگان"
@@ -4469,7 +4271,6 @@
       }
     },
     {
-      "partial_key": "200",
       "key": 3766746975,
       "title": {
         "fa_IR": "تشکیل بسیج مستضعفان"
@@ -4490,7 +4291,6 @@
       }
     },
     {
-      "partial_key": "204",
       "key": 1003310465,
       "title": {
         "fa_IR": "روز نیروی دریایی"
@@ -4510,7 +4310,6 @@
       }
     },
     {
-      "partial_key": "205",
       "key": 915352880,
       "title": {
         "fa_IR": "آذرروز، جشن آذرگان"
@@ -4530,7 +4329,6 @@
       }
     },
     {
-      "partial_key": "206",
       "key": 3403082041,
       "title": {
         "fa_IR": "روز بزرگداشت شیخ مفید"
@@ -4550,7 +4348,6 @@
       }
     },
     {
-      "partial_key": "207",
       "key": 2780239566,
       "title": {
         "fa_IR": "روز مجلس"
@@ -4570,7 +4367,6 @@
       }
     },
     {
-      "partial_key": "208",
       "key": 2031155719,
       "title": {
         "fa_IR": "شهادت آیت‌الله سید حسن مدرس"
@@ -4591,7 +4387,6 @@
       }
     },
     {
-      "partial_key": "209",
       "key": 3240730551,
       "title": {
         "fa_IR": "شهادت میرزا کوچک خان جنگلی"
@@ -4612,7 +4407,6 @@
       }
     },
     {
-      "partial_key": "210",
       "key": 3331705684,
       "title": {
         "fa_IR": "روز قانون اساسی جمهوری اسلامی ایران (تصویب قانون اساسی جمهوری اسلامی ایران)"
@@ -4633,7 +4427,6 @@
       }
     },
     {
-      "partial_key": "214",
       "key": 3853467363,
       "title": {
         "fa_IR": "روز بیمه"
@@ -4653,7 +4446,6 @@
       }
     },
     {
-      "partial_key": "217",
       "key": 517347805,
       "title": {
         "fa_IR": "روز دانشجو"
@@ -4673,7 +4465,6 @@
       }
     },
     {
-      "partial_key": "221",
       "key": 513317634,
       "title": {
         "fa_IR": "معرفی عراق به عنوان مسئول و آغازگر جنگ از سوی سازمان ملل"
@@ -4694,7 +4485,6 @@
       }
     },
     {
-      "partial_key": "224",
       "key": 2288195106,
       "title": {
         "fa_IR": "تشکیل شورای عالی انقلاب فرهنگی"
@@ -4715,7 +4505,6 @@
       }
     },
     {
-      "partial_key": "227",
       "key": 3330270755,
       "title": {
         "fa_IR": "شهادت آیت‌الله دستغیب"
@@ -4736,7 +4525,6 @@
       }
     },
     {
-      "partial_key": "231",
       "key": 1579753223,
       "title": {
         "fa_IR": "روز پژوهش"
@@ -4756,7 +4544,6 @@
       }
     },
     {
-      "partial_key": "233",
       "key": 748489488,
       "title": {
         "fa_IR": "روز حمل و نقل و رانندگان"
@@ -4776,7 +4563,6 @@
       }
     },
     {
-      "partial_key": "235",
       "key": 2584610125,
       "title": {
         "fa_IR": "روز وحدت حوزه و دانشگاه"
@@ -4796,7 +4582,6 @@
       }
     },
     {
-      "partial_key": "236",
       "key": 228516676,
       "title": {
         "fa_IR": "شهادت آیت‌الله دکتر محمد مفتح"
@@ -4817,7 +4602,6 @@
       }
     },
     {
-      "partial_key": "243",
       "key": 1024883402,
       "title": {
         "fa_IR": "روز تجلیل از شهید تندگویان"
@@ -4837,7 +4621,6 @@
       }
     },
     {
-      "partial_key": "244",
       "key": 3192415145,
       "title": {
         "fa_IR": "شب یلدا (چله)"
@@ -4857,7 +4640,6 @@
       }
     },
     {
-      "partial_key": "246",
       "key": 3147014287,
       "title": {
         "fa_IR": "گاهنبار میدیارِم، جشن میانهٔ سال گاهنباری (از مبدأ آغاز تابستان)"
@@ -4877,7 +4659,6 @@
       }
     },
     {
-      "partial_key": "sun_birth_day",
       "key": 2679545892,
       "title": {
         "fa_IR": "روز میلاد خورشید، جشن خرم‌روز / نخستین جشن دیگان / دیدار طلوع خورشید در تقویم آفتابی چارتاقی نیاسر"
@@ -4900,7 +4681,6 @@
       ]
     },
     {
-      "partial_key": "registry_office_day",
       "key": 2502023198,
       "title": {
         "fa_IR": "روز ثبت احوال"
@@ -4920,7 +4700,6 @@
       }
     },
     {
-      "partial_key": "bazaar_celebration",
       "key": 4282517583,
       "title": {
         "fa_IR": "بازارجشن"
@@ -4940,7 +4719,6 @@
       }
     },
     {
-      "partial_key": "zartosht_no_diso",
       "key": 498878940,
       "title": {
         "fa_IR": "روز درگذشت زرتشت"
@@ -4963,7 +4741,6 @@
       ]
     },
     {
-      "partial_key": "earthquake_safety_day",
       "key": 4206080512,
       "title": {
         "fa_IR": "روز ایمنی در برابر زلزله و کاهش اثرات بلایای طبیعی"
@@ -4984,7 +4761,6 @@
       }
     },
     {
-      "partial_key": "qafari_death",
       "key": 2288013666,
       "title": {
         "fa_IR": "شهادت آیت‌الله حسین غفاری"
@@ -5008,7 +4784,6 @@
       ]
     },
     {
-      "partial_key": "literacy_movement_organization_formation",
       "key": 198097646,
       "title": {
         "fa_IR": "تشکیل نهضت سوادآموزی"
@@ -5032,7 +4807,6 @@
       ]
     },
     {
-      "partial_key": "dey_second_celebration",
       "key": 1600623794,
       "title": {
         "fa_IR": "دی‌به‌آذرروز، دومین جشن دیگان"
@@ -5055,7 +4829,6 @@
       ]
     },
     {
-      "partial_key": "petrochemical_industry_day",
       "key": 493907254,
       "title": {
         "fa_IR": "روز صنعت پتروشیمی"
@@ -5075,7 +4848,6 @@
       }
     },
     {
-      "partial_key": "9th_of_dey",
       "key": 1814254851,
       "title": {
         "fa_IR": "روز بصيرت و ميثاق امت با ولايت"
@@ -5098,7 +4870,6 @@
       ]
     },
     {
-      "partial_key": "imam_to_gorbachov_historical_message",
       "key": 1613461881,
       "title": {
         "fa_IR": "ابلاغ پیام تاریخی امام خمینی به گورباچف رهبر شوروی سابق"
@@ -5122,7 +4893,6 @@
       ]
     },
     {
-      "partial_key": "vegan_celebration",
       "key": 2124535227,
       "title": {
         "fa_IR": "سیرسور، جشن گیاه‌خواری"
@@ -5142,7 +4912,6 @@
       }
     },
     {
-      "partial_key": "dey_third_celebration",
       "key": 1138203481,
       "title": {
         "fa_IR": "جشن پیکرتراشی / دی‌به‌مهرروز، سومین جشن دیگان"
@@ -5165,7 +4934,6 @@
       ]
     },
     {
-      "partial_key": "derafshs_celebration",
       "key": 488737646,
       "title": {
         "fa_IR": "جشن درامزینان، جشن درفش‌ها"
@@ -5185,7 +4953,6 @@
       }
     },
     {
-      "partial_key": "unveiling",
       "key": 2207616313,
       "title": {
         "fa_IR": "اجرای طرح حذف حجاب"
@@ -5209,7 +4976,6 @@
       ]
     },
     {
-      "partial_key": "qom_protest",
       "key": 2571247473,
       "title": {
         "fa_IR": "قیام خونین مردم قم"
@@ -5233,7 +4999,6 @@
       ]
     },
     {
-      "partial_key": "amir_kabir_murder",
       "key": 2999915773,
       "title": {
         "fa_IR": "قتل میرزاتقی‌خان امیرکبیر"
@@ -5257,7 +5022,6 @@
       ]
     },
     {
-      "partial_key": "islamic_revolution_council_formation",
       "key": 746842600,
       "title": {
         "fa_IR": "تشکیل شورای انقلاب"
@@ -5281,7 +5045,6 @@
       ]
     },
     {
-      "partial_key": "dey_fourth_celebration",
       "key": 3509446021,
       "title": {
         "fa_IR": "دی‌به‌دین‌روز، چهارمین جشن دیگان"
@@ -5304,7 +5067,6 @@
       ]
     },
     {
-      "partial_key": "shah_leaving",
       "key": 4065439629,
       "title": {
         "fa_IR": "خروج شاه از ایران"
@@ -5328,7 +5090,6 @@
       ]
     },
     {
-      "partial_key": "safavi_death",
       "key": 2622502112,
       "title": {
         "fa_IR": "شهادت نواب صفوی، طهماسبی، برادران واحدی و ذوالقدر از اعضای فداییان اسلام"
@@ -5349,7 +5110,6 @@
       }
     },
     {
-      "partial_key": "qazeh_day",
       "key": 906328093,
       "title": {
         "fa_IR": "روز غزه"
@@ -5369,7 +5129,6 @@
       }
     },
     {
-      "partial_key": "230",
       "key": 216892671,
       "title": {
         "fa_IR": "زادروز فردوسی"
@@ -5389,7 +5148,6 @@
       }
     },
     {
-      "partial_key": "232",
       "key": 635643520,
       "title": {
         "fa_IR": "بهمن‌روز، جشن بهمنگان"
@@ -5409,7 +5167,6 @@
       }
     },
     {
-      "partial_key": "238",
       "key": 1080029372,
       "title": {
         "fa_IR": "شهریورروز، آغاز پادشاهی داراب (کوروش)"
@@ -5429,7 +5186,6 @@
       }
     },
     {
-      "partial_key": "242",
       "key": 1324874330,
       "title": {
         "fa_IR": "جشن نوسَره"
@@ -5449,7 +5205,6 @@
       }
     },
     {
-      "partial_key": "241",
       "key": 2252082903,
       "title": {
         "fa_IR": "انتخابات اولین دورهٔ ریاست جمهوری"
@@ -5470,7 +5225,6 @@
       }
     },
     {
-      "partial_key": "245",
       "key": 2380248314,
       "title": {
         "fa_IR": "سالروز حماسهٔ مردم آمل"
@@ -5490,7 +5244,6 @@
       }
     },
     {
-      "partial_key": "249",
       "key": 125370353,
       "title": {
         "fa_IR": "آبان‌روز، جشن سَدَه، آتش‌افروزی بر بام‌ها / نمایش‌بازی همگانی"
@@ -5510,7 +5263,6 @@
       }
     },
     {
-      "partial_key": "252",
       "key": 561994491,
       "title": {
         "fa_IR": "بازگشت امام خمینی به ایران و آغاز دههٔ فجر انقلاب اسلامی"
@@ -5531,7 +5283,6 @@
       }
     },
     {
-      "partial_key": "255",
       "key": 2720877308,
       "title": {
         "fa_IR": "روز فناوری فضایی"
@@ -5551,7 +5302,6 @@
       }
     },
     {
-      "partial_key": "258",
       "key": 1195519900,
       "title": {
         "fa_IR": "جشن میانهٔ زمستان"
@@ -5571,7 +5321,6 @@
       }
     },
     {
-      "partial_key": "263",
       "key": 795831482,
       "title": {
         "fa_IR": "روز نیروی هوایی"
@@ -5591,7 +5340,6 @@
       }
     },
     {
-      "partial_key": "265",
       "key": 643300727,
       "title": {
         "fa_IR": "شکسته شدن حکومت نظامی به فرمان امام خمینی"
@@ -5612,7 +5360,6 @@
       }
     },
     {
-      "partial_key": "268",
       "key": 3310740269,
       "title": {
         "fa_IR": "بادروز، جشن بادروزی"
@@ -5632,7 +5379,6 @@
       }
     },
     {
-      "partial_key": "269",
       "key": 3043426230,
       "title": {
         "fa_IR": "پیروزی انقلاب اسلامی ایران و سقوط نظام شاهنشاهی"
@@ -5656,7 +5402,6 @@
       }
     },
     {
-      "partial_key": "270",
       "key": 3092694457,
       "title": {
         "fa_IR": "صدور حکم امام خمینی مبنی بر ارتداد سلمان رشدی"
@@ -5677,7 +5422,6 @@
       }
     },
     {
-      "partial_key": "274",
       "key": 2387645209,
       "title": {
         "fa_IR": "روز اقتصاد مقاومتی و کارآفرینی"
@@ -5697,7 +5441,6 @@
       }
     },
     {
-      "partial_key": "273",
       "key": 4042915596,
       "title": {
         "fa_IR": "قیام مردم تبریز به مناسبت چهلمین روز شهادت شهدای قم"
@@ -5718,7 +5461,6 @@
       }
     },
     {
-      "partial_key": "absalan_celebration",
       "key": 3048677326,
       "title": {
         "fa_IR": "جشن اسفندی / جشن آبسالان، بهارجشن / نمایش‌بازی همگانی"
@@ -5738,7 +5480,6 @@
       }
     },
     {
-      "partial_key": "reza_khan_coup",
       "key": 692716334,
       "title": {
         "fa_IR": "کودتای رضاخان"
@@ -5762,7 +5503,6 @@
       ]
     },
     {
-      "partial_key": "spndarmzgan_celebration",
       "key": 2022109073,
       "title": {
         "fa_IR": "اسفندروز، جشن اسفندگان، گرامیداشت زمین و بانوان / جشن برزگران"
@@ -5785,7 +5525,6 @@
       ]
     },
     {
-      "partial_key": "engineers_day",
       "key": 3641538488,
       "title": {
         "fa_IR": "روز بزرگداشت خواجه نصیر الدین طوسی و روز مهندس"
@@ -5808,7 +5547,6 @@
       ]
     },
     {
-      "partial_key": "attorneys_day",
       "key": 2408904087,
       "title": {
         "fa_IR": "سالروز استقلال کانون وکلای دادگستری و روز وکیل مدافع"
@@ -5828,7 +5566,6 @@
       }
     },
     {
-      "partial_key": "ali_akbar_dehkhoda_commemoration_day",
       "key": 3243098950,
       "title": {
         "fa_IR": "سالروز درگذشت علی اکبر دهخدا"
@@ -5852,7 +5589,6 @@
       ]
     },
     {
-      "partial_key": "education_and_islamic_education",
       "key": 2979393316,
       "title": {
         "fa_IR": "روز امور تربیتی و تربیت اسلامی"
@@ -5872,7 +5608,6 @@
       }
     },
     {
-      "partial_key": "consumer_rights_day",
       "key": 3480320380,
       "title": {
         "fa_IR": "روز ملی حمایت از حقوق مصرف‌کنندگان"
@@ -5895,7 +5630,6 @@
       ]
     },
     {
-      "partial_key": "vkhshnkam_celebration",
       "key": 3019924643,
       "title": {
         "fa_IR": "جشن وخشنکام"
@@ -5915,7 +5649,6 @@
       }
     },
     {
-      "partial_key": "charity_day",
       "key": 2863594514,
       "title": {
         "fa_IR": "روز احسان و نیکوکاری و روز تأسیس کمیته امداد امام خمینی"
@@ -5939,7 +5672,6 @@
       ]
     },
     {
-      "partial_key": "planting_tree_day",
       "key": 3040617981,
       "title": {
         "fa_IR": "روز درختکاری"
@@ -5962,7 +5694,6 @@
       ]
     },
     {
-      "partial_key": "establishing_cultural_and_artistic_centers_of_mosques",
       "key": 3318503156,
       "title": {
         "fa_IR": "سالروز تأسیس کانون‌های فرهنگی و هنری مساجد کشور"
@@ -5982,7 +5713,6 @@
       }
     },
     {
-      "partial_key": "sayyid_jamal_al_din_asad_abadi_commemoration_day",
       "key": 1689389888,
       "title": {
         "fa_IR": "روز بزرگداشت سید جمال‌الدین اسدآبادی"
@@ -6006,7 +5736,6 @@
       ]
     },
     {
-      "partial_key": "nowruz_rivers_celebration",
       "key": 304958038,
       "title": {
         "fa_IR": "جشن نوروز رودها"
@@ -6029,7 +5758,6 @@
       ]
     },
     {
-      "partial_key": "rahiyan_noor_day",
       "key": 1087647552,
       "title": {
         "fa_IR": "روز راهیان نور"
@@ -6052,7 +5780,6 @@
       ]
     },
     {
-      "partial_key": "flower_pot_celebration",
       "key": 1073186056,
       "title": {
         "fa_IR": "جشن گلدان"
@@ -6072,7 +5799,6 @@
       }
     },
     {
-      "partial_key": "nizami_ganjavi_commemoration_day",
       "key": 586034324,
       "title": {
         "fa_IR": "روز بزرگداشت نظامی گنجوی"
@@ -6095,7 +5821,6 @@
       ]
     },
     {
-      "partial_key": "martyrs_day",
       "key": 26447559,
       "title": {
         "fa_IR": "روز بزرگداشت شهدا (تأسیس بنیاد شهید انقلاب اسلامی)"
@@ -6116,7 +5841,6 @@
       }
     },
     {
-      "partial_key": "first_parliament_election",
       "key": 1834714338,
       "title": {
         "fa_IR": "برگزاری انتخابات اولین دورهٔ مجلس شورای اسلامی"
@@ -6140,7 +5864,6 @@
       ]
     },
     {
-      "partial_key": "ferdowsis_shahnameh",
       "key": 3568323225,
       "title": {
         "fa_IR": "هزارهٔ شاهنامه، هزارمین سالگرد پایان سرایش شاهنامهٔ فردوسی"
@@ -6163,7 +5886,6 @@
       ]
     },
     {
-      "partial_key": "parvin_etesami_commemoration_day",
       "key": 1016800166,
       "title": {
         "fa_IR": "روز بزرگداشت پروین اعتصامی"
@@ -6187,7 +5909,6 @@
       ]
     },
     {
-      "partial_key": "chemical_bombing_of_halabja",
       "key": 771972650,
       "title": {
         "fa_IR": "بمباران شیمیایی حلبچه توسط ارتش بعث عراق"
@@ -6211,7 +5932,6 @@
       ]
     },
     {
-      "partial_key": "farvardegan_celebration",
       "key": 1344612988,
       "title": {
         "fa_IR": "فروردگان"
@@ -6234,7 +5954,6 @@
       ]
     },
     {
-      "partial_key": "oshidar_celebration",
       "key": 2225627556,
       "title": {
         "fa_IR": "گاهنبار هَمَسپَتمَدَم، جشن پایان زمستان (در آخرین روز سال) / جشن اوشیدر (نجات‌بخش ایرانی) در دریاچهٔ هامون و کوه خواجه / آتش‌افروزی بر بام‌ها در استقبال از نوروز"
@@ -6254,7 +5973,6 @@
       }
     },
     {
-      "partial_key": "oil_nationalization_movement",
       "key": 224704606,
       "title": {
         "fa_IR": "روز ملی شدن صنعت نفت ایران"
