@@ -246,7 +246,7 @@ events:
     - باستانی
   sources:
     - https://fa.wikipedia.org/wiki/جشن_فروردینگان
-- partial_key: the_martyrdom_of_muhammad_baqir_sadr_and_his_sister_bint_al_huda"
+- partial_key: "the_martyrdom_of_muhammad_baqir_sadr_and_his_sister_bint_al_huda"
   title:
     fa_IR: شهادت آیت‌الله سید محمد باقر صدر و خواهرشان بنت‌الهدی
   description:
