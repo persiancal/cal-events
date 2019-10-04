@@ -23,7 +23,6 @@ validate-jalali: $(ROOT)/cmd/thetool/thetool
 validate-hirir: $(ROOT)/cmd/thetool/thetool
 	$(ROOT)/cmd/thetool/thetool -dir $(ROOT)/hijri validate
 	$(ROOT)/cmd/thetool/thetool -dir $(ROOT)/hijri validate-links -ignore
-	$(ROOT)/cmd/thetool/thetool -dir $(ROOT)/hijri generate -dist $(ROOT)/dist -compare
 
 validate: validate-hirir validate-jalali
 
