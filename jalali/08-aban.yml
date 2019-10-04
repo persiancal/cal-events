@@ -39,9 +39,9 @@ events:
     - ایران
 - partial_key: "176"
   title:
-    fa_IR: ' روز کوروش بزرگ'
+    fa_IR: 'روز کوروش بزرگ'
   description:
-    fa_IR: ' روز کوروش بزرگ'
+    fa_IR: 'روز کوروش بزرگ'
   month: 8
   day: 7
   calendar:

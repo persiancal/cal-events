@@ -96,3 +96,43 @@ func TestValidateEventsContent(t *testing.T) {
 	}
 
 }
+
+func TestTextValidator(t *testing.T) {
+	type args struct {
+		s string
+		r string
+	}
+	tests := []struct {
+		name    string
+		args    args
+		wantErr bool
+	}{
+		{
+			name:    "should return multiple space error",
+			args:    args{s: "space  space", r: "reference"},
+			wantErr: true,
+		},
+		{
+			name:    "should return trim error",
+			args:    args{s: "trim it ", r: "reference"},
+			wantErr: true,
+		},
+		{
+			name:    "should return trim error",
+			args:    args{s: " trim it", r: "reference"},
+			wantErr: true,
+		},
+		{
+			name:    "should not return error",
+			args:    args{s: "Correct format", r: "reference"},
+			wantErr: false,
+		},
+	}
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			if err := textValidator(tt.args.s,tt.args.r); (err != nil) != tt.wantErr {
+				t.Errorf("textValidator() error = %v, wantErr %v", err, tt.wantErr)
+			}
+		})
+	}
+}
