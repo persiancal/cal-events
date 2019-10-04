@@ -15,6 +15,9 @@ generate-hijri: $(ROOT)/cmd/thetool/thetool
 	$(ROOT)/cmd/thetool/thetool -dir $(ROOT)/hijri generate -dist $(ROOT)/dist
 
 generate: generate-hijri generate-jalali
+	# Make sure update something in dist, since travis looks for changes, and if the build only contains new file
+	# skips the deploy
+	date > $(ROOT)/dist/.build_at
 
 validate-jalali: $(ROOT)/cmd/thetool/thetool
 	$(ROOT)/cmd/thetool/thetool -dir $(ROOT)/jalali validate
