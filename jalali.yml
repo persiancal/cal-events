@@ -54,8 +54,8 @@ months:
   - en_US: Esfand
     fa_IR: اسفند
 events:
-- partial_key: "0"
-  key: 2442552621
+- partial_key: beginning_of_nowruz
+  key: 2201418938
   title:
     fa_IR: آغاز عید نوروز
   description:
@@ -69,8 +69,10 @@ events:
     - ایران
   holiday:
     Iran: []
-- partial_key: "3"
-  key: 1617734009
+  sources:
+  - https://fa.wikipedia.org/wiki/نوروز
+- partial_key: nowruz
+  key: 815888249
   title:
     fa_IR: عید نوروز
   description:
@@ -84,8 +86,10 @@ events:
     - ایران
   holiday:
     Iran: []
-- partial_key: "1"
-  key: 2625255647
+  sources:
+  - https://fa.wikipedia.org/wiki/نوروز
+- partial_key: the_invasion_of_feyziyeh_seminary
+  key: 1320873914
   title:
     fa_IR: هجوم به مدرسهٔ فیضیهٔ قم
   description:
@@ -98,8 +102,10 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "2"
-  key: 580427906
+  sources:
+  - https://fa.wikipedia.org/wiki/مدرسه_فیضیه
+- partial_key: operation_fathol_mobin
+  key: 2894039138
   title:
     fa_IR: آغاز عملیات فتح‌المبین
   description:
@@ -112,8 +118,10 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "4"
-  key: 344787027
+  sources:
+  - https://fa.wikipedia.org/wiki/عملیات_فتح‌المبین
+- partial_key: nowruz
+  key: 3906876776
   title:
     fa_IR: عید نوروز
   description:
@@ -127,8 +135,10 @@ events:
     - ایران
   holiday:
     Iran: []
-- partial_key: "5"
-  key: 771353789
+  sources:
+  - https://fa.wikipedia.org/wiki/نوروز
+- partial_key: nowruz
+  key: 3355627411
   title:
     fa_IR: عید نوروز
   description:
@@ -142,8 +152,10 @@ events:
     - ایران
   holiday:
     Iran: []
-- partial_key: "6"
-  key: 2643405538
+  sources:
+  - https://fa.wikipedia.org/wiki/نوروز
+- partial_key: hope_day
+  key: 980911887
   title:
     fa_IR: روز امید، روز شادباش‌نویسی
   description:
@@ -155,8 +167,8 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "7"
-  key: 1707664729
+- partial_key: zoroasters_birthday
+  key: 565009964
   title:
     fa_IR: روز تولد زرتشت
   description:
@@ -168,8 +180,10 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "8"
-  key: 3417268603
+  sources:
+  - https://fa.wikipedia.org/wiki/زرتشت
+- partial_key: visual_arts_day
+  key: 2595578161
   title:
     fa_IR: روز هنرهای نمایشی
   description:
@@ -181,8 +195,10 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "9"
-  key: 3491076682
+  sources:
+  - https://fa.wikipedia.org/wiki/هنرهای_تجسمی
+- partial_key: abangah_celebration
+  key: 3428368902
   title:
     fa_IR: جشن آبانگاه
   description:
@@ -194,8 +210,8 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "10"
-  key: 610080830
+- partial_key: iranian_islamic_republic_referendum
+  key: 2862514651
   title:
     fa_IR: همه‌پرسی تغییر نظام شاهنشاهی به جمهوری اسلامی ایران
   description:
@@ -208,8 +224,10 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "11"
-  key: 186097059
+  sources:
+  - https://fa.wikipedia.org/wiki/همه‌پرسی_نظام_جمهوری_اسلامی_در_ایران
+- partial_key: iranian_islamic_republic_day
+  key: 2896434018
   title:
     fa_IR: روز جمهوری اسلامی ایران
   description:
@@ -223,8 +241,10 @@ events:
     - ایران
   holiday:
     Iran: []
-- partial_key: "12"
-  key: 678312827
+  sources:
+  - https://fa.wikipedia.org/wiki/روز_جمهوری_اسلامی
+- partial_key: natures_day
+  key: 3354116121
   title:
     fa_IR: روز طبیعت
   description:
@@ -238,8 +258,10 @@ events:
     - ایران
   holiday:
     Iran: []
-- partial_key: "14"
-  key: 1961945769
+  sources:
+  - https://fa.wikipedia.org/wiki/سیزده‌به‌در
+- partial_key: sizdah_bedar_celebration
+  key: 2580897303
   title:
     fa_IR: جشن سیزده‌بدر
   description:
@@ -251,8 +273,10 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "21"
-  key: 1412705339
+  sources:
+  - https://fa.wikipedia.org/wiki/سیزده‌به‌در
+- partial_key: genetic_and_biological_resources_day
+  key: 4280302786
   title:
     fa_IR: روز ذخایر ژنتیکی و زیستی
   description:
@@ -264,8 +288,10 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "23"
-  key: 433789563
+  sources:
+  - https://fa.wikipedia.org/wiki/مرکز_ملی_ذخایر_ژنتیکی_و_زیستی_ایران
+- partial_key: soroshegan_celebration
+  key: 148622734
   title:
     fa_IR: سروش‌روز، جشن سروشگان
   description:
@@ -277,21 +303,8 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "24"
-  key: 4168149717
-  title:
-    fa_IR: روز سلامتی
-  description:
-    fa_IR: روز سلامتی
-  month: 1
-  day: 18
-  calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "26"
-  key: 3424695318
+- partial_key: farvardinegan_celebration
+  key: 556171547
   title:
     fa_IR: فرورین‌روز، جشن فروردینگان
   description:
@@ -303,8 +316,10 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "27"
-  key: 3109362189
+  sources:
+  - https://fa.wikipedia.org/wiki/جشن_فروردینگان
+- partial_key: the_martyrdom_of_muhammad_baqir_sadr_and_his_sister_bint_al_huda
+  key: 2468335674
   title:
     fa_IR: شهادت آیت‌الله سید محمد باقر صدر و خواهرشان بنت‌الهدی
   description:
@@ -317,8 +332,11 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "29"
-  key: 2092402691
+  sources:
+  - https://fa.wikipedia.org/wiki/سید_محمدباقر_صدر
+  - https://fa.wikipedia.org/wiki/بنت‌الهدی_صدر
+- partial_key: islamic_revolution_art_day
+  key: 2866025425
   title:
     fa_IR: روز هنر انقلاب اسلامی
   description:
@@ -330,8 +348,10 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "28"
-  key: 170635076
+  sources:
+  - https://fa.wikipedia.org/wiki/هنر_انقلاب_اسلامی
+- partial_key: national_nuclear_technology_day
+  key: 993812645
   title:
     fa_IR: روز ملی فناوری هسته‌ای
   description:
@@ -343,8 +363,11 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "31"
-  key: 4015339950
+  sources:
+  - https://fa.wikipedia.org/wiki/روز_ملی_فناوری_هسته‌ای
+  - https://fa.wikipedia.org/wiki/انرژی_هسته‌ای
+- partial_key: cutting_off_iran_and_america_political_relations
+  key: 2528006806
   title:
     fa_IR: قطع مناسبات سیاسی ایران و آمریکا
   description:
@@ -357,8 +380,10 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "30"
-  key: 3727114661
+  sources:
+  - https://fa.wikipedia.org/wiki/روابط_ایران_و_ایالات_متحده_آمریکا
+- partial_key: morteza_avini_martyrdom
+  key: 1277758440
   title:
     fa_IR: شهادت سید مرتضی آوینی
   description:
@@ -371,8 +396,10 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "32"
-  key: 718774710
+  sources:
+  - https://fa.wikipedia.org/wiki/مرتضی_آوینی
+- partial_key: islamic_revolution_housing_foundation
+  key: 1465699861
   title:
     fa_IR: سالروز افتتاح حساب شمارهٔ ۱۰۰ و تأسیس بنیاد مسکن انقلاب اسلامی
   description:
@@ -385,8 +412,10 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "34"
-  key: 3145078728
+  sources:
+  - https://fa.wikipedia.org/wiki/بنیاد_مسکن_انقلاب_اسلامی
+- partial_key: ali_sayad_shirazi_martyrdom
+  key: 579800691
   title:
     fa_IR: شهادت امیر سپهبد علی صیاد شیرازی
   description:
@@ -399,8 +428,10 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "43"
-  key: 396965910
+  sources:
+  - https://fa.wikipedia.org/wiki/علی_صیاد_شیرازی
+- partial_key: attar_of_nishapur_commemoration_day
+  key: 780198210
   title:
     fa_IR: روز بزرگداشت عطار نیشابوری
   description:
@@ -412,8 +443,10 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "50"
-  key: 569818014
+  sources:
+  - https://fa.wikipedia.org/wiki/عطار_نیشابوری
+- partial_key: islamic_republic_of_iran_army_and_ground_forces_day
+  key: 1192758511
   title:
     fa_IR: روز ارتش جمهوری اسلامی و نیروی زمینی
   description:
@@ -425,6 +458,9 @@ events:
     - Iran
     fa_IR:
     - ایران
+  sources:
+  - https://fa.wikipedia.org/wiki/ارتش_جمهوری_اسلامی_ایران
+  - https://fa.wikipedia.org/wiki/نیروی_زمینی_ارتش_جمهوری_اسلامی_ایران
 - partial_key: sadi_day
   key: 433769162
   title:
