@@ -11,20 +11,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "aliـibnـhusaynـzaynـalـabidin_martyrdom"
-  title:
-    fa_IR: شهادت حضرت امام زین‌العابدین علیه السلام (۹۵ ه ق) به روایتی
-  description:
-    fa_IR: شهادت حضرت امام زین‌العابدین علیه السلام (۹۵ ه ق) به روایتی
-  month: 7
-  day: 3
-  calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  sources:
-    - https://fa.wikipedia.org/wiki/%D8%B3%D8%AC%D8%A7%D8%AF
 - partial_key: "operation_samen_ol_a_emeh"
   title:
     fa_IR: شکست حصر آبادان در عملیات ثامن‌الأئمه (ع)
@@ -39,7 +25,7 @@ events:
     fa_IR:
     - ایران
   sources:
-    - https://fa.wikipedia.org/wiki/%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA_%D8%AB%D8%A7%D9%85%D9%86%E2%80%8C%D8%A7%D9%84%D8%A7%D8%A6%D9%85%D9%87
+    - https://fa.wikipedia.org/wiki/حصر_آبادان
 - partial_key: "iran_iraq_war_martyrs_day"
   title:
     fa_IR: روز بزرگداشت فرماندهان شهید دفاع مقدس
@@ -53,7 +39,7 @@ events:
     fa_IR:
     - ایران
   sources:
-    - https://fa.wikipedia.org/wiki/%D8%AC%D9%86%DA%AF_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D9%88_%D8%B9%D8%B1%D8%A7%D9%82
+    - https://fa.wikipedia.org/wiki/جنگ_ایران_و_عراق
 - partial_key: "shams_tabrizi_commemoration day"
   title:
     fa_IR: روز بزرگداشت شمس
@@ -67,7 +53,7 @@ events:
     fa_IR:
     - ایران
   sources:
-    - https://fa.wikipedia.org/wiki/%D8%B4%D9%85%D8%B3_%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2%DB%8C
+    - https://fa.wikipedia.org/wiki/شمس_تبریزی
 - partial_key: "firefighting_day"
   title:
     fa_IR: روز آتش‌نشانی و ایمنی
@@ -81,7 +67,7 @@ events:
     fa_IR:
     - ایران
   sources:
-    - https://fa.wikipedia.org/wiki/%D8%A2%D8%AA%D8%B4%E2%80%8C%D9%86%D8%B4%D8%A7%D9%86%DB%8C
+    - https://fa.wikipedia.org/wiki/آتش‌نشانی
 - partial_key: "1981_iranian_air_force_c_130_crash"
   title:
     fa_IR: شهادت فلاحی، فکوری، نامجو، کلاهدوز و جهان‌آرا از فرماندهان ارتش و سپاه
@@ -96,7 +82,7 @@ events:
     fa_IR:
     - ایران
   sources:
-    - https://fa.wikipedia.org/wiki/%D8%B3%D9%82%D9%88%D8%B7_%D9%87%D9%88%D8%A7%D9%BE%DB%8C%D9%85%D8%A7%DB%8C_%D8%B3%DB%8C-%DB%B1%DB%B3%DB%B0_(%DB%B1%DB%B3%DB%B6%DB%B0)
+    - https://fa.wikipedia.org/wiki/سقوط_هواپیمای_سی-۱۳۰_(۱۳۶۰)
 - partial_key: "mowlavi_commemoration_day"
   title:
     fa_IR: روز بزرگداشت مولوی
@@ -110,7 +96,7 @@ events:
     fa_IR:
     - ایران
   sources:
-    - https://fa.wikipedia.org/wiki/%D9%85%D9%88%D9%84%D9%88%DB%8C
+    - https://fa.wikipedia.org/wiki/مولوی
 - partial_key: "solidarity_with_palestinian_children_day"
   title:
     fa_IR: روز همبستگی و همدردی با کودکان و نوجوانان فلسطینی
@@ -124,21 +110,7 @@ events:
     fa_IR:
     - ایران
   sources:
-    - https://fa.wikipedia.org/wiki/%D9%81%D9%84%D8%B3%D8%B7%DB%8C%D9%86
-- partial_key: "international_day_of_older_persons"
-  title:
-    fa_IR: روز جهانی سالمندان
-  description:
-    fa_IR: روز جهانی سالمندان
-  month: 7
-  day: 9
-  calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  sources:
-    - https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%B2_%D8%AC%D9%87%D8%A7%D9%86%DB%8C_%D8%B3%D8%A7%D9%84%D9%85%D9%86%D8%AF%D8%A7%D9%86
+    - https://fa.wikipedia.org/wiki/فلسطین
 - partial_key: "163"
   title:
     fa_IR: آیین قالیشویان اردهال، بازماندی از تیرگان
@@ -163,6 +135,20 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
+- partial_key: "naja_day"
+  title:
+    fa_IR: روز نیروی انتظامی
+  description:
+    fa_IR: روز نیروی انتظامی
+  month: 7
+  day: 13
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+  sources:
+    - https://fa.wikipedia.org/wiki/نیروی_انتظامی_جمهوری_اسلامی_ایران
 - partial_key: "ruhollah_khomeini_migration_from_iraq_to_paris"
   title:
     fa_IR: هجرت آیت‌الله روح‌الله خمینی از عراق به پاریس
@@ -177,35 +163,7 @@ events:
     fa_IR:
     - ایران
   sources:
-    - https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%AF_%D8%B1%D9%88%D8%AD%E2%80%8C%D8%A7%D9%84%D9%84%D9%87_%D8%AE%D9%85%DB%8C%D9%86%DB%8C
-- partial_key: "naja_day"
-  title:
-    fa_IR: روز نیروی انتظامی
-  description:
-    fa_IR: روز نیروی انتظامی
-  month: 7
-  day: 13
-  calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  sources:
-    - https://fa.wikipedia.org/wiki/%D9%86%DB%8C%D8%B1%D9%88%DB%8C_%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D9%85%DB%8C_%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C_%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86
-- partial_key: "hasan_ibn_ali_martyrdom"
-  title:
-    fa_IR: شهادت حضرت حسن مجتبی علیه‌السلام ( ه ق) به روایتی
-  description:
-    fa_IR: شهادت حضرت حسن مجتبی علیه‌السلام ( ه ق) به روایتی
-  month: 7
-  day: 14
-  calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  sources:
-    - https://fa.wikipedia.org/wiki/%D8%AD%D8%B3%D9%86_%D9%85%D8%AC%D8%AA%D8%A8%DB%8C
+    - https://fa.wikipedia.org/wiki/سید_روح‌الله_خمینی
 - partial_key: "veterinary_medicine_day"
   title:
     fa_IR: روز دامپزشکی
@@ -219,7 +177,21 @@ events:
     fa_IR:
     - ایران
   sources:
-    - https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%85%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C
+    - https://fa.wikipedia.org/wiki/دامپزشکی
+- partial_key: "salman_farsi_commemoration_day"
+  title:
+    fa_IR: روز بزرگداشت سلمان فارسی
+  description:
+    fa_IR: روز بزرگداشت سلمان فارسی
+  month: 7
+  day: 14
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+  sources:
+    - https://fa.wikipedia.org/wiki/سلمان_فارسی
 - partial_key: "village_and_ashayir_day"
   title:
     fa_IR: روز روستا و عشایر
@@ -244,6 +216,18 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
+- partial_key: "181"
+  title:
+    fa_IR: روز اسکان معلولان و سالمندان
+  description:
+    fa_IR: روز اسکان معلولان و سالمندان
+  month: 7
+  day: 20
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
 - partial_key: "hafez_commemoration_day"
   title:
     fa_IR: روز بزرگداشت حافظ
@@ -257,7 +241,7 @@ events:
     fa_IR:
     - ایران
   sources:
-    - https://fa.wikipedia.org/wiki/%D8%AD%D8%A7%D9%81%D8%B8
+    - https://fa.wikipedia.org/wiki/حافظ
 - partial_key: "185"
   title:
     fa_IR: رام‌روز، جشن رام‌روزی / جشن پیروزی کاوه و فریدون
@@ -270,20 +254,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "world_standards_day"
-  title:
-    fa_IR: روز جهانی استاندارد
-  description:
-    fa_IR: روز جهانی استاندارد
-  month: 7
-  day: 22
-  calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  sources:
-    - https://en.wikipedia.org/wiki/World_Standards_Day
 - partial_key: "ata_ollah_ashrafi_esfahani_martyrdom"
   title:
     fa_IR: شهادت آیت‌الله اشرفی اصفهانی
@@ -298,21 +268,19 @@ events:
     fa_IR:
     - ایران
   sources:
-    - https://fa.wikipedia.org/wiki/%D8%B9%D8%B7%D8%A7%D8%A1%D8%A7%D9%84%D9%84%D9%87_%D8%A7%D8%B4%D8%B1%D9%81%DB%8C_%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86%DB%8C
-- partial_key: "white_cane_safety_day"
+    - https://fa.wikipedia.org/wiki/عطاءالله_اشرفی_اصفهانی
+- partial_key: "190"
   title:
-    fa_IR: روز جهانی نابینایان (عصای سفید)
+    fa_IR: روز پیوند اولیا و مربیان
   description:
-    fa_IR: روز جهانی نابینایان (عصای سفید)
+    fa_IR: روز پیوند اولیا و مربیان
   month: 7
-  day: 23
+  day: 24
   calendar:
     en_US:
     - Iran
     fa_IR:
     - ایران
-  sources:
-    - https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%B2_%D8%B9%D8%B5%D8%A7%DB%8C_%D8%B3%D9%81%DB%8C%D8%AF
 - partial_key: "national_paralympic_day"
   title:
     fa_IR: روز ملی پارالمپیک
@@ -325,6 +293,21 @@ events:
     - Iran
     fa_IR:
     - ایران
+- partial_key: "191"
+  title:
+    fa_IR: به آتش کشیده‌شدن مسجد جامع شهر کرمان
+  description:
+    fa_IR: به آتش کشیده‌شدن مسجد جامع شهر کرمان
+  year: 1357
+  month: 7
+  day: 24
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+  sources:
+    - https://fa.wikipedia.org/wiki/واقعه_آتش‌سوزی_مسجد_جامع_کرمان
 - partial_key: "physical_education_and_sports_day"
   title:
     fa_IR: روز تربیت بدنی و ورزش
@@ -337,20 +320,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "arbaeen"
-  title:
-    fa_IR: اربعین حسینی (تعطیل)
-  description:
-    fa_IR: اربعین حسینی (تعطیل)
-  month: 7
-  day: 27
-  calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  sources:
-    - https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%A8%D8%B9%DB%8C%D9%86
 - partial_key: "national_export_day"
   title:
     fa_IR: روز صادرات
@@ -364,4 +333,4 @@ events:
     fa_IR:
     - ایران
   sources:
-    - https://fa.wikipedia.org/wiki/%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA
+    - https://fa.wikipedia.org/wiki/صادرات
