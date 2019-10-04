@@ -12,7 +12,7 @@ events:
     fa_IR:
     - باستانی
   sources:
-    -https://fa.wikipedia.org/wiki/آذرگان
+    - https://fa.wikipedia.org/wiki/آذرگان
 - partial_key: "uprising_people_of_gorgan"
   title:
     fa_IR: سالروز قیام مردم گرگان
@@ -40,7 +40,7 @@ events:
     fa_IR:
     - ایران
    sources:
-    -https://fa.wikipedia.org/wiki/بسیج
+     - https://fa.wikipedia.org/wiki/بسیج
 - partial_key: "islamic_republic_of_iran_navy_day"
   title:
     fa_IR: روز نیروی دریایی
@@ -54,8 +54,8 @@ events:
     - Iran
     fa_IR:
     - ایران
-   sources:
-    -https://fa.wikipedia.org/wiki/نیروی_دریایی_ارتش_جمهوری_اسلامی_ایران
+  sources:
+    - https://fa.wikipedia.org/wiki/نیروی_دریایی_ارتش_جمهوری_اسلامی_ایران
 - partial_key: "azargan_cermony"
   title:
     fa_IR: آذرروز، جشن آذرگان
@@ -69,7 +69,7 @@ events:
     fa_IR:
     - باستانی
   sources:
-    -https://fa.wikipedia.org/wiki/نیروی_دریایی_ارتش_جمهوری_اسلامی_ایران
+    - https://fa.wikipedia.org/wiki/نیروی_دریایی_ارتش_جمهوری_اسلامی_ایران
 - partial_key: "al-shaykh_al-mufid_commemoration_day"
   title:
     fa_IR: روز بزرگداشت شیخ مفید
@@ -83,7 +83,7 @@ events:
     fa_IR:
     - ایران
   sources:
-    -https://fa.wikipedia.org/wiki/شیخ_مفید    
+    - https://fa.wikipedia.org/wiki/شیخ_مفید    
 - partial_key: "iranian_Council_day"
   title:
     fa_IR: روز مجلس
@@ -98,7 +98,7 @@ events:
     fa_IR:
     - ایران
   sources:
-    -https://fa.wikipedia.org/wiki/روز_مجلس    
+    - https://fa.wikipedia.org/wiki/روز_مجلس    
 - partial_key: "‍seyyed_hassan_modarres_martyrdom"
   title:
     fa_IR: شهادت آیت‌الله سید حسن مدرس
@@ -114,7 +114,7 @@ events:
     - ایران
   sources:
     - https://fa.wikipedia.org/wiki/سید_حسن_مدرس    
-- partial_key: "mirza_kuchik_khan_witness_day
+- partial_key: "mirza_kuchik_khan_witness_day"
   title:
     fa_IR: شهادت میرزا کوچک خان جنگلی
   description:
@@ -128,7 +128,7 @@ events:
     fa_IR:
     - ایران
   sources:
-    -https://fa.wikipedia.org/wiki/میرزا_کوچک_خان_جنگلی
+    - https://fa.wikipedia.org/wiki/میرزا_کوچک_خان_جنگلی
 - partial_key: "constitution_of_the_islamic_republic_of_iran"
   title:
     fa_IR: روز قانون اساسی جمهوری اسلامی ایران (تصویب قانون اساسی جمهوری اسلامی ایران)
@@ -143,7 +143,7 @@ events:
     fa_IR:
     - ایران
   sources:
-    -https://fa.wikipedia.org/wiki/قانون_اساسی_جمهوری_اسلامی_ایران
+    - https://fa.wikipedia.org/wiki/قانون_اساسی_جمهوری_اسلامی_ایران
 - partial_key: "iranian_insurance_day"
   title:
     fa_IR: روز بیمه
@@ -158,7 +158,7 @@ events:
     fa_IR:
     - ایران
   sources:
-    -https://fa.wikipedia.org/wiki/بیمه
+    - https://fa.wikipedia.org/wiki/بیمه
 - partial_key: "iranian_student_day"
   title:
     fa_IR: روز دانشجو
@@ -172,7 +172,7 @@ events:
     fa_IR:
     - ایران
   sources:
-    -https://fa.wikipedia.org/wiki/روز_دانشجو
+    - https://fa.wikipedia.org/wiki/روز_دانشجو
 - partial_key: "introduce_iraq_as_starter_and_responsible_of_iran_war"
   title:
     fa_IR: معرفی عراق به عنوان مسئول و آغازگر جنگ از سوی سازمان ملل
@@ -187,7 +187,7 @@ events:
     fa_IR:
     - ایران
   sources:
-    -https://fa.wikipedia.org/wiki/قطعنامه_۵۹۸_شورای_امنیت
+    - https://fa.wikipedia.org/wiki/قطعنامه_۵۹۸_شورای_امنیت
 - partial_key: "supreme_council_of_the_cultura_ revolution"
   title:
     fa_IR: تشکیل شورای عالی انقلاب فرهنگی
@@ -202,7 +202,7 @@ events:
     fa_IR:
     - ایران
   sources:
-    -https://fa.wikipedia.org/wiki/شورای_عالی_انقلاب_فرهنگی
+    - https://fa.wikipedia.org/wiki/شورای_عالی_انقلاب_فرهنگی
 - partial_key: "abdol_hossein_dastgheib_witness_day"
   title:
     fa_IR: شهادت آیت‌الله دستغیب
@@ -217,7 +217,7 @@ events:
     fa_IR:
     - ایران
   sources:
-    -https://fa.wikipedia.org/wiki/سید_عبدالحسین_دستغیب
+    - https://fa.wikipedia.org/wiki/سید_عبدالحسین_دستغیب
 - partial_key: "iranian_research_day"
   title:
     fa_IR: روز پژوهش
@@ -231,7 +231,6 @@ events:
     fa_IR:
     - ایران
   sources:
-    -
 - partial_key: "iranian_tansportation_day"
   title:
     fa_IR: روز حمل و نقل و رانندگان
@@ -246,7 +245,7 @@ events:
     fa_IR:
     - ایران
   sources:
-    -https://fa.wikipedia.org/wiki/روز_ملی_حمل‌ونقل_ایران
+    - https://fa.wikipedia.org/wiki/روز_ملی_حمل‌ونقل_ایران
 - partial_key: "hoze_daneshgah_uprising"
   title:
     fa_IR: روز وحدت حوزه و دانشگاه
@@ -261,7 +260,7 @@ events:
     fa_IR:
     - ایران
   sources:
-    -https://fa.wikipedia.org/محمد_مفتح
+    - https://fa.wikipedia.org/محمد_مفتح
 - partial_key: "mohammad_mofatteh_witness_day"
   title:
     fa_IR: شهادت آیت‌الله دکتر محمد مفتح
@@ -276,7 +275,7 @@ events:
     fa_IR:
     - ایران
   sources:
-    -https://fa.wikipedia.org/محمد_مفتح
+    - https://fa.wikipedia.org/محمد_مفتح
 - partial_key: "mohammad_javad_tondguyan_Celebrate_day"
   title:
     fa_IR: روز تجلیل از شهید تندگویان
@@ -291,8 +290,8 @@ events:
     fa_IR:
     - ایران
   sources:
-    -https://fa.wikipedia.org/wiki/محمدجواد_تندگویان
-- partial_key: "Yalda_Night"
+    - https://fa.wikipedia.org/wiki/محمدجواد_تندگویان
+- partial_key: "yalda_night"
   title:
     fa_IR: شب یلدا (چله)
   description:
@@ -305,9 +304,8 @@ events:
     fa_IR:
     - ایران
   sources:
-    -https://en.wikipedia.org/wiki/Yaldā_Night
-    -https://fa.wikipedia.org/wiki/شب_یلدا
-- partial_key: "maidyozarem _gahambars"
+    - https://fa.wikipedia.org/wiki/شب_یلدا
+- partial_key: "maidyozarem_gahambars"
   title:
     fa_IR: گاهنبار میدیارِم، جشن میانهٔ سال گاهنباری (از مبدأ آغاز تابستان)
   description:
@@ -319,5 +317,5 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-   sources:
-     -https://fa.wikipedia.org/wiki/گاهنبار
+  sources:
+    - https://fa.wikipedia.org/wiki/گاهنبار
