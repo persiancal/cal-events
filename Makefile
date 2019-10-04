@@ -28,3 +28,6 @@ validate: validate-hirir validate-jalali
 
 reorder-jalali: $(ROOT)/cmd/thetool/thetool
 	$(ROOT)/cmd/thetool/thetool -dir $(ROOT)/jalali reorder -output - > $(ROOT)/jalali.yaml
+
+reorder-hijri: $(ROOT)/cmd/thetool/thetool
+	$(ROOT)/cmd/thetool/thetool -dir $(ROOT)/hijri reorder -output - > $(ROOT)/hijri.yaml
