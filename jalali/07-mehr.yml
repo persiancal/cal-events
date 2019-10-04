@@ -40,7 +40,7 @@ events:
     - ایران
   sources:
     - https://fa.wikipedia.org/wiki/جنگ_ایران_و_عراق
-- partial_key: "shams_tabrizi_commemoration day"
+- partial_key: "shams_tabrizi_commemoration_day"
   title:
     fa_IR: روز بزرگداشت شمس
   description:
