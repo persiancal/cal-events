@@ -6,6 +6,7 @@ events:
     fa_IR: هجرت حضرت رسول اكرم صلي الله عليه و آله از مكه به مدينه
   month: 3
   day: 1
+  year: 1
   calendar:
     en_US:
     - Iran
@@ -37,7 +38,7 @@ events:
     - https://fa.wikipedia.org/wiki/حسن_عسکری
 - partial_key: "birthday_of_muhammad_sunni"
   title:
-    fa_IR: ولادت حضرت رسول اكرم صلی الله عليه و آله به روايت اهل سنت
+    fa_IR: ولادت حضرت رسول اكرم صلی الله عليه و آله
   description:
     fa_IR: ولادت حضرت رسول اكرم صلی الله عليه و آله به روايت اهل سنت
   month: 3
@@ -55,7 +56,7 @@ events:
   title:
     fa_IR: ولادت حضرت رسول اكرم صلی الله عليه و آله
   description:
-    fa_IR: ولادت حضرت رسول اكرم صلی الله عليه و آله
+    fa_IR: ولادت حضرت رسول اكرم صلی الله عليه و آله به روایت شیعیان
   month: 3
   day: 17
   calendar:
