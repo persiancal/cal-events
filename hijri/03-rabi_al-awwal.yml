@@ -10,10 +10,10 @@ events:
   calendar:
     en_US:
     - Iran
-    - Shia
+    - Islamic
     fa_IR:
     - ایران
-    - شیعه
+    - اسلامی
   sources:
     - https://fa.wikipedia.org/wiki/هجرت_محمد
 - partial_key: "death_of_hassan_askari"
