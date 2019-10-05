@@ -13,7 +13,6 @@ events:
     - ایران
   holiday:
     Iran: []
-  is_religious: 
   sources:
     - https://fa.wikipedia.org/wiki/گاه‌شماری_هجری_قمری
 - partial_key: "husayn_ibn_ali_enters_karbala"
@@ -21,7 +20,6 @@ events:
     fa_IR: ورود حسین بن علی (ع) به صحرای کربلا
   description:
     fa_IR: ورود حسین بن علی (ع) به صحرای کربلا و برافراشتن خیمه ها. نیروهای یزید هم حضور دارند.
-  hijri_year: 61
   month: 1
   day: 2
   calendar:
@@ -31,15 +29,13 @@ events:
     - ایران
   holiday:
     Iran: []
-  is_religious: True
   sources:
     - https://fa.wikipedia.org/wiki/نبرد_کربلا
 - partial_key: "water_banned_in_karbala"
   title:
-    fa_IR:  قطع آب بر اردوی حسین بن علی (ع)ن
+    fa_IR:  قطع آب بر اردوی حسین بن علی (ع)
   description:
     fa_IR: در هفتم محرم، نامه‌ای از ابن زیاد به ابن سعد مبنی بر دستور قطع آب بر اردوی حسین بن علی (ع) رسید.
-  hijri_year: 61
   month: 1
   day: 7
   calendar:
@@ -47,15 +43,13 @@ events:
     - Iran
     fa_IR:
     - ایران
-  is_religious: True
   sources:
     - https://fa.wikipedia.org/wiki/نبرد_کربلا
-- partial_key: "tasoa_day"
+- partial_key: "tasoa"
   title:
-    fa_IR: روز تاسوعا
+    fa_IR: تاسوعا
   description:
-    fa_IR: روز تاسوعا
-  hijri_year: 61
+    fa_IR: تاسوعا
   month: 1
   day: 9
   calendar:
@@ -64,16 +58,14 @@ events:
     fa_IR:
     - ایران
   holiday:
-    Iran: [True]
-  is_religious: True
+    Iran: []
   sources:
     - https://fa.wikipedia.org/wiki/تاسوعا
-- partial_key: "ashuraـday"
+- partial_key: "ashura"
   title:
-    fa_IR: روز عاشورا
+    fa_IR: عاشورا
   description:
-    fa_IR: روز عاشورا
-  hijri_year: 61
+    fa_IR: عاشورا
   month: 1
   day: 10
   calendar:
@@ -82,16 +74,14 @@ events:
     fa_IR:
     - ایران
   holiday:
-    Iran: [True]
-  is_religious: True
+    Iran: []
   sources:
     - https://a.wikipedia.org/wiki/عاشورا
 - partial_key: "fourth_shia_imam_was_martyred"
   title:
-    fa_IR: 	 شهادت حضرت امام زين العابدين (ع)ن
+    fa_IR: 	 شهادت حضرت امام زين العابدين (ع)
   description:
     fa_IR: 	 شهادت حضرت امام زين العابدين (ع)
-  hijri_year: 95
   month: 1
   day: 12
   calendar:
@@ -100,11 +90,10 @@ events:
     fa_IR:
     - ایران
   holiday:
-    Iran: [True]
-  is_religious: True
+    Iran: []
   sources:
     - https://fa.wikipedia.org/wiki/سجاد
-- partial_key: "mosqueـofـtheـtwoـqiblas'"
+- partial_key: "mosque_of_the_two_qiblas"
   title:
     fa_IR:  تغيير قبله مسلمين از بيت المقدس به مکه معظمه
   description:
@@ -118,7 +107,6 @@ events:
     - ایران
   holiday:
     Iran: []
-  is_religious: True
   sources:
     - https://fa.wikipedia.org/wiki/مسجد_ذوقبلتین
 - partial_key: "fourth_Shia_Imam_was_martyred_2"
@@ -126,7 +114,6 @@ events:
     fa_IR: 	 شهادت حضرت امام زين العابدين (ع) بنا بر روایتی
   description:
     fa_IR: 	شهادت حضرت امام زين العابدين (ع) بنا بر روایتی
-  hijri_year: 95
   month: 1
   day: 25
   calendar:
@@ -136,6 +123,5 @@ events:
     - ایران
   holiday:
     Iran: []
-  is_religious: True
   sources:
     - https://fa.wikipedia.org/wiki/سجاد
