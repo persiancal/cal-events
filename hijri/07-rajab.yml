@@ -1,5 +1,5 @@
 events:
-  - partial_key: "muhammad_al-baqir_bd"
+  - partial_key: "muhammad_al_baqir_bd"
     title:
       fa_IR:  ولادت محمد باقر، پنجمین امام شیعه دوازده‌امامی
     description:
@@ -72,7 +72,7 @@ events:
         - جمهوری اسلامی ایران
     sources:
        - https://fa.wikipedia.org/wiki/روزهای_سپید
-  - partial_key: "Zaynab_bint_Ali_death"
+  - partial_key: "Zzaynab_bint_ali_death"
     title:
       fa_IR: درگذشت زینب الکبری بنت علی
     description:
@@ -102,7 +102,7 @@ events:
         -  جمهوری اسلامی ایران
     sources:
       - https://fa.wikipedia.org/wiki/قبله#قبله_مسلمانان
-  - partial_key: "Muawiyah_I_death"
+  - partial_key: "muawiyah_i_death"
     title:
       fa_IR: درگذشت معاویة بن ابی‌سفیان
     description:
@@ -116,7 +116,7 @@ events:
         -  جمهوری اسلامی ایران
     sources :
       - https://fa.wikipedia.org/wiki/معاویة_بن_ابی‌سفیان#درگذشت
-  - partial_key: "Musa_al-Kadhim_death"
+  - partial_key: "musa_al_kadhim_death"
     title:
       fa_IR: درگذشت موسی کاظم
     description:
