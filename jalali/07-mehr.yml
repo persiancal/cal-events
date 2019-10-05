@@ -1,5 +1,5 @@
 events:
-- partial_key: "143"
+- partial_key: "mitrakanaـcelebration"
   title:
     fa_IR: جشن میتراکانا / سال نو هخامنشی
   description:
@@ -26,6 +26,7 @@ events:
     - ایران
   sources:
     - https://fa.wikipedia.org/wiki/حصر_آبادان
+    - https://fa.wikipedia.org/wiki/عملیات_ثامن‌الائمه
 - partial_key: "iran_iraq_war_martyrs_day"
   title:
     fa_IR: روز بزرگداشت فرماندهان شهید دفاع مقدس
@@ -111,7 +112,7 @@ events:
     - ایران
   sources:
     - https://fa.wikipedia.org/wiki/فلسطین
-- partial_key: "163"
+- partial_key: "tirgan"
   title:
     fa_IR: آیین قالیشویان اردهال، بازماندی از تیرگان
   description:
@@ -123,7 +124,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "167"
+- partial_key: "tirozi_celebration"
   title:
     fa_IR: تیرروز، جشن تیرروزی
   description:
@@ -204,7 +205,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "173"
+- partial_key: "mehrgan_celebration"
   title:
     fa_IR: مهرروز، جشن مهرگان
   description:
@@ -216,7 +217,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "181"
+- partial_key: "salmandan_day"
   title:
     fa_IR: روز اسکان معلولان و سالمندان
   description:
@@ -242,7 +243,7 @@ events:
     - ایران
   sources:
     - https://fa.wikipedia.org/wiki/حافظ
-- partial_key: "185"
+- partial_key: "ramrozi_celebration"
   title:
     fa_IR: رام‌روز، جشن رام‌روزی / جشن پیروزی کاوه و فریدون
   description:
@@ -269,7 +270,7 @@ events:
     - ایران
   sources:
     - https://fa.wikipedia.org/wiki/عطاءالله_اشرفی_اصفهانی
-- partial_key: "190"
+- partial_key: "parent_day"
   title:
     fa_IR: روز پیوند اولیا و مربیان
   description:
@@ -293,7 +294,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "191"
+- partial_key: "kerman_mosque"
   title:
     fa_IR: به آتش کشیده‌شدن مسجد جامع شهر کرمان
   description:
