@@ -3,27 +3,29 @@ events:
   title:
     fa_IR: ولادت حضرت امام حسن عسگري عليه الاسلام
   description:
-    fa_IR: وفات حضرت معصومه سلام االله عليها
+    fa_IR: ولادت حضرت امام حسن عسگري عليه الاسلام
   day: 8
-  month: 1
+  month: 4
   year: 232
   calendar:
+    en_US:
+      - Shia
     fa_IR:
-    - شیعه
+      - شیعه
   sources:
     - https://fa.wikipedia.org/wiki/حسن_عسکری
-    - http://wiki.ahlolbait.com/تقویم:_ميلاد_مسعود_امام_حسن_عسكرى
 - partial_key: "fatimah_bint_musa_death"
   title:
     fa_IR: وفات حضرت معصومه سلام االله عليها
   description:
     fa_IR: وفات حضرت معصومه سلام االله عليها
   day: 10
-  month: 1
+  month: 4
   year: 201
   calendar:
+    en_US:
+      - Shia
     fa_IR:
-    - شیعه
+      - شیعه
   sources:
     - https://fa.wikipedia.org/wiki/فاطمه_معصومه
-    - http://wiki.ahlolbait.com/حضرت_فاطمه_معصومه_علیها_السلام
