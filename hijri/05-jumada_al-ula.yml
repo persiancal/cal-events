@@ -10,8 +10,10 @@ events:
   calendar:
     en_US:
     - Shia
+    - Iran
     fa_IR:
     - شیعه
+    - ایران
   sources:
     - https://fa.wikipedia.org/wiki/زینب
     - https://fa.wikipedia.org/wiki/پرستار
@@ -25,9 +27,9 @@ events:
   day: 6
   calendar:
     en_US:
-    - Shia
+    - Islamic
     fa_IR:
-    - شیعه
+    - اسلامی
   sources:
     - https://fa.wikipedia.org/wiki/سریه_مؤته
 - partial_key: "jafar_ibn_abi_talib_martyrdom"
@@ -40,9 +42,9 @@ events:
   day: 6
   calendar:
     en_US:
-    - Shia
+    - Islamic
     fa_IR:
-    - شیعه
+    - اسلامی
   sources:
     - https://fa.wikipedia.org/wiki/جعفر_بن_ابی‌طالب
 - partial_key: "battle_of_the_camel"
@@ -55,9 +57,9 @@ events:
   day: 10
   calendar:
     en_US:
-    - Shia
+    - Islamic
     fa_IR:
-    - شیعه
+    - اسلامی
   sources:
     - https://fa.wikipedia.org/wiki/جنگ_جمل
 - partial_key: "martyrdom_of_hazrat_fatemeh_zahra"
@@ -70,9 +72,9 @@ events:
   day: 13
   calendar:
     en_US:
-    - Shia
+    - Iran
     fa_IR:
-    - شیعه
+    - ایران
   sources:
     - https://fa.wikipedia.org/wiki/فاطمه_زهرا
 - partial_key: "abd_al_muttalib_death"
@@ -84,9 +86,9 @@ events:
   day: 27
   calendar:
     en_US:
-    - Shia
+    - Islamic
     fa_IR:
-    - شیعه
+    - اسلامی
   sources:
     - https://fa.wikipedia.org/wiki/عبدالمطلب
 - partial_key: "abu_jafar_muhammad_ibn_uthman_death"
