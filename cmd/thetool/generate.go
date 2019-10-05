@@ -56,6 +56,7 @@ func generate(cmd *command, fl *File) error {
 			return fmt.Errorf("duplicate key, please change the partial key for %s", fl.Events[i].PartialKey)
 		}
 		allKey[fl.Events[i].Key] = true
+		fl.Events[i].PartialKey = "" // Remove the partial key in generated files
 	}
 
 	path := filepath.Join(*dist, strings.ToLower(fl.Name))

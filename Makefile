@@ -6,14 +6,31 @@ test:
 $(ROOT)/cmd/thetool/thetool: test
 	cd $(ROOT)/cmd/thetool && go build .
 
-generate: $(ROOT)/cmd/thetool/thetool
+generate-jalali: $(ROOT)/cmd/thetool/thetool
 	mkdir -p $(ROOT)/dist
 	$(ROOT)/cmd/thetool/thetool -dir $(ROOT)/jalali generate -dist $(ROOT)/dist
 
-validate: $(ROOT)/cmd/thetool/thetool
+generate-hijri: $(ROOT)/cmd/thetool/thetool
+	mkdir -p $(ROOT)/dist
+	$(ROOT)/cmd/thetool/thetool -dir $(ROOT)/hijri generate -dist $(ROOT)/dist
+
+generate: generate-hijri generate-jalali
+	# Make sure update something in dist, since travis looks for changes, and if the build only contains new file
+	# skips the deploy
+	date > $(ROOT)/dist/.build_at
+
+validate-jalali: $(ROOT)/cmd/thetool/thetool
 	$(ROOT)/cmd/thetool/thetool -dir $(ROOT)/jalali validate
 	$(ROOT)/cmd/thetool/thetool -dir $(ROOT)/jalali validate-links -ignore
-	$(ROOT)/cmd/thetool/thetool -dir $(ROOT)/jalali generate -dist $(ROOT)/dist -compare
 
-reorder: $(ROOT)/cmd/thetool/thetool
+validate-hirir: $(ROOT)/cmd/thetool/thetool
+	$(ROOT)/cmd/thetool/thetool -dir $(ROOT)/hijri validate
+	$(ROOT)/cmd/thetool/thetool -dir $(ROOT)/hijri validate-links -ignore
+
+validate: validate-hirir validate-jalali
+
+reorder-jalali: $(ROOT)/cmd/thetool/thetool
 	$(ROOT)/cmd/thetool/thetool -dir $(ROOT)/jalali reorder -output - > $(ROOT)/jalali.yaml
+
+reorder-hijri: $(ROOT)/cmd/thetool/thetool
+	$(ROOT)/cmd/thetool/thetool -dir $(ROOT)/hijri reorder -output - > $(ROOT)/hijri.yaml

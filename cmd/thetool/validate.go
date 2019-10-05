@@ -2,8 +2,36 @@ package main
 
 import (
 	"fmt"
+	"regexp"
 	"strings"
 )
+
+var (
+	partialValidator = regexp.MustCompile("^[a-z0-9_]+$")
+	multipleSpace    = regexp.MustCompile(`\s{2,}`)
+)
+
+func reference(a ...interface{}) string {
+	r := ""
+	if len(a) == 0 {
+		return r
+	}
+	for i := range a {
+		r += fmt.Sprintf("%v => ", a[i])
+	}
+	return r[:len(r)-3]
+}
+
+func textValidator(s string, rs ...interface{}) error {
+	r := reference(rs...)
+	if strings.TrimSpace(s) != s {
+		return fmt.Errorf("validate text failed: start and/or end with space in %q", r)
+	}
+	if multipleSpace.MatchString(s) {
+		return fmt.Errorf("validate text failed: double or more white spaces in %q", r)
+	}
+	return nil
+}
 
 func validate(cmd *command, fl *File) error {
 	if err := validateEventContent(fl.Events, fl.Months, fl.Countries); err != nil {
@@ -33,8 +61,36 @@ func validateEventContent(ev []Event, p *Preset, countries []string) error {
 			return fmt.Errorf("the Key should not be in the input file")
 		}
 
-		if strings.Trim(ev[i].PartialKey, "\n\t ") == "" {
-			return fmt.Errorf("the partial key is empty")
+		for l, t := range ev[i].Title {
+			if err := textValidator(t, ev[i].PartialKey, "title", l); err != nil {
+				return err
+			}
+		}
+
+		for l, t := range ev[i].Description {
+			if err := textValidator(t, ev[i].PartialKey, "description", l); err != nil {
+				return err
+			}
+		}
+
+		for l, t := range ev[i].Calendar {
+			for idx, r := range t {
+				if err := textValidator(r, ev[i].PartialKey, "calendar", l, idx); err != nil {
+					return err
+				}
+			}
+		}
+
+		for l, t := range ev[i].Holiday {
+			for p, r := range t {
+				if err := textValidator(r, ev[i].PartialKey, "holiday", l, p); err != nil {
+					return err
+				}
+			}
+		}
+
+		if !partialValidator.MatchString(ev[i].PartialKey) {
+			return fmt.Errorf("the partial key %q is invalid, only lower english chars, _ and numbers are allowed ([a-z0-9_])", ev[i].PartialKey)
 		}
 
 		if ev[i].Month <= 0 || ev[i].Month > len(p.MonthsNormal) {
@@ -72,7 +128,7 @@ func validateEventOrder(ev []Event) error {
 
 		if lastIdx == ev[i].idx() {
 			if ev[i].Year < year {
-				return fmt.Errorf("the key %d is not in order", i)
+				return fmt.Errorf("the key %q is not in order", ev[i].PartialKey)
 			}
 		}
 

@@ -13,19 +13,19 @@ func TestValidateEventsOrder(t *testing.T) {
 	}{
 		{
 			events: []Event{
-				{Month: 1, Day: 1, PartialKey: "PK"},
-				{Month: 1, Day: 2, PartialKey: "PK"},
-				{Month: 2, Day: 2, PartialKey: "PK"},
-				{Month: 2, Day: 2, Year: 100, PartialKey: "PK"},
-				{Month: 2, Day: 2, Year: 101, PartialKey: "PK"},
-				{Month: 3, Day: 1, PartialKey: "PK"},
+				{Month: 1, Day: 1, PartialKey: "partial_key"},
+				{Month: 1, Day: 2, PartialKey: "partial_key"},
+				{Month: 2, Day: 2, PartialKey: "partial_key"},
+				{Month: 2, Day: 2, Year: 100, PartialKey: "partial_key"},
+				{Month: 2, Day: 2, Year: 101, PartialKey: "partial_key"},
+				{Month: 3, Day: 1, PartialKey: "partial_key"},
 			},
 			failKey: -1,
 		},
 		{
 			events: []Event{
-				{Month: 2, Day: 2, PartialKey: "PK"},
-				{Month: 2, Day: 1, PartialKey: "PK"},
+				{Month: 2, Day: 2, PartialKey: "partial_key"},
+				{Month: 2, Day: 1, PartialKey: "partial_key"},
 			},
 			failKey: 1,
 		},
@@ -49,31 +49,31 @@ func TestValidateEventsContent(t *testing.T) {
 	}{
 		{
 			events: []Event{
-				{Month: 0, Day: 1, PartialKey: "PK"},
+				{Month: 0, Day: 1, PartialKey: "partial_key"},
 			},
 			failKey: 0,
 		},
 		{
 			events: []Event{
-				{Month: 2, Day: -1, PartialKey: "PK"},
+				{Month: 2, Day: -1, PartialKey: "partial_key"},
 			},
 			failKey: 0,
 		},
 		{
 			events: []Event{
-				{Month: 7, Day: 31, PartialKey: "PK"},
+				{Month: 7, Day: 31, PartialKey: "partial_key"},
 			},
 			failKey: 0,
 		},
 		{
 			events: []Event{
-				{Month: 7, Day: 1, Holiday: map[string][]string{"Invalid": nil}, PartialKey: "PK"},
+				{Month: 7, Day: 1, Holiday: map[string][]string{"Invalid": nil}, PartialKey: "partial_key"},
 			},
 			failKey: 0,
 		},
 		{
 			events: []Event{
-				{Month: 7, Day: 1, Holiday: map[string][]string{"Iran": nil}, PartialKey: "PK"},
+				{Month: 7, Day: 1, Holiday: map[string][]string{"Iran": nil}, PartialKey: "partial_key"},
 			},
 			failKey: -1,
 		},
@@ -95,4 +95,44 @@ func TestValidateEventsContent(t *testing.T) {
 		assert.Error(t, err)
 	}
 
+}
+
+func TestTextValidator(t *testing.T) {
+	type args struct {
+		s string
+		r string
+	}
+	tests := []struct {
+		name    string
+		args    args
+		wantErr bool
+	}{
+		{
+			name:    "should return multiple space error",
+			args:    args{s: "space  space", r: "reference"},
+			wantErr: true,
+		},
+		{
+			name:    "should return trim error",
+			args:    args{s: "trim it ", r: "reference"},
+			wantErr: true,
+		},
+		{
+			name:    "should return trim error",
+			args:    args{s: " trim it", r: "reference"},
+			wantErr: true,
+		},
+		{
+			name:    "should not return error",
+			args:    args{s: "Correct format", r: "reference"},
+			wantErr: false,
+		},
+	}
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			if err := textValidator(tt.args.s,tt.args.r); (err != nil) != tt.wantErr {
+				t.Errorf("textValidator() error = %v, wantErr %v", err, tt.wantErr)
+			}
+		})
+	}
 }

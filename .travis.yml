@@ -1,9 +1,22 @@
 language: go
-
 go:
-  - 1.x
-
+- 1.x
 sudo: false
-
 script:
-  - make validate
+- make validate
+- make generate
+deploy:
+  provider: pages:git
+  edge: true
+  verbose: true
+  keep_history: true
+  allow_empty_commit: true
+  deploy_key: persiancal-deploy.key
+  skip_cleanup: true
+  local_dir: dist
+  on:
+    repo: persiancal/cal-events
+    branch: master
+before_install:
+- openssl aes-256-cbc -K $encrypted_2f0b98d59ed0_key -iv $encrypted_2f0b98d59ed0_iv
+  -in .travis/persiancal-deploy.key.enc -out persiancal-deploy.key -d || true

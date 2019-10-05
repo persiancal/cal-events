@@ -1,5 +1,5 @@
 events:
-- partial_key: "108"
+- partial_key: "iranians_doctors_day"
   title:
     fa_IR: روز پزشک
   description:
@@ -11,7 +11,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "109"
+  sources:
+    - https://fa.wikipedia.org/wiki/روز_پزشک
+- partial_key: "abu_ali_sina_commemoration_day"
   title:
     fa_IR: روز بزرگداشت ابوعلی سینا
   description:
@@ -23,7 +25,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "111"
+  sources:
+    - https://fa.wikipedia.org/wiki/ابن_سینا
+- partial_key: "faghdieh_cool_celebration"
   title:
     fa_IR: فغدیه، جشن خنکی هوا
   description:
@@ -35,7 +39,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "114"
+- partial_key: "government_week_beginning_day"
   title:
     fa_IR: آغاز هفتهٔ دولت
   description:
@@ -47,7 +51,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "112"
+- partial_key: "ali_andarzgo_martyrdom"
   title:
     fa_IR: شهادت سید علی اندرزگو
   description:
@@ -60,7 +64,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "117"
+  sources:
+    - https://fa.wikipedia.org/wiki/سید_علی_اندرزگو
+- partial_key: "keshmin_celebration"
   title:
     fa_IR: جشن کشمین
   description:
@@ -72,7 +78,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "120"
+- partial_key: "soviet_invasion_of_iran"
   title:
     fa_IR: اشغال ایران به دست متفقین
   description:
@@ -85,7 +91,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "122"
+  sources:
+    - https://fa.wikipedia.org/wiki/اشغال_ایران_در_جنگ_جهانی_دوم
+- partial_key: "shahrivargan_celebration"
   title:
     fa_IR: شهریورروز، جشن شهریورگان / زادروز داراب (کوروش) / عروج مانی
   description:
@@ -97,7 +105,9 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "123"
+  sources:
+    - https://fa.wikipedia.org/wiki/شهریورگان
+- partial_key: "employee_day"
   title:
     fa_IR: روز کارمند
   description:
@@ -109,11 +119,11 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "124"
+- partial_key: "qolamreza_takhti_wrestling_day"
   title:
-    fa_IR: روز کشتی
+    fa_IR: تولد جهان پهلوان غلامرضاتختی و روز کشتی
   description:
-    fa_IR: روز کشتی
+    fa_IR: تولد جهان پهلوان غلامرضاتختی و روز کشتی
   month: 6
   day: 5
   calendar:
@@ -121,7 +131,10 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "125"
+  sources:
+  - https://fa.wikipedia.org/wiki/غلامرضا_تختی
+  - https://fa.wikipedia.org/wiki/کشتی_(ورزش)
+- partial_key: "mohammad_ibn_zakariya_razi_commemoration_day"
   title:
     fa_IR: روز بزرگداشت محمد بن زکریای رازی
   description:
@@ -133,7 +146,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "126"
+  sources:
+    - https://fa.wikipedia.org/wiki/زکریای_رازی
+- partial_key: "pharmacy_day"
   title:
     fa_IR: روز داروسازی
   description:
@@ -145,7 +160,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "131"
+  sources:
+    - https://fa.wikipedia.org/wiki/روز_داروساز
+- partial_key: "fall_celebration"
   title:
     fa_IR: خزان‌جشن
   description:
@@ -157,11 +174,11 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "130"
+- partial_key: "counter_terrorism_day"
   title:
-    fa_IR: روز مبارزه با تروریسم (انفجار دفتر نخست‌وزیری و شهادت رجایی و باهنر
+    fa_IR: روز مبارزه با تروریسم (انفجار دفتر نخست‌وزیری و شهادت رجایی و باهنر)
   description:
-    fa_IR: روز مبارزه با تروریسم (انفجار دفتر نخست‌وزیری و شهادت رجایی و باهنر
+    fa_IR: روز مبارزه با تروریسم (انفجار دفتر نخست‌وزیری و شهادت رجایی و باهنر)
   year: 1360
   month: 6
   day: 8
@@ -170,11 +187,13 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "134"
+  sources:
+    - https://fa.wikipedia.org/wiki/انفجار_در_دفتر_نخست‌وزیری_جمهوری_اسلامی_ایران
+- partial_key: "islamic_banking_day"
   title:
-    fa_IR: روز بانکداری اسلامی
+    fa_IR: روز بانکداری اسلامی (تصویب قانون عملیات بانکی بدون ربا)
   description:
-    fa_IR: روز بانکداری اسلامی
+    fa_IR: روز بانکداری اسلامی (تصویب قانون عملیات بانکی بدون ربا)
   month: 6
   day: 10
   calendar:
@@ -182,20 +201,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "135"
-  title:
-    fa_IR: تصویب قانون عملیات بانکی بدون ربا
-  description:
-    fa_IR: تصویب قانون عملیات بانکی بدون ربا
-  year: 1362
-  month: 6
-  day: 10
-  calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "137"
+  sources:
+    - https://fa.wikipedia.org/wiki/بانکداری_اسلامی
+- partial_key: "printing_industry_day"
   title:
     fa_IR: روز صنعت چاپ
   description:
@@ -207,7 +215,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "139"
+- partial_key: "behvarz_day"
   title:
     fa_IR: روز بهورز
   description:
@@ -219,7 +227,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "138"
+- partial_key: "rais_ali_delvari_commemoration_day"
   title:
     fa_IR: روز مبارزه با استعمار انگلیس (سالروز شهادت رئیس‌علی دلواری)
   description:
@@ -231,7 +239,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "140"
+  sources:
+    - https://fa.wikipedia.org/wiki/رئیس‌علی_دلواری
+- partial_key: "cooperative_day"
   title:
     fa_IR: روز تعاون
   description:
@@ -243,7 +253,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "141"
+- partial_key: "abu_rayhan_al_biruni_commemoration_day"
   title:
     fa_IR: روز بزرگداشت ابوریحان بیرونی
   description:
@@ -255,7 +265,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "142"
+  sources:
+    - https://fa.wikipedia.org/wiki/ابوریحان_بیرونی
+- partial_key: "anthropology_day"
   title:
     fa_IR: روز مردم‌شناسی
   description:
@@ -267,7 +279,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "144"
+- partial_key: "qodosi_and_dastjerdi_martyrdom"
   title:
     fa_IR: شهادت آیت‌الله قدوسی و سرتیپ وحید دستجردی
   description:
@@ -280,7 +292,10 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "146"
+  sources:
+    - https://fa.wikipedia.org/wiki/هوشنگ_وحید_دستجردی
+    - https://fa.wikipedia.org/wiki/علی_قدوسی
+- partial_key: "bazar_celebration"
   title:
     fa_IR: بازارجشن
   description:
@@ -292,7 +307,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "150"
+- partial_key: "black_friday"
   title:
     fa_IR: قیام ۱۷ شهریور و کشتار جمعی از مردم به دست مأموران پهلوی
   description:
@@ -305,7 +320,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "157"
+  sources:
+    - https://fa.wikipedia.org/wiki/تظاهرات_۱۷_شهریور
+- partial_key: "mahmoud_taleqani_martyrdom"
   title:
     fa_IR: وفات آیت‌الله سید محمود طالقانی اولین امام جمعهٔ تهران
   description:
@@ -318,7 +335,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "159"
+  sources:
+    - https://fa.wikipedia.org/wiki/سید_محمود_طالقانی
+- partial_key: "madani_martyrdom"
   title:
     fa_IR: شهادت آیت‌الله مدنی
   description:
@@ -331,7 +350,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "161"
+  sources:
+    - https://fa.wikipedia.org/wiki/میر_اسدالله_مدنی
+- partial_key: "cinema_day"
   title:
     fa_IR: روز سینما
   description:
@@ -343,7 +364,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "170"
+  sources:
+    - https://fa.wikipedia.org/wiki/سینما
+- partial_key: "persian_poetry_and_literature_day"
   title:
     fa_IR: روز شعر و ادب فارسی
   description:
@@ -355,7 +378,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "171"
+  sources:
+    - https://fa.wikipedia.org/wiki/روز_ملی_شعر_و_ادب
+- partial_key: "shahriar_day"
   title:
     fa_IR: روز بزرگداشت استاد سید محمدحسین شهریار
   description:
@@ -367,7 +392,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "175"
+  sources:
+    - https://fa.wikipedia.org/wiki/سید_محمدحسین_شهریار
+- partial_key: "dialog_among_civilization"
   title:
     fa_IR: روز گفت‌وگوی تمدن‌ها
   description:
@@ -379,7 +406,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "177"
+  sources:
+    - https://fa.wikipedia.org/wiki/گفتگوی_تمدن‌ها
+- partial_key: "sacred_defence_week"
   title:
     fa_IR: آغاز هفتهٔ دفاع مقدس
   description:
@@ -391,7 +420,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "179"
+  sources:
+    - https://fa.wikipedia.org/wiki/هفته_دفاع_مقدس
+- partial_key: "end_of_summer_celebration"
   title:
     fa_IR: گاهنبار پَتیَه‌شَهیم، جشن پایان تابستان
   description:
@@ -403,7 +434,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "178"
+- partial_key: "iraq_invasion_of_iran"
   title:
     fa_IR: آغاز جنگ تحمیلی
   description:
@@ -416,3 +447,5 @@ events:
     - Iran
     fa_IR:
     - ایران
+  sources:
+    - https://fa.wikipedia.org/wiki/تهاجم_عراق_به_ایران_(۱۳۵۹)
