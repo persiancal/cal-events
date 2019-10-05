@@ -1,6 +1,17 @@
 name: Hijri
 countries:
 - Iran
+calendars:
+  en_US:
+    - Iran Official
+    - Islamic Republic Of Iran
+    - Shia
+    - Sunny
+  fa_IR:
+    - رسمی ایران
+    - جمهوری اسلامی ایران
+    - شیعه
+    - سنی
 # The following key is not "correct" see issue #52 in github
 months:
   normal:

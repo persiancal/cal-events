@@ -18,14 +18,16 @@ const (
 
 // Event is a single event
 type Event struct {
-	PartialKey  string              `json:"partial_key,omitempty" yaml:"partial_key,omitempty"`
-	Key         uint32              `json:"key,omitempty" yaml:"key,omitempty"`
-	Title       map[string]string   `json:"title,omitempty" yaml:"title,omitempty"`
-	Description map[string]string   `json:"description,omitempty" yaml:"description,omitempty"`
-	Year        int                 `json:"year,omitempty" yaml:"year,omitempty"`
-	Month       int                 `json:"month" yaml:"month"`
-	Day         int                 `json:"day" yaml:"day"`
+	PartialKey  string            `json:"partial_key,omitempty" yaml:"partial_key,omitempty"`
+	Key         uint32            `json:"key,omitempty" yaml:"key,omitempty"`
+	Title       map[string]string `json:"title,omitempty" yaml:"title,omitempty"`
+	Description map[string]string `json:"description,omitempty" yaml:"description,omitempty"`
+	Year        int               `json:"year,omitempty" yaml:"year,omitempty"`
+	Month       int               `json:"month" yaml:"month"`
+	Day         int               `json:"day" yaml:"day"`
+	// deprecated, transitional phase
 	Calendar    map[string][]string `json:"calendar" yaml:"calendar"`
+	NewCalendar []string            `json:"new_calendar,omitempty" yaml:"new_calendar,omitempty"`
 	Holiday     map[string][]string `json:"holiday,omitempty" yaml:",omitempty"`
 	Sources     []string            `json:"sources,omitempty" yaml:"sources,omitempty"`
 }
@@ -49,10 +51,11 @@ type Preset struct {
 
 // File is the single file
 type File struct {
-	Name      string   `json:"name,omitempty" yaml:"name,omitempty"`
-	Countries []string `json:"countries,omitempty" yaml:"countries,omitempty"`
-	Months    *Preset  `json:"months,omitempty" yaml:"months,omitempty"`
-	Events    []Event  `json:"events,omitempty" yaml:"events,omitempty"`
+	Name      string              `json:"name,omitempty" yaml:"name,omitempty"`
+	Countries []string            `json:"countries,omitempty" yaml:"countries,omitempty"`
+	Calendars map[string][]string `json:"calendars,omitempty" yaml:"calendars,omitempty"`
+	Months    *Preset             `json:"months,omitempty" yaml:"months,omitempty"`
+	Events    []Event             `json:"events,omitempty" yaml:"events,omitempty"`
 }
 
 func (f *File) Len() int {
@@ -78,6 +81,10 @@ func (f *File) Merge(new *File) {
 	}
 	if f.Months == nil {
 		f.Months = new.Months
+	}
+
+	if len(f.Calendars) == 0 {
+		f.Calendars = new.Calendars
 	}
 
 	f.Countries = append(f.Countries, new.Countries...)
@@ -125,9 +132,32 @@ func loadFolder(folder string) (*File, error) {
 		if err != nil {
 			return nil, err
 		}
-
 		res.Merge(f)
 	}
+
+	// for i := range fl {
+	// 	data, err := openFile(fl[i])
+	// 	if err != nil {
+	// 		return nil, err
+	// 	}
+	//
+	// 	f, err := loadFile(data)
+	// 	if err != nil {
+	// 		return nil, err
+	// 	}
+	//
+	// 	if err := fixCalendar(f, res.Calendars); err != nil {
+	// 		return nil, err
+	// 	}
+	// 	d, err := yaml.Marshal(f)
+	// 	if err != nil {
+	// 		panic(err)
+	// 	}
+	//
+	// 	if err := ioutil.WriteFile(fl[i], d, 0600); err != nil {
+	// 		panic(err)
+	// 	}
+	// }
 
 	return res, nil
 }
