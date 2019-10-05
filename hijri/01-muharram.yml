@@ -20,6 +20,7 @@ events:
     fa_IR: ورود حسین بن علی (ع) به صحرای کربلا
   description:
     fa_IR: ورود حسین بن علی (ع) به صحرای کربلا و برافراشتن خیمه ها. نیروهای یزید هم حضور دارند.
+  year: 61
   month: 1
   day: 2
   calendar:
@@ -36,6 +37,7 @@ events:
     fa_IR:  قطع آب بر اردوی حسین بن علی (ع)
   description:
     fa_IR: در هفتم محرم، نامه‌ای از ابن زیاد به ابن سعد مبنی بر دستور قطع آب بر اردوی حسین بن علی (ع) رسید.
+  year: 61
   month: 1
   day: 7
   calendar:
@@ -50,6 +52,7 @@ events:
     fa_IR: تاسوعا
   description:
     fa_IR: تاسوعا
+  year: 61
   month: 1
   day: 9
   calendar:
@@ -66,6 +69,7 @@ events:
     fa_IR: عاشورا
   description:
     fa_IR: عاشورا
+  year: 61
   month: 1
   day: 10
   calendar:
@@ -82,6 +86,7 @@ events:
     fa_IR: 	 شهادت حضرت امام زين العابدين (ع)
   description:
     fa_IR: 	 شهادت حضرت امام زين العابدين (ع)
+  year: 95
   month: 1
   day: 12
   calendar:
@@ -98,6 +103,7 @@ events:
     fa_IR:  تغيير قبله مسلمين از بيت المقدس به مکه معظمه
   description:
     fa_IR:  تغيير قبله مسلمين از بيت المقدس به مکه معظمه
+  year: 2  
   month: 1
   day: 18
   calendar:
@@ -114,6 +120,7 @@ events:
     fa_IR: 	 شهادت حضرت امام زين العابدين (ع) بنا بر روایتی
   description:
     fa_IR: 	شهادت حضرت امام زين العابدين (ع) بنا بر روایتی
+  year: 95
   month: 1
   day: 25
   calendar:
