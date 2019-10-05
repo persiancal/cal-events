@@ -16,7 +16,7 @@ events:
   is_religious: 
   sources:
     - https://fa.wikipedia.org/wiki/گاه‌شماری_هجری_قمری
-- partial_key: "Husayn_ibn_Ali_enters_Karbala"
+- partial_key: "husayn_ibn_ali_enters_karbala"
   title:
     fa_IR: ورود حسین بن علی (ع) به صحرای کربلا
   description:
@@ -34,7 +34,7 @@ events:
   is_religious: True
   sources:
     - https://fa.wikipedia.org/wiki/نبرد_کربلا
-- partial_key: "the_invasion_of_feyziyeh_seminary"
+- partial_key: "water_banned_in_karbala"
   title:
     fa_IR:  قطع آب بر اردوی حسین بن علی (ع)ن
   description:
@@ -68,7 +68,7 @@ events:
   is_religious: True
   sources:
     - https://fa.wikipedia.org/wiki/تاسوعا
-- partial_key: "Tasoaـday"
+- partial_key: "ashuraـday"
   title:
     fa_IR: روز عاشورا
   description:
@@ -86,7 +86,7 @@ events:
   is_religious: True
   sources:
     - https://a.wikipedia.org/wiki/عاشورا
-- partial_key: "fourth_Shia_Imam_was_martyred"
+- partial_key: "fourth_shia_imam_was_martyred"
   title:
     fa_IR: 	 شهادت حضرت امام زين العابدين (ع)ن
   description:
@@ -104,7 +104,7 @@ events:
   is_religious: True
   sources:
     - https://fa.wikipedia.org/wiki/سجاد
-- partial_key: "MosqueـofـtheـTwoـQiblas'"
+- partial_key: "mosqueـofـtheـtwoـqiblas'"
   title:
     fa_IR:  تغيير قبله مسلمين از بيت المقدس به مکه معظمه
   description:
