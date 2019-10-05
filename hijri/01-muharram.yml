@@ -11,8 +11,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  holiday:
-    Iran: []
   sources:
     - https://fa.wikipedia.org/wiki/گاه‌شماری_هجری_قمری
 - partial_key: "husayn_ibn_ali_enters_karbala"
@@ -28,8 +26,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  holiday:
-    Iran: []
   sources:
     - https://fa.wikipedia.org/wiki/نبرد_کربلا
 - partial_key: "water_banned_in_karbala"
@@ -94,8 +90,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  holiday:
-    Iran: []
   sources:
     - https://fa.wikipedia.org/wiki/سجاد
 - partial_key: "mosque_of_the_two_qiblas"
@@ -111,8 +105,6 @@ events:
     - Iran
     fa_IR:
     - ایران
-  holiday:
-    Iran: []
   sources:
     - https://fa.wikipedia.org/wiki/مسجد_ذوقبلتین
 - partial_key: "fourth_shia_imam_was_martyred_2"
@@ -128,7 +120,5 @@ events:
     - Iran
     fa_IR:
     - ایران
-  holiday:
-    Iran: []
   sources:
     - https://fa.wikipedia.org/wiki/سجاد
