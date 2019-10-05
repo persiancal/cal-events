@@ -2190,7 +2190,7 @@ events:
     - ایران
   sources:
   - https://fa.wikipedia.org/wiki/تهاجم_عراق_به_ایران_(۱۳۵۹)
-- key: 756200997
+- key: 677273170
   title:
     fa_IR: جشن میتراکانا / سال نو هخامنشی
   description:
@@ -2202,7 +2202,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: 3397061458
+- key: 79381293
   title:
     fa_IR: شکست حصر آبادان در عملیات ثامن‌الأئمه (ع)
   description:
@@ -2215,7 +2215,10 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: 701211122
+  sources:
+  - https://fa.wikipedia.org/wiki/حصر_آبادان
+  - https://fa.wikipedia.org/wiki/عملیات_ثامن‌الائمه
+- key: 3574711106
   title:
     fa_IR: روز بزرگداشت فرماندهان شهید دفاع مقدس
   description:
@@ -2227,7 +2230,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: 4132414331
+  sources:
+  - https://fa.wikipedia.org/wiki/جنگ_ایران_و_عراق
+- key: 1735775701
   title:
     fa_IR: روز بزرگداشت شمس
   description:
@@ -2239,7 +2244,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: 2291206940
+  sources:
+  - https://fa.wikipedia.org/wiki/شمس_تبریزی
+- key: 1102983856
   title:
     fa_IR: روز آتش‌نشانی و ایمنی
   description:
@@ -2251,7 +2258,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: 1731193893
+  sources:
+  - https://fa.wikipedia.org/wiki/آتش‌نشانی
+- key: 2449429955
   title:
     fa_IR: شهادت فلاحی، فکوری، نامجو، کلاهدوز و جهان‌آرا از فرماندهان ارتش و سپاه
   description:
@@ -2264,7 +2273,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: 1967421797
+  sources:
+  - https://fa.wikipedia.org/wiki/سقوط_هواپیمای_سی-۱۳۰_(۱۳۶۰)
+- key: 3614345665
   title:
     fa_IR: روز بزرگداشت مولوی
   description:
@@ -2276,7 +2287,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: 2800745512
+  sources:
+  - https://fa.wikipedia.org/wiki/مولوی
+- key: 2850295616
   title:
     fa_IR: روز همبستگی و همدردی با کودکان و نوجوانان فلسطینی
   description:
@@ -2288,7 +2301,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: 2561666141
+  sources:
+  - https://fa.wikipedia.org/wiki/فلسطین
+- key: 1853424008
   title:
     fa_IR: آیین قالیشویان اردهال، بازماندی از تیرگان
   description:
@@ -2300,7 +2315,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: 3040423142
+- key: 2237763524
   title:
     fa_IR: تیرروز، جشن تیرروزی
   description:
@@ -2312,7 +2327,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: 1601861871
+- key: 2647932883
   title:
     fa_IR: روز نیروی انتظامی
   description:
@@ -2324,11 +2339,13 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: 2393336093
+  sources:
+  - https://fa.wikipedia.org/wiki/نیروی_انتظامی_جمهوری_اسلامی_ایران
+- key: 3427179616
   title:
-    fa_IR: هجرت امام خمینی از عراق به پاریس
+    fa_IR: هجرت آیت‌الله روح‌الله خمینی از عراق به پاریس
   description:
-    fa_IR: هجرت امام خمینی از عراق به پاریس
+    fa_IR: هجرت آیت‌الله روح‌الله خمینی از عراق به پاریس
   year: 1357
   month: 7
   day: 13
@@ -2337,7 +2354,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: 1644748421
+  sources:
+  - https://fa.wikipedia.org/wiki/سید_روح‌الله_خمینی
+- key: 2119131782
   title:
     fa_IR: روز دامپزشکی
   description:
@@ -2349,7 +2368,23 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: 2754843434
+  sources:
+  - https://fa.wikipedia.org/wiki/دامپزشکی
+- key: 2466134749
+  title:
+    fa_IR: روز بزرگداشت سلمان فارسی
+  description:
+    fa_IR: روز بزرگداشت سلمان فارسی
+  month: 7
+  day: 14
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+  sources:
+  - https://fa.wikipedia.org/wiki/سلمان_فارسی
+- key: 2021686137
   title:
     fa_IR: روز روستا و عشایر
   description:
@@ -2361,7 +2396,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: 28691032
+- key: 1742535812
   title:
     fa_IR: مهرروز، جشن مهرگان
   description:
@@ -2373,7 +2408,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: 3869154136
+- key: 2470686490
   title:
     fa_IR: روز اسکان معلولان و سالمندان
   description:
@@ -2385,7 +2420,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: 1521880371
+- key: 3479808510
   title:
     fa_IR: روز بزرگداشت حافظ
   description:
@@ -2397,7 +2432,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: 1679583267
+  sources:
+  - https://fa.wikipedia.org/wiki/حافظ
+- key: 770738158
   title:
     fa_IR: رام‌روز، جشن رام‌روزی / جشن پیروزی کاوه و فریدون
   description:
@@ -2409,7 +2446,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- key: 1672157518
+- key: 3745408891
   title:
     fa_IR: شهادت آیت‌الله اشرفی اصفهانی
   description:
@@ -2422,7 +2459,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: 136769762
+  sources:
+  - https://fa.wikipedia.org/wiki/عطاءالله_اشرفی_اصفهانی
+- key: 3643394849
   title:
     fa_IR: روز پیوند اولیا و مربیان
   description:
@@ -2434,7 +2473,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: 3327705068
+- key: 2067670538
   title:
     fa_IR: روز ملی پارالمپیک
   description:
@@ -2446,7 +2485,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: 3495996249
+- key: 3714139021
   title:
     fa_IR: به آتش کشیده‌شدن مسجد جامع شهر کرمان
   description:
@@ -2459,7 +2498,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: 843740325
+  sources:
+  - https://fa.wikipedia.org/wiki/واقعه_آتش‌سوزی_مسجد_جامع_کرمان
+- key: 3952889267
   title:
     fa_IR: روز تربیت بدنی و ورزش
   description:
@@ -2471,7 +2512,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: 1549284015
+- key: 1708721223
   title:
     fa_IR: روز صادرات
   description:
@@ -2483,6 +2524,8 @@ events:
     - Iran
     fa_IR:
     - ایران
+  sources:
+  - https://fa.wikipedia.org/wiki/صادرات
 - key: 3963989716
   title:
     fa_IR: روز آمار و برنامه‌ریزی
