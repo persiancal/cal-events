@@ -11,7 +11,7 @@ var (
 	multipleSpace    = regexp.MustCompile(`\s{2,}`)
 )
 
-func refrenceF(a ...interface{}) string {
+func reference(a ...interface{}) string {
 	r := ""
 	if len(a) == 0 {
 		return r
@@ -23,7 +23,7 @@ func refrenceF(a ...interface{}) string {
 }
 
 func textValidator(s string, rs ...interface{}) error {
-	r := refrenceF(rs)
+	r := reference(rs...)
 	if strings.TrimSpace(s) != s {
 		return fmt.Errorf("validate text failed: start and/or end with space in %q", r)
 	}
