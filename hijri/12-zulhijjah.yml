@@ -1,1 +1,89 @@
----
+events:
+  - partial_key: "ali_fatimah_marraige"
+    title:
+      fa_IR: ازدواج علی ابن ابی‌طالب و فاطمه بنت محمد
+    description:
+      fa_IR: سالروز ازدواج علی ابن ابی‌طالب و فاطمه بنت محمد
+    month: 12
+    day: 1
+    year: 2
+    calendar:
+      en_US:
+        - Iran
+      fa_IR:
+        - ایران
+  - partial_key: "martydom_of_imam_mohammad_baqer"
+    title:
+      fa_IR: شهادت امام محمد باقر
+    description:
+      fa_IR: شهادت امام محمد باقر
+    month: 12
+    day: 7
+    year: 114
+    calendar:
+      en_US:
+        - Iran
+      fa_IR:
+        - ایران
+  - partial_key: "day_of_arafah"
+    title:
+      fa_IR: روز عرفه
+    description:
+      fa_IR: روز عرفه
+    month: 12
+    day: 9
+    calendar:
+      en_US:
+        - Iran
+      fa_IR:
+        - ایران
+  - partial_key: "eid_qorban"
+    title:
+      fa_IR: عید قربان
+    description:
+      fa_IR: عید قربان
+    month: 12
+    day: 10
+    calendar:
+      en_US:
+        - Iran
+      fa_IR:
+        - ایران
+  - partial_key: "birth_of_imam_mohammad_naqi"
+    title:
+      fa_IR: زادروز علی بن محمد نقی، امام دهم شیعیان
+    description:
+      fa_IR: زادروز علی بن محمد نقی، امام دهم شیعیان
+    month: 12
+    day: 15
+    year: 212
+    calendar:
+      en_US:
+        - Iran
+      fa_IR:
+        - ایران
+  - partial_key: "eid_qadir"
+    title:
+      fa_IR: عید غدیر خم
+    description:
+      fa_IR: عید غدیر خم
+    month: 12
+    day: 18
+    calendar:
+      en_US:
+        - Iran
+      fa_IR:
+        - ایران
+  - partial_key: "birth_of_imam_mousa_kazem"
+    title:
+      fa_IR: زادروز موسی کاظم، امام هفتم شیعیان
+    description:
+      fa_IR: زادروز موسی کاظم، امام هفتم شیعیان
+    month: 12
+    day: 20
+    year: 128
+    calendar:
+      en_US:
+        - Iran
+      fa_IR:
+        - ایران
