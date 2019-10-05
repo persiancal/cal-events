@@ -91,7 +91,7 @@ events:
     fa_IR: 	 شهادت حضرت امام زين العابدين (ع)ن
   description:
     fa_IR: 	 شهادت حضرت امام زين العابدين (ع)
-   hijri_year: 95
+  hijri_year: 95
   month: 1
   day: 12
   calendar:
@@ -126,7 +126,7 @@ events:
     fa_IR: 	 شهادت حضرت امام زين العابدين (ع) بنا بر روایتی
   description:
     fa_IR: 	شهادت حضرت امام زين العابدين (ع) بنا بر روایتی
-   hijri_year: 95
+  hijri_year: 95
   month: 1
   day: 25
   calendar:
