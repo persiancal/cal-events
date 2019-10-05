@@ -1,1 +1,90 @@
----
+events:
+- partial_key: "muhammad_migration"
+  title:
+    fa_IR: هجرت حضرت رسول اكرم صلي الله عليه و آله از مكه به مدينه
+  description:
+    fa_IR: هجرت حضرت رسول اكرم صلي الله عليه و آله از مكه به مدينه
+  month: 3
+  day: 1
+  calendar:
+    en_US:
+    - Iran
+    - Shia
+    fa_IR:
+    - ایران
+    - شیعه
+  sources:
+    - https://fa.wikipedia.org/wiki/هجرت_محمد
+- partial_key: "death_of_hassan_askari"
+  title:
+    fa_IR: شهادت حضرت امام حسن عسكری عليه السلام و آغاز امامت حضرت وليعصر (عج)
+  description:
+    fa_IR: شهادت حضرت امام حسن عسكری عليه السلام و آغاز امامت حضرت وليعصر (عج)
+  month: 3
+  day: 8
+  year: 260
+  calendar:
+    en_US:
+    - Iran
+    - Shia
+    fa_IR:
+    - ایران
+    - شیعه
+  holiday:
+    Iran: []
+  sources:
+    - https://fa.wikipedia.org/wiki/حجت_بن_الحسن
+    - https://fa.wikipedia.org/wiki/حسن_عسکری
+- partial_key: "birthday_of_muhammad_sunni"
+  title:
+    fa_IR: ولادت حضرت رسول اكرم صلی الله عليه و آله به روايت اهل سنت
+  description:
+    fa_IR: ولادت حضرت رسول اكرم صلی الله عليه و آله به روايت اهل سنت
+  month: 3
+  day: 12
+  calendar:
+    en_US:
+    - Iran
+    - Sunni
+    fa_IR:
+    - ایران
+    - سنی
+  sources:
+    - https://fa.wikipedia.org/wiki/محمد
+- partial_key: "birthday_of_muhammad_shia"
+  title:
+    fa_IR: ولادت حضرت رسول اكرم صلی الله عليه و آله
+  description:
+    fa_IR: ولادت حضرت رسول اكرم صلی الله عليه و آله
+  month: 3
+  day: 17
+  calendar:
+    en_US:
+    - Iran
+    - Shia
+    fa_IR:
+    - ایران
+    - شیعه
+  holiday:
+    Iran: []
+  sources:
+    - https://fa.wikipedia.org/wiki/محمد
+- partial_key: "birthday_of_jafare_sadegh"
+  title:
+    fa_IR: ولادت حضرت امام جعفر صادق عليهالسلام
+  description:
+    fa_IR: ولادت حضرت امام جعفر صادق عليهالسلام
+  month: 3
+  day: 17
+  year: 83
+  calendar:
+    en_US:
+    - Iran
+    - Shia
+    fa_IR:
+    - ایران
+    - شیعه
+  holiday:
+    Iran: []
+  sources:
+    - https://fa.wikipedia.org/wiki/جعفر_صادق
