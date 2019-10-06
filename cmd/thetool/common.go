@@ -42,8 +42,8 @@ func (e *Event) CalculateKey(collection string) {
 	e.Key = hash.Sum32()
 }
 
-// Preset is the month structure validator
-type Preset struct {
+// Months is the month structure validator
+type Months struct {
 	MonthsNormal []int               `json:"normal,omitempty" yaml:"normal,omitempty"`
 	MonthsLeap   []int               `json:"leap,omitempty" yaml:"leap,omitempty"`
 	MonthsName   []map[string]string `json:"name,omitempty" yaml:"name,omitempty"`
@@ -54,7 +54,7 @@ type File struct {
 	Name      string              `json:"name,omitempty" yaml:"name,omitempty"`
 	Countries []string            `json:"countries,omitempty" yaml:"countries,omitempty"`
 	Calendars []map[string]string `json:"calendars,omitempty" yaml:"calendars,omitempty"`
-	Months    *Preset             `json:"months,omitempty" yaml:"months,omitempty"`
+	Months    *Months             `json:"months,omitempty" yaml:"months,omitempty"`
 	Events    []Event             `json:"events,omitempty" yaml:"events,omitempty"`
 }
 

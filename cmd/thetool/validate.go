@@ -55,7 +55,7 @@ func isValidCountry(c string, list []string) bool {
 	return false
 }
 
-func validateEventContent(ev []Event, p *Preset, countries []string) error {
+func validateEventContent(ev []Event, p *Months, countries []string) error {
 	for i := range ev {
 		if ev[i].Key != 0 {
 			return fmt.Errorf("the Key should not be in the input file")

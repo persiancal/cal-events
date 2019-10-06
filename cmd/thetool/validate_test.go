@@ -79,7 +79,7 @@ func TestValidateEventsContent(t *testing.T) {
 		},
 	}
 
-	p := &Preset{
+	p := &Months{
 		MonthsNormal: []int{31, 31, 31, 31, 31, 31, 30, 30, 30, 30, 30, 29},
 		MonthsLeap:   []int{31, 31, 31, 31, 31, 31, 30, 30, 30, 30, 30, 30},
 		MonthsName:   nil,
