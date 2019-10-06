@@ -1,9 +1,9 @@
-events:
+  events:
 - partial_key: "muhammad_al_baqir_bd"
   title:
-    fa_IR:  ولادت محمد باقر، پنجمین امام شیعه دوازده‌امامی
+    fa_IR:  ولادت امام محمد باقر، پنجمین امام شیعه دوازده‌امامی
   description:
-    fa_IR:  ولادت محمد باقر، پنجمین امام شیعه دوازده‌امامی
+    fa_IR:  ولادت امام محمد باقر، پنجمین امام شیعه دوازده‌امامی
   year: 57
   month: 7
   day: 1
@@ -145,7 +145,3 @@ events:
       - شیعه
   sources:
     - https://fa.wikipedia.org/wiki/مبعث
-
-
-
-
