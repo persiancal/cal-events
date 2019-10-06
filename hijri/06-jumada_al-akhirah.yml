@@ -18,9 +18,24 @@ events:
       Iran: []
     sources:
       - https://fa.wikipedia.org/wiki/فاطمه_زهرا
+  - partial_key: "rumi_death"
+    title:
+      fa_IR: درگذشت مولانا
+    description:
+      fa_IR: درگذشت جلال‌الدین محمد بلخی معروف به مولانا، مولوی و رومی
+    month: 6
+    day: 5
+    year: 672
+    calendar:
+      en_US:
+        - Iran
+      fa_IR:
+        - ایران
+    sources:
+      - https://fa.wikipedia.org/wiki/مولوی
   - partial_key: "umm_ul_banin_death"
     title:
-      fa_IR: درگذشت حضرت ام‌البنین
+      fa_IR: درگذشت ام‌البنین
     description:
       fa_IR: درگذشت حضرت ام‌البنین مادر حضرت ابوالفضل
     month: 6
@@ -52,18 +67,3 @@ events:
         - اسلامی
     sources:
       - https://fa.wikipedia.org/wiki/فاطمه_زهرا
-  - partial_key: "rumi_death"
-    title:
-      fa_IR: درگذشت مولانا
-    description:
-      fa_IR: درگذشت جلال‌الدین محمد بلخی معروف به مولانا، مولوی و رومی
-    month: 6
-    day: 5
-    year: 672
-    calendar:
-      en_US:
-        - Iran
-      fa_IR:
-        - ایران
-    sources:
-      - https://fa.wikipedia.org/wiki/مولوی
