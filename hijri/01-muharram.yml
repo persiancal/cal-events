@@ -30,7 +30,7 @@ events:
     - https://fa.wikipedia.org/wiki/نبرد_کربلا
 - partial_key: "water_banned_in_karbala"
   title:
-    fa_IR:  قطع آب بر اردوی حسین بن علی (ع)
+    fa_IR: قطع آب بر اردوی حسین بن علی (ع)
   description:
     fa_IR: در هفتم محرم، نامه‌ای از ابن زیاد به ابن سعد مبنی بر دستور قطع آب بر اردوی حسین بن علی (ع) رسید.
   year: 61
@@ -79,9 +79,9 @@ events:
     - https://a.wikipedia.org/wiki/عاشورا
 - partial_key: "fourth_shia_imam_was_martyred"
   title:
-    fa_IR: 	 شهادت حضرت امام زين العابدين (ع)
+    fa_IR: شهادت حضرت امام زين العابدين (ع)
   description:
-    fa_IR: 	 شهادت حضرت امام زين العابدين (ع)
+    fa_IR: شهادت حضرت امام زين العابدين (ع)
   year: 95
   month: 1
   day: 12
@@ -94,9 +94,9 @@ events:
     - https://fa.wikipedia.org/wiki/سجاد
 - partial_key: "mosque_of_the_two_qiblas"
   title:
-    fa_IR:  تغيير قبله مسلمين از بيت المقدس به مکه معظمه
+    fa_IR: تغيير قبله مسلمين از بيت المقدس به مکه معظمه
   description:
-    fa_IR:  تغيير قبله مسلمين از بيت المقدس به مکه معظمه
+    fa_IR: تغيير قبله مسلمين از بيت المقدس به مکه معظمه
   year: 2  
   month: 1
   day: 18
@@ -109,9 +109,9 @@ events:
     - https://fa.wikipedia.org/wiki/مسجد_ذوقبلتین
 - partial_key: "fourth_shia_imam_was_martyred_2"
   title:
-    fa_IR: 	 شهادت حضرت امام زين العابدين (ع) بنا بر روایتی
+    fa_IR: شهادت حضرت امام زين العابدين (ع) بنا بر روایتی
   description:
-    fa_IR: 	شهادت حضرت امام زين العابدين (ع) بنا بر روایتی
+    fa_IR: شهادت حضرت امام زين العابدين (ع) بنا بر روایتی
   year: 95
   month: 1
   day: 25
