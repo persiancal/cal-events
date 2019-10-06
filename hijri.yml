@@ -144,3 +144,37 @@ events:
     Iran: []
   sources:
   - https://fa.wikipedia.org/wiki/جعفر_صادق
+- key: 4078075329
+  title:
+    fa_IR: ولادت حضرت امام حسن عسگري عليه الاسلام
+  description:
+    fa_IR: ولادت حضرت امام حسن عسگري عليه الاسلام
+  year: 232
+  month: 4
+  day: 8
+  calendar:
+    en_US:
+    - Iran
+    - Shia
+    fa_IR:
+    - ایران
+    - شیعه
+  sources:
+  - https://fa.wikipedia.org/wiki/حسن_عسکری
+- key: 1951711491
+  title:
+    fa_IR: وفات حضرت معصومه سلام االله عليها
+  description:
+    fa_IR: وفات حضرت معصومه سلام االله عليها
+  year: 201
+  month: 4
+  day: 10
+  calendar:
+    en_US:
+    - Iran
+    - Shia
+    fa_IR:
+    - ایران
+    - شیعه
+  sources:
+  - https://fa.wikipedia.org/wiki/فاطمه_معصومه
