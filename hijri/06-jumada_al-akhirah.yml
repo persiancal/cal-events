@@ -62,6 +62,7 @@ events:
     - شیعه
     - ایران
   sources:
+    - https://fa.wikipedia.org/wiki/ام‌البنین
 - partial_key: "marriage_of_abdolah_and_ameneh"
   title:
     fa_IR: ازدواج حضرت عبدالله و آمنه علیهما السلام
