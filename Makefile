@@ -21,11 +21,11 @@ generate: generate-hijri generate-jalali
 
 validate-jalali: $(ROOT)/cmd/thetool/thetool
 	$(ROOT)/cmd/thetool/thetool -dir $(ROOT)/jalali validate
-	$(ROOT)/cmd/thetool/thetool -dir $(ROOT)/jalali validate-links -ignore
+	$(ROOT)/cmd/thetool/thetool -dir $(ROOT)/jalali validate-links
 
 validate-hirir: $(ROOT)/cmd/thetool/thetool
 	$(ROOT)/cmd/thetool/thetool -dir $(ROOT)/hijri validate
-	$(ROOT)/cmd/thetool/thetool -dir $(ROOT)/hijri validate-links -ignore
+	$(ROOT)/cmd/thetool/thetool -dir $(ROOT)/hijri validate-links
 
 validate: validate-hirir validate-jalali
 

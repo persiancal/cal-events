@@ -76,7 +76,7 @@ events:
   holiday:
     Iran: []
   sources:
-    - https://a.wikipedia.org/wiki/عاشورا
+    - https://fa.wikipedia.org/wiki/عاشورا
 - partial_key: "fourth_shia_imam_was_martyred"
   title:
     fa_IR: شهادت حضرت امام زين العابدين (ع)
@@ -97,7 +97,7 @@ events:
     fa_IR: تغيير قبله مسلمين از بيت المقدس به مکه معظمه
   description:
     fa_IR: تغيير قبله مسلمين از بيت المقدس به مکه معظمه
-  year: 2  
+  year: 2
   month: 1
   day: 18
   calendar:
