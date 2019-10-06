@@ -53,7 +53,7 @@ type Preset struct {
 type File struct {
 	Name      string              `json:"name,omitempty" yaml:"name,omitempty"`
 	Countries []string            `json:"countries,omitempty" yaml:"countries,omitempty"`
-	Calendars map[string][]string `json:"calendars,omitempty" yaml:"calendars,omitempty"`
+	Calendars []map[string]string `json:"calendars,omitempty" yaml:"calendars,omitempty"`
 	Months    *Preset             `json:"months,omitempty" yaml:"months,omitempty"`
 	Events    []Event             `json:"events,omitempty" yaml:"events,omitempty"`
 }

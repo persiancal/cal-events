@@ -16,8 +16,7 @@ func unique(intSlice []string) []string {
 	return list
 }
 
-func fixCalendar(fl *File, p map[string][]string) error {
-	fmt.Println(p["en_US"])
+func fixCalendar(fl *File, p []map[string]string) error {
 	for i := range fl.Events {
 		ev := &fl.Events[i]
 		ca, ok := ev.Calendar["en_US"]
@@ -31,8 +30,8 @@ func fixCalendar(fl *File, p map[string][]string) error {
 				ev.NewCalendar = append(ev.NewCalendar, "Iran Official")
 				continue
 			}
-			for _, cc := range p["en_US"] {
-				fmt.Println(c, cc, c == cc)
+			for _, key := range p {
+				cc := key["en_US"]
 				if c == cc {
 					ev.NewCalendar = append(ev.NewCalendar, cc)
 					continue bigLoop
