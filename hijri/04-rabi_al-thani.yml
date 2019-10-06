@@ -9,8 +9,10 @@ events:
   year: 232
   calendar:
     en_US:
+      - Iran
       - Shia
     fa_IR:
+      - ایران
       - شیعه
   sources:
     - https://fa.wikipedia.org/wiki/حسن_عسکری
@@ -24,8 +26,10 @@ events:
   year: 201
   calendar:
     en_US:
+      - Iran
       - Shia
     fa_IR:
+      - ایران
       - شیعه
   sources:
     - https://fa.wikipedia.org/wiki/فاطمه_معصومه
