@@ -72,8 +72,10 @@ events:
   day: 13
   calendar:
     en_US:
+    - Shia
     - Iran
     fa_IR:
+    - شیعه
     - ایران
   sources:
     - https://fa.wikipedia.org/wiki/فاطمه_زهرا
