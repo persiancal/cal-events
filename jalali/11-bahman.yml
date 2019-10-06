@@ -25,18 +25,6 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "coronation_of_cyrus_the_great"
-  title:
-    fa_IR: آغاز پادشاهی داراب (کوروش)
-  description:
-    fa_IR: آغاز پادشاهی داراب (کوروش)
-  month: 11
-  day: 4
-  calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
 - partial_key: "nosreh_celebration"
   title:
     fa_IR: جشن نوسَره
