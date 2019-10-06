@@ -23,8 +23,10 @@ events:
     calendar:
       en_US:
         - Iran
+        - Shia
       fa_IR:
         - ایران
+        - شیعه
   - partial_key: "day_of_arafah"
     title:
       fa_IR: روز عرفه
@@ -37,6 +39,8 @@ events:
         - Iran
       fa_IR:
         - ایران
+    sources:
+      - https://fa.wikipedia.org/wiki/روز_عرفه
   - partial_key: "eid_qorban"
     title:
       fa_IR: عید قربان
@@ -49,6 +53,10 @@ events:
         - Iran
       fa_IR:
         - ایران
+    holiday:
+      Iran: []
+    sources:
+      - https://fa.wikipedia.org/wiki/عید_قربان
   - partial_key: "birth_of_imam_mohammad_naqi"
     title:
       fa_IR: زادروز علی بن محمد نقی، امام دهم شیعیان
@@ -72,8 +80,14 @@ events:
     calendar:
       en_US:
         - Iran
+        - Shia
       fa_IR:
         - ایران
+        - شیعه
+    holiday:
+      Iran: []
+    sources:
+      - https://fa.wikipedia.org/wiki/رویداد_غدیر_خم
   - partial_key: "birth_of_imam_mousa_kazem"
     title:
       fa_IR: زادروز موسی کاظم، امام هفتم شیعیان
@@ -85,5 +99,7 @@ events:
     calendar:
       en_US:
         - Iran
+        - Shia
       fa_IR:
         - ایران
+        - شیعه
