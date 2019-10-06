@@ -40,8 +40,8 @@
 برای تقویم هجری شمسی این مقادیر مجاز است : 
 - Iran Official 
 - Islamic Republic Of Iran
-- Shea
-- Sunny
+- Shia
+- Sunni
 
 ## Language Map 
 برای پشتیبانی از چند زبانه بودن، عناوینی که ترجمه لازم دارند به صورت Language Map خواهند بود. به این صورت 
