@@ -1,5 +1,5 @@
 events:
-- partial_key: "230"
+- partial_key: "ferdosi_birthday"
   title:
     fa_IR: زادروز فردوسی
   description:
@@ -11,7 +11,9 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "232"
+  sources:
+    - https://fa.wikipedia.org/wiki/فردوسی
+- partial_key: "bahmanagan"
   title:
     fa_IR: بهمن‌روز، جشن بهمنگان
   description:
@@ -23,11 +25,11 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "238"
+- partial_key: "coronation_of_cyrus_the_great"
   title:
-    fa_IR: شهریورروز، آغاز پادشاهی داراب (کوروش)
+    fa_IR: آغاز پادشاهی داراب (کوروش)
   description:
-    fa_IR: شهریورروز، آغاز پادشاهی داراب (کوروش)
+    fa_IR: آغاز پادشاهی داراب (کوروش)
   month: 11
   day: 4
   calendar:
@@ -35,7 +37,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "242"
+- partial_key: "nosreh_celebration"
   title:
     fa_IR: جشن نوسَره
   description:
@@ -47,7 +49,7 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "241"
+- partial_key: "iran_first_presidential_election"
   title:
     fa_IR: انتخابات اولین دورهٔ ریاست جمهوری
   description:
@@ -60,11 +62,14 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "245"
+  sources:
+    - https://fa.wikipedia.org/wiki/انتخابات_ریاست‌جمهوری_ایران_(۱۳۵۸)
+- partial_key: "white_revolution"
   title:
-    fa_IR: سالروز حماسهٔ مردم آمل
+    fa_IR: انقلاب سفید
   description:
-    fa_IR: سالروز حماسهٔ مردم آمل
+    fa_IR: انقلاب سفید یا انقلاب شاه و مردم 
+  year: 1341
   month: 11
   day: 6
   calendar:
@@ -72,11 +77,28 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "249"
+  sources:
+    - https://fa.wikipedia.org/wiki/انقلاب_سفید
+- partial_key: "amol_uprising"
   title:
-    fa_IR: آبان‌روز، جشن سَدَه، آتش‌افروزی بر بام‌ها / نمایش‌بازی همگانی
+    fa_IR: حماسه مردم آمل
   description:
-    fa_IR: آبان‌روز، جشن سَدَه، آتش‌افروزی بر بام‌ها / نمایش‌بازی همگانی
+    fa_IR: واقعه سال ۱۳۶۰ شهر آمل که در منابع برخی گروه‌های اپوزیسیون جمهوری اسلامی به اختصار قیام آمل نامیده می‌شود
+  year: 1360
+  month: 11
+  day: 6
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+  sources:
+    - https://fa.wikipedia.org/wiki/واقعه_۱۳۶۰_آمل
+- partial_key: "sadeh"
+  title:
+    fa_IR: آبان‌روز، جشن سَدَه
+  description:
+    fa_IR: در این روز جشن سَده و آتش‌افروزی بر بام‌ها برگزار میشود
   month: 11
   day: 10
   calendar:
@@ -84,11 +106,13 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "252"
+  sources:
+    - https://fa.wikipedia.org/wiki/جشن_سده
+- partial_key: "ruhollah_khomeini_return_to_iran"
   title:
-    fa_IR: بازگشت امام خمینی به ایران و آغاز دههٔ فجر انقلاب اسلامی
+    fa_IR: بازگشت آیت‌الله خمینی به ایران
   description:
-    fa_IR: بازگشت امام خمینی به ایران و آغاز دههٔ فجر انقلاب اسلامی
+    fa_IR: بازگشت آیت‌الله خمینی به ایران پس از چهارده سال تبعید و آغاز دههٔ فجر انقلاب اسلامی
   year: 1357
   month: 11
   day: 12
@@ -97,11 +121,29 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "255"
+  sources:
+    - https://fa.wikipedia.org/wiki/بازگشت_سید_روح‌الله_خمینی_به_ایران
+- partial_key: "fajr_decade"
   title:
-    fa_IR: روز فناوری فضایی
+    fa_IR: آغاز دهه فجر
   description:
-    fa_IR: روز فناوری فضایی
+    fa_IR: بازگشت آیت‌الله خمینی به ایران پس از چهارده سال تبعید و آغاز دههٔ فجر انقلاب اسلامی
+  year: 1357
+  month: 11
+  day: 12
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+  sources:
+    - https://fa.wikipedia.org/wiki/دهه_فجر
+- partial_key: "national_space_technology_day"
+  title:
+    fa_IR: روز ملی فناوری فضایی
+  description:
+    fa_IR: روز ملی فناوری فضایی روزی است که در آن ایران با پرتاب موفقیت امیز ماهواره امید به کشورهای دارای توانایی پر تاب ماهواره پیوست
+  year: 1387
   month: 11
   day: 14
   calendar:
@@ -109,7 +151,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "258"
+  sources:
+    - https://fa.wikipedia.org/wiki/روز_ملی_فناوری_فضایی
+- partial_key: "mid_winter_celebration"
   title:
     fa_IR: جشن میانهٔ زمستان
   description:
@@ -121,11 +165,27 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "263"
+- partial_key: "mehdi_bazargan_prime_ministerial_election"
+  title:
+    fa_IR: انتخاب مهدی بازرگان به نخست‌وزیری انقلاب
+  description:
+    fa_IR: انتخاب مهدی بازرگان به نخست‌وزیری انقلاب
+  year: 1357
+  month: 11
+  day: 16
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+  sources:
+    - https://fa.wikipedia.org/wiki/مهدی_بازرگان#انقلاب_۱۳۵۷_خورشیدی
+- partial_key: "islamic_republic_of_iran_air_force_day"
   title:
     fa_IR: روز نیروی هوایی
   description:
     fa_IR: روز نیروی هوایی
+  year: 1357
   month: 11
   day: 19
   calendar:
@@ -133,7 +193,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "265"
+  sources:
+    - https://fa.wikipedia.org/wiki/نیروی_هوایی_ارتش_جمهوری_اسلامی_ایران
+- partial_key: "breaking_the_martial_law"
   title:
     fa_IR: شکسته شدن حکومت نظامی به فرمان امام خمینی
   description:
@@ -146,7 +208,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "268"
+  sources:
+    - https://fa.wikipedia.org/wiki/دهه_فجر#رویدادهای_۲۱_بهمن
+- partial_key: "breaking_the_martial_law"
   title:
     fa_IR: بادروز، جشن بادروزی
   description:
@@ -158,11 +222,11 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "269"
+- partial_key: "revolutionaries_gained_victory"
   title:
     fa_IR: پیروزی انقلاب اسلامی ایران و سقوط نظام شاهنشاهی
   description:
-    fa_IR: پیروزی انقلاب اسلامی ایران و سقوط نظام شاهنشاهی
+    fa_IR: اعلام بی‌طرفی ارتش شاهنشاهی و پیروزی انقلاب اسلامی به رهبری امام خمینی
   year: 1357
   month: 11
   day: 22
@@ -173,7 +237,9 @@ events:
     - ایران
   holiday:
     Iran: []
-- partial_key: "270"
+  sources:
+    - https://fa.wikipedia.org/wiki/دهه_فجر#رویدادهای_۲۲_بهمن
+- partial_key: "salman_rushdie_fatwa"
   title:
     fa_IR: صدور حکم امام خمینی مبنی بر ارتداد سلمان رشدی
   description:
@@ -186,21 +252,25 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "274"
+  sources:
+    - https://fa.wikipedia.org/wiki/سلمان_رشدی#فتوای_قتل
+- partial_key: "sepandarmazgan"
   title:
-    fa_IR: روز اقتصاد مقاومتی و کارآفرینی
+    fa_IR: جشن سپندارمذگان
   description:
-    fa_IR: روز اقتصاد مقاومتی و کارآفرینی
+    fa_IR: جشن سپندارمذگان یا جشن اسپندگان روز گرامیداشت زن و زمین است
   month: 11
   day: 29
   calendar:
     en_US:
-    - Iran
+    - Ancient Iran
     fa_IR:
-    - ایران
-- partial_key: "273"
+    - باستانی
+  sources:
+    - https://fa.wikipedia.org/wiki/جشن_سپندارمذگان
+- partial_key: "tabriz_uprising"
   title:
-    fa_IR: قیام مردم تبریز به مناسبت چهلمین روز شهادت شهدای قم
+    fa_IR: قیام مردم تبریز
   description:
     fa_IR: قیام مردم تبریز به مناسبت چهلمین روز شهادت شهدای قم
   year: 1356
@@ -211,3 +281,5 @@ events:
     - Iran
     fa_IR:
     - ایران
+  sources:
+    - https://fa.wikipedia.org/wiki/تظاهرات_۲۹_بهمن_تبریز
