@@ -97,9 +97,9 @@ events:
   day: 15
   calendar:
     en_US:
-      - Islamic Republic Of Iran
+      - Shia
     fa_IR:
-      - جمهوری اسلامی ایران
+      - شیعه
   sources:
     - https://fa.wikipedia.org/wiki/زینب#وفات
 - partial_key: "muawiyah_i_death"
@@ -111,9 +111,9 @@ events:
   day: 22
   calendar:
     en_US:
-      - Islamic Republic Of Iran
+      - Islamic
     fa_IR:
-      - جمهوری اسلامی ایران
+      - اسلامی
   sources:
     - https://fa.wikipedia.org/wiki/معاویة_بن_ابی‌سفیان#درگذشت
 - partial_key: "musa_al_kadhim_death"
@@ -140,8 +140,8 @@ events:
   day: 27
   calendar:
     en_US:
-      - Shia
+      - Islamic Republic Of Iran
     fa_IR:
-      - شیعه
+      - جمهوری اسلامی ایران
   sources:
     - https://fa.wikipedia.org/wiki/مبعث
