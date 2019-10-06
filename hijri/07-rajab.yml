@@ -72,7 +72,7 @@ events:
       - جمهوری اسلامی ایران
   sources:
     - https://fa.wikipedia.org/wiki/روزهای_سپید
-- partial_key: "qibla_shift"
+- partial_key: "qibla_shifted"
   title:
     fa_IR:  تغییر قبله مسلمین
   description:
