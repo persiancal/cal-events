@@ -1,1 +1,58 @@
----
+events:
+- partial_key: "birth_of_hazrat_Muhammad_Baqir"
+  title:
+    fa_IR: ولادت حضرت محمد باقر (ع) بنا بر روایتی
+  description:
+    fa_IR: ولادت حضرت محمد باقر (ع) بنا بر روایتی
+  month: 2
+  day: 3
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+  sources:
+    - https://fa.wikipedia.org/wiki/محمد_باقر
+- partial_key: "Arbaeen"
+  title:
+    fa_IR: اربعین حسینی
+  description:
+    fa_IR: اربعین حسینی
+  month: 2
+  day: 20
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+  sources:
+    - https://fa.wikipedia.org/wiki/اربعین
+- partial_key: "prophet_muslims_death_and_fifth_shia_imam_was_martyred"
+  title:
+    fa_IR: رحلت حضرت رسول اکرم - شهادت امام حسن مجتبی (ع)
+  description:
+    fa_IR: رحلت حضرت رسول اکرم - شهادت امام حسن مجتبی (ع)
+  month: 2
+  day: 28
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+  sources:
+    - https://fa.wikipedia.org/wiki/محمد
+    - https://fa.wikipedia.org/wiki/حسن_مجتبی
+- partial_key: "eighth_shia_imam_was_martyred"
+  title:
+    fa_IR: شهادت امام رضا (ع)
+  description:
+    fa_IR: شهادت امام رضا (ع)
+  month: 2
+  day: 30
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+  sources:
+    - https://fa.wikipedia.org/wiki/علی_بن_موسی_الرضا
