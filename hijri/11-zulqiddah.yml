@@ -1,9 +1,9 @@
 events:
 - partial_key: "fatimah_bint_musa_birthday"
   title:
-    fa_IR: ولادت حضرت معصومه سلام الله علیها و روز دختران
+    fa_IR: ولادت فاطمه معصومه و روز دختران
   description:
-    fa_IR: ولادت حضرت معصومه سلام الله علیها و روز دختران
+    fa_IR: ولادت فاطمه معصومه و روز دختران
   month: 11
   day: 1
   year: 173
@@ -26,18 +26,16 @@ events:
   calendar:
     en_US:
     - Iran Official
-    - Shia
     fa_IR:
     - ایران
-    - شیعه
   holiday:
     Iran: []
   sources:
 - partial_key: "ahmad_bint_musa_commemoration_day"
   title:
-    fa_IR: روز بزرگداشت حضرت احمد بن موسی شاهچراغ (ع)
+    fa_IR: بزرگداشت احمد بن موسی شاهچراغ
   description:
-    fa_IR: روز بزرگداشت حضرت احمد بن موسی شاهچراغ (ع)
+    fa_IR: بزرگداشت احمد بن موسی شاهچراغ
   month: 11
   day: 6
   calendar:
@@ -52,9 +50,9 @@ events:
     - https://fa.wikipedia.org/wiki/شاه‌چراغ
 - partial_key: "imam_reza_birthday"
   title:
-    fa_IR: ولادت حضرت امام رضا (ع)
+    fa_IR: ولادت علی ابن موسی الرضا
   description:
-    fa_IR:  ولادت حضرت امام رضا (ع)
+    fa_IR:  ولادت علی ابن موسی الرضا
   month: 11
   day: 11
   year: 148
@@ -71,9 +69,9 @@ events:
     - https://fa.wikipedia.org/wiki/علی_بن_موسی_الرضا
 - partial_key: "imam_mohammad_taghi"
   title:
-    fa_IR: شهادت حضرت امام محمد تقی (ع)
+    fa_IR: شهادت محمد ابن علی ابن موسی (محمد تقی)
   description:
-    fa_IR: شهادت حضرت امام محمد تقی (ع)
+    fa_IR: شهادت محمد ابن علی ابن موسی (محمد تقی)
   month: 11
   day: 30
   year: 220
