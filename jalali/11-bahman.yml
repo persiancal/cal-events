@@ -62,9 +62,9 @@ events:
   day: 6
   calendar:
     en_US:
-    - Iran
+    - Iran Pahlavi
     fa_IR:
-    - ایران
+    - ایران پهلوی
   sources:
     - https://fa.wikipedia.org/wiki/انقلاب_سفید
 - partial_key: "amol_uprising"
