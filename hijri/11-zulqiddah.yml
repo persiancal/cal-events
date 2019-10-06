@@ -28,8 +28,6 @@ events:
     - Iran Official
     fa_IR:
     - ایران
-  holiday:
-    Iran: []
   sources:
 - partial_key: "ahmad_bint_musa_commemoration_day"
   title:
@@ -41,10 +39,8 @@ events:
   calendar:
     en_US:
     - Iran Official
-    - Shia
     fa_IR:
     - ایران
-    - شیعه
   sources:
     - https://fa.wikipedia.org/wiki/احمد_بن_موسی
     - https://fa.wikipedia.org/wiki/شاه‌چراغ
@@ -82,7 +78,5 @@ events:
     fa_IR:
     - ایران
     - شیعه
-  holiday:
-    Iran: []
   sources:
     - https://fa.wikipedia.org/wiki/محمد_تقی
