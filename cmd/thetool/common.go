@@ -44,9 +44,9 @@ func (e *Event) CalculateKey(collection string) {
 
 // Months is the month structure validator
 type Months struct {
-	MonthsNormal []int               `json:"normal,omitempty" yaml:"normal,omitempty"`
-	MonthsLeap   []int               `json:"leap,omitempty" yaml:"leap,omitempty"`
-	MonthsName   []map[string]string `json:"name,omitempty" yaml:"name,omitempty"`
+	Normal []int               `json:"normal,omitempty" yaml:"normal,omitempty"`
+	Leap   []int               `json:"leap,omitempty" yaml:"leap,omitempty"`
+	Name   []map[string]string `json:"name,omitempty" yaml:"name,omitempty"`
 }
 
 // File is the single file
@@ -135,29 +135,29 @@ func loadFolder(folder string) (*File, error) {
 		res.Merge(f)
 	}
 
-	// for i := range fl {
-	// 	data, err := openFile(fl[i])
-	// 	if err != nil {
-	// 		return nil, err
-	// 	}
-	//
-	// 	f, err := loadFile(data)
-	// 	if err != nil {
-	// 		return nil, err
-	// 	}
-	//
-	// 	if err := fixCalendar(f, res.Calendars); err != nil {
-	// 		return nil, err
-	// 	}
-	// 	d, err := yaml.Marshal(f)
-	// 	if err != nil {
-	// 		panic(err)
-	// 	}
-	//
-	// 	if err := ioutil.WriteFile(fl[i], d, 0600); err != nil {
-	// 		panic(err)
-	// 	}
-	// }
+	for i := range fl {
+		data, err := openFile(fl[i])
+		if err != nil {
+			return nil, err
+		}
+
+		f, err := loadFile(data)
+		if err != nil {
+			return nil, err
+		}
+
+		if err := fixCalendar(f, res.Calendars); err != nil {
+			return nil, err
+		}
+		d, err := yaml.Marshal(f)
+		if err != nil {
+			panic(err)
+		}
+
+		if err := ioutil.WriteFile(fl[i], d, 0600); err != nil {
+			panic(err)
+		}
+	}
 
 	return res, nil
 }

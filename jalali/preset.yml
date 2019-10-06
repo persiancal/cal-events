@@ -8,6 +8,8 @@ calendars:
   fa_IR: جمهوری اسلامی ایران
 - en_US: Ancient Iran
   fa_IR: ایران باستان
+- en_US: Iran Pahlavi
+  fa_IR: ایران پهلوی
 months:
   normal:
   - 31

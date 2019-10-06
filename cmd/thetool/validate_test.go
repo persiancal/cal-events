@@ -80,9 +80,9 @@ func TestValidateEventsContent(t *testing.T) {
 	}
 
 	p := &Months{
-		MonthsNormal: []int{31, 31, 31, 31, 31, 31, 30, 30, 30, 30, 30, 29},
-		MonthsLeap:   []int{31, 31, 31, 31, 31, 31, 30, 30, 30, 30, 30, 30},
-		MonthsName:   nil,
+		Normal: []int{31, 31, 31, 31, 31, 31, 30, 30, 30, 30, 30, 29},
+		Leap:   []int{31, 31, 31, 31, 31, 31, 30, 30, 30, 30, 30, 30},
+		Name:   nil,
 	}
 
 	for i := range fixtures {

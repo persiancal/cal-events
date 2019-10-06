@@ -93,12 +93,12 @@ func validateEventContent(ev []Event, p *Months, countries []string) error {
 			return fmt.Errorf("the partial key %q is invalid, only lower english chars, _ and numbers are allowed ([a-z0-9_])", ev[i].PartialKey)
 		}
 
-		if ev[i].Month <= 0 || ev[i].Month > len(p.MonthsNormal) {
+		if ev[i].Month <= 0 || ev[i].Month > len(p.Normal) {
 			return fmt.Errorf("invalid month on key %d", i)
 		}
 
-		max := p.MonthsNormal[ev[i].Month-1]
-		if leap := p.MonthsLeap[ev[i].Month-1]; leap > max {
+		max := p.Normal[ev[i].Month-1]
+		if leap := p.Leap[ev[i].Month-1]; leap > max {
 			max = leap
 		}
 
