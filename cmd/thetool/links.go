@@ -15,33 +15,37 @@ var (
 	ignore   *bool
 )
 
+func checkSingle(client *http.Client, lnk string) error {
+	u, err := url.Parse(lnk)
+	if err != nil {
+		return fmt.Errorf("parse %q failed with err %w", lnk, err)
+	}
+
+	req, err := http.NewRequest("GET", u.String(), nil)
+	if err != nil {
+		return fmt.Errorf("create request for %q failed with err %w", lnk, err)
+	}
+
+	rsp, err := client.Do(req)
+	if err != nil {
+		return fmt.Errorf("fetch %q failed with err %w", lnk, err)
+	}
+
+	if rsp.StatusCode != http.StatusOK {
+		return fmt.Errorf("fetch %q failed with status code %d", lnk, rsp.StatusCode)
+	}
+
+	return nil
+}
+
 func checkLink(wg *sync.WaitGroup, in chan string, out chan error) {
 	defer wg.Done()
-	client := http.Client{
+	client := &http.Client{
 		Timeout: time.Second,
 	}
 	for lnk := range in {
-		u, err := url.Parse(lnk)
-		if err != nil {
-			out <- fmt.Errorf("parse %q failed with err %w", lnk, err)
-			continue
-		}
-
-		req, err := http.NewRequest("GET", u.String(), nil)
-		if err != nil {
-			out <- fmt.Errorf("create request for %q failed with err %w", lnk, err)
-			continue
-		}
-
-		rsp, err := client.Do(req)
-		if err != nil {
-			out <- fmt.Errorf("fetch %q failed with err %w", lnk, err)
-			continue
-		}
-
-		if rsp.StatusCode != http.StatusOK {
-			out <- fmt.Errorf("fetch %q failed with status code %d", lnk, rsp.StatusCode)
-			continue
+		if err := checkSingle(client, lnk); err != nil {
+			out <- err
 		}
 	}
 }
