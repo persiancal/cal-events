@@ -621,6 +621,232 @@
       ]
     },
     {
+      "key": 3689001391,
+      "title": {
+        "fa_IR": "ولادت امام محمد باقر، پنجمین امام شیعه دوازده‌امامی"
+      },
+      "description": {
+        "fa_IR": "ولادت امام محمد باقر، پنجمین امام شیعه دوازده‌امامی"
+      },
+      "year": 57,
+      "month": 7,
+      "day": 1,
+      "calendar": {
+        "en_US": [
+          "Shia"
+        ],
+        "fa_IR": [
+          "شیعه"
+        ]
+      },
+      "sources": [
+        "https://fa.wikipedia.org/wiki/محمد_باقر#تولد_و_سالهای_اولیه_زندگی"
+      ]
+    },
+    {
+      "key": 2194644839,
+      "title": {
+        "fa_IR": "درگذشت علی النقی"
+      },
+      "description": {
+        "fa_IR": "درگذشت علی النقی، دهمین امام شیعه دوازده‌امامی"
+      },
+      "year": 254,
+      "month": 7,
+      "day": 3,
+      "calendar": {
+        "en_US": [
+          "Shia"
+        ],
+        "fa_IR": [
+          "شیعه"
+        ]
+      },
+      "sources": [
+        "https://fa.wikipedia.org/wiki/علی_النقی#قتل_و_مرگ"
+      ]
+    },
+    {
+      "key": 301306847,
+      "title": {
+        "fa_IR": "ولادت محمد تقی"
+      },
+      "description": {
+        "fa_IR": "ولادت محمد تقی، نهمین امام شیعه دوازده‌امامی"
+      },
+      "year": 195,
+      "month": 7,
+      "day": 10,
+      "calendar": {
+        "en_US": [
+          "Shia"
+        ],
+        "fa_IR": [
+          "شیعه"
+        ]
+      },
+      "sources": [
+        "https://fa.wikipedia.org/wiki/محمد_تقی#تولد_و_سالهای_اولیه_زندگی"
+      ]
+    },
+    {
+      "key": 3848739643,
+      "title": {
+        "fa_IR": "ولادت علی بن ابی‌طالب"
+      },
+      "description": {
+        "fa_IR": "ولادت علی بن ابی‌طالب، نخستین امام شیعیان"
+      },
+      "month": 7,
+      "day": 13,
+      "calendar": {
+        "en_US": [
+          "Shia"
+        ],
+        "fa_IR": [
+          "شیعه"
+        ]
+      },
+      "sources": [
+        "https://fa.wikipedia.org/wiki/علی_بن_ابی‌طالب"
+      ]
+    },
+    {
+      "key": 4197838197,
+      "title": {
+        "fa_IR": "آغاز ایام البیض"
+      },
+      "description": {
+        "fa_IR": "آغاز ایام البیض (ایام سه روزه اعتکاف ۱۳، ۱۴ و ۱۵ رجب)"
+      },
+      "month": 7,
+      "day": 13,
+      "calendar": {
+        "en_US": [
+          "Islamic Republic Of Iran"
+        ],
+        "fa_IR": [
+          "جمهوری اسلامی ایران"
+        ]
+      },
+      "sources": [
+        "https://fa.wikipedia.org/wiki/روزهای_سپید"
+      ]
+    },
+    {
+      "key": 1638036358,
+      "title": {
+        "fa_IR": "تغییر قبله مسلمین"
+      },
+      "description": {
+        "fa_IR": "تغییر قبله مسلمین"
+      },
+      "year": 2,
+      "month": 7,
+      "day": 15,
+      "calendar": {
+        "en_US": [
+          "Islamic Republic Of Iran"
+        ],
+        "fa_IR": [
+          "جمهوری اسلامی ایران"
+        ]
+      },
+      "sources": [
+        "https://fa.wikipedia.org/wiki/قبله#قبله_مسلمانان"
+      ]
+    },
+    {
+      "key": 3879911348,
+      "title": {
+        "fa_IR": "درگذشت زینب الکبری بنت علی"
+      },
+      "description": {
+        "fa_IR": "درگذشت زینب الکبری بنت علی"
+      },
+      "year": 62,
+      "month": 7,
+      "day": 15,
+      "calendar": {
+        "en_US": [
+          "Shia"
+        ],
+        "fa_IR": [
+          "شیعه"
+        ]
+      },
+      "sources": [
+        "https://fa.wikipedia.org/wiki/زینب#وفات"
+      ]
+    },
+    {
+      "key": 485062999,
+      "title": {
+        "fa_IR": "درگذشت معاویة بن ابی‌سفیان"
+      },
+      "description": {
+        "fa_IR": "درگذشت معاویة بن ابی‌سفیان"
+      },
+      "month": 7,
+      "day": 22,
+      "calendar": {
+        "en_US": [
+          "Islamic"
+        ],
+        "fa_IR": [
+          "اسلامی"
+        ]
+      },
+      "sources": [
+        "https://fa.wikipedia.org/wiki/معاویة_بن_ابی‌سفیان#درگذشت"
+      ]
+    },
+    {
+      "key": 2471450744,
+      "title": {
+        "fa_IR": "درگذشت موسی کاظم"
+      },
+      "description": {
+        "fa_IR": "درگذشت موسی کاظم، هفتمین امام شیعه دوازده‌امامی"
+      },
+      "year": 183,
+      "month": 7,
+      "day": 25,
+      "calendar": {
+        "en_US": [
+          "Shia"
+        ],
+        "fa_IR": [
+          "شیعه"
+        ]
+      },
+      "sources": [
+        "https://fa.wikipedia.org/wiki/موسی_کاظم#حبس_و_کشته‌شدن"
+      ]
+    },
+    {
+      "key": 1225052851,
+      "title": {
+        "fa_IR": "عید مبعث"
+      },
+      "description": {
+        "fa_IR": "عید مبعث، سالروز بعثت پیامبر اسلام در جهان اسلام"
+      },
+      "month": 7,
+      "day": 27,
+      "calendar": {
+        "en_US": [
+          "Islamic Republic Of Iran"
+        ],
+        "fa_IR": [
+          "جمهوری اسلامی ایران"
+        ]
+      },
+      "sources": [
+        "https://fa.wikipedia.org/wiki/مبعث"
+      ]
+    },
+    {
       "key": 1224622444,
       "title": {
         "fa_IR": "ولادت فاطمه معصومه و روز دختران"
