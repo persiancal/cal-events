@@ -151,7 +151,7 @@ events:
     - ایران
   sources:
     - https://fa.wikipedia.org/wiki/روز_ملی_خلیج_فارس
-- partial_key: "beytolmoghadas_operation_day"
+- partial_key: "beyt_ol_moghadas_operation_day"
   title:
     fa_IR: آغاز عملیات بیت المقدس
   description:

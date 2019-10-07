@@ -46,7 +46,7 @@ events:
     - ایران
   sources:
     - https://fa.wikipedia.org/wiki/مدرسه_فیضیه
-- partial_key: "operation_fathol_mobin"
+- partial_key: "operation_fath_ol_mobin"
   title:
     fa_IR: آغاز عملیات فتح‌المبین
   description:
@@ -192,7 +192,7 @@ events:
     Iran: []
   sources:
     - https://fa.wikipedia.org/wiki/سیزده‌به‌در
-- partial_key: "sizdah_bedar_celebration"
+- partial_key: "sizdah_be_dar_celebration"
   title:
     fa_IR: جشن سیزده‌بدر
   description:
