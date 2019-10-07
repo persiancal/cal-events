@@ -16,7 +16,7 @@ events:
     - اسلامی
   sources:
     - https://fa.wikipedia.org/wiki/هجرت_محمد
-- partial_key: "death_of_hassan_askari"
+- partial_key: "martyrdom_of_hassan_askari"
   title:
     fa_IR: شهادت حضرت امام حسن عسكری عليه السلام و آغاز امامت حضرت وليعصر (عج)
   description:
@@ -36,7 +36,7 @@ events:
   sources:
     - https://fa.wikipedia.org/wiki/حجت_بن_الحسن
     - https://fa.wikipedia.org/wiki/حسن_عسکری
-- partial_key: "birthday_of_muhammad_sunni"
+- partial_key: "birthday_of_prophet_mohammad_sunni"
   title:
     fa_IR: ولادت حضرت رسول اكرم صلی الله عليه و آله
   description:
@@ -52,7 +52,7 @@ events:
     - سنی
   sources:
     - https://fa.wikipedia.org/wiki/محمد
-- partial_key: "birthday_of_muhammad_shia"
+- partial_key: "birthday_of_prophet_mohammad_shia"
   title:
     fa_IR: ولادت حضرت رسول اكرم صلی الله عليه و آله
   description:
