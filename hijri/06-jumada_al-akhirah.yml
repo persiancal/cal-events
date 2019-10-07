@@ -44,10 +44,10 @@ events:
     calendar:
       en_US:
         - Iran
-        - Islamic
+        - Shia
       fa_IR:
         - ایران
-        - اسلامی
+        - شیعه
     sources:
       - https://fa.wikipedia.org/wiki/ام‌البنین
   - partial_key: "fatimah_bd"
