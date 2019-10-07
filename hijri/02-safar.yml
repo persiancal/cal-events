@@ -118,7 +118,7 @@ events:
     - شیعه
   sources:
     - https://fa.wikipedia.org/wiki/اربعین
-- partial_key: "hazrat_mohammad_death"
+- partial_key: "demise_of_prophet_mohammad"
   title:
     fa_IR: وفات حضرت محمد
   description:
@@ -135,7 +135,7 @@ events:
     - اسلامی
   sources:
     - https://fa.wikipedia.org/wiki/محمد
-- partial_key: "emam_hasan_mojtaba_death"
+- partial_key: "martyrdom_of_emam_hasan_mojtaba"
   title:
     fa_IR: وفات امام حسن مجتبی به روایتی
   description:
@@ -152,7 +152,7 @@ events:
     - شیعه
   sources:
     - https://fa.wikipedia.org/wiki/حسن_مجتبی
-- partial_key: "emam_reza_death"
+- partial_key: "martyrdom_of_emam_reza"
   title:
     fa_IR: وفات امام علی ابن موسی الرضا
   description:
