@@ -1,5 +1,5 @@
 events:
-- partial_key: "muhammad_al_baqir_bd"
+- partial_key: "birthday_of_mohammad_al_baqir"
   title:
     fa_IR: ولادت امام محمد باقر، پنجمین امام شیعه دوازده‌امامی
   description:
@@ -14,7 +14,7 @@ events:
       - شیعه
   sources:
     - https://fa.wikipedia.org/wiki/محمد_باقر#تولد_و_سالهای_اولیه_زندگی
-- partial_key: "ali_al_naghi_death"
+- partial_key: "martyrdom_of_ali_al_naghi"
   title:
     fa_IR: درگذشت علی النقی
   description:
@@ -29,7 +29,7 @@ events:
       - شیعه
   sources:
     - https://fa.wikipedia.org/wiki/علی_النقی#قتل_و_مرگ
-- partial_key: "mohammad_taqi_bd"
+- partial_key: "birthday_of_mohammad_taqi"
   title:
     fa_IR: ولادت محمد تقی
   description:
@@ -44,7 +44,7 @@ events:
       - شیعه
   sources:
     - https://fa.wikipedia.org/wiki/محمد_تقی#تولد_و_سالهای_اولیه_زندگی
-- partial_key: "imam_ali_bd"
+- partial_key: "birthday_of_imam_ali"
   title:
     fa_IR: ولادت علی بن ابی‌طالب
   description:
@@ -87,7 +87,7 @@ events:
       - جمهوری اسلامی ایران
   sources:
     - https://fa.wikipedia.org/wiki/قبله#قبله_مسلمانان
-- partial_key: "zaynab_bint_ali_death"
+- partial_key: "demise_of_zaynab_bint_ali"
   title:
     fa_IR: درگذشت زینب الکبری بنت علی
   description:
@@ -117,7 +117,7 @@ events:
       - اسلامی
   sources:
     - https://fa.wikipedia.org/wiki/معاویة_بن_ابی‌سفیان#درگذشت
-- partial_key: "musa_al_kadhim_death"
+- partial_key: "martyrdom_of_musa_al_kadhim"
   title:
     fa_IR: درگذشت موسی کاظم
   description:
@@ -132,7 +132,7 @@ events:
       - شیعه
   sources:
     - https://fa.wikipedia.org/wiki/موسی_کاظم#حبس_و_کشته‌شدن
-- partial_key: "muhammad_first_revelation"
+- partial_key: "ascension_of_prophet_mohammad"
   title:
     fa_IR: عید مبعث
   description:
