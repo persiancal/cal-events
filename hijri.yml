@@ -808,3 +808,115 @@ events:
     - شیعه
   sources:
   - https://fa.wikipedia.org/wiki/محمد_تقی
+- key: 2795525868
+  title:
+    fa_IR: ازدواج علی ابن ابی‌طالب و فاطمه بنت محمد
+  description:
+    fa_IR: سالروز ازدواج علی ابن ابی‌طالب و فاطمه بنت محمد
+  year: 2
+  month: 12
+  day: 1
+  calendar:
+    en_US:
+    - Iran
+    - Shia
+    fa_IR:
+    - ایران
+    - شیعه
+- key: 196270779
+  title:
+    fa_IR: شهادت امام محمد باقر
+  description:
+    fa_IR: شهادت امام محمد باقر
+  year: 114
+  month: 12
+  day: 7
+  calendar:
+    en_US:
+    - Iran
+    - Shia
+    fa_IR:
+    - ایران
+    - شیعه
+- key: 1202756166
+  title:
+    fa_IR: روز عرفه
+  description:
+    fa_IR: روز عرفه
+  month: 12
+  day: 9
+  calendar:
+    en_US:
+    - Iran
+    - Islamic
+    fa_IR:
+    - ایران
+    - اسلامی
+  sources:
+  - https://fa.wikipedia.org/wiki/روز_عرفه
+- key: 3859691278
+  title:
+    fa_IR: عید قربان
+  description:
+    fa_IR: عید قربان
+  month: 12
+  day: 10
+  calendar:
+    en_US:
+    - Iran
+    - Islamic
+    fa_IR:
+    - ایران
+    - اسلامی
+  holiday:
+    Iran: []
+  sources:
+  - https://fa.wikipedia.org/wiki/عید_قربان
+- key: 4048249340
+  title:
+    fa_IR: زادروز علی بن محمد نقی، امام دهم شیعیان
+  description:
+    fa_IR: زادروز علی بن محمد نقی، امام دهم شیعیان
+  year: 212
+  month: 12
+  day: 15
+  calendar:
+    en_US:
+    - Iran
+    - Shia
+    fa_IR:
+    - ایران
+    - شیعه
+- key: 1192877298
+  title:
+    fa_IR: عید غدیر خم
+  description:
+    fa_IR: عید غدیر خم
+  month: 12
+  day: 18
+  calendar:
+    en_US:
+    - Iran
+    - Shia
+    fa_IR:
+    - ایران
+    - شیعه
+  holiday:
+    Iran: []
+  sources:
+  - https://fa.wikipedia.org/wiki/رویداد_غدیر_خم
+- key: 435298254
+  title:
+    fa_IR: زادروز موسی کاظم، امام هفتم شیعیان
+  description:
+    fa_IR: زادروز موسی کاظم، امام هفتم شیعیان
+  year: 128
+  month: 12
+  day: 20
+  calendar:
+    en_US:
+    - Iran
+    - Shia
+    fa_IR:
+    - ایران
+    - شیعه
