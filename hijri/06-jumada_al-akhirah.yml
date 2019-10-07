@@ -47,7 +47,7 @@ events:
     - ایران
   sources:
     - https://fa.wikipedia.org/wiki/غزوه_خیبر
-- partial_key: "death_of_om-albanin"
+- partial_key: "death_of_om_albanin"
   title:
     fa_IR: وفات حضرت ام البنین علیه السلام
   description:
@@ -79,7 +79,7 @@ events:
   sources:
     - https://fa.wikipedia.org/wiki/عبدالله_بن_عبدالمطلب
     - https://fa.wikipedia.org/wiki/آمنه_بنت_وهب
-- partial_key: ""
+- partial_key: "fatimah_birthday"
   title:
     fa_IR: ولادت حضرت زهرا علیه السلام
   description:
@@ -95,7 +95,7 @@ events:
     - ایران
   sources:
     - https://fa.wikipedia.org/wiki/فاطمه_زهرا
-- partial_key: "death_of_am-kalsom"
+- partial_key: "death_of_am_kalsom"
   title:
     fa_IR: وفات حضرت ام کلثوم علیه السلام
   description:
@@ -120,10 +120,10 @@ events:
   month: 6
   day: 22
   calendar:
-    - Shia
+    - Sunni
     - Iran
     fa_IR:
-    - شیعه
+    - سنی
     - ایران
   sources:
     - https://fa.wikipedia.org/wiki/ابوبکر
