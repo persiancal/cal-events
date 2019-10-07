@@ -1,5 +1,5 @@
 events:
-  - partial_key: "fatimah_death"
+  - partial_key: "martyrdom_of_fatima"
     title:
       fa_IR: شهادت حضرت فاطمه زهرا(س)
     description:
@@ -18,7 +18,7 @@ events:
       Iran: []
     sources:
       - https://fa.wikipedia.org/wiki/فاطمه_زهرا
-  - partial_key: "rumi_death"
+  - partial_key: "demise_of_rumi"
     title:
       fa_IR: درگذشت مولانا
     description:
@@ -33,7 +33,7 @@ events:
         - ایران
     sources:
       - https://fa.wikipedia.org/wiki/مولوی
-  - partial_key: "umm_ul_banin_death"
+  - partial_key: "demise_of_umm_ul_banin"
     title:
       fa_IR: درگذشت ام‌البنین
     description:
@@ -50,7 +50,7 @@ events:
         - شیعه
     sources:
       - https://fa.wikipedia.org/wiki/ام‌البنین
-  - partial_key: "fatimah_bd"
+  - partial_key: "birthday_of_fatima_and_mother_day"
     title:
       fa_IR: ولادت حضرت فاطمه زهرا(س) و روز مادر
     description:
