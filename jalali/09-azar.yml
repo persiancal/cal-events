@@ -70,7 +70,7 @@ events:
     - باستانی
   sources:
     - https://fa.wikipedia.org/wiki/نیروی_دریایی_ارتش_جمهوری_اسلامی_ایران
-- partial_key: "al-shaykh_al-mufid_commemoration_day"
+- partial_key: "al-shaykh_al_mufid_commemoration_day"
   title:
     fa_IR: روز بزرگداشت شیخ مفید
   description:
@@ -84,7 +84,7 @@ events:
     - ایران
   sources:
     - https://fa.wikipedia.org/wiki/شیخ_مفید    
-- partial_key: "iranian_Council_day"
+- partial_key: "iranian_council_day"
   title:
     fa_IR: روز مجلس
   description:
@@ -99,7 +99,7 @@ events:
     - ایران
   sources:
     - https://fa.wikipedia.org/wiki/روز_مجلس    
-- partial_key: "‍seyyed_hassan_modarres_martyrdom"
+- partial_key: "seyyed_hassan_modarres_martyrdom"
   title:
     fa_IR: شهادت آیت‌الله سید حسن مدرس
   description:
@@ -246,24 +246,11 @@ events:
     - ایران
   sources:
     - https://fa.wikipedia.org/wiki/روز_ملی_حمل‌ونقل_ایران
-- partial_key: "hoze_daneshgah_uprising"
-  title:
-    fa_IR: روز وحدت حوزه و دانشگاه
-  description:
-    fa_IR: روز وحدت حوزه و دانشگاه
-  year: 1358
-  month: 9
-  day: 27
-  calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  sources:
-    - https://fa.wikipedia.org/محمد_مفتح
 - partial_key: "mohammad_mofatteh_witness_day"
   title:
-    fa_IR: شهادت آیت‌الله دکتر محمد مفتح
+    fa_IR: 
+‍‍شهادت آیت‌الله دکتر محمد مفتح و روز وحدت حوزه و دانشگاه
+
   description:
     fa_IR: شهادت آیت‌الله دکتر محمد مفتح
   year: 1358
@@ -276,7 +263,8 @@ events:
     - ایران
   sources:
     - https://fa.wikipedia.org/محمد_مفتح
-- partial_key: "mohammad_javad_tondguyan_Celebrate_day"
+    - https://fa.wikipedia.org/wiki/حوزه_علمیه
+- partial_key: "mohammad_javad_tondguyan_celebrate_day"
   title:
     fa_IR: روز تجلیل از شهید تندگویان
   description:
