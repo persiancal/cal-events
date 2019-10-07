@@ -37,8 +37,10 @@ events:
     calendar:
       en_US:
         - Iran
+        - Islamic
       fa_IR:
         - ایران
+        - اسلامی
     sources:
       - https://fa.wikipedia.org/wiki/روز_عرفه
   - partial_key: "eid_qorban"
@@ -51,8 +53,10 @@ events:
     calendar:
       en_US:
         - Iran
+        - Islamic
       fa_IR:
         - ایران
+        - اسلامی
     holiday:
       Iran: []
     sources:
