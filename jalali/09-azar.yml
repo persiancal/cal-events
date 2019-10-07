@@ -39,8 +39,8 @@ events:
     - Iran
     fa_IR:
     - ایران
-   sources:
-     - https://fa.wikipedia.org/wiki/بسیج
+  sources:
+    - https://fa.wikipedia.org/wiki/بسیج
 - partial_key: "islamic_republic_of_iran_navy_day"
   title:
     fa_IR: روز نیروی دریایی
@@ -248,11 +248,11 @@ events:
     - https://fa.wikipedia.org/wiki/روز_ملی_حمل‌ونقل_ایران
 - partial_key: "mohammad_mofatteh_witness_day"
   title:
-    fa_IR: 
-‍‍شهادت آیت‌الله دکتر محمد مفتح و روز وحدت حوزه و دانشگاه
+    fa_IR: ‍‍شهادت آیت‌الله دکتر محمد مفتح و روز وحدت حوزه و دانشگاه
 
   description:
-    fa_IR: شهادت آیت‌الله دکتر محمد مفتح
+    fa_IR: ‍‍شهادت آیت‌الله دکتر محمد مفتح و روز وحدت حوزه و دانشگاه
+
   year: 1358
   month: 9
   day: 27
