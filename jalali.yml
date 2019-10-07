@@ -101,7 +101,7 @@ events:
     - ایران
   sources:
   - https://fa.wikipedia.org/wiki/مدرسه_فیضیه
-- key: 2894039138
+- key: 11965345
   title:
     fa_IR: آغاز عملیات فتح‌المبین
   description:
@@ -247,7 +247,7 @@ events:
     Iran: []
   sources:
   - https://fa.wikipedia.org/wiki/سیزده‌به‌در
-- key: 2580897303
+- key: 2243417926
   title:
     fa_IR: جشن سیزده‌بدر
   description:
@@ -587,7 +587,7 @@ events:
     - ایران
   sources:
   - https://fa.wikipedia.org/wiki/روز_ملی_خلیج_فارس
-- key: 1286047752
+- key: 3697059600
   title:
     fa_IR: آغاز عملیات بیت المقدس
   description:
@@ -741,7 +741,7 @@ events:
     - Iran
     fa_IR:
     - ایران
-- key: 963051399
+- key: 2880708330
   title:
     fa_IR: روز بزرگداشت ملاصدرا (صدرالمتألهین)
   description:
