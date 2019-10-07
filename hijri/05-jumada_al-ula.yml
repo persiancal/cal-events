@@ -1,5 +1,5 @@
 events:
-- partial_key: "birth_of_hazrat_zaynab_and_nurses_day"
+- partial_key: "birthday_of_hazrat_zaynab_and_nurses_day"
   title:
     fa_IR: ولادت حضرت زینب سلام‌اللّه علیها و روز پرستار
   description:
@@ -32,7 +32,7 @@ events:
     - اسلامی
   sources:
     - https://fa.wikipedia.org/wiki/سریه_مؤته
-- partial_key: "jafar_ibn_abi_talib_martyrdom"
+- partial_key: "martyrdom_of_jafar_ibn_abi_taleb"
   title:
     fa_IR: شهادت جعفر‌ ابن ابی‌طالب
   description: 
@@ -79,7 +79,7 @@ events:
     - ایران
   sources:
     - https://fa.wikipedia.org/wiki/فاطمه_زهرا
-- partial_key: "abd_al_muttalib_death"
+- partial_key: "demise_of_abd_al_muttalib"
   title:
     fa_IR: وفات عبدالمطلب 
   description: 
@@ -93,7 +93,7 @@ events:
     - اسلامی
   sources:
     - https://fa.wikipedia.org/wiki/عبدالمطلب
-- partial_key: "abu_jafar_muhammad_ibn_uthman_death"
+- partial_key: "demise_of_abu_jafar_muhammad_ibn_uthman"
   title:
     fa_IR: وفات محمد بن عثمان دومین نائب خاص حضرت مهدی علیه‌السلام
   description: 
