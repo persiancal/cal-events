@@ -581,6 +581,75 @@ events:
     - شیعه
   sources:
   - https://fa.wikipedia.org/wiki/محمد_بن_عثمان
+- key: 1097835998
+  title:
+    fa_IR: شهادت حضرت فاطمه زهرا(س)
+  description:
+    fa_IR: شهادت حضرت فاطمه زهرا(س) به روایت مشهورتر یا فاطمیه دوم
+  year: 11
+  month: 6
+  day: 3
+  calendar:
+    en_US:
+    - Iran
+    - Islamic
+    fa_IR:
+    - ایران
+    - اسلامی
+  holiday:
+    Iran: []
+  sources:
+  - https://fa.wikipedia.org/wiki/فاطمه_زهرا
+- key: 1609092485
+  title:
+    fa_IR: درگذشت مولانا
+  description:
+    fa_IR: درگذشت جلال‌الدین محمد بلخی معروف به مولانا، مولوی و رومی
+  year: 672
+  month: 6
+  day: 5
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+  sources:
+  - https://fa.wikipedia.org/wiki/مولوی
+- key: 3386654875
+  title:
+    fa_IR: درگذشت ام‌البنین
+  description:
+    fa_IR: درگذشت حضرت ام‌البنین مادر حضرت ابوالفضل
+  year: 70
+  month: 6
+  day: 13
+  calendar:
+    en_US:
+    - Iran
+    - Shia
+    fa_IR:
+    - ایران
+    - شیعه
+  sources:
+  - https://fa.wikipedia.org/wiki/ام‌البنین
+- key: 777894717
+  title:
+    fa_IR: ولادت حضرت فاطمه زهرا(س) و روز مادر
+  description:
+    fa_IR: ولادت حضرت فاطمه زهرا(س) و روز مادر - تولد ایشان بین سال ۳۵ تا ۴۵ عام‌الفیل
+      برابر ۱۸ تا ۸ پیش از هجرت بوده است
+  year: -18
+  month: 6
+  day: 20
+  calendar:
+    en_US:
+    - Iran
+    - Islamic
+    fa_IR:
+    - ایران
+    - اسلامی
+  sources:
+  - https://fa.wikipedia.org/wiki/فاطمه_زهرا
 - key: 3689001391
   title:
     fa_IR: ولادت امام محمد باقر، پنجمین امام شیعه دوازده‌امامی
