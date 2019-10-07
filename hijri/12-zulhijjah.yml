@@ -10,8 +10,10 @@ events:
     calendar:
       en_US:
         - Iran
+        - Shia
       fa_IR:
         - ایران
+        - شیعه
   - partial_key: "martydom_of_imam_mohammad_baqer"
     title:
       fa_IR: شهادت امام محمد باقر
@@ -72,8 +74,10 @@ events:
     calendar:
       en_US:
         - Iran
+        - Shia
       fa_IR:
         - ایران
+        - شیعه
   - partial_key: "eid_qadir"
     title:
       fa_IR: عید غدیر خم
