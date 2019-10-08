@@ -8,10 +8,7 @@ events:
   day: 1
   year: 1336
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Shia
   sources:
     - https://fa.wikipedia.org/wiki/سید_عبدالحسین_لاری
 - partial_key: "birthday_of_husayn_ibn_ali"
@@ -23,12 +20,8 @@ events:
   day: 3
   year: 4
   calendar:
-    en_US:
     - Shia
     - Islamic Republic Of Iran
-    fa_IR:
-    - شیعه
-    - جمهوری اسلامی ایران
   sources:
     - https://fa.wikipedia.org/wiki/حسین_بن_علی
 - partial_key: "pasdar_day"
@@ -40,10 +33,7 @@ events:
   day: 3
   year: 4
   calendar:
-    en_US:
     - Islamic Republic Of Iran
-    fa_IR:
-    - جمهوری اسلامی ایران
   sources:
     - https://fa.wikipedia.org/wiki/سپاه_پاسداران_انقلاب_اسلامی
 - partial_key: "birthday_of_abbas_ibn_ali"
@@ -55,29 +45,21 @@ events:
   day: 4
   year: 26
   calendar:
-    en_US:
     - Shia
     - Islamic Republic Of Iran
-    fa_IR:
-    - شیعه
-    - جمهوری اسلامی ایران
   sources:
     - https://fa.wikipedia.org/wiki/عباس_بن_علی
 - partial_key: "birthday_of_ali_ibn_husayn"
   title:
     fa_IR: ولادت علی ابن الحسین
   description:
-    fa_IR: ولادت علی بن حسین، چهارمین امام شیعهدوازده امامی
+    fa_IR: ولادت علی بن حسین، چهارمین امام شیعه دوازده امامی
   month: 8
   day: 5
   year: 26
   calendar:
-    en_US:
     - Shia
     - Islamic Republic Of Iran
-    fa_IR:
-    - شیعه
-    - جمهوری اسلامی ایران
   sources:
     - https://fa.wikipedia.org/wiki/سجاد
 - partial_key: "disabledـiranianـveterans_day"
@@ -89,9 +71,6 @@ events:
   day: 5
   year: 26
   calendar:
-    en_US:
     - Islamic Republic Of Iran
-    fa_IR:
-    - جمهوری اسلامی ایران
   sources:
     - https://fa.wikipedia.org/wiki/جانباز
