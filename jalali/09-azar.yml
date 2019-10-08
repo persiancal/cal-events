@@ -70,7 +70,7 @@ events:
     - باستانی
   sources:
     - https://fa.wikipedia.org/wiki/نیروی_دریایی_ارتش_جمهوری_اسلامی_ایران
-- partial_key: "al-shaykh_al_mufid_commemoration_day"
+- partial_key: "al_shaykh_al_mufid_commemoration_day"
   title:
     fa_IR: روز بزرگداشت شیخ مفید
   description:
