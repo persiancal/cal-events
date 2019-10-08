@@ -41,7 +41,7 @@ events:
   calendar:
   - International
   sources:
-  - https://en.wikipedia.org/wiki/World_Pulses_Day1
+  - https://en.wikipedia.org/wiki/World_Pulses_Day
 - partial_key: international_day_of_women_and_girls_in_science
   title:
     fa_IR: روز جهانی زنان و دختران در علم
