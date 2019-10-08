@@ -14,21 +14,6 @@ events:
     - ایران
   sources:
     - https://fa.wikipedia.org/wiki/سید_عبدالحسین_لاری
-- partial_key: "birthday_of_Khwaja_Abdullah_Ansari"
-  title:
-    fa_IR: زادروز خواجه عبدالله انصاری
-  description:
-    fa_IR: زادروز خواجه عبدالله انصاری دانشمند و عارف مسلمان
-  month: 8
-  day: 2
-  year: 396
-  calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  sources:
-    - https://fa.wikipedia.org/wiki/خواجه_عبدالله_انصاری
 - partial_key: "birthday_of_Husayn_ibn_Ali"
   title:
     fa_IR: ولادت امام حسین، سومین امام شیعه دوازده امامی
