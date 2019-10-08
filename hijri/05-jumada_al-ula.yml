@@ -8,13 +8,6 @@ events:
   month: 5
   day: 5
   calendar:
-    en_US:
-    - Shia
-    - Iran
-    fa_IR:
-    - شیعه
-    - ایران
-  new_calendar:
   - Shia
   - Iran Official
   sources:
@@ -29,11 +22,6 @@ events:
   month: 5
   day: 6
   calendar:
-    en_US:
-    - Islamic
-    fa_IR:
-    - اسلامی
-  new_calendar:
   - Islamic
   sources:
   - https://fa.wikipedia.org/wiki/سریه_مؤته
@@ -46,11 +34,6 @@ events:
   month: 5
   day: 6
   calendar:
-    en_US:
-    - Islamic
-    fa_IR:
-    - اسلامی
-  new_calendar:
   - Islamic
   sources:
   - https://fa.wikipedia.org/wiki/جعفر_بن_ابی‌طالب
@@ -63,11 +46,6 @@ events:
   month: 5
   day: 10
   calendar:
-    en_US:
-    - Islamic
-    fa_IR:
-    - اسلامی
-  new_calendar:
   - Islamic
   sources:
   - https://fa.wikipedia.org/wiki/جنگ_جمل
@@ -80,13 +58,6 @@ events:
   month: 5
   day: 13
   calendar:
-    en_US:
-    - Shia
-    - Iran
-    fa_IR:
-    - شیعه
-    - ایران
-  new_calendar:
   - Shia
   - Iran Official
   sources:
@@ -99,11 +70,6 @@ events:
   month: 5
   day: 27
   calendar:
-    en_US:
-    - Islamic
-    fa_IR:
-    - اسلامی
-  new_calendar:
   - Islamic
   sources:
   - https://fa.wikipedia.org/wiki/عبدالمطلب
@@ -115,11 +81,6 @@ events:
   month: 5
   day: 30
   calendar:
-    en_US:
-    - Shia
-    fa_IR:
-    - شیعه
-  new_calendar:
   - Shia
   sources:
   - https://fa.wikipedia.org/wiki/محمد_بن_عثمان

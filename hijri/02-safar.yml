@@ -8,13 +8,6 @@ events:
   month: 2
   day: 1
   calendar:
-    en_US:
-    - Iran
-    - Islamic
-    fa_IR:
-    - ایران
-    - اسلامی
-  new_calendar:
   - Iran Official
   - Islamic
   sources:
@@ -28,13 +21,6 @@ events:
   month: 2
   day: 1
   calendar:
-    en_US:
-    - Iran
-    - Shia
-    fa_IR:
-    - ایران
-    - شیعه
-  new_calendar:
   - Iran Official
   - Shia
   sources:
@@ -48,13 +34,6 @@ events:
   month: 2
   day: 3
   calendar:
-    en_US:
-    - Iran
-    - Shia
-    fa_IR:
-    - ایران
-    - شیعه
-  new_calendar:
   - Iran Official
   - Shia
   sources:
@@ -68,13 +47,6 @@ events:
   month: 2
   day: 7
   calendar:
-    en_US:
-    - Iran
-    - Shia
-    fa_IR:
-    - ایران
-    - شیعه
-  new_calendar:
   - Iran Official
   - Shia
   sources:
@@ -88,13 +60,6 @@ events:
   month: 2
   day: 8
   calendar:
-    en_US:
-    - Iran
-    - Islamic
-    fa_IR:
-    - ایران
-    - اسلامی
-  new_calendar:
   - Iran Official
   - Islamic
   sources:
@@ -108,13 +73,6 @@ events:
   month: 2
   day: 9
   calendar:
-    en_US:
-    - Iran
-    - Islamic
-    fa_IR:
-    - ایران
-    - اسلامی
-  new_calendar:
   - Iran Official
   - Islamic
   sources:
@@ -128,13 +86,6 @@ events:
   month: 2
   day: 20
   calendar:
-    en_US:
-    - Iran
-    - Shia
-    fa_IR:
-    - ایران
-    - شیعه
-  new_calendar:
   - Iran Official
   - Shia
   sources:
@@ -148,13 +99,6 @@ events:
   month: 2
   day: 28
   calendar:
-    en_US:
-    - Iran
-    - Islamic
-    fa_IR:
-    - ایران
-    - اسلامی
-  new_calendar:
   - Iran Official
   - Islamic
   sources:
@@ -168,13 +112,6 @@ events:
   month: 2
   day: 28
   calendar:
-    en_US:
-    - Iran
-    - Shia
-    fa_IR:
-    - ایران
-    - شیعه
-  new_calendar:
   - Iran Official
   - Shia
   sources:
@@ -188,13 +125,6 @@ events:
   month: 2
   day: 30
   calendar:
-    en_US:
-    - Iran
-    - Shia
-    fa_IR:
-    - ایران
-    - شیعه
-  new_calendar:
   - Iran Official
   - Shia
   sources:

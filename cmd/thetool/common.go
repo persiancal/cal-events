@@ -18,16 +18,14 @@ const (
 
 // Event is a single event
 type Event struct {
-	PartialKey  string            `json:"partial_key,omitempty" yaml:"partial_key,omitempty"`
-	Key         uint32            `json:"key,omitempty" yaml:"key,omitempty"`
-	Title       map[string]string `json:"title,omitempty" yaml:"title,omitempty"`
-	Description map[string]string `json:"description,omitempty" yaml:"description,omitempty"`
-	Year        int               `json:"year,omitempty" yaml:"year,omitempty"`
-	Month       int               `json:"month" yaml:"month"`
-	Day         int               `json:"day" yaml:"day"`
-	// deprecated, transitional phase
-	Calendar    map[string][]string `json:"calendar" yaml:"calendar"`
-	NewCalendar []string            `json:"new_calendar,omitempty" yaml:"new_calendar,omitempty"`
+	PartialKey  string              `json:"partial_key,omitempty" yaml:"partial_key,omitempty"`
+	Key         uint32              `json:"key,omitempty" yaml:"key,omitempty"`
+	Title       map[string]string   `json:"title,omitempty" yaml:"title,omitempty"`
+	Description map[string]string   `json:"description,omitempty" yaml:"description,omitempty"`
+	Year        int                 `json:"year,omitempty" yaml:"year,omitempty"`
+	Month       int                 `json:"month" yaml:"month"`
+	Day         int                 `json:"day" yaml:"day"`
+	Calendar    []string            `json:"calendar,omitempty" yaml:"calendar,omitempty"`
 	Holiday     map[string][]string `json:"holiday,omitempty" yaml:",omitempty"`
 	Sources     []string            `json:"sources,omitempty" yaml:"sources,omitempty"`
 }

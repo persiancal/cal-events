@@ -7,11 +7,6 @@ events:
   month: 7
   day: 1
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
 - partial_key: operation_samen_ol_a_emeh
   title:
@@ -22,11 +17,6 @@ events:
   month: 7
   day: 5
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/حصر_آبادان
@@ -39,11 +29,6 @@ events:
   month: 7
   day: 7
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/جنگ_ایران_و_عراق
@@ -55,11 +40,6 @@ events:
   month: 7
   day: 7
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/شمس_تبریزی
@@ -71,11 +51,6 @@ events:
   month: 7
   day: 7
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/آتش‌نشانی
@@ -88,11 +63,6 @@ events:
   month: 7
   day: 7
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سقوط_هواپیمای_سی-۱۳۰_(۱۳۶۰)
@@ -104,11 +74,6 @@ events:
   month: 7
   day: 8
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/مولوی
@@ -120,11 +85,6 @@ events:
   month: 7
   day: 9
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/فلسطین
@@ -136,11 +96,6 @@ events:
   month: 7
   day: 12
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
 - partial_key: tirozi_celebration
   title:
@@ -150,11 +105,6 @@ events:
   month: 7
   day: 13
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
 - partial_key: naja_day
   title:
@@ -164,11 +114,6 @@ events:
   month: 7
   day: 13
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/نیروی_انتظامی_جمهوری_اسلامی_ایران
@@ -181,11 +126,6 @@ events:
   month: 7
   day: 13
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سید_روح‌الله_خمینی
@@ -197,11 +137,6 @@ events:
   month: 7
   day: 14
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/دامپزشکی
@@ -213,11 +148,6 @@ events:
   month: 7
   day: 14
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سلمان_فارسی
@@ -229,11 +159,6 @@ events:
   month: 7
   day: 15
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
 - partial_key: mehrgan_celebration
   title:
@@ -243,11 +168,6 @@ events:
   month: 7
   day: 16
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
 - partial_key: salmandan_day
   title:
@@ -257,11 +177,6 @@ events:
   month: 7
   day: 20
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
 - partial_key: hafez_commemoration_day
   title:
@@ -271,11 +186,6 @@ events:
   month: 7
   day: 20
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/حافظ
@@ -287,11 +197,6 @@ events:
   month: 7
   day: 21
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
 - partial_key: ata_ollah_ashrafi_esfahani_martyrdom
   title:
@@ -302,11 +207,6 @@ events:
   month: 7
   day: 23
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/عطاءالله_اشرفی_اصفهانی
@@ -318,11 +218,6 @@ events:
   month: 7
   day: 24
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
 - partial_key: national_paralympic_day
   title:
@@ -332,11 +227,6 @@ events:
   month: 7
   day: 24
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
 - partial_key: kerman_mosque
   title:
@@ -347,11 +237,6 @@ events:
   month: 7
   day: 24
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/واقعه_آتش‌سوزی_مسجد_جامع_کرمان
@@ -363,11 +248,6 @@ events:
   month: 7
   day: 26
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
 - partial_key: national_export_day
   title:
@@ -377,11 +257,6 @@ events:
   month: 7
   day: 29
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/صادرات

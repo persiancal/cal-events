@@ -7,11 +7,6 @@ events:
   month: 1
   day: 1
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/گاه‌شماری_هجری_قمری
@@ -25,11 +20,6 @@ events:
   month: 1
   day: 2
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/نبرد_کربلا
@@ -43,11 +33,6 @@ events:
   month: 1
   day: 7
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/نبرد_کربلا
@@ -60,11 +45,6 @@ events:
   month: 1
   day: 9
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   holiday:
     Iran: []
@@ -79,11 +59,6 @@ events:
   month: 1
   day: 10
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   holiday:
     Iran: []
@@ -98,11 +73,6 @@ events:
   month: 1
   day: 12
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سجاد
@@ -115,11 +85,6 @@ events:
   month: 1
   day: 18
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/مسجد_ذوقبلتین
@@ -132,11 +97,6 @@ events:
   month: 1
   day: 25
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سجاد

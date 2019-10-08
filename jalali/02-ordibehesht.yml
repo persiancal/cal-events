@@ -8,11 +8,6 @@ events:
   month: 2
   day: 1
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سعدی
@@ -24,11 +19,6 @@ events:
   month: 2
   day: 2
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
 - partial_key: ordibeheshtegan_celebration
   title:
@@ -38,11 +28,6 @@ events:
   month: 2
   day: 2
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/اردیبهشتگان
@@ -55,11 +40,6 @@ events:
   month: 2
   day: 2
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سپاه_پاسداران_انقلاب_اسلامی
@@ -72,11 +52,6 @@ events:
   month: 2
   day: 2
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/انقلاب_فرهنگی_ایران
@@ -88,11 +63,6 @@ events:
   month: 2
   day: 3
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/شیخ_بهایی
@@ -105,11 +75,6 @@ events:
   month: 2
   day: 5
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/عملیات_طبس
@@ -121,11 +86,6 @@ events:
   month: 2
   day: 7
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
 - partial_key: council_day
   title:
@@ -135,11 +95,6 @@ events:
   month: 2
   day: 9
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/شوراهای_اسلامی_شهر_و_روستا
@@ -151,11 +106,6 @@ events:
   month: 2
   day: 10
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
 - partial_key: persian_gulf_national_day
   title:
@@ -165,11 +115,6 @@ events:
   month: 2
   day: 10
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/روز_ملی_خلیج_فارس
@@ -182,11 +127,6 @@ events:
   month: 2
   day: 10
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/عملیات_بیت‌المقدس
@@ -199,11 +139,6 @@ events:
   month: 2
   day: 12
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/مرتضی_مطهری
@@ -216,11 +151,6 @@ events:
   month: 2
   day: 15
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/شیخ_صدوق
@@ -232,11 +162,6 @@ events:
   month: 2
   day: 15
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/گاهنبار
@@ -248,11 +173,6 @@ events:
   month: 2
   day: 19
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سازمان_اسناد_ملی_ایران
@@ -264,11 +184,6 @@ events:
   month: 2
   day: 19
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/شیخ_کلینی
@@ -281,11 +196,6 @@ events:
   month: 2
   day: 24
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/نهضت_تنباکو
@@ -297,11 +207,6 @@ events:
   month: 2
   day: 25
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/فردوسی
@@ -313,11 +218,6 @@ events:
   month: 2
   day: 28
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/خیام
@@ -329,11 +229,6 @@ events:
   month: 2
   day: 30
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
 - partial_key: organ_donation_day
   title:
@@ -343,9 +238,4 @@ events:
   month: 2
   day: 31
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official

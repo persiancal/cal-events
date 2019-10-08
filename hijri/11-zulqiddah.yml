@@ -8,13 +8,6 @@ events:
   month: 11
   day: 1
   calendar:
-    en_US:
-    - Iran Official
-    - Shia
-    fa_IR:
-    - ایران
-    - شیعه
-  new_calendar:
   - Iran Official
   - Shia
   sources:
@@ -27,11 +20,6 @@ events:
   month: 11
   day: 5
   calendar:
-    en_US:
-    - Iran Official
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
 - partial_key: ahmad_bint_musa_commemoration_day
   title:
@@ -41,11 +29,6 @@ events:
   month: 11
   day: 6
   calendar:
-    en_US:
-    - Iran Official
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/احمد_بن_موسی
@@ -59,13 +42,6 @@ events:
   month: 11
   day: 11
   calendar:
-    en_US:
-    - Iran Official
-    - Shia
-    fa_IR:
-    - ایران
-    - شیعه
-  new_calendar:
   - Iran Official
   - Shia
   holiday:
@@ -81,13 +57,6 @@ events:
   month: 11
   day: 30
   calendar:
-    en_US:
-    - Iran Official
-    - Shia
-    fa_IR:
-    - ایران
-    - شیعه
-  new_calendar:
   - Iran Official
   - Shia
   sources:

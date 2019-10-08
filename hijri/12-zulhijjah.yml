@@ -8,13 +8,6 @@ events:
   month: 12
   day: 1
   calendar:
-    en_US:
-    - Iran
-    - Shia
-    fa_IR:
-    - ایران
-    - شیعه
-  new_calendar:
   - Iran Official
   - Shia
 - partial_key: martydom_of_imam_mohammad_baqer
@@ -26,13 +19,6 @@ events:
   month: 12
   day: 7
   calendar:
-    en_US:
-    - Iran
-    - Shia
-    fa_IR:
-    - ایران
-    - شیعه
-  new_calendar:
   - Iran Official
   - Shia
 - partial_key: day_of_arafah
@@ -43,13 +29,6 @@ events:
   month: 12
   day: 9
   calendar:
-    en_US:
-    - Iran
-    - Islamic
-    fa_IR:
-    - ایران
-    - اسلامی
-  new_calendar:
   - Iran Official
   - Islamic
   sources:
@@ -62,13 +41,6 @@ events:
   month: 12
   day: 10
   calendar:
-    en_US:
-    - Iran
-    - Islamic
-    fa_IR:
-    - ایران
-    - اسلامی
-  new_calendar:
   - Iran Official
   - Islamic
   holiday:
@@ -84,13 +56,6 @@ events:
   month: 12
   day: 15
   calendar:
-    en_US:
-    - Iran
-    - Shia
-    fa_IR:
-    - ایران
-    - شیعه
-  new_calendar:
   - Iran Official
   - Shia
 - partial_key: eid_qadir
@@ -101,13 +66,6 @@ events:
   month: 12
   day: 18
   calendar:
-    en_US:
-    - Iran
-    - Shia
-    fa_IR:
-    - ایران
-    - شیعه
-  new_calendar:
   - Iran Official
   - Shia
   holiday:
@@ -123,12 +81,5 @@ events:
   month: 12
   day: 20
   calendar:
-    en_US:
-    - Iran
-    - Shia
-    fa_IR:
-    - ایران
-    - شیعه
-  new_calendar:
   - Iran Official
   - Shia

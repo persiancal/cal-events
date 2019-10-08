@@ -8,11 +8,6 @@ events:
   month: 9
   day: 15
   calendar:
-    en_US:
-    - Shia
-    fa_IR:
-    - شیعه
-  new_calendar:
   - Shia
   sources:
   - https://fa.wikipedia.org/wiki/حسن_مجتبی
@@ -24,11 +19,6 @@ events:
   month: 9
   day: 19
   calendar:
-    en_US:
-    - Shia
-    fa_IR:
-    - شیعه
-  new_calendar:
   - Shia
   sources:
   - https://fa.wikipedia.org/wiki/شب_قدر
@@ -41,11 +31,6 @@ events:
   month: 9
   day: 19
   calendar:
-    en_US:
-    - Shia
-    fa_IR:
-    - شیعه
-  new_calendar:
   - Shia
   sources:
   - https://fa.wikipedia.org/wiki/علی_بن_ابی‌طالب
@@ -57,11 +42,6 @@ events:
   month: 9
   day: 21
   calendar:
-    en_US:
-    - Shia
-    fa_IR:
-    - شیعه
-  new_calendar:
   - Shia
   sources:
   - https://fa.wikipedia.org/wiki/شب_قدر
@@ -74,11 +54,6 @@ events:
   month: 9
   day: 21
   calendar:
-    en_US:
-    - Shia
-    fa_IR:
-    - شیعه
-  new_calendar:
   - Shia
   holiday:
     Iran: []

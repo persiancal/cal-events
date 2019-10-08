@@ -7,11 +7,6 @@ events:
   month: 3
   day: 1
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/ملاصدرا
@@ -23,11 +18,6 @@ events:
   month: 3
   day: 1
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
 - partial_key: arghasoan_heat_celebration
   title:
@@ -37,11 +27,6 @@ events:
   month: 3
   day: 1
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
 - partial_key: liberation_of_khorramshahr
   title:
@@ -52,11 +37,6 @@ events:
   month: 3
   day: 3
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/آزادسازی_خرمشهر
@@ -68,11 +48,6 @@ events:
   month: 3
   day: 4
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/روز_مقاومت_دزفول
@@ -84,11 +59,6 @@ events:
   month: 3
   day: 5
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
 - partial_key: khordadegan_celebration
   title:
@@ -98,11 +68,6 @@ events:
   month: 3
   day: 6
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/خردادگان
@@ -115,11 +80,6 @@ events:
   month: 3
   day: 7
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/مجلس_شورای_اسلامی
@@ -132,11 +92,6 @@ events:
   month: 3
   day: 14
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   holiday:
     Iran: []
@@ -151,11 +106,6 @@ events:
   month: 3
   day: 14
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سید_علی_خامنه‌ای
@@ -168,11 +118,6 @@ events:
   month: 3
   day: 15
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سید_روح‌الله_خمینی#سخنرانی_روز_عاشورا،_دستگیری_و_تظاهرات_۱۵_خرداد
@@ -185,11 +130,6 @@ events:
   month: 3
   day: 15
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   holiday:
     Iran: []
@@ -204,11 +144,6 @@ events:
   month: 3
   day: 20
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سید_محمدرضا_سعیدی
@@ -220,11 +155,6 @@ events:
   month: 3
   day: 25
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
 - partial_key: fedayeen_of_islam_members_martyrdom
   title:
@@ -235,11 +165,6 @@ events:
   month: 3
   day: 26
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/محمد_بخارایی
@@ -256,11 +181,6 @@ events:
   month: 3
   day: 27
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/جهاد_سازندگی
@@ -274,11 +194,6 @@ events:
   month: 3
   day: 29
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/علی_شریعتی
@@ -291,11 +206,6 @@ events:
   month: 3
   day: 30
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/بمب‌گذاری_در_حرم_امام_رضا
@@ -307,11 +217,6 @@ events:
   month: 3
   day: 31
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
 - partial_key: mostafa_chamran_martyrdom
   title:
@@ -322,11 +227,6 @@ events:
   month: 3
   day: 31
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/مصطفی_چمران
@@ -339,11 +239,6 @@ events:
   month: 3
   day: 31
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/ابوالحسن_بنی‌صدر

@@ -8,11 +8,6 @@ events:
   month: 5
   day: 5
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/عملیات_مرصاد
@@ -24,11 +19,6 @@ events:
   month: 5
   day: 7
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/امردادگان
@@ -40,11 +30,6 @@ events:
   month: 5
   day: 8
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/شهاب‌الدین_یحیی_سهروردی
@@ -56,11 +41,6 @@ events:
   month: 5
   day: 9
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
 - partial_key: death_of_sheikh_fazlullah_nouri
   title:
@@ -71,11 +51,6 @@ events:
   month: 5
   day: 9
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/شیخ_فضل‌الله_نوری
@@ -88,11 +63,6 @@ events:
   month: 5
   day: 14
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/فرمان_مشروطیت
@@ -105,11 +75,6 @@ events:
   month: 5
   day: 16
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/جهاد_دانشگاهی
@@ -121,11 +86,6 @@ events:
   month: 5
   day: 17
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/خبرنگار
@@ -137,11 +97,6 @@ events:
   month: 5
   day: 21
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
 - partial_key: social_organizations_day
   title:
@@ -151,11 +106,6 @@ events:
   month: 5
   day: 22
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
 - partial_key: hamas_day
   title:
@@ -165,11 +115,6 @@ events:
   month: 5
   day: 23
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/حماس
@@ -182,11 +127,6 @@ events:
   month: 5
   day: 26
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
 - partial_key: 1953_iranian_coup_detat
   title:
@@ -197,11 +137,6 @@ events:
   month: 5
   day: 28
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/کودتای_۲۸_مرداد
@@ -214,11 +149,6 @@ events:
   month: 5
   day: 28
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/آتش‌سوزی_سینما_رکس_آبادان
@@ -231,11 +161,6 @@ events:
   month: 5
   day: 28
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/مجلس_خبرگان_قانون_اساسی
@@ -247,11 +172,6 @@ events:
   month: 5
   day: 30
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/محمدباقر_مجلسی
@@ -263,11 +183,6 @@ events:
   month: 5
   day: 31
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سازمان_صنایع_دفاع_جمهوری_اسلامی_ایران

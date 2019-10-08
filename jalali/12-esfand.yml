@@ -7,11 +7,6 @@ events:
   month: 12
   day: 1
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
 - partial_key: reza_khan_coup
   title:
@@ -22,11 +17,6 @@ events:
   month: 12
   day: 3
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/کودتای_۳_اسفند_۱۲۹۹
@@ -38,11 +28,6 @@ events:
   month: 12
   day: 5
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/جشن_سپندارمذگان
@@ -54,11 +39,6 @@ events:
   month: 12
   day: 5
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/روز_مهندس
@@ -70,11 +50,6 @@ events:
   month: 12
   day: 7
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
 - partial_key: ali_akbar_dehkhoda_commemoration_day
   title:
@@ -85,11 +60,6 @@ events:
   month: 12
   day: 7
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/علی‌اکبر_دهخدا
@@ -101,11 +71,6 @@ events:
   month: 12
   day: 8
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
 - partial_key: consumer_rights_day
   title:
@@ -115,11 +80,6 @@ events:
   month: 12
   day: 9
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/حمایت_از_مصرف‌کننده
@@ -131,11 +91,6 @@ events:
   month: 12
   day: 10
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
 - partial_key: charity_day
   title:
@@ -146,11 +101,6 @@ events:
   month: 12
   day: 14
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/کمیته_امداد_امام_خمینی
@@ -162,11 +112,6 @@ events:
   month: 12
   day: 15
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/روز_درخت‌کاری
@@ -178,11 +123,6 @@ events:
   month: 12
   day: 18
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
 - partial_key: sayyid_jamal_al_din_asad_abadi_commemoration_day
   title:
@@ -193,11 +133,6 @@ events:
   month: 12
   day: 18
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سید_جمال‌الدین_اسدآبادی
@@ -209,11 +144,6 @@ events:
   month: 12
   day: 19
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/جشن_نوروز_رودها
@@ -225,11 +155,6 @@ events:
   month: 12
   day: 20
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/راهیان_نور
@@ -241,11 +166,6 @@ events:
   month: 12
   day: 20
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
 - partial_key: nizami_ganjavi_commemoration_day
   title:
@@ -255,11 +175,6 @@ events:
   month: 12
   day: 21
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/نظامی_گنجوی
@@ -272,11 +187,6 @@ events:
   month: 12
   day: 22
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
 - partial_key: first_parliament_election
   title:
@@ -287,11 +197,6 @@ events:
   month: 12
   day: 24
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/دوره_نخست_مجلس_شورای_اسلامی
@@ -303,11 +208,6 @@ events:
   month: 12
   day: 25
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/شاهنامه
@@ -320,11 +220,6 @@ events:
   month: 12
   day: 25
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/پروین_اعتصامی
@@ -337,11 +232,6 @@ events:
   month: 12
   day: 25
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/حمله_شیمیایی_به_حلبچه
@@ -353,11 +243,6 @@ events:
   month: 12
   day: 26
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/فروردگان
@@ -373,11 +258,6 @@ events:
   month: 12
   day: 29
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
 - partial_key: oil_nationalization_movement
   title:
@@ -388,11 +268,6 @@ events:
   month: 12
   day: 29
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   holiday:
     Iran: []

@@ -7,11 +7,6 @@ events:
   month: 11
   day: 1
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/فردوسی
@@ -23,11 +18,6 @@ events:
   month: 11
   day: 2
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
 - partial_key: nosreh_celebration
   title:
@@ -37,11 +27,6 @@ events:
   month: 11
   day: 5
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
 - partial_key: iran_first_presidential_election
   title:
@@ -52,11 +37,6 @@ events:
   month: 11
   day: 5
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/انتخابات_ریاست‌جمهوری_ایران_(۱۳۵۸)
@@ -69,11 +49,6 @@ events:
   month: 11
   day: 6
   calendar:
-    en_US:
-    - Iran Pahlavi
-    fa_IR:
-    - ایران پهلوی
-  new_calendar:
   - Iran Pahlavi
   sources:
   - https://fa.wikipedia.org/wiki/انقلاب_سفید
@@ -87,11 +62,6 @@ events:
   month: 11
   day: 6
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/واقعه_۱۳۶۰_آمل
@@ -103,11 +73,6 @@ events:
   month: 11
   day: 10
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/جشن_سده
@@ -121,11 +86,6 @@ events:
   month: 11
   day: 12
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/بازگشت_سید_روح‌الله_خمینی_به_ایران
@@ -139,11 +99,6 @@ events:
   month: 11
   day: 12
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/دهه_فجر
@@ -157,11 +112,6 @@ events:
   month: 11
   day: 14
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/روز_ملی_فناوری_فضایی
@@ -173,11 +123,6 @@ events:
   month: 11
   day: 15
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
 - partial_key: mehdi_bazargan_prime_ministerial_election
   title:
@@ -188,11 +133,6 @@ events:
   month: 11
   day: 16
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/مهدی_بازرگان#انقلاب_۱۳۵۷_خورشیدی
@@ -205,11 +145,6 @@ events:
   month: 11
   day: 19
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/نیروی_هوایی_ارتش_جمهوری_اسلامی_ایران
@@ -222,11 +157,6 @@ events:
   month: 11
   day: 21
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/دهه_فجر#رویدادهای_۲۱_بهمن
@@ -238,11 +168,6 @@ events:
   month: 11
   day: 22
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
 - partial_key: revolutionaries_gained_victory
   title:
@@ -253,11 +178,6 @@ events:
   month: 11
   day: 22
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   holiday:
     Iran: []
@@ -272,11 +192,6 @@ events:
   month: 11
   day: 25
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سلمان_رشدی#فتوای_قتل
@@ -288,11 +203,6 @@ events:
   month: 11
   day: 29
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/جشن_سپندارمذگان
@@ -305,11 +215,6 @@ events:
   month: 11
   day: 29
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/تظاهرات_۲۹_بهمن_تبریز

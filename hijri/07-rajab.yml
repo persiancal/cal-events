@@ -8,11 +8,6 @@ events:
   month: 7
   day: 1
   calendar:
-    en_US:
-    - Shia
-    fa_IR:
-    - شیعه
-  new_calendar:
   - Shia
   sources:
   - https://fa.wikipedia.org/wiki/محمد_باقر#تولد_و_سالهای_اولیه_زندگی
@@ -25,11 +20,6 @@ events:
   month: 7
   day: 3
   calendar:
-    en_US:
-    - Shia
-    fa_IR:
-    - شیعه
-  new_calendar:
   - Shia
   sources:
   - https://fa.wikipedia.org/wiki/علی_النقی#قتل_و_مرگ
@@ -42,11 +32,6 @@ events:
   month: 7
   day: 10
   calendar:
-    en_US:
-    - Shia
-    fa_IR:
-    - شیعه
-  new_calendar:
   - Shia
   sources:
   - https://fa.wikipedia.org/wiki/محمد_تقی#تولد_و_سالهای_اولیه_زندگی
@@ -58,11 +43,6 @@ events:
   month: 7
   day: 13
   calendar:
-    en_US:
-    - Shia
-    fa_IR:
-    - شیعه
-  new_calendar:
   - Shia
   sources:
   - https://fa.wikipedia.org/wiki/علی_بن_ابی‌طالب
@@ -74,11 +54,6 @@ events:
   month: 7
   day: 13
   calendar:
-    en_US:
-    - Islamic Republic Of Iran
-    fa_IR:
-    - جمهوری اسلامی ایران
-  new_calendar:
   - Islamic Republic Of Iran
   sources:
   - https://fa.wikipedia.org/wiki/روزهای_سپید
@@ -91,11 +66,6 @@ events:
   month: 7
   day: 15
   calendar:
-    en_US:
-    - Islamic Republic Of Iran
-    fa_IR:
-    - جمهوری اسلامی ایران
-  new_calendar:
   - Islamic Republic Of Iran
   sources:
   - https://fa.wikipedia.org/wiki/قبله#قبله_مسلمانان
@@ -108,11 +78,6 @@ events:
   month: 7
   day: 15
   calendar:
-    en_US:
-    - Shia
-    fa_IR:
-    - شیعه
-  new_calendar:
   - Shia
   sources:
   - https://fa.wikipedia.org/wiki/زینب#وفات
@@ -125,11 +90,6 @@ events:
   month: 7
   day: 22
   calendar:
-    en_US:
-    - Islamic
-    fa_IR:
-    - اسلامی
-  new_calendar:
   - Islamic
   sources:
   - https://fa.wikipedia.org/wiki/معاویة_بن_ابی‌سفیان#درگذشت
@@ -142,11 +102,6 @@ events:
   month: 7
   day: 25
   calendar:
-    en_US:
-    - Shia
-    fa_IR:
-    - شیعه
-  new_calendar:
   - Shia
   sources:
   - https://fa.wikipedia.org/wiki/موسی_کاظم#حبس_و_کشته‌شدن
@@ -158,11 +113,6 @@ events:
   month: 7
   day: 27
   calendar:
-    en_US:
-    - Islamic Republic Of Iran
-    fa_IR:
-    - جمهوری اسلامی ایران
-  new_calendar:
   - Islamic Republic Of Iran
   sources:
   - https://fa.wikipedia.org/wiki/مبعث

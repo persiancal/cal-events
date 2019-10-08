@@ -7,11 +7,6 @@ events:
   month: 8
   day: 1
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
 - partial_key: capitulation_in_iran
   title:
@@ -22,11 +17,6 @@ events:
   month: 8
   day: 4
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/کاپیتولاسیون_در_ایران
@@ -38,11 +28,6 @@ events:
   month: 8
   day: 7
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/روز_کوروش_بزرگ
@@ -55,11 +40,6 @@ events:
   month: 8
   day: 8
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/حسین_فهمیده
@@ -72,11 +52,6 @@ events:
   month: 8
   day: 8
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سازمان_پدافند_غیر_عامل_کشور
@@ -88,11 +63,6 @@ events:
   month: 8
   day: 10
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/آبانگان
@@ -105,11 +75,6 @@ events:
   month: 8
   day: 10
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سید_محمدعلی_قاضی_طباطبایی
@@ -122,11 +87,6 @@ events:
   month: 8
   day: 13
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/روز_دانش‌آموز
@@ -139,11 +99,6 @@ events:
   month: 8
   day: 13
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/گروگان‌گیری_در_سفارت_ایالات_متحده_آمریکا
@@ -155,11 +110,6 @@ events:
   month: 8
   day: 14
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
 - partial_key: ayathrem_gahambar
   title:
@@ -169,11 +119,6 @@ events:
   month: 8
   day: 15
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/گاهنبار
@@ -185,11 +130,6 @@ events:
   month: 8
   day: 18
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
 - partial_key: books_day
   title:
@@ -199,11 +139,6 @@ events:
   month: 8
   day: 24
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
 - partial_key: muhammad_husayn_tabatabai
   title:
@@ -213,11 +148,6 @@ events:
   month: 8
   day: 24
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سید_محمدحسین_طباطبایی
@@ -229,11 +159,6 @@ events:
   month: 8
   day: 26
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/عملیات_سوسنگرد

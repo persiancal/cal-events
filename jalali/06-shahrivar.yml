@@ -7,11 +7,6 @@ events:
   month: 6
   day: 1
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/روز_پزشک
@@ -23,11 +18,6 @@ events:
   month: 6
   day: 1
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/ابن_سینا
@@ -39,11 +29,6 @@ events:
   month: 6
   day: 1
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
 - partial_key: government_week_beginning_day
   title:
@@ -53,11 +38,6 @@ events:
   month: 6
   day: 2
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
 - partial_key: ali_andarzgo_martyrdom
   title:
@@ -68,11 +48,6 @@ events:
   month: 6
   day: 2
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سید_علی_اندرزگو
@@ -84,11 +59,6 @@ events:
   month: 6
   day: 3
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
 - partial_key: soviet_invasion_of_iran
   title:
@@ -99,11 +69,6 @@ events:
   month: 6
   day: 3
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/اشغال_ایران_در_جنگ_جهانی_دوم
@@ -115,11 +80,6 @@ events:
   month: 6
   day: 4
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/شهریورگان
@@ -131,11 +91,6 @@ events:
   month: 6
   day: 4
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
 - partial_key: qolamreza_takhti_wrestling_day
   title:
@@ -145,11 +100,6 @@ events:
   month: 6
   day: 5
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/غلامرضا_تختی
@@ -162,11 +112,6 @@ events:
   month: 6
   day: 5
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/زکریای_رازی
@@ -178,11 +123,6 @@ events:
   month: 6
   day: 5
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/روز_داروساز
@@ -194,11 +134,6 @@ events:
   month: 6
   day: 8
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
 - partial_key: counter_terrorism_day
   title:
@@ -209,11 +144,6 @@ events:
   month: 6
   day: 8
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/انفجار_در_دفتر_نخست‌وزیری_جمهوری_اسلامی_ایران
@@ -225,11 +155,6 @@ events:
   month: 6
   day: 10
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/بانکداری_اسلامی
@@ -241,11 +166,6 @@ events:
   month: 6
   day: 11
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
 - partial_key: behvarz_day
   title:
@@ -255,11 +175,6 @@ events:
   month: 6
   day: 12
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
 - partial_key: rais_ali_delvari_commemoration_day
   title:
@@ -269,11 +184,6 @@ events:
   month: 6
   day: 12
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/رئیس‌علی_دلواری
@@ -285,11 +195,6 @@ events:
   month: 6
   day: 13
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
 - partial_key: abu_rayhan_al_biruni_commemoration_day
   title:
@@ -299,11 +204,6 @@ events:
   month: 6
   day: 13
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/ابوریحان_بیرونی
@@ -315,11 +215,6 @@ events:
   month: 6
   day: 13
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
 - partial_key: qodosi_and_dastjerdi_martyrdom
   title:
@@ -330,11 +225,6 @@ events:
   month: 6
   day: 14
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/هوشنگ_وحید_دستجردی
@@ -347,11 +237,6 @@ events:
   month: 6
   day: 15
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
 - partial_key: black_friday
   title:
@@ -362,11 +247,6 @@ events:
   month: 6
   day: 17
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/تظاهرات_۱۷_شهریور
@@ -379,11 +259,6 @@ events:
   month: 6
   day: 19
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سید_محمود_طالقانی
@@ -396,11 +271,6 @@ events:
   month: 6
   day: 20
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/میر_اسدالله_مدنی
@@ -412,11 +282,6 @@ events:
   month: 6
   day: 21
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سینما
@@ -428,11 +293,6 @@ events:
   month: 6
   day: 27
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/روز_ملی_شعر_و_ادب
@@ -444,11 +304,6 @@ events:
   month: 6
   day: 27
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سید_محمدحسین_شهریار
@@ -460,11 +315,6 @@ events:
   month: 6
   day: 30
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/گفتگوی_تمدن‌ها
@@ -476,11 +326,6 @@ events:
   month: 6
   day: 31
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/هفته_دفاع_مقدس
@@ -492,11 +337,6 @@ events:
   month: 6
   day: 31
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
 - partial_key: iraq_invasion_of_iran
   title:
@@ -507,11 +347,6 @@ events:
   month: 6
   day: 31
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/تهاجم_عراق_به_ایران_(۱۳۵۹)

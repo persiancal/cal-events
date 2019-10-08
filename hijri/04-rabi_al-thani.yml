@@ -8,13 +8,6 @@ events:
   month: 4
   day: 8
   calendar:
-    en_US:
-    - Iran
-    - Shia
-    fa_IR:
-    - ایران
-    - شیعه
-  new_calendar:
   - Iran Official
   - Shia
   sources:
@@ -28,13 +21,6 @@ events:
   month: 4
   day: 10
   calendar:
-    en_US:
-    - Iran
-    - Shia
-    fa_IR:
-    - ایران
-    - شیعه
-  new_calendar:
   - Iran Official
   - Shia
   sources:

@@ -9,11 +9,6 @@ events:
   month: 10
   day: 1
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/خرم‌روز
@@ -25,11 +20,6 @@ events:
   month: 10
   day: 3
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
 - partial_key: bazaar_celebration
   title:
@@ -39,11 +29,6 @@ events:
   month: 10
   day: 5
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
 - partial_key: zartosht_no_diso
   title:
@@ -54,11 +39,6 @@ events:
   month: 10
   day: 5
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/مرگ_زرتشت
@@ -71,11 +51,6 @@ events:
   month: 10
   day: 5
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
 - partial_key: qafari_death
   title:
@@ -86,11 +61,6 @@ events:
   month: 10
   day: 7
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/حسین_غفاری_(روحانی)
@@ -103,11 +73,6 @@ events:
   month: 10
   day: 7
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سازمان_نهضت_سوادآموزی
@@ -119,11 +84,6 @@ events:
   month: 10
   day: 8
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/جشن‌های_زرتشتی#جشن_دی‌گان
@@ -135,11 +95,6 @@ events:
   month: 10
   day: 8
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
 - partial_key: 9th_of_dey
   title:
@@ -149,11 +104,6 @@ events:
   month: 10
   day: 9
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/راهپیمایی_۹_دی
@@ -166,11 +116,6 @@ events:
   month: 10
   day: 13
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/نامه_سید_روح‌الله_خمینی_به_میخائیل_گورباچف
@@ -182,11 +127,6 @@ events:
   month: 10
   day: 14
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
 - partial_key: dey_third_celebration
   title:
@@ -196,11 +136,6 @@ events:
   month: 10
   day: 15
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/جشن‌های_زرتشتی#جشن_دی‌گان
@@ -212,11 +147,6 @@ events:
   month: 10
   day: 16
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
 - partial_key: unveiling
   title:
@@ -227,11 +157,6 @@ events:
   month: 10
   day: 17
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/کشف_حجاب_در_ایران
@@ -244,11 +169,6 @@ events:
   month: 10
   day: 19
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/تظاهرات_۱۹_دی_قم
@@ -261,11 +181,6 @@ events:
   month: 10
   day: 20
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/امیرکبیر#قتل
@@ -278,11 +193,6 @@ events:
   month: 10
   day: 22
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/شورای_انقلاب_اسلامی_ایران
@@ -294,11 +204,6 @@ events:
   month: 10
   day: 23
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-  new_calendar:
   - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/جشن‌های_زرتشتی#جشن_دی‌گان
@@ -311,11 +216,6 @@ events:
   month: 10
   day: 26
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/محمدرضا_پهلوی#انقلاب_۱۳۵۷_و_ترک_ایران
@@ -328,11 +228,6 @@ events:
   month: 10
   day: 27
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
 - partial_key: qazeh_day
   title:
@@ -342,9 +237,4 @@ events:
   month: 10
   day: 29
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official

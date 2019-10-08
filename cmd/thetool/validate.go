@@ -74,10 +74,8 @@ func validateEventContent(ev []Event, p *Months, countries []string) error {
 		}
 
 		for l, t := range ev[i].Calendar {
-			for idx, r := range t {
-				if err := textValidator(r, ev[i].PartialKey, "calendar", l, idx); err != nil {
-					return err
-				}
+			if err := textValidator(t, ev[i].PartialKey, "calendar", l, t); err != nil {
+				return err
 			}
 		}
 

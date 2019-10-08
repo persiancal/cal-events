@@ -8,13 +8,6 @@ events:
   month: 6
   day: 3
   calendar:
-    en_US:
-    - Iran
-    - Islamic
-    fa_IR:
-    - ایران
-    - اسلامی
-  new_calendar:
   - Iran Official
   - Islamic
   holiday:
@@ -30,11 +23,6 @@ events:
   month: 6
   day: 5
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-  new_calendar:
   - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/مولوی
@@ -47,13 +35,6 @@ events:
   month: 6
   day: 13
   calendar:
-    en_US:
-    - Iran
-    - Shia
-    fa_IR:
-    - ایران
-    - شیعه
-  new_calendar:
   - Iran Official
   - Shia
   sources:
@@ -68,13 +49,6 @@ events:
   month: 6
   day: 20
   calendar:
-    en_US:
-    - Iran
-    - Islamic
-    fa_IR:
-    - ایران
-    - اسلامی
-  new_calendar:
   - Iran Official
   - Islamic
   sources:

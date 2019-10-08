@@ -8,13 +8,6 @@ events:
   month: 3
   day: 1
   calendar:
-    en_US:
-    - Iran
-    - Islamic
-    fa_IR:
-    - ایران
-    - اسلامی
-  new_calendar:
   - Iran Official
   - Islamic
   sources:
@@ -28,13 +21,6 @@ events:
   month: 3
   day: 8
   calendar:
-    en_US:
-    - Iran
-    - Shia
-    fa_IR:
-    - ایران
-    - شیعه
-  new_calendar:
   - Iran Official
   - Shia
   holiday:
@@ -50,13 +36,6 @@ events:
   month: 3
   day: 12
   calendar:
-    en_US:
-    - Iran
-    - Sunni
-    fa_IR:
-    - ایران
-    - سنی
-  new_calendar:
   - Iran Official
   - Sunni
   sources:
@@ -69,13 +48,6 @@ events:
   month: 3
   day: 17
   calendar:
-    en_US:
-    - Iran
-    - Shia
-    fa_IR:
-    - ایران
-    - شیعه
-  new_calendar:
   - Iran Official
   - Shia
   holiday:
@@ -91,13 +63,6 @@ events:
   month: 3
   day: 17
   calendar:
-    en_US:
-    - Iran
-    - Shia
-    fa_IR:
-    - ایران
-    - شیعه
-  new_calendar:
   - Iran Official
   - Shia
   holiday:
