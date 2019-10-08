@@ -1,0 +1,58 @@
+name: gregorian
+countries:
+- Iran
+calendars:
+- en_US: International
+  fa_IR: بین‌المللی
+months:
+  normal:
+  - 31
+  - 28
+  - 31
+  - 30
+  - 31
+  - 30
+  - 31
+  - 31
+  - 30
+  - 31
+  - 30
+  - 31
+  leap:
+  - 31
+  - 29
+  - 31
+  - 30
+  - 31
+  - 30
+  - 31
+  - 31
+  - 30
+  - 31
+  - 30
+  - 31
+  name:
+  - en_US: January
+    fa_IR: ژانویه
+  - en_US: Feburary
+    fa_IR: فوریه
+  - en_US: March
+    fa_IR: مارس
+  - en_US: April
+    fa_IR: آوریل
+  - en_US: May
+    fa_IR: می
+  - en_US: June
+    fa_IR: ژوئن
+  - en_US: July
+    fa_IR: ژوئیه
+  - en_US: August
+    fa_IR: اوت
+  - en_US: September
+    fa_IR: سپتامبر
+  - en_US: October
+    fa_IR: اکتبر
+  - en_US: November
+    fa_IR: نوامبر
+  - en_US: December
+    fa_IR: دسامبر
