@@ -10,10 +10,7 @@ events:
   month: 2
   day: 4
   calendar:
-  - en_US: International
-    fa_IR: بین‌المللی
-  - en_US: Christian
-    fa_IR: مسیحی
+  - International
   sources:
   - https://en.wikipedia.org/wiki/World_Cancer_Day
 - partial_key: international_day_of_zero_tolerance_to_female_genital_mutilation
@@ -27,10 +24,7 @@ events:
   month: 2
   day: 6
   calendar:
-  - en_US: International
-    fa_IR: بین‌المللی
-  - en_US: Christian
-    fa_IR: مسیحی
+  - International
   sources:
   - https://fa.wikipedia.org/wiki/روز_جهانی_عدم_هرگونه_مدارا_با_مثله‌کردن_جنسی_زنان
   - https://en.wikipedia.org/wiki/International_Day_of_Zero_Tolerance_for_Female_Genital_Mutilation
@@ -45,10 +39,7 @@ events:
   month: 2
   day: 10
   calendar:
-  - en_US: International
-    fa_IR: بین‌المللی
-  - en_US: Christian
-    fa_IR: مسیحی
+  - International
   sources:
   - https://en.wikipedia.org/wiki/World_Pulses_Day1
 - partial_key: international_day_of_women_and_girls_in_science
@@ -62,10 +53,7 @@ events:
   month: 2
   day: 11
   calendar:
-  - en_US: International
-    fa_IR: بین‌المللی
-  - en_US: Christian
-    fa_IR: مسیحی
+  - International
   sources:
   - https://undocs.org/A/RES/70/212
 - partial_key: world_radio_day
@@ -79,10 +67,7 @@ events:
   month: 2
   day: 13
   calendar:
-  - en_US: International
-    fa_IR: بین‌المللی
-  - en_US: Christian
-    fa_IR: مسیحی
+  - International
   sources:
   - https://fa.wikipedia.org/wiki/روز_جهانی_رادیو
   - https://en.wikipedia.org/wiki/World_Radio_Day
@@ -97,10 +82,7 @@ events:
   month: 2
   day: 20
   calendar:
-  - en_US: International
-    fa_IR: بین‌المللی
-  - en_US: Christian
-    fa_IR: مسیحی
+  - International
   sources:
   - https://en.wikipedia.org/wiki/World_Day_of_Social_Justice
 - partial_key: international_mother_language_day
@@ -114,10 +96,7 @@ events:
   month: 2
   day: 21
   calendar:
-  - en_US: International
-    fa_IR: بین‌المللی
-  - en_US: Christian
-    fa_IR: مسیحی
+  - International
   sources:
   - https://fa.wikipedia.org/wiki/روز_جهانی_زبان_مادری
   - https://en.wikipedia.org/wiki/International_Mother_Language_Day
