@@ -1199,6 +1199,87 @@
       ]
     },
     {
+      "key": 2875339717,
+      "title": {
+        "fa_IR": "ولادت امام حسن مجتبی علیه‌السلام"
+      },
+      "description": {
+        "fa_IR": "ولادت امام حسن مجتبی علیه‌السلام"
+      },
+      "year": 3,
+      "month": 9,
+      "day": 15,
+      "calendar": null,
+      "sources": [
+        "https://fa.wikipedia.org/wiki/حسن_مجتبی"
+      ]
+    },
+    {
+      "key": 282401441,
+      "title": {
+        "fa_IR": "شب قدر اول"
+      },
+      "description": {
+        "fa_IR": "شب دعا و مناجات"
+      },
+      "month": 9,
+      "day": 19,
+      "calendar": null,
+      "sources": [
+        "https://fa.wikipedia.org/wiki/شب_قدر"
+      ]
+    },
+    {
+      "key": 3203907134,
+      "title": {
+        "fa_IR": "سالروز ضربت خوردن حضرت علی علیه‌السلام"
+      },
+      "description": {
+        "fa_IR": "سالروز ضربت خوردن حضرت علی علیه‌السلام به دست ابن ملجم علیه‌اللعنه"
+      },
+      "year": 40,
+      "month": 9,
+      "day": 19,
+      "calendar": null,
+      "sources": [
+        "https://fa.wikipedia.org/wiki/علی_بن_ابی‌طالب"
+      ]
+    },
+    {
+      "key": 1818651919,
+      "title": {
+        "fa_IR": "شب قدر دوم"
+      },
+      "description": {
+        "fa_IR": "شب دعا و مناجات"
+      },
+      "month": 9,
+      "day": 21,
+      "calendar": null,
+      "sources": [
+        "https://fa.wikipedia.org/wiki/شب_قدر"
+      ]
+    },
+    {
+      "key": 3716051459,
+      "title": {
+        "fa_IR": "شهادت امام علی علیه‌السلام"
+      },
+      "description": {
+        "fa_IR": "شهادت امام علی علیه‌السلام"
+      },
+      "year": 40,
+      "month": 9,
+      "day": 21,
+      "calendar": null,
+      "holiday": {
+        "Iran": []
+      },
+      "sources": [
+        "https://fa.wikipedia.org/wiki/علی_بن_ابی‌طالب"
+      ]
+    },
+    {
       "key": 1224622444,
       "title": {
         "fa_IR": "ولادت فاطمه معصومه و روز دختران"
