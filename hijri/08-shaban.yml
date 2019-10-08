@@ -1,1 +1,80 @@
----
+events:
+- partial_key: "abd_al-Husayn_Lari_jihad_order"
+  title:
+    fa_IR: صدور حکم جهاد توسط عبدالحسین لاری علیه انگلیس
+  description:
+    fa_IR: صدور حکم جهاد توسط عبدالحسین لاری علیه انگلیس که منجر به جنگ شدید عشایر ولایت فارس با نیروهای انگلیسی‌ شد. (در جریان جنگ جهانی اول)
+  month: 8
+  day: 1
+  year: 1336
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+  sources:
+    - https://fa.wikipedia.org/wiki/سید_عبدالحسین_لاری
+- partial_key: "birthday_of_Khwaja_Abdullah_Ansari"
+  title:
+    fa_IR: زادروز خواجه عبدالله انصاری
+  description:
+    fa_IR: زادروز خواجه عبدالله انصاری دانشمند و عارف مسلمان
+  month: 8
+  day: 2
+  year: 396
+  calendar:
+    en_US:
+    - Iran
+    fa_IR:
+    - ایران
+  sources:
+    - https://fa.wikipedia.org/wiki/خواجه_عبدالله_انصاری
+- partial_key: "birthday_of_Husayn_ibn_Ali"
+  title:
+    fa_IR: ولادت امام حسین، سومین امام شیعه دوازده امامی
+  description:
+    fa_IR: ولادت امام حسین، سومین امام شیعه دوازده امامی
+  month: 8
+  day: 3
+  year: 4
+  calendar:
+    en_US:
+    - Shia
+    - Islamic Republic Of Iran
+    fa_IR:
+    - شیعه
+    - جمهوری اسلامی ایران
+  sources:
+    - https://fa.wikipedia.org/wiki/حسین_بن_علی
+- partial_key: "pasdar_day"
+  title:
+    fa_IR: روز پاسدار
+  description:
+    fa_IR: روز پاسدار
+  month: 8
+  day: 3
+  year: 4
+  calendar:
+    en_US:
+    - Islamic Republic Of Iran
+    fa_IR:
+    - جمهوری اسلامی ایران
+  sources:
+    - https://fa.wikipedia.org/wiki/سپاه_پاسداران_انقلاب_اسلامی
+- partial_key: "birthday_of_Abbas_ibn_Ali"
+  title:
+    fa_IR: ولادت عباس بن علی
+  description:
+    fa_IR: ولادت عباس بن علی
+  month: 8
+  day: 4
+  year: 26
+  calendar:
+    en_US:
+    - Shia
+    - Islamic Republic Of Iran
+    fa_IR:
+    - شیعه
+    - جمهوری اسلامی ایران
+  sources:
+    - https://fa.wikipedia.org/wiki/عباس_بن_علی
