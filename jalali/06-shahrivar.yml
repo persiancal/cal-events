@@ -1,5 +1,5 @@
 events:
-- partial_key: "iranians_doctors_day"
+- partial_key: iranians_doctors_day
   title:
     fa_IR: روز پزشک
   description:
@@ -7,13 +7,10 @@ events:
   month: 6
   day: 1
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/روز_پزشک
-- partial_key: "abu_ali_sina_commemoration_day"
+  - https://fa.wikipedia.org/wiki/روز_پزشک
+- partial_key: abu_ali_sina_commemoration_day
   title:
     fa_IR: روز بزرگداشت ابوعلی سینا
   description:
@@ -21,13 +18,10 @@ events:
   month: 6
   day: 1
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/ابن_سینا
-- partial_key: "faghdieh_cool_celebration"
+  - https://fa.wikipedia.org/wiki/ابن_سینا
+- partial_key: faghdieh_cool_celebration
   title:
     fa_IR: فغدیه، جشن خنکی هوا
   description:
@@ -35,11 +29,8 @@ events:
   month: 6
   day: 1
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-- partial_key: "government_week_beginning_day"
+  - Ancient Iran
+- partial_key: government_week_beginning_day
   title:
     fa_IR: آغاز هفتهٔ دولت
   description:
@@ -47,11 +38,8 @@ events:
   month: 6
   day: 2
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "ali_andarzgo_martyrdom"
+  - Iran Official
+- partial_key: ali_andarzgo_martyrdom
   title:
     fa_IR: شهادت سید علی اندرزگو
   description:
@@ -60,13 +48,10 @@ events:
   month: 6
   day: 2
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/سید_علی_اندرزگو
-- partial_key: "keshmin_celebration"
+  - https://fa.wikipedia.org/wiki/سید_علی_اندرزگو
+- partial_key: keshmin_celebration
   title:
     fa_IR: جشن کشمین
   description:
@@ -74,11 +59,8 @@ events:
   month: 6
   day: 3
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-- partial_key: "soviet_invasion_of_iran"
+  - Ancient Iran
+- partial_key: soviet_invasion_of_iran
   title:
     fa_IR: اشغال ایران به دست متفقین
   description:
@@ -87,13 +69,10 @@ events:
   month: 6
   day: 3
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/اشغال_ایران_در_جنگ_جهانی_دوم
-- partial_key: "shahrivargan_celebration"
+  - https://fa.wikipedia.org/wiki/اشغال_ایران_در_جنگ_جهانی_دوم
+- partial_key: shahrivargan_celebration
   title:
     fa_IR: شهریورروز، جشن شهریورگان / زادروز داراب (کوروش) / عروج مانی
   description:
@@ -101,13 +80,10 @@ events:
   month: 6
   day: 4
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
-    - https://fa.wikipedia.org/wiki/شهریورگان
-- partial_key: "employee_day"
+  - https://fa.wikipedia.org/wiki/شهریورگان
+- partial_key: employee_day
   title:
     fa_IR: روز کارمند
   description:
@@ -115,11 +91,8 @@ events:
   month: 6
   day: 4
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "qolamreza_takhti_wrestling_day"
+  - Iran Official
+- partial_key: qolamreza_takhti_wrestling_day
   title:
     fa_IR: تولد جهان پهلوان غلامرضاتختی و روز کشتی
   description:
@@ -127,14 +100,11 @@ events:
   month: 6
   day: 5
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/غلامرضا_تختی
   - https://fa.wikipedia.org/wiki/کشتی_(ورزش)
-- partial_key: "mohammad_ibn_zakariya_razi_commemoration_day"
+- partial_key: mohammad_ibn_zakariya_razi_commemoration_day
   title:
     fa_IR: روز بزرگداشت محمد بن زکریای رازی
   description:
@@ -142,13 +112,10 @@ events:
   month: 6
   day: 5
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/زکریای_رازی
-- partial_key: "pharmacy_day"
+  - https://fa.wikipedia.org/wiki/زکریای_رازی
+- partial_key: pharmacy_day
   title:
     fa_IR: روز داروسازی
   description:
@@ -156,13 +123,10 @@ events:
   month: 6
   day: 5
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/روز_داروساز
-- partial_key: "fall_celebration"
+  - https://fa.wikipedia.org/wiki/روز_داروساز
+- partial_key: fall_celebration
   title:
     fa_IR: خزان‌جشن
   description:
@@ -170,11 +134,8 @@ events:
   month: 6
   day: 8
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-- partial_key: "counter_terrorism_day"
+  - Ancient Iran
+- partial_key: counter_terrorism_day
   title:
     fa_IR: روز مبارزه با تروریسم (انفجار دفتر نخست‌وزیری و شهادت رجایی و باهنر)
   description:
@@ -183,13 +144,10 @@ events:
   month: 6
   day: 8
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/انفجار_در_دفتر_نخست‌وزیری_جمهوری_اسلامی_ایران
-- partial_key: "islamic_banking_day"
+  - https://fa.wikipedia.org/wiki/انفجار_در_دفتر_نخست‌وزیری_جمهوری_اسلامی_ایران
+- partial_key: islamic_banking_day
   title:
     fa_IR: روز بانکداری اسلامی (تصویب قانون عملیات بانکی بدون ربا)
   description:
@@ -197,13 +155,10 @@ events:
   month: 6
   day: 10
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/بانکداری_اسلامی
-- partial_key: "printing_industry_day"
+  - https://fa.wikipedia.org/wiki/بانکداری_اسلامی
+- partial_key: printing_industry_day
   title:
     fa_IR: روز صنعت چاپ
   description:
@@ -211,11 +166,8 @@ events:
   month: 6
   day: 11
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "behvarz_day"
+  - Iran Official
+- partial_key: behvarz_day
   title:
     fa_IR: روز بهورز
   description:
@@ -223,11 +175,8 @@ events:
   month: 6
   day: 12
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "rais_ali_delvari_commemoration_day"
+  - Iran Official
+- partial_key: rais_ali_delvari_commemoration_day
   title:
     fa_IR: روز مبارزه با استعمار انگلیس (سالروز شهادت رئیس‌علی دلواری)
   description:
@@ -235,13 +184,10 @@ events:
   month: 6
   day: 12
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/رئیس‌علی_دلواری
-- partial_key: "cooperative_day"
+  - https://fa.wikipedia.org/wiki/رئیس‌علی_دلواری
+- partial_key: cooperative_day
   title:
     fa_IR: روز تعاون
   description:
@@ -249,11 +195,8 @@ events:
   month: 6
   day: 13
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "abu_rayhan_al_biruni_commemoration_day"
+  - Iran Official
+- partial_key: abu_rayhan_al_biruni_commemoration_day
   title:
     fa_IR: روز بزرگداشت ابوریحان بیرونی
   description:
@@ -261,13 +204,10 @@ events:
   month: 6
   day: 13
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/ابوریحان_بیرونی
-- partial_key: "anthropology_day"
+  - https://fa.wikipedia.org/wiki/ابوریحان_بیرونی
+- partial_key: anthropology_day
   title:
     fa_IR: روز مردم‌شناسی
   description:
@@ -275,11 +215,8 @@ events:
   month: 6
   day: 13
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "qodosi_and_dastjerdi_martyrdom"
+  - Iran Official
+- partial_key: qodosi_and_dastjerdi_martyrdom
   title:
     fa_IR: شهادت آیت‌الله قدوسی و سرتیپ وحید دستجردی
   description:
@@ -288,14 +225,11 @@ events:
   month: 6
   day: 14
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/هوشنگ_وحید_دستجردی
-    - https://fa.wikipedia.org/wiki/علی_قدوسی
-- partial_key: "bazar_celebration"
+  - https://fa.wikipedia.org/wiki/هوشنگ_وحید_دستجردی
+  - https://fa.wikipedia.org/wiki/علی_قدوسی
+- partial_key: bazar_celebration
   title:
     fa_IR: بازارجشن
   description:
@@ -303,11 +237,8 @@ events:
   month: 6
   day: 15
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-- partial_key: "black_friday"
+  - Ancient Iran
+- partial_key: black_friday
   title:
     fa_IR: قیام ۱۷ شهریور و کشتار جمعی از مردم به دست مأموران پهلوی
   description:
@@ -316,13 +247,10 @@ events:
   month: 6
   day: 17
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/تظاهرات_۱۷_شهریور
-- partial_key: "mahmoud_taleqani_martyrdom"
+  - https://fa.wikipedia.org/wiki/تظاهرات_۱۷_شهریور
+- partial_key: mahmoud_taleqani_martyrdom
   title:
     fa_IR: وفات آیت‌الله سید محمود طالقانی اولین امام جمعهٔ تهران
   description:
@@ -331,13 +259,10 @@ events:
   month: 6
   day: 19
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/سید_محمود_طالقانی
-- partial_key: "madani_martyrdom"
+  - https://fa.wikipedia.org/wiki/سید_محمود_طالقانی
+- partial_key: madani_martyrdom
   title:
     fa_IR: شهادت آیت‌الله مدنی
   description:
@@ -346,13 +271,10 @@ events:
   month: 6
   day: 20
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/میر_اسدالله_مدنی
-- partial_key: "cinema_day"
+  - https://fa.wikipedia.org/wiki/میر_اسدالله_مدنی
+- partial_key: cinema_day
   title:
     fa_IR: روز سینما
   description:
@@ -360,13 +282,10 @@ events:
   month: 6
   day: 21
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/سینما
-- partial_key: "persian_poetry_and_literature_day"
+  - https://fa.wikipedia.org/wiki/سینما
+- partial_key: persian_poetry_and_literature_day
   title:
     fa_IR: روز شعر و ادب فارسی
   description:
@@ -374,13 +293,10 @@ events:
   month: 6
   day: 27
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/روز_ملی_شعر_و_ادب
-- partial_key: "shahriar_day"
+  - https://fa.wikipedia.org/wiki/روز_ملی_شعر_و_ادب
+- partial_key: shahriar_day
   title:
     fa_IR: روز بزرگداشت استاد سید محمدحسین شهریار
   description:
@@ -388,13 +304,10 @@ events:
   month: 6
   day: 27
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/سید_محمدحسین_شهریار
-- partial_key: "dialog_among_civilization"
+  - https://fa.wikipedia.org/wiki/سید_محمدحسین_شهریار
+- partial_key: dialog_among_civilization
   title:
     fa_IR: روز گفت‌وگوی تمدن‌ها
   description:
@@ -402,13 +315,10 @@ events:
   month: 6
   day: 30
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/گفتگوی_تمدن‌ها
-- partial_key: "sacred_defence_week"
+  - https://fa.wikipedia.org/wiki/گفتگوی_تمدن‌ها
+- partial_key: sacred_defence_week
   title:
     fa_IR: آغاز هفتهٔ دفاع مقدس
   description:
@@ -416,13 +326,10 @@ events:
   month: 6
   day: 31
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/هفته_دفاع_مقدس
-- partial_key: "end_of_summer_celebration"
+  - https://fa.wikipedia.org/wiki/هفته_دفاع_مقدس
+- partial_key: end_of_summer_celebration
   title:
     fa_IR: گاهنبار پَتیَه‌شَهیم، جشن پایان تابستان
   description:
@@ -430,11 +337,8 @@ events:
   month: 6
   day: 31
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-- partial_key: "iraq_invasion_of_iran"
+  - Ancient Iran
+- partial_key: iraq_invasion_of_iran
   title:
     fa_IR: آغاز جنگ تحمیلی
   description:
@@ -443,9 +347,6 @@ events:
   month: 6
   day: 31
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/تهاجم_عراق_به_ایران_(۱۳۵۹)
+  - https://fa.wikipedia.org/wiki/تهاجم_عراق_به_ایران_(۱۳۵۹)

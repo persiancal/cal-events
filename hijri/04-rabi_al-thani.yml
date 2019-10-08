@@ -1,35 +1,27 @@
 events:
-- partial_key: "birthday_of_hasan_al_askari"
+- partial_key: birthday_of_hasan_al_askari
   title:
     fa_IR: ولادت حضرت امام حسن عسگري عليه الاسلام
   description:
     fa_IR: ولادت حضرت امام حسن عسگري عليه الاسلام
-  day: 8
-  month: 4
   year: 232
+  month: 4
+  day: 8
   calendar:
-    en_US:
-      - Iran
-      - Shia
-    fa_IR:
-      - ایران
-      - شیعه
+  - Iran Official
+  - Shia
   sources:
-    - https://fa.wikipedia.org/wiki/حسن_عسکری
-- partial_key: "demise_of_fatimah_bint_musa"
+  - https://fa.wikipedia.org/wiki/حسن_عسکری
+- partial_key: demise_of_fatimah_bint_musa
   title:
     fa_IR: وفات حضرت معصومه سلام الله عليها
   description:
     fa_IR: وفات حضرت معصومه سلام الله عليها
-  day: 10
-  month: 4
   year: 201
+  month: 4
+  day: 10
   calendar:
-    en_US:
-      - Iran
-      - Shia
-    fa_IR:
-      - ایران
-      - شیعه
+  - Iran Official
+  - Shia
   sources:
-    - https://fa.wikipedia.org/wiki/فاطمه_معصومه
+  - https://fa.wikipedia.org/wiki/فاطمه_معصومه

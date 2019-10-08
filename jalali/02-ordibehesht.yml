@@ -1,20 +1,17 @@
 events:
-- partial_key: "sadi_day"
+- partial_key: sadi_day
   title:
     fa_IR: روز بزرگداشت سعدی
   description:
     fa_IR: روز بزرگداشت سعدی
+  year: 1389
   month: 2
   day: 1
-  year: 1389
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/سعدی
-- partial_key: "giahavari_celebration"
+  - https://fa.wikipedia.org/wiki/سعدی
+- partial_key: giahavari_celebration
   title:
     fa_IR: جشن گیاه‌آوری
   description:
@@ -22,11 +19,8 @@ events:
   month: 2
   day: 2
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-- partial_key: "ordibeheshtegan_celebration"
+  - Ancient Iran
+- partial_key: ordibeheshtegan_celebration
   title:
     fa_IR: اردیبهشت‌روز، جشن اردیبهشتگان
   description:
@@ -34,13 +28,10 @@ events:
   month: 2
   day: 2
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
-    - https://fa.wikipedia.org/wiki/اردیبهشتگان
-- partial_key: "establishment_of_the_islamic_revolutionary_guard_corps"
+  - https://fa.wikipedia.org/wiki/اردیبهشتگان
+- partial_key: establishment_of_the_islamic_revolutionary_guard_corps
   title:
     fa_IR: تأسیس سپاه پاسداران انقلاب اسلامی
   description:
@@ -49,13 +40,10 @@ events:
   month: 2
   day: 2
   calendar:
-    en_US:
-      - Iran
-    fa_IR:
-      - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/سپاه_پاسداران_انقلاب_اسلامی
-- partial_key: "anniversary_of_the_iranian_cultural_revolution"
+  - https://fa.wikipedia.org/wiki/سپاه_پاسداران_انقلاب_اسلامی
+- partial_key: anniversary_of_the_iranian_cultural_revolution
   title:
     fa_IR: اعلام انقلاب فرهنگی
   description:
@@ -64,13 +52,10 @@ events:
   month: 2
   day: 2
   calendar:
-    en_US:
-      - Iran
-    fa_IR:
-      - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/انقلاب_فرهنگی_ایران
-- partial_key: "shaykh_bahai_commemoration_day"
+  - https://fa.wikipedia.org/wiki/انقلاب_فرهنگی_ایران
+- partial_key: shaykh_bahai_commemoration_day
   title:
     fa_IR: روز بزرگداشت شیخ بهایی
   description:
@@ -78,13 +63,10 @@ events:
   month: 2
   day: 3
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/شیخ_بهایی
-- partial_key: "tabas_operation_day"
+  - https://fa.wikipedia.org/wiki/شیخ_بهایی
+- partial_key: tabas_operation_day
   title:
     fa_IR: شکست حملهٔ نظامی آمریکا به ایران در طبس
   description:
@@ -93,13 +75,10 @@ events:
   month: 2
   day: 5
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/عملیات_طبس
-- partial_key: "transportation_safety_day"
+  - https://fa.wikipedia.org/wiki/عملیات_طبس
+- partial_key: transportation_safety_day
   title:
     fa_IR: روز ایمنی حمل‌ونقل
   description:
@@ -107,11 +86,8 @@ events:
   month: 2
   day: 7
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "council_day"
+  - Iran Official
+- partial_key: council_day
   title:
     fa_IR: روز شوراها
   description:
@@ -119,13 +95,10 @@ events:
   month: 2
   day: 9
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/شوراهای_اسلامی_شهر_و_روستا
-- partial_key: "forty_nowruz_celebration"
+  - https://fa.wikipedia.org/wiki/شوراهای_اسلامی_شهر_و_روستا
+- partial_key: forty_nowruz_celebration
   title:
     fa_IR: جشن چهلم نوروز
   description:
@@ -133,11 +106,8 @@ events:
   month: 2
   day: 10
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-- partial_key: "persian_gulf_national_day"
+  - Ancient Iran
+- partial_key: persian_gulf_national_day
   title:
     fa_IR: روز ملی خلیج فارس
   description:
@@ -145,13 +115,10 @@ events:
   month: 2
   day: 10
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/روز_ملی_خلیج_فارس
-- partial_key: "beyt_ol_moghadas_operation_day"
+  - https://fa.wikipedia.org/wiki/روز_ملی_خلیج_فارس
+- partial_key: beyt_ol_moghadas_operation_day
   title:
     fa_IR: آغاز عملیات بیت المقدس
   description:
@@ -160,13 +127,10 @@ events:
   month: 2
   day: 10
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/عملیات_بیت‌المقدس
-- partial_key: "morteza_motahari_death_and_teacher_day"
+  - https://fa.wikipedia.org/wiki/عملیات_بیت‌المقدس
+- partial_key: morteza_motahari_death_and_teacher_day
   title:
     fa_IR: شهادت استاد مرتضی مطهری و روز معلم
   description:
@@ -175,14 +139,11 @@ events:
   month: 2
   day: 12
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/مرتضی_مطهری
-    - https://fa.wikipedia.org/wiki/روز_معلم
-- partial_key: "shaykh_sadogh_commemoration_day"
+  - https://fa.wikipedia.org/wiki/مرتضی_مطهری
+  - https://fa.wikipedia.org/wiki/روز_معلم
+- partial_key: shaykh_sadogh_commemoration_day
   title:
     fa_IR: روز بزرگداشت شیخ صدوق
   description:
@@ -190,13 +151,10 @@ events:
   month: 2
   day: 15
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/شیخ_صدوق
-- partial_key: "gahanbar_day"
+  - https://fa.wikipedia.org/wiki/شیخ_صدوق
+- partial_key: gahanbar_day
   title:
     fa_IR: گاهنبار میدیوزَرِم، جشن میانهٔ بهار، جشن بهاربُد / روز پیام‌آوری زرتشت
   description:
@@ -204,13 +162,10 @@ events:
   month: 2
   day: 15
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
-    - https://fa.wikipedia.org/wiki/گاهنبار
-- partial_key: "national_documents_day"
+  - https://fa.wikipedia.org/wiki/گاهنبار
+- partial_key: national_documents_day
   title:
     fa_IR: روز اسناد ملی و میراث مکتوب
   description:
@@ -218,13 +173,10 @@ events:
   month: 2
   day: 19
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/سازمان_اسناد_ملی_ایران
-- partial_key: "shaykh_kolayni_commemoration_day"
+  - https://fa.wikipedia.org/wiki/سازمان_اسناد_ملی_ایران
+- partial_key: shaykh_kolayni_commemoration_day
   title:
     fa_IR: روز بزرگداشت شیخ کلینی
   description:
@@ -232,13 +184,10 @@ events:
   month: 2
   day: 19
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/شیخ_کلینی
-- partial_key: "cancel_tobacco_points"
+  - https://fa.wikipedia.org/wiki/شیخ_کلینی
+- partial_key: cancel_tobacco_points
   title:
     fa_IR: لغو امتیاز تنباکو به فتوای آیت‌الله میرزا حسن شیرازی
   description:
@@ -247,13 +196,10 @@ events:
   month: 2
   day: 24
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/نهضت_تنباکو
-- partial_key: "ferdowsi_commemoration_day"
+  - https://fa.wikipedia.org/wiki/نهضت_تنباکو
+- partial_key: ferdowsi_commemoration_day
   title:
     fa_IR: روز پاسداشت زبان فارسی و بزرگداشت حکیم ابوالقاسم فردوسی
   description:
@@ -261,13 +207,10 @@ events:
   month: 2
   day: 25
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/فردوسی
-- partial_key: "omar_khayam_commemoration_day"
+  - https://fa.wikipedia.org/wiki/فردوسی
+- partial_key: omar_khayam_commemoration_day
   title:
     fa_IR: روز بزرگداشت حکیم عمر خیام
   description:
@@ -275,13 +218,10 @@ events:
   month: 2
   day: 28
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/خیام
-- partial_key: "national_population_day"
+  - https://fa.wikipedia.org/wiki/خیام
+- partial_key: national_population_day
   title:
     fa_IR: روز ملی جمعیت
   description:
@@ -289,11 +229,8 @@ events:
   month: 2
   day: 30
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "organ_donation_day"
+  - Iran Official
+- partial_key: organ_donation_day
   title:
     fa_IR: روز اهدای عضو، اهدای زندگی
   description:
@@ -301,7 +238,4 @@ events:
   month: 2
   day: 31
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official

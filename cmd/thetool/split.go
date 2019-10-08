@@ -13,13 +13,13 @@ import (
 var target *string
 
 func split(cmd *command, fl *File) error {
-	ev := make([][]Event, len(fl.Months.MonthsNormal))
+	ev := make([][]Event, len(fl.Months.Normal))
 	for i := range fl.Events {
 		ev[fl.Events[i].Month-1] = append(ev[fl.Events[i].Month-1], fl.Events[i])
 	}
 
 	for i := range ev {
-		name := strings.ToLower(filepath.Join(*target, fmt.Sprintf("%02d-%s.yml", i+1, fl.Months.MonthsName[i]["en_US"])))
+		name := strings.ToLower(filepath.Join(*target, fmt.Sprintf("%02d-%s.yml", i+1, fl.Months.Name[i]["en_US"])))
 		b, err := yaml.Marshal(File{
 			Events: ev[i],
 		})

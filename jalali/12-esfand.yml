@@ -1,5 +1,5 @@
 events:
-- partial_key: "absalan_celebration"
+- partial_key: absalan_celebration
   title:
     fa_IR: جشن اسفندی / جشن آبسالان، بهارجشن / نمایش‌بازی همگانی
   description:
@@ -7,11 +7,8 @@ events:
   month: 12
   day: 1
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-- partial_key: "reza_khan_coup"
+  - Ancient Iran
+- partial_key: reza_khan_coup
   title:
     fa_IR: کودتای رضاخان
   description:
@@ -20,13 +17,10 @@ events:
   month: 12
   day: 3
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/کودتای_۳_اسفند_۱۲۹۹
-- partial_key: "spndarmzgan_celebration"
+  - https://fa.wikipedia.org/wiki/کودتای_۳_اسفند_۱۲۹۹
+- partial_key: spndarmzgan_celebration
   title:
     fa_IR: اسفندروز، جشن اسفندگان، گرامیداشت زمین و بانوان / جشن برزگران
   description:
@@ -34,13 +28,10 @@ events:
   month: 12
   day: 5
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
-    - https://fa.wikipedia.org/wiki/جشن_سپندارمذگان
-- partial_key: "engineers_day"
+  - https://fa.wikipedia.org/wiki/جشن_سپندارمذگان
+- partial_key: engineers_day
   title:
     fa_IR: روز بزرگداشت خواجه نصیر الدین طوسی و روز مهندس
   description:
@@ -48,13 +39,10 @@ events:
   month: 12
   day: 5
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/روز_مهندس
-- partial_key: "attorneys_day"
+  - https://fa.wikipedia.org/wiki/روز_مهندس
+- partial_key: attorneys_day
   title:
     fa_IR: سالروز استقلال کانون وکلای دادگستری و روز وکیل مدافع
   description:
@@ -62,11 +50,8 @@ events:
   month: 12
   day: 7
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "ali_akbar_dehkhoda_commemoration_day"
+  - Iran Official
+- partial_key: ali_akbar_dehkhoda_commemoration_day
   title:
     fa_IR: سالروز درگذشت علی اکبر دهخدا
   description:
@@ -75,13 +60,10 @@ events:
   month: 12
   day: 7
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/علی‌اکبر_دهخدا
-- partial_key: "education_and_islamic_education"
+  - https://fa.wikipedia.org/wiki/علی‌اکبر_دهخدا
+- partial_key: education_and_islamic_education
   title:
     fa_IR: روز امور تربیتی و تربیت اسلامی
   description:
@@ -89,11 +71,8 @@ events:
   month: 12
   day: 8
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "consumer_rights_day"
+  - Iran Official
+- partial_key: consumer_rights_day
   title:
     fa_IR: روز ملی حمایت از حقوق مصرف‌کنندگان
   description:
@@ -101,13 +80,10 @@ events:
   month: 12
   day: 9
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/حمایت_از_مصرف‌کننده
-- partial_key: "vkhshnkam_celebration"
+  - https://fa.wikipedia.org/wiki/حمایت_از_مصرف‌کننده
+- partial_key: vkhshnkam_celebration
   title:
     fa_IR: جشن وخشنکام
   description:
@@ -115,11 +91,8 @@ events:
   month: 12
   day: 10
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-- partial_key: "charity_day"
+  - Ancient Iran
+- partial_key: charity_day
   title:
     fa_IR: روز احسان و نیکوکاری و روز تأسیس کمیته امداد امام خمینی
   description:
@@ -128,13 +101,10 @@ events:
   month: 12
   day: 14
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/کمیته_امداد_امام_خمینی
-- partial_key: "planting_tree_day"
+  - https://fa.wikipedia.org/wiki/کمیته_امداد_امام_خمینی
+- partial_key: planting_tree_day
   title:
     fa_IR: روز درختکاری
   description:
@@ -142,13 +112,10 @@ events:
   month: 12
   day: 15
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/روز_درخت‌کاری
-- partial_key: "establishing_cultural_and_artistic_centers_of_mosques"
+  - https://fa.wikipedia.org/wiki/روز_درخت‌کاری
+- partial_key: establishing_cultural_and_artistic_centers_of_mosques
   title:
     fa_IR: سالروز تأسیس کانون‌های فرهنگی و هنری مساجد کشور
   description:
@@ -156,11 +123,8 @@ events:
   month: 12
   day: 18
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "sayyid_jamal_al_din_asad_abadi_commemoration_day"
+  - Iran Official
+- partial_key: sayyid_jamal_al_din_asad_abadi_commemoration_day
   title:
     fa_IR: روز بزرگداشت سید جمال‌الدین اسدآبادی
   description:
@@ -169,13 +133,10 @@ events:
   month: 12
   day: 18
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/سید_جمال‌الدین_اسدآبادی
-- partial_key: "nowruz_rivers_celebration"
+  - https://fa.wikipedia.org/wiki/سید_جمال‌الدین_اسدآبادی
+- partial_key: nowruz_rivers_celebration
   title:
     fa_IR: جشن نوروز رودها
   description:
@@ -183,13 +144,10 @@ events:
   month: 12
   day: 19
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
-    - https://fa.wikipedia.org/wiki/جشن_نوروز_رودها
-- partial_key: "rahiyan_noor_day"
+  - https://fa.wikipedia.org/wiki/جشن_نوروز_رودها
+- partial_key: rahiyan_noor_day
   title:
     fa_IR: روز راهیان نور
   description:
@@ -197,13 +155,10 @@ events:
   month: 12
   day: 20
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/راهیان_نور
-- partial_key: "flower_pot_celebration"
+  - https://fa.wikipedia.org/wiki/راهیان_نور
+- partial_key: flower_pot_celebration
   title:
     fa_IR: جشن گلدان
   description:
@@ -211,11 +166,8 @@ events:
   month: 12
   day: 20
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-- partial_key: "nizami_ganjavi_commemoration_day"
+  - Ancient Iran
+- partial_key: nizami_ganjavi_commemoration_day
   title:
     fa_IR: روز بزرگداشت نظامی گنجوی
   description:
@@ -223,13 +175,10 @@ events:
   month: 12
   day: 21
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/نظامی_گنجوی
-- partial_key: "martyrs_day"
+  - https://fa.wikipedia.org/wiki/نظامی_گنجوی
+- partial_key: martyrs_day
   title:
     fa_IR: روز بزرگداشت شهدا (تأسیس بنیاد شهید انقلاب اسلامی)
   description:
@@ -238,11 +187,8 @@ events:
   month: 12
   day: 22
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "first_parliament_election"
+  - Iran Official
+- partial_key: first_parliament_election
   title:
     fa_IR: برگزاری انتخابات اولین دورهٔ مجلس شورای اسلامی
   description:
@@ -251,13 +197,10 @@ events:
   month: 12
   day: 24
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/دوره_نخست_مجلس_شورای_اسلامی
-- partial_key: "ferdowsis_shahnameh"
+  - https://fa.wikipedia.org/wiki/دوره_نخست_مجلس_شورای_اسلامی
+- partial_key: ferdowsis_shahnameh
   title:
     fa_IR: هزارهٔ شاهنامه، هزارمین سالگرد پایان سرایش شاهنامهٔ فردوسی
   description:
@@ -265,13 +208,10 @@ events:
   month: 12
   day: 25
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
-    - https://fa.wikipedia.org/wiki/شاهنامه
-- partial_key: "parvin_etesami_commemoration_day"
+  - https://fa.wikipedia.org/wiki/شاهنامه
+- partial_key: parvin_etesami_commemoration_day
   title:
     fa_IR: روز بزرگداشت پروین اعتصامی
   description:
@@ -280,13 +220,10 @@ events:
   month: 12
   day: 25
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/پروین_اعتصامی
-- partial_key: "chemical_bombing_of_halabja"
+  - https://fa.wikipedia.org/wiki/پروین_اعتصامی
+- partial_key: chemical_bombing_of_halabja
   title:
     fa_IR: بمباران شیمیایی حلبچه توسط ارتش بعث عراق
   description:
@@ -295,13 +232,10 @@ events:
   month: 12
   day: 25
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/حمله_شیمیایی_به_حلبچه
-- partial_key: "farvardegan_celebration"
+  - https://fa.wikipedia.org/wiki/حمله_شیمیایی_به_حلبچه
+- partial_key: farvardegan_celebration
   title:
     fa_IR: فروردگان
   description:
@@ -309,13 +243,10 @@ events:
   month: 12
   day: 26
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
-    - https://fa.wikipedia.org/wiki/فروردگان
-- partial_key: "oshidar_celebration"
+  - https://fa.wikipedia.org/wiki/فروردگان
+- partial_key: oshidar_celebration
   title:
     fa_IR: گاهنبار هَمَسپَتمَدَم، جشن پایان زمستان (در آخرین روز سال) / جشن اوشیدر
       (نجات‌بخش ایرانی) در دریاچهٔ هامون و کوه خواجه / آتش‌افروزی بر بام‌ها در استقبال
@@ -327,11 +258,8 @@ events:
   month: 12
   day: 29
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-- partial_key: "oil_nationalization_movement"
+  - Ancient Iran
+- partial_key: oil_nationalization_movement
   title:
     fa_IR: روز ملی شدن صنعت نفت ایران
   description:
@@ -340,11 +268,8 @@ events:
   month: 12
   day: 29
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   holiday:
     Iran: []
   sources:
-    - https://fa.wikipedia.org/wiki/نهضت_ملی‌شدن_نفت
+  - https://fa.wikipedia.org/wiki/نهضت_ملی‌شدن_نفت

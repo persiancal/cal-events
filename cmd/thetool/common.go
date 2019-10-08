@@ -25,7 +25,7 @@ type Event struct {
 	Year        int                 `json:"year,omitempty" yaml:"year,omitempty"`
 	Month       int                 `json:"month" yaml:"month"`
 	Day         int                 `json:"day" yaml:"day"`
-	Calendar    map[string][]string `json:"calendar" yaml:"calendar"`
+	Calendar    []string            `json:"calendar,omitempty" yaml:"calendar,omitempty"`
 	Holiday     map[string][]string `json:"holiday,omitempty" yaml:",omitempty"`
 	Sources     []string            `json:"sources,omitempty" yaml:"sources,omitempty"`
 }
@@ -40,19 +40,20 @@ func (e *Event) CalculateKey(collection string) {
 	e.Key = hash.Sum32()
 }
 
-// Preset is the month structure validator
-type Preset struct {
-	MonthsNormal []int               `json:"normal,omitempty" yaml:"normal,omitempty"`
-	MonthsLeap   []int               `json:"leap,omitempty" yaml:"leap,omitempty"`
-	MonthsName   []map[string]string `json:"name,omitempty" yaml:"name,omitempty"`
+// Months is the month structure validator
+type Months struct {
+	Normal []int               `json:"normal,omitempty" yaml:"normal,omitempty"`
+	Leap   []int               `json:"leap,omitempty" yaml:"leap,omitempty"`
+	Name   []map[string]string `json:"name,omitempty" yaml:"name,omitempty"`
 }
 
 // File is the single file
 type File struct {
-	Name      string   `json:"name,omitempty" yaml:"name,omitempty"`
-	Countries []string `json:"countries,omitempty" yaml:"countries,omitempty"`
-	Months    *Preset  `json:"months,omitempty" yaml:"months,omitempty"`
-	Events    []Event  `json:"events,omitempty" yaml:"events,omitempty"`
+	Name      string              `json:"name,omitempty" yaml:"name,omitempty"`
+	Countries []string            `json:"countries,omitempty" yaml:"countries,omitempty"`
+	Calendars []map[string]string `json:"calendars,omitempty" yaml:"calendars,omitempty"`
+	Months    *Months             `json:"months,omitempty" yaml:"months,omitempty"`
+	Events    []Event             `json:"events,omitempty" yaml:"events,omitempty"`
 }
 
 func (f *File) Len() int {
@@ -78,6 +79,10 @@ func (f *File) Merge(new *File) {
 	}
 	if f.Months == nil {
 		f.Months = new.Months
+	}
+
+	if len(f.Calendars) == 0 {
+		f.Calendars = new.Calendars
 	}
 
 	f.Countries = append(f.Countries, new.Countries...)
@@ -125,7 +130,6 @@ func loadFolder(folder string) (*File, error) {
 		if err != nil {
 			return nil, err
 		}
-
 		res.Merge(f)
 	}
 
