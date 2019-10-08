@@ -62,7 +62,7 @@ events:
     - Islamic Republic Of Iran
   sources:
     - https://fa.wikipedia.org/wiki/سجاد
-- partial_key: "disabledـiranianـveterans_day"
+- partial_key: "disabled_iranian_veterans_day"
   title:
     fa_IR: روز جانباز
   description:
