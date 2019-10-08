@@ -4,6 +4,8 @@ countries:
 calendars:
 - en_US: International
   fa_IR: بین‌المللی
+- en_US: Christian
+  fa_IR: مسیحی
 months:
   normal:
   - 31
@@ -41,7 +43,7 @@ months:
   - en_US: April
     fa_IR: آوریل
   - en_US: May
-    fa_IR: می
+    fa_IR: مه
   - en_US: June
     fa_IR: ژوئن
   - en_US: July
