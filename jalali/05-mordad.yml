@@ -18,7 +18,7 @@ events:
   title:
     fa_IR: امردادگان
   description:
-    fa_IR: امردادگان
+    fa_IR: مردادروز، جشن مردادگان
   month: 5
   day: 7
   calendar:
@@ -235,3 +235,5 @@ events:
     - Iran
     fa_IR:
     - ایران
+  sources:
+    - https://fa.wikipedia.org/wiki/سازمان_صنایع_دفاع_جمهوری_اسلامی_ایران

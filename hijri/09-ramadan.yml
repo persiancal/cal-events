@@ -1,33 +1,5 @@
 events:
-- partial_key: "Qadr Night1"
-  title:
-    fa_IR: شب قدر اول
-  description:
-    fa_IR: شب دعا و مناجات
-  month: 9
-  day: 18
-  calender:
-    en_US:
-    - Shia
-    fa_IR:
-    - شیعه
-  source:
-    - https://fa.wikipedia.org/wiki/%D8%B4%D8%A8_%D9%82%D8%AF%D8%B1
-- partial_key: "Qadr Night2"
-  title:
-    fa_IR: شب قدر دوم
-  description:
-    fa_IR: شب دعا و مناجات
-  month: 9
-  day: 18
-  calender:
-    en_US:
-    - Shia
-    fa_IR:
-    - شیعه  
-  source:
-    - https://fa.wikipedia.org/wiki/%D8%B4%D8%A8_%D9%82%D8%AF%D8%B1
-- partial_key: "Imam Hasan Birthday"
+- partial_key: "imam_hasan_birthday"
   title:
     fa_IR: ولادت امام حسن مجتبی علیه‌السلام
   description:
@@ -40,7 +12,23 @@ events:
     - Shia
     fa_IR:
     - شیعه
-- partial_key: "Imam Ali Whacked"
+  sources:
+    - https://fa.wikipedia.org/wiki/حسن_مجتبی
+- partial_key: "qadr_night1"
+  title:
+    fa_IR: شب قدر اول
+  description:
+    fa_IR: شب دعا و مناجات
+  month: 9
+  day: 18
+  calender:
+    en_US:
+    - Shia
+    fa_IR:
+    - شیعه
+  sources:
+    - https://fa.wikipedia.org/wiki/شب_قدر
+- partial_key: "imam_ali_whacked"
   title:
     fa_IR: سالروز ضربت خوردن حضرت علی علیه‌السلام
   description:
@@ -53,14 +41,30 @@ events:
     - Shia
     fa_IR:
     - شیعه
-- partial_key: "Testimony of Imam Ali"
+  sources:
+    - https://fa.wikipedia.org/wiki/علی_بن_ابی‌طالب
+- partial_key: "qadr_night2"
+  title:
+    fa_IR: شب قدر دوم
+  description:
+    fa_IR: شب دعا و مناجات
+  month: 9
+  day: 20
+  calender:
+    en_US:
+    - Shia
+    fa_IR:
+    - شیعه
+  sources:
+    - https://fa.wikipedia.org/wiki/شب_قدر
+- partial_key: "imam_ali_martyrdom"
   title:
     fa_IR: شهادت امام علی علیه‌السلام
   description:
     fa_IR: شهادت امام علی علیه‌السلام
   year: 40
   month: 9
-  day: 18
+  day: 21
   calender:
     en_US:
     - Shia
@@ -68,35 +72,5 @@ events:
     - شیعه
   holiday:
     Iran: []
-- partial_key: "Eid al-Fitr 1"
-  title:
-    fa_IR: عید فطر
-  description:
-    fa_IR: عیدسعید فطر
-  month: 9
-  day: 18
-  calender:
-    en_US:
-    - Shia
-    fa_IR:
-    - شیعه
-  holiday:
-    Iran: []
-  source:
-  - https://en.wikipedia.org/wiki/Eid_al-Fitr
-- partial_key: "Eid al-Fitr 2"
-  title:
-    fa_IR: عید فطر
-  description:
-    fa_IR: عیدسعید فطر
-  month: 9
-  day: 18
-  calender:
-    en_US:
-    - Shia
-    fa_IR:
-    - شیعه
-  holiday:
-    Iran: []
-  source:
-  - https://en.wikipedia.org/wiki/Eid_al-Fitr
+  sources:
+    - https://fa.wikipedia.org/wiki/علی_بن_ابی‌طالب

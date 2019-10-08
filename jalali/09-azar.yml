@@ -83,7 +83,7 @@ events:
     fa_IR:
     - ایران
   sources:
-    - https://fa.wikipedia.org/wiki/شیخ_مفید    
+    - https://fa.wikipedia.org/wiki/شیخ_مفید
 - partial_key: "iranian_council_day"
   title:
     fa_IR: روز مجلس
@@ -98,7 +98,7 @@ events:
     fa_IR:
     - ایران
   sources:
-    - https://fa.wikipedia.org/wiki/روز_مجلس    
+    - https://fa.wikipedia.org/wiki/روز_مجلس
 - partial_key: "seyyed_hassan_modarres_martyrdom"
   title:
     fa_IR: شهادت آیت‌الله سید حسن مدرس
@@ -113,7 +113,7 @@ events:
     fa_IR:
     - ایران
   sources:
-    - https://fa.wikipedia.org/wiki/سید_حسن_مدرس    
+    - https://fa.wikipedia.org/wiki/سید_حسن_مدرس
 - partial_key: "mirza_kuchik_khan_witness_day"
   title:
     fa_IR: شهادت میرزا کوچک خان جنگلی
@@ -188,7 +188,7 @@ events:
     - ایران
   sources:
     - https://fa.wikipedia.org/wiki/قطعنامه_۵۹۸_شورای_امنیت
-- partial_key: "supreme_council_of_the_cultura_ revolution"
+- partial_key: "supreme_council_of_the_cultura_revolution"
   title:
     fa_IR: تشکیل شورای عالی انقلاب فرهنگی
   description:
@@ -248,11 +248,9 @@ events:
     - https://fa.wikipedia.org/wiki/روز_ملی_حمل‌ونقل_ایران
 - partial_key: "mohammad_mofatteh_witness_day"
   title:
-    fa_IR: ‍‍شهادت آیت‌الله دکتر محمد مفتح و روز وحدت حوزه و دانشگاه
-    
+    fa_IR: شهادت آیت‌الله دکتر محمد مفتح و روز وحدت حوزه و دانشگاه
   description:
-    fa_IR: ‍‍شهادت آیت‌الله دکتر محمد مفتح و روز وحدت حوزه و دانشگاه
-    
+    fa_IR: شهادت آیت‌الله دکتر محمد مفتح و روز وحدت حوزه و دانشگاه
   year: 1358
   month: 9
   day: 27
@@ -262,7 +260,7 @@ events:
     fa_IR:
     - ایران
   sources:
-    - https://fa.wikipedia.org/محمد_مفتح
+    - https://fa.wikipedia.org/wiki/محمد_مفتح
     - https://fa.wikipedia.org/wiki/حوزه_علمیه
 - partial_key: "mohammad_javad_tondguyan_celebrate_day"
   title:
