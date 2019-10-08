@@ -63,3 +63,35 @@ events:
     - جمهوری اسلامی ایران
   sources:
     - https://fa.wikipedia.org/wiki/عباس_بن_علی
+- partial_key: "birthday_of_Ali_ibn_husayn"
+  title:
+    fa_IR: ولادت علی ابن الحسین
+  description:
+    fa_IR: ولادت علی بن حسین، چهارمین امام شیعهدوازده امامی
+  month: 8
+  day: 5
+  year: 26
+  calendar:
+    en_US:
+    - Shia
+    - Islamic Republic Of Iran
+    fa_IR:
+    - شیعه
+    - جمهوری اسلامی ایران
+  sources:
+    - https://fa.wikipedia.org/wiki/سجاد
+- partial_key: "disabledـiranianـveterans_day"
+  title:
+    fa_IR: روز جانباز
+  description:
+    fa_IR: روز جانباز
+  month: 8
+  day: 5
+  year: 26
+  calendar:
+    en_US:
+    - Islamic Republic Of Iran
+    fa_IR:
+    - جمهوری اسلامی ایران
+  sources:
+    - https://fa.wikipedia.org/wiki/جانباز
