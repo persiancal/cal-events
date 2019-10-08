@@ -1,5 +1,5 @@
 events:
-- partial_key: "abd_al-Husayn_Lari_jihad_order"
+- partial_key: "abd_al-husayn_lari_jihad_order"
   title:
     fa_IR: صدور حکم جهاد توسط عبدالحسین لاری علیه انگلیس
   description:
@@ -14,7 +14,7 @@ events:
     - ایران
   sources:
     - https://fa.wikipedia.org/wiki/سید_عبدالحسین_لاری
-- partial_key: "birthday_of_Husayn_ibn_Ali"
+- partial_key: "birthday_of_husayn_ibn_ali"
   title:
     fa_IR: ولادت امام حسین، سومین امام شیعه دوازده امامی
   description:
@@ -46,7 +46,7 @@ events:
     - جمهوری اسلامی ایران
   sources:
     - https://fa.wikipedia.org/wiki/سپاه_پاسداران_انقلاب_اسلامی
-- partial_key: "birthday_of_Abbas_ibn_Ali"
+- partial_key: "birthday_of_abbas_ibn_ali"
   title:
     fa_IR: ولادت عباس بن علی
   description:
@@ -63,7 +63,7 @@ events:
     - جمهوری اسلامی ایران
   sources:
     - https://fa.wikipedia.org/wiki/عباس_بن_علی
-- partial_key: "birthday_of_Ali_ibn_husayn"
+- partial_key: "birthday_of_ali_ibn_husayn"
   title:
     fa_IR: ولادت علی ابن الحسین
   description:
@@ -95,3 +95,4 @@ events:
     - جمهوری اسلامی ایران
   sources:
     - https://fa.wikipedia.org/wiki/جانباز
+    
