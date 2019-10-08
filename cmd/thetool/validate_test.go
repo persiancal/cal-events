@@ -130,9 +130,34 @@ func TestTextValidator(t *testing.T) {
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			if err := textValidator(tt.args.s,tt.args.r); (err != nil) != tt.wantErr {
+			if err := textValidator(tt.args.s, tt.args.r); (err != nil) != tt.wantErr {
 				t.Errorf("textValidator() error = %v, wantErr %v", err, tt.wantErr)
 			}
 		})
 	}
+}
+
+func TestCalendarValidator(t *testing.T) {
+	fl := &File{
+		Calendars: []map[string]string{
+			{"en_US": "Test1"},
+			{"en_US": "Test2"},
+		},
+		Events: []Event{
+			{
+				PartialKey: "valid",
+				Calendar:   []string{"Test1", "Test2"},
+			},
+		},
+	}
+
+	assert.NoError(t, validateEventCalendar(fl))
+
+	fl.Events[0].Calendar = []string{}
+
+	assert.Error(t, validateEventCalendar(fl))
+
+	fl.Events[0].Calendar = []string{"INVALID"}
+
+	assert.Error(t, validateEventCalendar(fl))
 }
