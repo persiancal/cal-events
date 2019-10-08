@@ -41,7 +41,7 @@ func checkSingle(client *http.Client, lnk string) error {
 func checkLink(wg *sync.WaitGroup, in chan string, out chan error) {
 	defer wg.Done()
 	client := &http.Client{
-		Timeout: time.Second,
+		Timeout: time.Second * 10,
 	}
 	for lnk := range in {
 		if err := checkSingle(client, lnk); err != nil {
