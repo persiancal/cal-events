@@ -133,30 +133,6 @@ func loadFolder(folder string) (*File, error) {
 		res.Merge(f)
 	}
 
-	for i := range fl {
-		data, err := openFile(fl[i])
-		if err != nil {
-			return nil, err
-		}
-
-		f, err := loadFile(data)
-		if err != nil {
-			return nil, err
-		}
-
-		if err := fixCalendar(f, res.Calendars); err != nil {
-			return nil, err
-		}
-		d, err := yaml.Marshal(f)
-		if err != nil {
-			panic(err)
-		}
-
-		if err := ioutil.WriteFile(fl[i], d, 0600); err != nil {
-			panic(err)
-		}
-	}
-
 	return res, nil
 }
 
