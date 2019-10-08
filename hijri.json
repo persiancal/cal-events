@@ -3,6 +3,28 @@
   "countries": [
     "Iran"
   ],
+  "calendars": [
+    {
+      "en_US": "Iran Official",
+      "fa_IR": "رسمی ایران"
+    },
+    {
+      "en_US": "Islamic Republic Of Iran",
+      "fa_IR": "جمهوری اسلامی ایران"
+    },
+    {
+      "en_US": "Islamic",
+      "fa_IR": "اسلامی"
+    },
+    {
+      "en_US": "Shia",
+      "fa_IR": "شیعه"
+    },
+    {
+      "en_US": "Sunni",
+      "fa_IR": "سنی"
+    }
+  ],
   "months": {
     "normal": [
       29,
@@ -94,14 +116,9 @@
       },
       "month": 1,
       "day": 1,
-      "calendar": {
-        "en_US": [
-          "Iran"
-        ],
-        "fa_IR": [
-          "ایران"
-        ]
-      },
+      "calendar": [
+        "Iran Official"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/گاه‌شماری_هجری_قمری"
       ]
@@ -117,14 +134,9 @@
       "year": 61,
       "month": 1,
       "day": 2,
-      "calendar": {
-        "en_US": [
-          "Iran"
-        ],
-        "fa_IR": [
-          "ایران"
-        ]
-      },
+      "calendar": [
+        "Iran Official"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/نبرد_کربلا"
       ]
@@ -140,14 +152,9 @@
       "year": 61,
       "month": 1,
       "day": 7,
-      "calendar": {
-        "en_US": [
-          "Iran"
-        ],
-        "fa_IR": [
-          "ایران"
-        ]
-      },
+      "calendar": [
+        "Iran Official"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/نبرد_کربلا"
       ]
@@ -163,14 +170,9 @@
       "year": 61,
       "month": 1,
       "day": 9,
-      "calendar": {
-        "en_US": [
-          "Iran"
-        ],
-        "fa_IR": [
-          "ایران"
-        ]
-      },
+      "calendar": [
+        "Iran Official"
+      ],
       "holiday": {
         "Iran": []
       },
@@ -189,14 +191,9 @@
       "year": 61,
       "month": 1,
       "day": 10,
-      "calendar": {
-        "en_US": [
-          "Iran"
-        ],
-        "fa_IR": [
-          "ایران"
-        ]
-      },
+      "calendar": [
+        "Iran Official"
+      ],
       "holiday": {
         "Iran": []
       },
@@ -215,14 +212,9 @@
       "year": 95,
       "month": 1,
       "day": 12,
-      "calendar": {
-        "en_US": [
-          "Iran"
-        ],
-        "fa_IR": [
-          "ایران"
-        ]
-      },
+      "calendar": [
+        "Iran Official"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/سجاد"
       ]
@@ -238,14 +230,9 @@
       "year": 2,
       "month": 1,
       "day": 18,
-      "calendar": {
-        "en_US": [
-          "Iran"
-        ],
-        "fa_IR": [
-          "ایران"
-        ]
-      },
+      "calendar": [
+        "Iran Official"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/مسجد_ذوقبلتین"
       ]
@@ -261,14 +248,9 @@
       "year": 95,
       "month": 1,
       "day": 25,
-      "calendar": {
-        "en_US": [
-          "Iran"
-        ],
-        "fa_IR": [
-          "ایران"
-        ]
-      },
+      "calendar": [
+        "Iran Official"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/سجاد"
       ]
@@ -284,16 +266,10 @@
       "year": 37,
       "month": 2,
       "day": 1,
-      "calendar": {
-        "en_US": [
-          "Iran",
-          "Islamic"
-        ],
-        "fa_IR": [
-          "ایران",
-          "اسلامی"
-        ]
-      },
+      "calendar": [
+        "Iran Official",
+        "Islamic"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/نبرد_صفین"
       ]
@@ -309,16 +285,10 @@
       "year": 61,
       "month": 2,
       "day": 1,
-      "calendar": {
-        "en_US": [
-          "Iran",
-          "Shia"
-        ],
-        "fa_IR": [
-          "ایران",
-          "شیعه"
-        ]
-      },
+      "calendar": [
+        "Iran Official",
+        "Shia"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/نبرد_کربلا"
       ]
@@ -334,16 +304,10 @@
       "year": 57,
       "month": 2,
       "day": 3,
-      "calendar": {
-        "en_US": [
-          "Iran",
-          "Shia"
-        ],
-        "fa_IR": [
-          "ایران",
-          "شیعه"
-        ]
-      },
+      "calendar": [
+        "Iran Official",
+        "Shia"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/محمد_باقر"
       ]
@@ -359,16 +323,10 @@
       "year": 50,
       "month": 2,
       "day": 7,
-      "calendar": {
-        "en_US": [
-          "Iran",
-          "Shia"
-        ],
-        "fa_IR": [
-          "ایران",
-          "شیعه"
-        ]
-      },
+      "calendar": [
+        "Iran Official",
+        "Shia"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/حسن_مجتبی"
       ]
@@ -384,16 +342,10 @@
       "year": 36,
       "month": 2,
       "day": 8,
-      "calendar": {
-        "en_US": [
-          "Iran",
-          "Islamic"
-        ],
-        "fa_IR": [
-          "ایران",
-          "اسلامی"
-        ]
-      },
+      "calendar": [
+        "Iran Official",
+        "Islamic"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/سلمان_فارسی"
       ]
@@ -409,16 +361,10 @@
       "year": 38,
       "month": 2,
       "day": 9,
-      "calendar": {
-        "en_US": [
-          "Iran",
-          "Islamic"
-        ],
-        "fa_IR": [
-          "ایران",
-          "اسلامی"
-        ]
-      },
+      "calendar": [
+        "Iran Official",
+        "Islamic"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/نبرد_نهروان"
       ]
@@ -434,16 +380,10 @@
       "year": 61,
       "month": 2,
       "day": 20,
-      "calendar": {
-        "en_US": [
-          "Iran",
-          "Shia"
-        ],
-        "fa_IR": [
-          "ایران",
-          "شیعه"
-        ]
-      },
+      "calendar": [
+        "Iran Official",
+        "Shia"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/اربعین"
       ]
@@ -459,16 +399,10 @@
       "year": 11,
       "month": 2,
       "day": 28,
-      "calendar": {
-        "en_US": [
-          "Iran",
-          "Islamic"
-        ],
-        "fa_IR": [
-          "ایران",
-          "اسلامی"
-        ]
-      },
+      "calendar": [
+        "Iran Official",
+        "Islamic"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/محمد"
       ]
@@ -484,16 +418,10 @@
       "year": 50,
       "month": 2,
       "day": 28,
-      "calendar": {
-        "en_US": [
-          "Iran",
-          "Shia"
-        ],
-        "fa_IR": [
-          "ایران",
-          "شیعه"
-        ]
-      },
+      "calendar": [
+        "Iran Official",
+        "Shia"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/حسن_مجتبی"
       ]
@@ -509,16 +437,10 @@
       "year": 203,
       "month": 2,
       "day": 30,
-      "calendar": {
-        "en_US": [
-          "Iran",
-          "Shia"
-        ],
-        "fa_IR": [
-          "ایران",
-          "شیعه"
-        ]
-      },
+      "calendar": [
+        "Iran Official",
+        "Shia"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/علی_بن_موسی_الرضا"
       ]
@@ -534,16 +456,10 @@
       "year": 1,
       "month": 3,
       "day": 1,
-      "calendar": {
-        "en_US": [
-          "Iran",
-          "Islamic"
-        ],
-        "fa_IR": [
-          "ایران",
-          "اسلامی"
-        ]
-      },
+      "calendar": [
+        "Iran Official",
+        "Islamic"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/هجرت_محمد"
       ]
@@ -559,16 +475,10 @@
       "year": 260,
       "month": 3,
       "day": 8,
-      "calendar": {
-        "en_US": [
-          "Iran",
-          "Shia"
-        ],
-        "fa_IR": [
-          "ایران",
-          "شیعه"
-        ]
-      },
+      "calendar": [
+        "Iran Official",
+        "Shia"
+      ],
       "holiday": {
         "Iran": []
       },
@@ -587,16 +497,10 @@
       },
       "month": 3,
       "day": 12,
-      "calendar": {
-        "en_US": [
-          "Iran",
-          "Sunni"
-        ],
-        "fa_IR": [
-          "ایران",
-          "سنی"
-        ]
-      },
+      "calendar": [
+        "Iran Official",
+        "Sunni"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/محمد"
       ]
@@ -611,16 +515,10 @@
       },
       "month": 3,
       "day": 17,
-      "calendar": {
-        "en_US": [
-          "Iran",
-          "Shia"
-        ],
-        "fa_IR": [
-          "ایران",
-          "شیعه"
-        ]
-      },
+      "calendar": [
+        "Iran Official",
+        "Shia"
+      ],
       "holiday": {
         "Iran": []
       },
@@ -639,16 +537,10 @@
       "year": 83,
       "month": 3,
       "day": 17,
-      "calendar": {
-        "en_US": [
-          "Iran",
-          "Shia"
-        ],
-        "fa_IR": [
-          "ایران",
-          "شیعه"
-        ]
-      },
+      "calendar": [
+        "Iran Official",
+        "Shia"
+      ],
       "holiday": {
         "Iran": []
       },
@@ -667,16 +559,10 @@
       "year": 232,
       "month": 4,
       "day": 8,
-      "calendar": {
-        "en_US": [
-          "Iran",
-          "Shia"
-        ],
-        "fa_IR": [
-          "ایران",
-          "شیعه"
-        ]
-      },
+      "calendar": [
+        "Iran Official",
+        "Shia"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/حسن_عسکری"
       ]
@@ -692,16 +578,10 @@
       "year": 201,
       "month": 4,
       "day": 10,
-      "calendar": {
-        "en_US": [
-          "Iran",
-          "Shia"
-        ],
-        "fa_IR": [
-          "ایران",
-          "شیعه"
-        ]
-      },
+      "calendar": [
+        "Iran Official",
+        "Shia"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/فاطمه_معصومه"
       ]
@@ -717,16 +597,10 @@
       "year": 2,
       "month": 5,
       "day": 5,
-      "calendar": {
-        "en_US": [
-          "Shia",
-          "Iran"
-        ],
-        "fa_IR": [
-          "شیعه",
-          "ایران"
-        ]
-      },
+      "calendar": [
+        "Shia",
+        "Iran Official"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/زینب",
         "https://fa.wikipedia.org/wiki/پرستار"
@@ -743,14 +617,9 @@
       "year": 8,
       "month": 5,
       "day": 6,
-      "calendar": {
-        "en_US": [
-          "Islamic"
-        ],
-        "fa_IR": [
-          "اسلامی"
-        ]
-      },
+      "calendar": [
+        "Islamic"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/سریه_مؤته"
       ]
@@ -766,14 +635,9 @@
       "year": 8,
       "month": 5,
       "day": 6,
-      "calendar": {
-        "en_US": [
-          "Islamic"
-        ],
-        "fa_IR": [
-          "اسلامی"
-        ]
-      },
+      "calendar": [
+        "Islamic"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/جعفر_بن_ابی‌طالب"
       ]
@@ -789,14 +653,9 @@
       "year": 36,
       "month": 5,
       "day": 10,
-      "calendar": {
-        "en_US": [
-          "Islamic"
-        ],
-        "fa_IR": [
-          "اسلامی"
-        ]
-      },
+      "calendar": [
+        "Islamic"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/جنگ_جمل"
       ]
@@ -812,16 +671,10 @@
       "year": 11,
       "month": 5,
       "day": 13,
-      "calendar": {
-        "en_US": [
-          "Shia",
-          "Iran"
-        ],
-        "fa_IR": [
-          "شیعه",
-          "ایران"
-        ]
-      },
+      "calendar": [
+        "Shia",
+        "Iran Official"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/فاطمه_زهرا"
       ]
@@ -836,14 +689,9 @@
       },
       "month": 5,
       "day": 27,
-      "calendar": {
-        "en_US": [
-          "Islamic"
-        ],
-        "fa_IR": [
-          "اسلامی"
-        ]
-      },
+      "calendar": [
+        "Islamic"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/عبدالمطلب"
       ]
@@ -858,14 +706,9 @@
       },
       "month": 5,
       "day": 30,
-      "calendar": {
-        "en_US": [
-          "Shia"
-        ],
-        "fa_IR": [
-          "شیعه"
-        ]
-      },
+      "calendar": [
+        "Shia"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/محمد_بن_عثمان"
       ]
@@ -881,16 +724,10 @@
       "year": 11,
       "month": 6,
       "day": 3,
-      "calendar": {
-        "en_US": [
-          "Iran",
-          "Islamic"
-        ],
-        "fa_IR": [
-          "ایران",
-          "اسلامی"
-        ]
-      },
+      "calendar": [
+        "Iran Official",
+        "Islamic"
+      ],
       "holiday": {
         "Iran": []
       },
@@ -909,14 +746,9 @@
       "year": 672,
       "month": 6,
       "day": 5,
-      "calendar": {
-        "en_US": [
-          "Iran"
-        ],
-        "fa_IR": [
-          "ایران"
-        ]
-      },
+      "calendar": [
+        "Iran Official"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/مولوی"
       ]
@@ -932,16 +764,10 @@
       "year": 70,
       "month": 6,
       "day": 13,
-      "calendar": {
-        "en_US": [
-          "Iran",
-          "Shia"
-        ],
-        "fa_IR": [
-          "ایران",
-          "شیعه"
-        ]
-      },
+      "calendar": [
+        "Iran Official",
+        "Shia"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/ام‌البنین"
       ]
@@ -957,16 +783,10 @@
       "year": -18,
       "month": 6,
       "day": 20,
-      "calendar": {
-        "en_US": [
-          "Iran",
-          "Islamic"
-        ],
-        "fa_IR": [
-          "ایران",
-          "اسلامی"
-        ]
-      },
+      "calendar": [
+        "Iran Official",
+        "Islamic"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/فاطمه_زهرا"
       ]
@@ -982,14 +802,9 @@
       "year": 57,
       "month": 7,
       "day": 1,
-      "calendar": {
-        "en_US": [
-          "Shia"
-        ],
-        "fa_IR": [
-          "شیعه"
-        ]
-      },
+      "calendar": [
+        "Shia"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/محمد_باقر#تولد_و_سالهای_اولیه_زندگی"
       ]
@@ -1005,14 +820,9 @@
       "year": 254,
       "month": 7,
       "day": 3,
-      "calendar": {
-        "en_US": [
-          "Shia"
-        ],
-        "fa_IR": [
-          "شیعه"
-        ]
-      },
+      "calendar": [
+        "Shia"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/علی_النقی#قتل_و_مرگ"
       ]
@@ -1028,14 +838,9 @@
       "year": 195,
       "month": 7,
       "day": 10,
-      "calendar": {
-        "en_US": [
-          "Shia"
-        ],
-        "fa_IR": [
-          "شیعه"
-        ]
-      },
+      "calendar": [
+        "Shia"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/محمد_تقی#تولد_و_سالهای_اولیه_زندگی"
       ]
@@ -1050,14 +855,9 @@
       },
       "month": 7,
       "day": 13,
-      "calendar": {
-        "en_US": [
-          "Shia"
-        ],
-        "fa_IR": [
-          "شیعه"
-        ]
-      },
+      "calendar": [
+        "Shia"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/علی_بن_ابی‌طالب"
       ]
@@ -1072,14 +872,9 @@
       },
       "month": 7,
       "day": 13,
-      "calendar": {
-        "en_US": [
-          "Islamic Republic Of Iran"
-        ],
-        "fa_IR": [
-          "جمهوری اسلامی ایران"
-        ]
-      },
+      "calendar": [
+        "Islamic Republic Of Iran"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/روزهای_سپید"
       ]
@@ -1095,14 +890,9 @@
       "year": 2,
       "month": 7,
       "day": 15,
-      "calendar": {
-        "en_US": [
-          "Islamic Republic Of Iran"
-        ],
-        "fa_IR": [
-          "جمهوری اسلامی ایران"
-        ]
-      },
+      "calendar": [
+        "Islamic Republic Of Iran"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/قبله#قبله_مسلمانان"
       ]
@@ -1118,14 +908,9 @@
       "year": 62,
       "month": 7,
       "day": 15,
-      "calendar": {
-        "en_US": [
-          "Shia"
-        ],
-        "fa_IR": [
-          "شیعه"
-        ]
-      },
+      "calendar": [
+        "Shia"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/زینب#وفات"
       ]
@@ -1141,14 +926,9 @@
       "year": 60,
       "month": 7,
       "day": 22,
-      "calendar": {
-        "en_US": [
-          "Islamic"
-        ],
-        "fa_IR": [
-          "اسلامی"
-        ]
-      },
+      "calendar": [
+        "Islamic"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/معاویة_بن_ابی‌سفیان#درگذشت"
       ]
@@ -1164,14 +944,9 @@
       "year": 183,
       "month": 7,
       "day": 25,
-      "calendar": {
-        "en_US": [
-          "Shia"
-        ],
-        "fa_IR": [
-          "شیعه"
-        ]
-      },
+      "calendar": [
+        "Shia"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/موسی_کاظم#حبس_و_کشته‌شدن"
       ]
@@ -1186,14 +961,9 @@
       },
       "month": 7,
       "day": 27,
-      "calendar": {
-        "en_US": [
-          "Islamic Republic Of Iran"
-        ],
-        "fa_IR": [
-          "جمهوری اسلامی ایران"
-        ]
-      },
+      "calendar": [
+        "Islamic Republic Of Iran"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/مبعث"
       ]
@@ -1209,7 +979,9 @@
       "year": 3,
       "month": 9,
       "day": 15,
-      "calendar": null,
+      "calendar": [
+        "Shia"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/حسن_مجتبی"
       ]
@@ -1224,7 +996,9 @@
       },
       "month": 9,
       "day": 19,
-      "calendar": null,
+      "calendar": [
+        "Shia"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/شب_قدر"
       ]
@@ -1240,7 +1014,9 @@
       "year": 40,
       "month": 9,
       "day": 19,
-      "calendar": null,
+      "calendar": [
+        "Shia"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/علی_بن_ابی‌طالب"
       ]
@@ -1255,7 +1031,9 @@
       },
       "month": 9,
       "day": 21,
-      "calendar": null,
+      "calendar": [
+        "Shia"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/شب_قدر"
       ]
@@ -1271,7 +1049,9 @@
       "year": 40,
       "month": 9,
       "day": 21,
-      "calendar": null,
+      "calendar": [
+        "Shia"
+      ],
       "holiday": {
         "Iran": []
       },
@@ -1290,16 +1070,10 @@
       "year": 173,
       "month": 11,
       "day": 1,
-      "calendar": {
-        "en_US": [
-          "Iran Official",
-          "Shia"
-        ],
-        "fa_IR": [
-          "ایران",
-          "شیعه"
-        ]
-      },
+      "calendar": [
+        "Iran Official",
+        "Shia"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/فاطمه_معصومه"
       ]
@@ -1314,14 +1088,9 @@
       },
       "month": 11,
       "day": 5,
-      "calendar": {
-        "en_US": [
-          "Iran Official"
-        ],
-        "fa_IR": [
-          "ایران"
-        ]
-      }
+      "calendar": [
+        "Iran Official"
+      ]
     },
     {
       "key": 1897680478,
@@ -1333,14 +1102,9 @@
       },
       "month": 11,
       "day": 6,
-      "calendar": {
-        "en_US": [
-          "Iran Official"
-        ],
-        "fa_IR": [
-          "ایران"
-        ]
-      },
+      "calendar": [
+        "Iran Official"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/احمد_بن_موسی",
         "https://fa.wikipedia.org/wiki/شاه‌چراغ"
@@ -1357,16 +1121,10 @@
       "year": 148,
       "month": 11,
       "day": 11,
-      "calendar": {
-        "en_US": [
-          "Iran Official",
-          "Shia"
-        ],
-        "fa_IR": [
-          "ایران",
-          "شیعه"
-        ]
-      },
+      "calendar": [
+        "Iran Official",
+        "Shia"
+      ],
       "holiday": {
         "Iran": []
       },
@@ -1385,16 +1143,10 @@
       "year": 220,
       "month": 11,
       "day": 30,
-      "calendar": {
-        "en_US": [
-          "Iran Official",
-          "Shia"
-        ],
-        "fa_IR": [
-          "ایران",
-          "شیعه"
-        ]
-      },
+      "calendar": [
+        "Iran Official",
+        "Shia"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/محمد_تقی"
       ]
@@ -1410,16 +1162,10 @@
       "year": 2,
       "month": 12,
       "day": 1,
-      "calendar": {
-        "en_US": [
-          "Iran",
-          "Shia"
-        ],
-        "fa_IR": [
-          "ایران",
-          "شیعه"
-        ]
-      }
+      "calendar": [
+        "Iran Official",
+        "Shia"
+      ]
     },
     {
       "key": 196270779,
@@ -1432,16 +1178,10 @@
       "year": 114,
       "month": 12,
       "day": 7,
-      "calendar": {
-        "en_US": [
-          "Iran",
-          "Shia"
-        ],
-        "fa_IR": [
-          "ایران",
-          "شیعه"
-        ]
-      }
+      "calendar": [
+        "Iran Official",
+        "Shia"
+      ]
     },
     {
       "key": 1202756166,
@@ -1453,16 +1193,10 @@
       },
       "month": 12,
       "day": 9,
-      "calendar": {
-        "en_US": [
-          "Iran",
-          "Islamic"
-        ],
-        "fa_IR": [
-          "ایران",
-          "اسلامی"
-        ]
-      },
+      "calendar": [
+        "Iran Official",
+        "Islamic"
+      ],
       "sources": [
         "https://fa.wikipedia.org/wiki/روز_عرفه"
       ]
@@ -1477,16 +1211,10 @@
       },
       "month": 12,
       "day": 10,
-      "calendar": {
-        "en_US": [
-          "Iran",
-          "Islamic"
-        ],
-        "fa_IR": [
-          "ایران",
-          "اسلامی"
-        ]
-      },
+      "calendar": [
+        "Iran Official",
+        "Islamic"
+      ],
       "holiday": {
         "Iran": []
       },
@@ -1505,16 +1233,10 @@
       "year": 212,
       "month": 12,
       "day": 15,
-      "calendar": {
-        "en_US": [
-          "Iran",
-          "Shia"
-        ],
-        "fa_IR": [
-          "ایران",
-          "شیعه"
-        ]
-      }
+      "calendar": [
+        "Iran Official",
+        "Shia"
+      ]
     },
     {
       "key": 1192877298,
@@ -1526,16 +1248,10 @@
       },
       "month": 12,
       "day": 18,
-      "calendar": {
-        "en_US": [
-          "Iran",
-          "Shia"
-        ],
-        "fa_IR": [
-          "ایران",
-          "شیعه"
-        ]
-      },
+      "calendar": [
+        "Iran Official",
+        "Shia"
+      ],
       "holiday": {
         "Iran": []
       },
@@ -1554,16 +1270,10 @@
       "year": 128,
       "month": 12,
       "day": 20,
-      "calendar": {
-        "en_US": [
-          "Iran",
-          "Shia"
-        ],
-        "fa_IR": [
-          "ایران",
-          "شیعه"
-        ]
-      }
+      "calendar": [
+        "Iran Official",
+        "Shia"
+      ]
     }
   ]
 }

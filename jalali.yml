@@ -1,6 +1,15 @@
 name: Jalali
 countries:
 - Iran
+calendars:
+- en_US: Iran Official
+  fa_IR: رسمی ایران
+- en_US: Islamic Republic Of Iran
+  fa_IR: جمهوری اسلامی ایران
+- en_US: Ancient Iran
+  fa_IR: ایران باستان
+- en_US: Iran Pahlavi
+  fa_IR: ایران پهلوی
 months:
   normal:
   - 31
@@ -62,10 +71,7 @@ events:
   month: 1
   day: 1
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   holiday:
     Iran: []
   sources:
@@ -78,10 +84,7 @@ events:
   month: 1
   day: 2
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   holiday:
     Iran: []
   sources:
@@ -95,10 +98,7 @@ events:
   month: 1
   day: 2
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/مدرسه_فیضیه
 - key: 11965345
@@ -110,10 +110,7 @@ events:
   month: 1
   day: 2
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/عملیات_فتح‌المبین
 - key: 3906876776
@@ -124,10 +121,7 @@ events:
   month: 1
   day: 3
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   holiday:
     Iran: []
   sources:
@@ -140,10 +134,7 @@ events:
   month: 1
   day: 4
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   holiday:
     Iran: []
   sources:
@@ -156,10 +147,7 @@ events:
   month: 1
   day: 6
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
 - key: 565009964
   title:
     fa_IR: روز تولد زرتشت
@@ -168,10 +156,7 @@ events:
   month: 1
   day: 6
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/زرتشت
 - key: 2595578161
@@ -182,10 +167,7 @@ events:
   month: 1
   day: 7
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/هنرهای_تجسمی
 - key: 3428368902
@@ -196,10 +178,7 @@ events:
   month: 1
   day: 10
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
 - key: 2862514651
   title:
     fa_IR: همه‌پرسی تغییر نظام شاهنشاهی به جمهوری اسلامی ایران
@@ -209,10 +188,7 @@ events:
   month: 1
   day: 10
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/همه‌پرسی_نظام_جمهوری_اسلامی_در_ایران
 - key: 2896434018
@@ -223,10 +199,7 @@ events:
   month: 1
   day: 12
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   holiday:
     Iran: []
   sources:
@@ -239,10 +212,7 @@ events:
   month: 1
   day: 13
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   holiday:
     Iran: []
   sources:
@@ -255,10 +225,7 @@ events:
   month: 1
   day: 13
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/سیزده‌به‌در
 - key: 4280302786
@@ -269,10 +236,7 @@ events:
   month: 1
   day: 15
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/مرکز_ملی_ذخایر_ژنتیکی_و_زیستی_ایران
 - key: 148622734
@@ -283,10 +247,7 @@ events:
   month: 1
   day: 17
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
 - key: 556171547
   title:
     fa_IR: فرورین‌روز، جشن فروردینگان
@@ -295,10 +256,7 @@ events:
   month: 1
   day: 19
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/جشن_فروردینگان
 - key: 2468335674
@@ -310,10 +268,7 @@ events:
   month: 1
   day: 19
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سید_محمدباقر_صدر
   - https://fa.wikipedia.org/wiki/بنت‌الهدی_صدر
@@ -325,10 +280,7 @@ events:
   month: 1
   day: 20
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/هنر_انقلاب_اسلامی
 - key: 993812645
@@ -339,10 +291,7 @@ events:
   month: 1
   day: 20
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/روز_ملی_فناوری_هسته‌ای
   - https://fa.wikipedia.org/wiki/انرژی_هسته‌ای
@@ -355,10 +304,7 @@ events:
   month: 1
   day: 20
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/روابط_ایران_و_ایالات_متحده_آمریکا
 - key: 1277758440
@@ -370,10 +316,7 @@ events:
   month: 1
   day: 20
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/مرتضی_آوینی
 - key: 1465699861
@@ -385,10 +328,7 @@ events:
   month: 1
   day: 21
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/بنیاد_مسکن_انقلاب_اسلامی
 - key: 579800691
@@ -400,10 +340,7 @@ events:
   month: 1
   day: 21
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/علی_صیاد_شیرازی
 - key: 780198210
@@ -414,10 +351,7 @@ events:
   month: 1
   day: 25
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/عطار_نیشابوری
 - key: 1192758511
@@ -428,10 +362,7 @@ events:
   month: 1
   day: 29
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/ارتش_جمهوری_اسلامی_ایران
   - https://fa.wikipedia.org/wiki/نیروی_زمینی_ارتش_جمهوری_اسلامی_ایران
@@ -444,10 +375,7 @@ events:
   month: 2
   day: 1
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سعدی
 - key: 1204052030
@@ -458,10 +386,7 @@ events:
   month: 2
   day: 2
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
 - key: 1297862384
   title:
     fa_IR: اردیبهشت‌روز، جشن اردیبهشتگان
@@ -470,10 +395,7 @@ events:
   month: 2
   day: 2
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/اردیبهشتگان
 - key: 1387185231
@@ -485,10 +407,7 @@ events:
   month: 2
   day: 2
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سپاه_پاسداران_انقلاب_اسلامی
 - key: 2927353305
@@ -500,10 +419,7 @@ events:
   month: 2
   day: 2
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/انقلاب_فرهنگی_ایران
 - key: 1340911384
@@ -514,10 +430,7 @@ events:
   month: 2
   day: 3
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/شیخ_بهایی
 - key: 4023161780
@@ -529,10 +442,7 @@ events:
   month: 2
   day: 5
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/عملیات_طبس
 - key: 398994190
@@ -543,10 +453,7 @@ events:
   month: 2
   day: 7
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
 - key: 3907650390
   title:
     fa_IR: روز شوراها
@@ -555,10 +462,7 @@ events:
   month: 2
   day: 9
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/شوراهای_اسلامی_شهر_و_روستا
 - key: 3889499705
@@ -569,10 +473,7 @@ events:
   month: 2
   day: 10
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
 - key: 172997577
   title:
     fa_IR: روز ملی خلیج فارس
@@ -581,10 +482,7 @@ events:
   month: 2
   day: 10
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/روز_ملی_خلیج_فارس
 - key: 3697059600
@@ -596,10 +494,7 @@ events:
   month: 2
   day: 10
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/عملیات_بیت‌المقدس
 - key: 44093583
@@ -611,10 +506,7 @@ events:
   month: 2
   day: 12
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/مرتضی_مطهری
   - https://fa.wikipedia.org/wiki/روز_معلم
@@ -626,10 +518,7 @@ events:
   month: 2
   day: 15
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/شیخ_صدوق
 - key: 1118323610
@@ -640,10 +529,7 @@ events:
   month: 2
   day: 15
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/گاهنبار
 - key: 295750217
@@ -654,10 +540,7 @@ events:
   month: 2
   day: 19
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سازمان_اسناد_ملی_ایران
 - key: 45260989
@@ -668,10 +551,7 @@ events:
   month: 2
   day: 19
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/شیخ_کلینی
 - key: 2315700277
@@ -683,10 +563,7 @@ events:
   month: 2
   day: 24
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/نهضت_تنباکو
 - key: 3781290833
@@ -697,10 +574,7 @@ events:
   month: 2
   day: 25
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/فردوسی
 - key: 4156825260
@@ -711,10 +585,7 @@ events:
   month: 2
   day: 28
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/خیام
 - key: 3189375045
@@ -725,10 +596,7 @@ events:
   month: 2
   day: 30
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
 - key: 258897496
   title:
     fa_IR: روز اهدای عضو، اهدای زندگی
@@ -737,10 +605,7 @@ events:
   month: 2
   day: 31
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
 - key: 2880708330
   title:
     fa_IR: روز بزرگداشت ملاصدرا (صدرالمتألهین)
@@ -749,10 +614,7 @@ events:
   month: 3
   day: 1
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/ملاصدرا
 - key: 3439955615
@@ -763,10 +625,7 @@ events:
   month: 3
   day: 1
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
 - key: 346324151
   title:
     fa_IR: ارغاسوان، جشن گرما
@@ -775,10 +634,7 @@ events:
   month: 3
   day: 1
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
 - key: 3634692281
   title:
     fa_IR: فتح خرمشهر در عملیات بیت‌المقدس و روز مقاومت، ایثار و پیروزی
@@ -788,10 +644,7 @@ events:
   month: 3
   day: 3
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/آزادسازی_خرمشهر
 - key: 2359232311
@@ -802,10 +655,7 @@ events:
   month: 3
   day: 4
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/روز_مقاومت_دزفول
 - key: 1047936385
@@ -816,10 +666,7 @@ events:
   month: 3
   day: 5
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
 - key: 221075205
   title:
     fa_IR: خردادروز، جشن خردادگان
@@ -828,10 +675,7 @@ events:
   month: 3
   day: 6
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/خردادگان
 - key: 1105840854
@@ -843,10 +687,7 @@ events:
   month: 3
   day: 7
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/مجلس_شورای_اسلامی
 - key: 1918883532
@@ -858,10 +699,7 @@ events:
   month: 3
   day: 14
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   holiday:
     Iran: []
   sources:
@@ -875,10 +713,7 @@ events:
   month: 3
   day: 14
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سید_علی_خامنه‌ای
 - key: 2105320122
@@ -890,10 +725,7 @@ events:
   month: 3
   day: 15
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سید_روح‌الله_خمینی#سخنرانی_روز_عاشورا،_دستگیری_و_تظاهرات_۱۵_خرداد
 - key: 2725017120
@@ -905,10 +737,7 @@ events:
   month: 3
   day: 15
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   holiday:
     Iran: []
   sources:
@@ -922,10 +751,7 @@ events:
   month: 3
   day: 20
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سید_محمدرضا_سعیدی
 - key: 1463956479
@@ -936,10 +762,7 @@ events:
   month: 3
   day: 25
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
 - key: 971477200
   title:
     fa_IR: شهادت بخارایی، امانی، صفار هرندی و نیک‌نژاد از اعضای فدائیان اسلام
@@ -949,10 +772,7 @@ events:
   month: 3
   day: 26
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/محمد_بخارایی
   - https://fa.wikipedia.org/wiki/محمدصادق_امانی
@@ -968,10 +788,7 @@ events:
   month: 3
   day: 27
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/جهاد_سازندگی
   - https://fa.wikipedia.org/wiki/وزارت_جهاد_سازندگی
@@ -984,10 +801,7 @@ events:
   month: 3
   day: 29
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/علی_شریعتی
 - key: 223076069
@@ -999,10 +813,7 @@ events:
   month: 3
   day: 30
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/بمب‌گذاری_در_حرم_امام_رضا
 - key: 2628070662
@@ -1013,10 +824,7 @@ events:
   month: 3
   day: 31
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
 - key: 4072387466
   title:
     fa_IR: شهادت دکتر مصطفی چمران
@@ -1026,10 +834,7 @@ events:
   month: 3
   day: 31
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/مصطفی_چمران
 - key: 2730678960
@@ -1041,10 +846,7 @@ events:
   month: 3
   day: 31
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/ابوالحسن_بنی‌صدر
 - key: 3013003756
@@ -1057,10 +859,7 @@ events:
   month: 4
   day: 1
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/تابستان
 - key: 2951226653
@@ -1071,10 +870,7 @@ events:
   month: 4
   day: 1
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/صنف
 - key: 2279015105
@@ -1086,10 +882,7 @@ events:
   month: 4
   day: 1
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سازمان_تبلیغات_اسلامی
 - key: 658288091
@@ -1100,10 +893,7 @@ events:
   month: 4
   day: 6
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/جشن_نیلوفر
 - key: 2008316868
@@ -1114,10 +904,7 @@ events:
   month: 4
   day: 7
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/قوه_قضائیه_ایران
 - key: 491098970
@@ -1129,10 +916,7 @@ events:
   month: 4
   day: 7
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/بمب‌گذاری_در_دفتر_حزب_جمهوری_اسلامی
   - https://fa.wikipedia.org/wiki/سید_محمد_بهشتی
@@ -1144,10 +928,7 @@ events:
   month: 4
   day: 8
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/جنگ‌افزار_شیمیایی
 - key: 3410835387
@@ -1159,10 +940,7 @@ events:
   month: 4
   day: 8
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/بمباران_شیمیایی_سردشت
 - key: 3789023995
@@ -1173,10 +951,7 @@ events:
   month: 4
   day: 10
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/مهران
   - https://fa.wikipedia.org/wiki/عملیات_کربلای_۱
@@ -1188,10 +963,7 @@ events:
   month: 4
   day: 10
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/وزارت_صنعت،_معدن_و_تجارت
 - key: 453722865
@@ -1203,10 +975,7 @@ events:
   month: 4
   day: 11
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/محمد_صدوقی
 - key: 2656751724
@@ -1217,10 +986,7 @@ events:
   month: 4
   day: 12
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
 - key: 3328878056
   title:
     fa_IR: روز بزرگداشت علامه امینی
@@ -1230,10 +996,7 @@ events:
   month: 4
   day: 12
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/عبدالحسین_امینی
 - key: 3590039721
@@ -1245,10 +1008,7 @@ events:
   month: 4
   day: 12
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/پرواز_شماره_۶۵۵_ایران_ایر
 - key: 3374977263
@@ -1259,10 +1019,7 @@ events:
   month: 4
   day: 13
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/تیرگان
 - key: 576528509
@@ -1273,10 +1030,7 @@ events:
   month: 4
   day: 14
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/شهرداری
   - https://fa.wikipedia.org/wiki/دهیاری
@@ -1288,10 +1042,7 @@ events:
   month: 4
   day: 14
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/روز_قلم
 - key: 3574597271
@@ -1302,10 +1053,7 @@ events:
   month: 4
   day: 15
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/خام‌خواری
 - key: 2679762086
@@ -1316,10 +1064,7 @@ events:
   month: 4
   day: 16
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/مالیات
 - key: 357211414
@@ -1330,10 +1075,7 @@ events:
   month: 4
   day: 18
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/ادبیات_کودک
 - key: 2797985518
@@ -1345,10 +1087,7 @@ events:
   month: 4
   day: 18
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/کودتای_نوژه
 - key: 958815133
@@ -1359,10 +1098,7 @@ events:
   month: 4
   day: 21
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/روز_حجاب_و_عفاف
 - key: 3850697339
@@ -1374,10 +1110,7 @@ events:
   month: 4
   day: 21
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/واقعه_مسجد_گوهرشاد
 - key: 2747958339
@@ -1389,10 +1122,7 @@ events:
   month: 4
   day: 23
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/مجلس_خبرگان_رهبری
 - key: 3132398608
@@ -1404,10 +1134,7 @@ events:
   month: 4
   day: 23
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/برنامه_جامع_اقدام_مشترک
 - key: 1286171143
@@ -1418,10 +1145,7 @@ events:
   month: 4
   day: 25
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سازمان_بهزیستی_ایران
   - https://fa.wikipedia.org/wiki/سازمان_تأمین_اجتماعی
@@ -1433,10 +1157,7 @@ events:
   month: 4
   day: 26
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/شورای_نگهبان
 - key: 2468992829
@@ -1448,10 +1169,7 @@ events:
   month: 4
   day: 27
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/قطعنامه_۵۹۸_شورای_امنیت
 - key: 3579400120
@@ -1462,10 +1180,7 @@ events:
   month: 4
   day: 30
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سید_ابوالقاسم_کاشانی
 - key: 2057657424
@@ -1477,10 +1192,7 @@ events:
   month: 5
   day: 5
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/عملیات_مرصاد
 - key: 3458549719
@@ -1491,10 +1203,7 @@ events:
   month: 5
   day: 7
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/امردادگان
 - key: 921663045
@@ -1505,10 +1214,7 @@ events:
   month: 5
   day: 8
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/شهاب‌الدین_یحیی_سهروردی
 - key: 2821963977
@@ -1519,10 +1225,7 @@ events:
   month: 5
   day: 9
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
 - key: 2313583072
   title:
     fa_IR: شهادت آیت‌الله شیخ فضل‌الله نوری
@@ -1532,10 +1235,7 @@ events:
   month: 5
   day: 9
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/شیخ_فضل‌الله_نوری
 - key: 2681106840
@@ -1547,10 +1247,7 @@ events:
   month: 5
   day: 14
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/فرمان_مشروطیت
 - key: 351238337
@@ -1562,10 +1259,7 @@ events:
   month: 5
   day: 16
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/جهاد_دانشگاهی
 - key: 1271712603
@@ -1576,10 +1270,7 @@ events:
   month: 5
   day: 17
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/خبرنگار
 - key: 3442993088
@@ -1590,10 +1281,7 @@ events:
   month: 5
   day: 21
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
 - key: 4160877497
   title:
     fa_IR: روز تشکل‌ها و مشارکت‌های اجتماعی
@@ -1602,10 +1290,7 @@ events:
   month: 5
   day: 22
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
 - key: 1369500236
   title:
     fa_IR: روز مقاومت اسلامی
@@ -1614,10 +1299,7 @@ events:
   month: 5
   day: 23
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/حماس
 - key: 361943481
@@ -1629,10 +1311,7 @@ events:
   month: 5
   day: 26
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
 - key: 3343173336
   title:
     fa_IR: کودتای ۲۸ مرداد
@@ -1642,10 +1321,7 @@ events:
   month: 5
   day: 28
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/کودتای_۲۸_مرداد
 - key: 1512184698
@@ -1657,10 +1333,7 @@ events:
   month: 5
   day: 28
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/آتش‌سوزی_سینما_رکس_آبادان
 - key: 698504306
@@ -1672,10 +1345,7 @@ events:
   month: 5
   day: 28
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/مجلس_خبرگان_قانون_اساسی
 - key: 3651293109
@@ -1686,10 +1356,7 @@ events:
   month: 5
   day: 30
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/محمدباقر_مجلسی
 - key: 1299714406
@@ -1700,10 +1367,7 @@ events:
   month: 5
   day: 31
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سازمان_صنایع_دفاع_جمهوری_اسلامی_ایران
 - key: 3525773079
@@ -1714,10 +1378,7 @@ events:
   month: 6
   day: 1
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/روز_پزشک
 - key: 3548008849
@@ -1728,10 +1389,7 @@ events:
   month: 6
   day: 1
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/ابن_سینا
 - key: 2928980223
@@ -1742,10 +1400,7 @@ events:
   month: 6
   day: 1
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
 - key: 4144489568
   title:
     fa_IR: آغاز هفتهٔ دولت
@@ -1754,10 +1409,7 @@ events:
   month: 6
   day: 2
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
 - key: 4168511194
   title:
     fa_IR: شهادت سید علی اندرزگو
@@ -1767,10 +1419,7 @@ events:
   month: 6
   day: 2
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سید_علی_اندرزگو
 - key: 521560092
@@ -1781,10 +1430,7 @@ events:
   month: 6
   day: 3
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
 - key: 3180591399
   title:
     fa_IR: اشغال ایران به دست متفقین
@@ -1794,10 +1440,7 @@ events:
   month: 6
   day: 3
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/اشغال_ایران_در_جنگ_جهانی_دوم
 - key: 2228742716
@@ -1808,10 +1451,7 @@ events:
   month: 6
   day: 4
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/شهریورگان
 - key: 4125019352
@@ -1822,10 +1462,7 @@ events:
   month: 6
   day: 4
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
 - key: 3332237173
   title:
     fa_IR: تولد جهان پهلوان غلامرضاتختی و روز کشتی
@@ -1834,10 +1471,7 @@ events:
   month: 6
   day: 5
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/غلامرضا_تختی
   - https://fa.wikipedia.org/wiki/کشتی_(ورزش)
@@ -1849,10 +1483,7 @@ events:
   month: 6
   day: 5
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/زکریای_رازی
 - key: 4256896120
@@ -1863,10 +1494,7 @@ events:
   month: 6
   day: 5
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/روز_داروساز
 - key: 4062562703
@@ -1877,10 +1505,7 @@ events:
   month: 6
   day: 8
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
 - key: 3925161096
   title:
     fa_IR: روز مبارزه با تروریسم (انفجار دفتر نخست‌وزیری و شهادت رجایی و باهنر)
@@ -1890,10 +1515,7 @@ events:
   month: 6
   day: 8
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/انفجار_در_دفتر_نخست‌وزیری_جمهوری_اسلامی_ایران
 - key: 1476415964
@@ -1904,10 +1526,7 @@ events:
   month: 6
   day: 10
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/بانکداری_اسلامی
 - key: 4247921668
@@ -1918,10 +1537,7 @@ events:
   month: 6
   day: 11
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
 - key: 2336237651
   title:
     fa_IR: روز بهورز
@@ -1930,10 +1546,7 @@ events:
   month: 6
   day: 12
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
 - key: 2060556766
   title:
     fa_IR: روز مبارزه با استعمار انگلیس (سالروز شهادت رئیس‌علی دلواری)
@@ -1942,10 +1555,7 @@ events:
   month: 6
   day: 12
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/رئیس‌علی_دلواری
 - key: 3856623841
@@ -1956,10 +1566,7 @@ events:
   month: 6
   day: 13
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
 - key: 676179519
   title:
     fa_IR: روز بزرگداشت ابوریحان بیرونی
@@ -1968,10 +1575,7 @@ events:
   month: 6
   day: 13
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/ابوریحان_بیرونی
 - key: 4127805796
@@ -1982,10 +1586,7 @@ events:
   month: 6
   day: 13
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
 - key: 1286939006
   title:
     fa_IR: شهادت آیت‌الله قدوسی و سرتیپ وحید دستجردی
@@ -1995,10 +1596,7 @@ events:
   month: 6
   day: 14
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/هوشنگ_وحید_دستجردی
   - https://fa.wikipedia.org/wiki/علی_قدوسی
@@ -2010,10 +1608,7 @@ events:
   month: 6
   day: 15
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
 - key: 2060500682
   title:
     fa_IR: قیام ۱۷ شهریور و کشتار جمعی از مردم به دست مأموران پهلوی
@@ -2023,10 +1618,7 @@ events:
   month: 6
   day: 17
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/تظاهرات_۱۷_شهریور
 - key: 1082350250
@@ -2038,10 +1630,7 @@ events:
   month: 6
   day: 19
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سید_محمود_طالقانی
 - key: 999923469
@@ -2053,10 +1642,7 @@ events:
   month: 6
   day: 20
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/میر_اسدالله_مدنی
 - key: 1335108260
@@ -2067,10 +1653,7 @@ events:
   month: 6
   day: 21
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سینما
 - key: 1817153241
@@ -2081,10 +1664,7 @@ events:
   month: 6
   day: 27
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/روز_ملی_شعر_و_ادب
 - key: 4124978417
@@ -2095,10 +1675,7 @@ events:
   month: 6
   day: 27
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سید_محمدحسین_شهریار
 - key: 2014083761
@@ -2109,10 +1686,7 @@ events:
   month: 6
   day: 30
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/گفتگوی_تمدن‌ها
 - key: 742632063
@@ -2123,10 +1697,7 @@ events:
   month: 6
   day: 31
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/هفته_دفاع_مقدس
 - key: 928767737
@@ -2137,10 +1708,7 @@ events:
   month: 6
   day: 31
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
 - key: 1799406363
   title:
     fa_IR: آغاز جنگ تحمیلی
@@ -2150,10 +1718,7 @@ events:
   month: 6
   day: 31
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/تهاجم_عراق_به_ایران_(۱۳۵۹)
 - key: 677273170
@@ -2164,10 +1729,7 @@ events:
   month: 7
   day: 1
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
 - key: 79381293
   title:
     fa_IR: شکست حصر آبادان در عملیات ثامن‌الأئمه (ع)
@@ -2177,10 +1739,7 @@ events:
   month: 7
   day: 5
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/حصر_آبادان
   - https://fa.wikipedia.org/wiki/عملیات_ثامن‌الائمه
@@ -2192,10 +1751,7 @@ events:
   month: 7
   day: 7
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/جنگ_ایران_و_عراق
 - key: 1735775701
@@ -2206,10 +1762,7 @@ events:
   month: 7
   day: 7
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/شمس_تبریزی
 - key: 1102983856
@@ -2220,10 +1773,7 @@ events:
   month: 7
   day: 7
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/آتش‌نشانی
 - key: 2449429955
@@ -2235,10 +1785,7 @@ events:
   month: 7
   day: 7
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سقوط_هواپیمای_سی-۱۳۰_(۱۳۶۰)
 - key: 3614345665
@@ -2249,10 +1796,7 @@ events:
   month: 7
   day: 8
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/مولوی
 - key: 2850295616
@@ -2263,10 +1807,7 @@ events:
   month: 7
   day: 9
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/فلسطین
 - key: 1853424008
@@ -2277,10 +1818,7 @@ events:
   month: 7
   day: 12
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
 - key: 2237763524
   title:
     fa_IR: تیرروز، جشن تیرروزی
@@ -2289,10 +1827,7 @@ events:
   month: 7
   day: 13
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
 - key: 2647932883
   title:
     fa_IR: روز نیروی انتظامی
@@ -2301,10 +1836,7 @@ events:
   month: 7
   day: 13
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/نیروی_انتظامی_جمهوری_اسلامی_ایران
 - key: 3427179616
@@ -2316,10 +1848,7 @@ events:
   month: 7
   day: 13
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سید_روح‌الله_خمینی
 - key: 2119131782
@@ -2330,10 +1859,7 @@ events:
   month: 7
   day: 14
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/دامپزشکی
 - key: 2466134749
@@ -2344,10 +1870,7 @@ events:
   month: 7
   day: 14
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سلمان_فارسی
 - key: 2021686137
@@ -2358,10 +1881,7 @@ events:
   month: 7
   day: 15
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
 - key: 1742535812
   title:
     fa_IR: مهرروز، جشن مهرگان
@@ -2370,10 +1890,7 @@ events:
   month: 7
   day: 16
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
 - key: 2470686490
   title:
     fa_IR: روز اسکان معلولان و سالمندان
@@ -2382,10 +1899,7 @@ events:
   month: 7
   day: 20
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
 - key: 3479808510
   title:
     fa_IR: روز بزرگداشت حافظ
@@ -2394,10 +1908,7 @@ events:
   month: 7
   day: 20
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/حافظ
 - key: 770738158
@@ -2408,10 +1919,7 @@ events:
   month: 7
   day: 21
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
 - key: 3745408891
   title:
     fa_IR: شهادت آیت‌الله اشرفی اصفهانی
@@ -2421,10 +1929,7 @@ events:
   month: 7
   day: 23
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/عطاءالله_اشرفی_اصفهانی
 - key: 3643394849
@@ -2435,10 +1940,7 @@ events:
   month: 7
   day: 24
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
 - key: 2067670538
   title:
     fa_IR: روز ملی پارالمپیک
@@ -2447,10 +1949,7 @@ events:
   month: 7
   day: 24
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
 - key: 3714139021
   title:
     fa_IR: به آتش کشیده‌شدن مسجد جامع شهر کرمان
@@ -2460,10 +1959,7 @@ events:
   month: 7
   day: 24
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/واقعه_آتش‌سوزی_مسجد_جامع_کرمان
 - key: 3952889267
@@ -2474,10 +1970,7 @@ events:
   month: 7
   day: 26
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
 - key: 1708721223
   title:
     fa_IR: روز صادرات
@@ -2486,10 +1979,7 @@ events:
   month: 7
   day: 29
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/صادرات
 - key: 1674246300
@@ -2500,10 +1990,7 @@ events:
   month: 8
   day: 1
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
 - key: 3468639565
   title:
     fa_IR: اعتراض و افشاگری امام خمينی عليه پذيرش كاپيتولاسيون
@@ -2513,10 +2000,7 @@ events:
   month: 8
   day: 4
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/کاپیتولاسیون_در_ایران
 - key: 1445856497
@@ -2527,10 +2011,7 @@ events:
   month: 8
   day: 7
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/روز_کوروش_بزرگ
 - key: 40379592
@@ -2542,10 +2023,7 @@ events:
   month: 8
   day: 8
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/حسین_فهمیده
 - key: 273531530
@@ -2557,10 +2035,7 @@ events:
   month: 8
   day: 8
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سازمان_پدافند_غیر_عامل_کشور
 - key: 3071244398
@@ -2571,10 +2046,7 @@ events:
   month: 8
   day: 10
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/آبانگان
 - key: 3091895570
@@ -2586,10 +2058,7 @@ events:
   month: 8
   day: 10
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سید_محمدعلی_قاضی_طباطبایی
 - key: 721877014
@@ -2601,10 +2070,7 @@ events:
   month: 8
   day: 13
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/روز_دانش‌آموز
 - key: 1461399283
@@ -2616,10 +2082,7 @@ events:
   month: 8
   day: 13
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/گروگان‌گیری_در_سفارت_ایالات_متحده_آمریکا
 - key: 4221804972
@@ -2630,10 +2093,7 @@ events:
   month: 8
   day: 14
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
 - key: 1605777728
   title:
     fa_IR: گاهنبار اَیاثرَم، جشن میانهٔ پاییز
@@ -2642,10 +2102,7 @@ events:
   month: 8
   day: 15
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/گاهنبار
 - key: 3023026576
@@ -2656,10 +2113,7 @@ events:
   month: 8
   day: 18
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
 - key: 184672104
   title:
     fa_IR: روزكتاب، كتابخوانی و كتابدار
@@ -2668,10 +2122,7 @@ events:
   month: 8
   day: 24
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
 - key: 2334085000
   title:
     fa_IR: روز بزرگداشت آيت‌الله علامه سيدمحمدحسين طباطبايی
@@ -2680,10 +2131,7 @@ events:
   month: 8
   day: 24
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سید_محمدحسین_طباطبایی
 - key: 184970518
@@ -2694,10 +2142,7 @@ events:
   month: 8
   day: 26
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/عملیات_سوسنگرد
 - key: 2306228397
@@ -2708,10 +2153,7 @@ events:
   month: 9
   day: 1
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/آذرگان
 - key: 1291403105
@@ -2723,10 +2165,7 @@ events:
   month: 9
   day: 5
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
 - key: 2685745217
   title:
     fa_IR: تشکیل بسیج مستضعفان
@@ -2736,10 +2175,7 @@ events:
   month: 9
   day: 5
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/بسیج
 - key: 3881795665
@@ -2751,10 +2187,7 @@ events:
   month: 9
   day: 7
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/نیروی_دریایی_ارتش_جمهوری_اسلامی_ایران
 - key: 3990322107
@@ -2765,10 +2198,7 @@ events:
   month: 9
   day: 9
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/نیروی_دریایی_ارتش_جمهوری_اسلامی_ایران
 - key: 122381919
@@ -2779,10 +2209,7 @@ events:
   month: 9
   day: 9
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/شیخ_مفید
 - key: 1732103728
@@ -2794,10 +2221,7 @@ events:
   month: 9
   day: 10
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/روز_مجلس
 - key: 2953683589
@@ -2809,10 +2233,7 @@ events:
   month: 9
   day: 10
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سید_حسن_مدرس
 - key: 2610216273
@@ -2824,10 +2245,7 @@ events:
   month: 9
   day: 11
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/میرزا_کوچک_خان_جنگلی
 - key: 948984261
@@ -2839,10 +2257,7 @@ events:
   month: 9
   day: 12
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/قانون_اساسی_جمهوری_اسلامی_ایران
 - key: 2609870258
@@ -2854,10 +2269,7 @@ events:
   month: 9
   day: 13
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/بیمه
 - key: 1594549498
@@ -2868,10 +2280,7 @@ events:
   month: 9
   day: 16
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/روز_دانشجو
 - key: 1002788464
@@ -2883,10 +2292,7 @@ events:
   month: 9
   day: 18
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/قطعنامه_۵۹۸_شورای_امنیت
 - key: 494088636
@@ -2898,10 +2304,7 @@ events:
   month: 9
   day: 19
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/شورای_عالی_انقلاب_فرهنگی
 - key: 1677757705
@@ -2913,10 +2316,7 @@ events:
   month: 9
   day: 20
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سید_عبدالحسین_دستغیب
 - key: 1141123382
@@ -2927,10 +2327,7 @@ events:
   month: 9
   day: 25
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
 - key: 225008790
   title:
     fa_IR: روز حمل و نقل و رانندگان
@@ -2940,10 +2337,7 @@ events:
   month: 9
   day: 26
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/روز_ملی_حمل‌ونقل_ایران
 - key: 3937839527
@@ -2955,10 +2349,7 @@ events:
   month: 9
   day: 27
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/محمد_مفتح
   - https://fa.wikipedia.org/wiki/حوزه_علمیه
@@ -2971,10 +2362,7 @@ events:
   month: 9
   day: 29
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/محمدجواد_تندگویان
 - key: 1394495503
@@ -2985,10 +2373,7 @@ events:
   month: 9
   day: 30
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/شب_یلدا
 - key: 2222263762
@@ -2999,10 +2384,7 @@ events:
   month: 9
   day: 30
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/گاهنبار
 - key: 2679545892
@@ -3015,10 +2397,7 @@ events:
   month: 10
   day: 1
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/خرم‌روز
 - key: 2502023198
@@ -3029,10 +2408,7 @@ events:
   month: 10
   day: 3
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
 - key: 4282517583
   title:
     fa_IR: بازارجشن
@@ -3041,10 +2417,7 @@ events:
   month: 10
   day: 5
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
 - key: 498878940
   title:
     fa_IR: روز درگذشت زرتشت
@@ -3054,10 +2427,7 @@ events:
   month: 10
   day: 5
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/مرگ_زرتشت
 - key: 4206080512
@@ -3069,10 +2439,7 @@ events:
   month: 10
   day: 5
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
 - key: 2288013666
   title:
     fa_IR: شهادت آیت‌الله حسین غفاری
@@ -3082,10 +2449,7 @@ events:
   month: 10
   day: 7
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/حسین_غفاری_(روحانی)
 - key: 198097646
@@ -3097,10 +2461,7 @@ events:
   month: 10
   day: 7
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سازمان_نهضت_سوادآموزی
 - key: 1600623794
@@ -3111,10 +2472,7 @@ events:
   month: 10
   day: 8
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/جشن‌های_زرتشتی#جشن_دی‌گان
 - key: 493907254
@@ -3125,10 +2483,7 @@ events:
   month: 10
   day: 8
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
 - key: 1814254851
   title:
     fa_IR: روز بصيرت و ميثاق امت با ولايت
@@ -3137,10 +2492,7 @@ events:
   month: 10
   day: 9
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/راهپیمایی_۹_دی
 - key: 1613461881
@@ -3152,10 +2504,7 @@ events:
   month: 10
   day: 13
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/نامه_سید_روح‌الله_خمینی_به_میخائیل_گورباچف
 - key: 2124535227
@@ -3166,10 +2515,7 @@ events:
   month: 10
   day: 14
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
 - key: 1138203481
   title:
     fa_IR: جشن پیکرتراشی / دی‌به‌مهرروز، سومین جشن دیگان
@@ -3178,10 +2524,7 @@ events:
   month: 10
   day: 15
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/جشن‌های_زرتشتی#جشن_دی‌گان
 - key: 488737646
@@ -3192,10 +2535,7 @@ events:
   month: 10
   day: 16
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
 - key: 2207616313
   title:
     fa_IR: اجرای طرح حذف حجاب
@@ -3205,10 +2545,7 @@ events:
   month: 10
   day: 17
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/کشف_حجاب_در_ایران
 - key: 2571247473
@@ -3220,10 +2557,7 @@ events:
   month: 10
   day: 19
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/تظاهرات_۱۹_دی_قم
 - key: 2999915773
@@ -3235,10 +2569,7 @@ events:
   month: 10
   day: 20
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/امیرکبیر#قتل
 - key: 746842600
@@ -3250,10 +2581,7 @@ events:
   month: 10
   day: 22
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/شورای_انقلاب_اسلامی_ایران
 - key: 3509446021
@@ -3264,10 +2592,7 @@ events:
   month: 10
   day: 23
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/جشن‌های_زرتشتی#جشن_دی‌گان
 - key: 4065439629
@@ -3279,10 +2604,7 @@ events:
   month: 10
   day: 26
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/محمدرضا_پهلوی#انقلاب_۱۳۵۷_و_ترک_ایران
 - key: 2622502112
@@ -3294,10 +2616,7 @@ events:
   month: 10
   day: 27
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
 - key: 906328093
   title:
     fa_IR: روز غزه
@@ -3306,10 +2625,7 @@ events:
   month: 10
   day: 29
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
 - key: 2919746218
   title:
     fa_IR: زادروز فردوسی
@@ -3318,10 +2634,7 @@ events:
   month: 11
   day: 1
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/فردوسی
 - key: 2804458231
@@ -3332,10 +2645,7 @@ events:
   month: 11
   day: 2
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
 - key: 518326526
   title:
     fa_IR: جشن نوسَره
@@ -3344,10 +2654,7 @@ events:
   month: 11
   day: 5
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
 - key: 4122613660
   title:
     fa_IR: انتخابات اولین دورهٔ ریاست جمهوری
@@ -3357,10 +2664,7 @@ events:
   month: 11
   day: 5
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/انتخابات_ریاست‌جمهوری_ایران_(۱۳۵۸)
 - key: 1625572556
@@ -3372,10 +2676,7 @@ events:
   month: 11
   day: 6
   calendar:
-    en_US:
-    - Iran Pahlavi
-    fa_IR:
-    - ایران پهلوی
+  - Iran Pahlavi
   sources:
   - https://fa.wikipedia.org/wiki/انقلاب_سفید
 - key: 2473889926
@@ -3388,10 +2689,7 @@ events:
   month: 11
   day: 6
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/واقعه_۱۳۶۰_آمل
 - key: 47302973
@@ -3402,10 +2700,7 @@ events:
   month: 11
   day: 10
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/جشن_سده
 - key: 3646757858
@@ -3418,10 +2713,7 @@ events:
   month: 11
   day: 12
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/بازگشت_سید_روح‌الله_خمینی_به_ایران
 - key: 2411606272
@@ -3434,10 +2726,7 @@ events:
   month: 11
   day: 12
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/دهه_فجر
 - key: 2251671823
@@ -3450,10 +2739,7 @@ events:
   month: 11
   day: 14
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/روز_ملی_فناوری_فضایی
 - key: 3481530780
@@ -3464,10 +2750,7 @@ events:
   month: 11
   day: 15
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
 - key: 3036521262
   title:
     fa_IR: انتخاب مهدی بازرگان به نخست‌وزیری انقلاب
@@ -3477,10 +2760,7 @@ events:
   month: 11
   day: 16
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/مهدی_بازرگان#انقلاب_۱۳۵۷_خورشیدی
 - key: 3508621373
@@ -3492,10 +2772,7 @@ events:
   month: 11
   day: 19
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/نیروی_هوایی_ارتش_جمهوری_اسلامی_ایران
 - key: 1576954479
@@ -3507,10 +2784,7 @@ events:
   month: 11
   day: 21
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/دهه_فجر#رویدادهای_۲۱_بهمن
 - key: 1267622916
@@ -3521,10 +2795,7 @@ events:
   month: 11
   day: 22
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
 - key: 372463608
   title:
     fa_IR: پیروزی انقلاب اسلامی ایران و سقوط نظام شاهنشاهی
@@ -3534,10 +2805,7 @@ events:
   month: 11
   day: 22
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   holiday:
     Iran: []
   sources:
@@ -3551,10 +2819,7 @@ events:
   month: 11
   day: 25
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سلمان_رشدی#فتوای_قتل
 - key: 1012996184
@@ -3565,10 +2830,7 @@ events:
   month: 11
   day: 29
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/جشن_سپندارمذگان
 - key: 1011811046
@@ -3580,10 +2842,7 @@ events:
   month: 11
   day: 29
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/تظاهرات_۲۹_بهمن_تبریز
 - key: 3048677326
@@ -3594,10 +2853,7 @@ events:
   month: 12
   day: 1
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
 - key: 692716334
   title:
     fa_IR: کودتای رضاخان
@@ -3607,10 +2863,7 @@ events:
   month: 12
   day: 3
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/کودتای_۳_اسفند_۱۲۹۹
 - key: 2022109073
@@ -3621,10 +2874,7 @@ events:
   month: 12
   day: 5
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/جشن_سپندارمذگان
 - key: 3641538488
@@ -3635,10 +2885,7 @@ events:
   month: 12
   day: 5
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/روز_مهندس
 - key: 2408904087
@@ -3649,10 +2896,7 @@ events:
   month: 12
   day: 7
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
 - key: 3243098950
   title:
     fa_IR: سالروز درگذشت علی اکبر دهخدا
@@ -3662,10 +2906,7 @@ events:
   month: 12
   day: 7
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/علی‌اکبر_دهخدا
 - key: 2979393316
@@ -3676,10 +2917,7 @@ events:
   month: 12
   day: 8
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
 - key: 3480320380
   title:
     fa_IR: روز ملی حمایت از حقوق مصرف‌کنندگان
@@ -3688,10 +2926,7 @@ events:
   month: 12
   day: 9
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/حمایت_از_مصرف‌کننده
 - key: 3019924643
@@ -3702,10 +2937,7 @@ events:
   month: 12
   day: 10
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
 - key: 2863594514
   title:
     fa_IR: روز احسان و نیکوکاری و روز تأسیس کمیته امداد امام خمینی
@@ -3715,10 +2947,7 @@ events:
   month: 12
   day: 14
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/کمیته_امداد_امام_خمینی
 - key: 3040617981
@@ -3729,10 +2958,7 @@ events:
   month: 12
   day: 15
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/روز_درخت‌کاری
 - key: 3318503156
@@ -3743,10 +2969,7 @@ events:
   month: 12
   day: 18
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
 - key: 1689389888
   title:
     fa_IR: روز بزرگداشت سید جمال‌الدین اسدآبادی
@@ -3756,10 +2979,7 @@ events:
   month: 12
   day: 18
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/سید_جمال‌الدین_اسدآبادی
 - key: 304958038
@@ -3770,10 +2990,7 @@ events:
   month: 12
   day: 19
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/جشن_نوروز_رودها
 - key: 1087647552
@@ -3784,10 +3001,7 @@ events:
   month: 12
   day: 20
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/راهیان_نور
 - key: 1073186056
@@ -3798,10 +3012,7 @@ events:
   month: 12
   day: 20
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
 - key: 586034324
   title:
     fa_IR: روز بزرگداشت نظامی گنجوی
@@ -3810,10 +3021,7 @@ events:
   month: 12
   day: 21
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/نظامی_گنجوی
 - key: 26447559
@@ -3825,10 +3033,7 @@ events:
   month: 12
   day: 22
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
 - key: 1834714338
   title:
     fa_IR: برگزاری انتخابات اولین دورهٔ مجلس شورای اسلامی
@@ -3838,10 +3043,7 @@ events:
   month: 12
   day: 24
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/دوره_نخست_مجلس_شورای_اسلامی
 - key: 3568323225
@@ -3852,10 +3054,7 @@ events:
   month: 12
   day: 25
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/شاهنامه
 - key: 1016800166
@@ -3867,10 +3066,7 @@ events:
   month: 12
   day: 25
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/پروین_اعتصامی
 - key: 771972650
@@ -3882,10 +3078,7 @@ events:
   month: 12
   day: 25
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
   - https://fa.wikipedia.org/wiki/حمله_شیمیایی_به_حلبچه
 - key: 1344612988
@@ -3896,10 +3089,7 @@ events:
   month: 12
   day: 26
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
   - https://fa.wikipedia.org/wiki/فروردگان
 - key: 2225627556
@@ -3914,10 +3104,7 @@ events:
   month: 12
   day: 29
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
 - key: 224704606
   title:
     fa_IR: روز ملی شدن صنعت نفت ایران
@@ -3927,10 +3114,7 @@ events:
   month: 12
   day: 29
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   holiday:
     Iran: []
   sources:
