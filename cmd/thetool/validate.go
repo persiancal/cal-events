@@ -34,6 +34,10 @@ func textValidator(s string, rs ...interface{}) error {
 }
 
 func validate(cmd *command, fl *File) error {
+	if err := validateEventCalendar(fl); err != nil {
+		return fmt.Errorf("validate calendars failed: %w", err)
+	}
+
 	if err := validateEventContent(fl.Events, fl.Months, fl.Countries); err != nil {
 		return fmt.Errorf("validate events failed: %w", err)
 	}
@@ -131,6 +135,25 @@ func validateEventOrder(ev []Event) error {
 		}
 
 		year, lastIdx = ev[i].Year, ev[i].idx()
+	}
+
+	return nil
+}
+
+func validateEventCalendar(fl *File) error {
+	for _, ev := range fl.Events {
+		if len(ev.Calendar) == 0 {
+			return fmt.Errorf("event %q has no calendar", ev.PartialKey)
+		}
+	middleLoop:
+		for _, c := range ev.Calendar {
+			for _, cv := range fl.Calendars {
+				if cv["en_US"] == c {
+					continue middleLoop
+				}
+			}
+			return fmt.Errorf("calendar %q for event %q is invalid", c, ev.PartialKey)
+		}
 	}
 
 	return nil
