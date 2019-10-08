@@ -1,5 +1,5 @@
 events:
-- partial_key: "anniversary_of_operation_mersad"
+- partial_key: anniversary_of_operation_mersad
   title:
     fa_IR: سالروز عملیات مرصاد
   description:
@@ -8,13 +8,10 @@ events:
   month: 5
   day: 5
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/عملیات_مرصاد
-- partial_key: "amordadgan"
+  - https://fa.wikipedia.org/wiki/عملیات_مرصاد
+- partial_key: amordadgan
   title:
     fa_IR: امردادگان
   description:
@@ -22,13 +19,10 @@ events:
   month: 5
   day: 7
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
-    - https://fa.wikipedia.org/wiki/امردادگان
-- partial_key: "commemoration_of_suhrawardi"
+  - https://fa.wikipedia.org/wiki/امردادگان
+- partial_key: commemoration_of_suhrawardi
   title:
     fa_IR: روز بزرگداشت شیخ شهاب‌الدین سهروردی (شیخ اشراق)
   description:
@@ -36,13 +30,10 @@ events:
   month: 5
   day: 8
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/شهاب‌الدین_یحیی_سهروردی
-- partial_key: "blood_donation_day"
+  - https://fa.wikipedia.org/wiki/شهاب‌الدین_یحیی_سهروردی
+- partial_key: blood_donation_day
   title:
     fa_IR: روز اهدای خون
   description:
@@ -50,11 +41,8 @@ events:
   month: 5
   day: 9
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "death_of_sheikh_fazlullah_nouri"
+  - Iran Official
+- partial_key: death_of_sheikh_fazlullah_nouri
   title:
     fa_IR: شهادت آیت‌الله شیخ فضل‌الله نوری
   description:
@@ -63,13 +51,10 @@ events:
   month: 5
   day: 9
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/شیخ_فضل‌الله_نوری
-- partial_key: "mashrootiat_ordinance"
+  - https://fa.wikipedia.org/wiki/شیخ_فضل‌الله_نوری
+- partial_key: mashrootiat_ordinance
   title:
     fa_IR: صدور فرمان مشروطیت
   description:
@@ -78,13 +63,10 @@ events:
   month: 5
   day: 14
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/فرمان_مشروطیت
-- partial_key: "acecr_establishment"
+  - https://fa.wikipedia.org/wiki/فرمان_مشروطیت
+- partial_key: acecr_establishment
   title:
     fa_IR: تشکیل جهاد دانشگاهی
   description:
@@ -93,13 +75,10 @@ events:
   month: 5
   day: 16
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/جهاد_دانشگاهی
-- partial_key: "journalists_day"
+  - https://fa.wikipedia.org/wiki/جهاد_دانشگاهی
+- partial_key: journalists_day
   title:
     fa_IR: روز خبرنگار
   description:
@@ -107,13 +86,10 @@ events:
   month: 5
   day: 17
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/خبرنگار
-- partial_key: "small_industries_day"
+  - https://fa.wikipedia.org/wiki/خبرنگار
+- partial_key: small_industries_day
   title:
     fa_IR: روز حمایت از صنایع کوچک
   description:
@@ -121,11 +97,8 @@ events:
   month: 5
   day: 21
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "social_organizations_day"
+  - Iran Official
+- partial_key: social_organizations_day
   title:
     fa_IR: روز تشکل‌ها و مشارکت‌های اجتماعی
   description:
@@ -133,11 +106,8 @@ events:
   month: 5
   day: 22
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "hamas_day"
+  - Iran Official
+- partial_key: hamas_day
   title:
     fa_IR: روز مقاومت اسلامی
   description:
@@ -145,13 +115,10 @@ events:
   month: 5
   day: 23
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/حماس
-- partial_key: "return_of_captives_to_iran"
+  - https://fa.wikipedia.org/wiki/حماس
+- partial_key: return_of_captives_to_iran
   title:
     fa_IR: آغاز بازگشت آزادگان به ایران
   description:
@@ -160,11 +127,8 @@ events:
   month: 5
   day: 26
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "1953_iranian_coup_detat"
+  - Iran Official
+- partial_key: 1953_iranian_coup_detat
   title:
     fa_IR: کودتای ۲۸ مرداد
   description:
@@ -173,13 +137,10 @@ events:
   month: 5
   day: 28
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/کودتای_۲۸_مرداد
-- partial_key: "cinema_rex_fire"
+  - https://fa.wikipedia.org/wiki/کودتای_۲۸_مرداد
+- partial_key: cinema_rex_fire
   title:
     fa_IR: آتش‌سوزی سینما رکس آبادان
   description:
@@ -188,13 +149,10 @@ events:
   month: 5
   day: 28
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/آتش‌سوزی_سینما_رکس_آبادان
-- partial_key: "start_day_of_assembly_of_experts_for_constitution"
+  - https://fa.wikipedia.org/wiki/آتش‌سوزی_سینما_رکس_آبادان
+- partial_key: start_day_of_assembly_of_experts_for_constitution
   title:
     fa_IR: گشایش مجلس خبرگان برای بررسی نهایی قانون اساسی جمهوری اسلامی ایران
   description:
@@ -203,13 +161,10 @@ events:
   month: 5
   day: 28
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/مجلس_خبرگان_قانون_اساسی
-- partial_key: "commemoration_of_majlesi"
+  - https://fa.wikipedia.org/wiki/مجلس_خبرگان_قانون_اساسی
+- partial_key: commemoration_of_majlesi
   title:
     fa_IR: روز بزرگداشت علامه مجلسی
   description:
@@ -217,13 +172,10 @@ events:
   month: 5
   day: 30
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/محمدباقر_مجلسی
-- partial_key: "defence_industries_day"
+  - https://fa.wikipedia.org/wiki/محمدباقر_مجلسی
+- partial_key: defence_industries_day
   title:
     fa_IR: روز صنعت دفاعی
   description:
@@ -231,9 +183,6 @@ events:
   month: 5
   day: 31
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/سازمان_صنایع_دفاع_جمهوری_اسلامی_ایران
+  - https://fa.wikipedia.org/wiki/سازمان_صنایع_دفاع_جمهوری_اسلامی_ایران

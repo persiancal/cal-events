@@ -55,7 +55,7 @@ func isValidCountry(c string, list []string) bool {
 	return false
 }
 
-func validateEventContent(ev []Event, p *Preset, countries []string) error {
+func validateEventContent(ev []Event, p *Months, countries []string) error {
 	for i := range ev {
 		if ev[i].Key != 0 {
 			return fmt.Errorf("the Key should not be in the input file")
@@ -74,10 +74,8 @@ func validateEventContent(ev []Event, p *Preset, countries []string) error {
 		}
 
 		for l, t := range ev[i].Calendar {
-			for idx, r := range t {
-				if err := textValidator(r, ev[i].PartialKey, "calendar", l, idx); err != nil {
-					return err
-				}
+			if err := textValidator(t, ev[i].PartialKey, "calendar", l, t); err != nil {
+				return err
 			}
 		}
 
@@ -93,12 +91,12 @@ func validateEventContent(ev []Event, p *Preset, countries []string) error {
 			return fmt.Errorf("the partial key %q is invalid, only lower english chars, _ and numbers are allowed ([a-z0-9_])", ev[i].PartialKey)
 		}
 
-		if ev[i].Month <= 0 || ev[i].Month > len(p.MonthsNormal) {
+		if ev[i].Month <= 0 || ev[i].Month > len(p.Normal) {
 			return fmt.Errorf("invalid month on key %d", i)
 		}
 
-		max := p.MonthsNormal[ev[i].Month-1]
-		if leap := p.MonthsLeap[ev[i].Month-1]; leap > max {
+		max := p.Normal[ev[i].Month-1]
+		if leap := p.Leap[ev[i].Month-1]; leap > max {
 			max = leap
 		}
 
