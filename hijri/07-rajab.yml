@@ -1,5 +1,5 @@
 events:
-- partial_key: "birthday_of_mohammad_al_baqir"
+- partial_key: birthday_of_mohammad_al_baqir
   title:
     fa_IR: ولادت امام محمد باقر، پنجمین امام شیعه دوازده‌امامی
   description:
@@ -9,12 +9,14 @@ events:
   day: 1
   calendar:
     en_US:
-      - Shia
+    - Shia
     fa_IR:
-      - شیعه
+    - شیعه
+  new_calendar:
+  - Shia
   sources:
-    - https://fa.wikipedia.org/wiki/محمد_باقر#تولد_و_سالهای_اولیه_زندگی
-- partial_key: "martyrdom_of_ali_al_naghi"
+  - https://fa.wikipedia.org/wiki/محمد_باقر#تولد_و_سالهای_اولیه_زندگی
+- partial_key: martyrdom_of_ali_al_naghi
   title:
     fa_IR: درگذشت علی النقی
   description:
@@ -24,12 +26,14 @@ events:
   day: 3
   calendar:
     en_US:
-      - Shia
+    - Shia
     fa_IR:
-      - شیعه
+    - شیعه
+  new_calendar:
+  - Shia
   sources:
-    - https://fa.wikipedia.org/wiki/علی_النقی#قتل_و_مرگ
-- partial_key: "birthday_of_mohammad_taqi"
+  - https://fa.wikipedia.org/wiki/علی_النقی#قتل_و_مرگ
+- partial_key: birthday_of_mohammad_taqi
   title:
     fa_IR: ولادت محمد تقی
   description:
@@ -39,12 +43,14 @@ events:
   day: 10
   calendar:
     en_US:
-      - Shia
+    - Shia
     fa_IR:
-      - شیعه
+    - شیعه
+  new_calendar:
+  - Shia
   sources:
-    - https://fa.wikipedia.org/wiki/محمد_تقی#تولد_و_سالهای_اولیه_زندگی
-- partial_key: "birthday_of_imam_ali"
+  - https://fa.wikipedia.org/wiki/محمد_تقی#تولد_و_سالهای_اولیه_زندگی
+- partial_key: birthday_of_imam_ali
   title:
     fa_IR: ولادت علی بن ابی‌طالب
   description:
@@ -53,12 +59,14 @@ events:
   day: 13
   calendar:
     en_US:
-      - Shia
+    - Shia
     fa_IR:
-      - شیعه
+    - شیعه
+  new_calendar:
+  - Shia
   sources:
-    - https://fa.wikipedia.org/wiki/علی_بن_ابی‌طالب
-- partial_key: "white_day_beginning"
+  - https://fa.wikipedia.org/wiki/علی_بن_ابی‌طالب
+- partial_key: white_day_beginning
   title:
     fa_IR: آغاز ایام البیض
   description:
@@ -67,12 +75,14 @@ events:
   day: 13
   calendar:
     en_US:
-      - Islamic Republic Of Iran
+    - Islamic Republic Of Iran
     fa_IR:
-      - جمهوری اسلامی ایران
+    - جمهوری اسلامی ایران
+  new_calendar:
+  - Islamic Republic Of Iran
   sources:
-    - https://fa.wikipedia.org/wiki/روزهای_سپید
-- partial_key: "qibla_shifted"
+  - https://fa.wikipedia.org/wiki/روزهای_سپید
+- partial_key: qibla_shifted
   title:
     fa_IR: تغییر قبله مسلمین
   description:
@@ -82,12 +92,14 @@ events:
   day: 15
   calendar:
     en_US:
-      - Islamic Republic Of Iran
+    - Islamic Republic Of Iran
     fa_IR:
-      - جمهوری اسلامی ایران
+    - جمهوری اسلامی ایران
+  new_calendar:
+  - Islamic Republic Of Iran
   sources:
-    - https://fa.wikipedia.org/wiki/قبله#قبله_مسلمانان
-- partial_key: "demise_of_zaynab_bint_ali"
+  - https://fa.wikipedia.org/wiki/قبله#قبله_مسلمانان
+- partial_key: demise_of_zaynab_bint_ali
   title:
     fa_IR: درگذشت زینب الکبری بنت علی
   description:
@@ -97,27 +109,31 @@ events:
   day: 15
   calendar:
     en_US:
-      - Shia
+    - Shia
     fa_IR:
-      - شیعه
+    - شیعه
+  new_calendar:
+  - Shia
   sources:
-    - https://fa.wikipedia.org/wiki/زینب#وفات
-- partial_key: "muawiyah_i_death"
+  - https://fa.wikipedia.org/wiki/زینب#وفات
+- partial_key: muawiyah_i_death
   title:
     fa_IR: درگذشت معاویة بن ابی‌سفیان
   description:
     fa_IR: درگذشت معاویة بن ابی‌سفیان
+  year: 60
   month: 7
   day: 22
-  year: 60
   calendar:
     en_US:
-      - Islamic
+    - Islamic
     fa_IR:
-      - اسلامی
+    - اسلامی
+  new_calendar:
+  - Islamic
   sources:
-    - https://fa.wikipedia.org/wiki/معاویة_بن_ابی‌سفیان#درگذشت
-- partial_key: "martyrdom_of_musa_al_kadhim"
+  - https://fa.wikipedia.org/wiki/معاویة_بن_ابی‌سفیان#درگذشت
+- partial_key: martyrdom_of_musa_al_kadhim
   title:
     fa_IR: درگذشت موسی کاظم
   description:
@@ -127,12 +143,14 @@ events:
   day: 25
   calendar:
     en_US:
-      - Shia
+    - Shia
     fa_IR:
-      - شیعه
+    - شیعه
+  new_calendar:
+  - Shia
   sources:
-    - https://fa.wikipedia.org/wiki/موسی_کاظم#حبس_و_کشته‌شدن
-- partial_key: "ascension_of_prophet_mohammad"
+  - https://fa.wikipedia.org/wiki/موسی_کاظم#حبس_و_کشته‌شدن
+- partial_key: ascension_of_prophet_mohammad
   title:
     fa_IR: عید مبعث
   description:
@@ -141,8 +159,10 @@ events:
   day: 27
   calendar:
     en_US:
-      - Islamic Republic Of Iran
+    - Islamic Republic Of Iran
     fa_IR:
-      - جمهوری اسلامی ایران
+    - جمهوری اسلامی ایران
+  new_calendar:
+  - Islamic Republic Of Iran
   sources:
-    - https://fa.wikipedia.org/wiki/مبعث
+  - https://fa.wikipedia.org/wiki/مبعث

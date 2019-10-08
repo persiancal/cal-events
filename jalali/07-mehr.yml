@@ -1,5 +1,5 @@
 events:
-- partial_key: "mitrakana_celebration"
+- partial_key: mitrakana_celebration
   title:
     fa_IR: جشن میتراکانا / سال نو هخامنشی
   description:
@@ -11,7 +11,9 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "operation_samen_ol_a_emeh"
+  new_calendar:
+  - Ancient Iran
+- partial_key: operation_samen_ol_a_emeh
   title:
     fa_IR: شکست حصر آبادان در عملیات ثامن‌الأئمه (ع)
   description:
@@ -24,10 +26,12 @@ events:
     - Iran
     fa_IR:
     - ایران
+  new_calendar:
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/حصر_آبادان
-    - https://fa.wikipedia.org/wiki/عملیات_ثامن‌الائمه
-- partial_key: "iran_iraq_war_martyrs_day"
+  - https://fa.wikipedia.org/wiki/حصر_آبادان
+  - https://fa.wikipedia.org/wiki/عملیات_ثامن‌الائمه
+- partial_key: iran_iraq_war_martyrs_day
   title:
     fa_IR: روز بزرگداشت فرماندهان شهید دفاع مقدس
   description:
@@ -39,9 +43,11 @@ events:
     - Iran
     fa_IR:
     - ایران
+  new_calendar:
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/جنگ_ایران_و_عراق
-- partial_key: "shams_tabrizi_commemoration_day"
+  - https://fa.wikipedia.org/wiki/جنگ_ایران_و_عراق
+- partial_key: shams_tabrizi_commemoration_day
   title:
     fa_IR: روز بزرگداشت شمس
   description:
@@ -53,9 +59,11 @@ events:
     - Iran
     fa_IR:
     - ایران
+  new_calendar:
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/شمس_تبریزی
-- partial_key: "firefighting_day"
+  - https://fa.wikipedia.org/wiki/شمس_تبریزی
+- partial_key: firefighting_day
   title:
     fa_IR: روز آتش‌نشانی و ایمنی
   description:
@@ -67,9 +75,11 @@ events:
     - Iran
     fa_IR:
     - ایران
+  new_calendar:
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/آتش‌نشانی
-- partial_key: "1981_iranian_air_force_c_130_crash"
+  - https://fa.wikipedia.org/wiki/آتش‌نشانی
+- partial_key: 1981_iranian_air_force_c_130_crash
   title:
     fa_IR: شهادت فلاحی، فکوری، نامجو، کلاهدوز و جهان‌آرا از فرماندهان ارتش و سپاه
   description:
@@ -82,9 +92,11 @@ events:
     - Iran
     fa_IR:
     - ایران
+  new_calendar:
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/سقوط_هواپیمای_سی-۱۳۰_(۱۳۶۰)
-- partial_key: "mowlavi_commemoration_day"
+  - https://fa.wikipedia.org/wiki/سقوط_هواپیمای_سی-۱۳۰_(۱۳۶۰)
+- partial_key: mowlavi_commemoration_day
   title:
     fa_IR: روز بزرگداشت مولوی
   description:
@@ -96,9 +108,11 @@ events:
     - Iran
     fa_IR:
     - ایران
+  new_calendar:
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/مولوی
-- partial_key: "solidarity_with_palestinian_children_day"
+  - https://fa.wikipedia.org/wiki/مولوی
+- partial_key: solidarity_with_palestinian_children_day
   title:
     fa_IR: روز همبستگی و همدردی با کودکان و نوجوانان فلسطینی
   description:
@@ -110,9 +124,11 @@ events:
     - Iran
     fa_IR:
     - ایران
+  new_calendar:
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/فلسطین
-- partial_key: "tirgan"
+  - https://fa.wikipedia.org/wiki/فلسطین
+- partial_key: tirgan
   title:
     fa_IR: آیین قالیشویان اردهال، بازماندی از تیرگان
   description:
@@ -124,7 +140,9 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "tirozi_celebration"
+  new_calendar:
+  - Ancient Iran
+- partial_key: tirozi_celebration
   title:
     fa_IR: تیرروز، جشن تیرروزی
   description:
@@ -136,7 +154,9 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "naja_day"
+  new_calendar:
+  - Ancient Iran
+- partial_key: naja_day
   title:
     fa_IR: روز نیروی انتظامی
   description:
@@ -148,9 +168,11 @@ events:
     - Iran
     fa_IR:
     - ایران
+  new_calendar:
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/نیروی_انتظامی_جمهوری_اسلامی_ایران
-- partial_key: "ruhollah_khomeini_migration_from_iraq_to_paris"
+  - https://fa.wikipedia.org/wiki/نیروی_انتظامی_جمهوری_اسلامی_ایران
+- partial_key: ruhollah_khomeini_migration_from_iraq_to_paris
   title:
     fa_IR: هجرت آیت‌الله روح‌الله خمینی از عراق به پاریس
   description:
@@ -163,9 +185,11 @@ events:
     - Iran
     fa_IR:
     - ایران
+  new_calendar:
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/سید_روح‌الله_خمینی
-- partial_key: "veterinary_medicine_day"
+  - https://fa.wikipedia.org/wiki/سید_روح‌الله_خمینی
+- partial_key: veterinary_medicine_day
   title:
     fa_IR: روز دامپزشکی
   description:
@@ -177,9 +201,11 @@ events:
     - Iran
     fa_IR:
     - ایران
+  new_calendar:
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/دامپزشکی
-- partial_key: "salman_farsi_commemoration_day"
+  - https://fa.wikipedia.org/wiki/دامپزشکی
+- partial_key: salman_farsi_commemoration_day
   title:
     fa_IR: روز بزرگداشت سلمان فارسی
   description:
@@ -191,9 +217,11 @@ events:
     - Iran
     fa_IR:
     - ایران
+  new_calendar:
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/سلمان_فارسی
-- partial_key: "village_and_ashayir_day"
+  - https://fa.wikipedia.org/wiki/سلمان_فارسی
+- partial_key: village_and_ashayir_day
   title:
     fa_IR: روز روستا و عشایر
   description:
@@ -205,7 +233,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "mehrgan_celebration"
+  new_calendar:
+  - Iran Official
+- partial_key: mehrgan_celebration
   title:
     fa_IR: مهرروز، جشن مهرگان
   description:
@@ -217,7 +247,9 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "salmandan_day"
+  new_calendar:
+  - Ancient Iran
+- partial_key: salmandan_day
   title:
     fa_IR: روز اسکان معلولان و سالمندان
   description:
@@ -229,7 +261,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "hafez_commemoration_day"
+  new_calendar:
+  - Iran Official
+- partial_key: hafez_commemoration_day
   title:
     fa_IR: روز بزرگداشت حافظ
   description:
@@ -241,9 +275,11 @@ events:
     - Iran
     fa_IR:
     - ایران
+  new_calendar:
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/حافظ
-- partial_key: "ramrozi_celebration"
+  - https://fa.wikipedia.org/wiki/حافظ
+- partial_key: ramrozi_celebration
   title:
     fa_IR: رام‌روز، جشن رام‌روزی / جشن پیروزی کاوه و فریدون
   description:
@@ -255,7 +291,9 @@ events:
     - Ancient Iran
     fa_IR:
     - باستانی
-- partial_key: "ata_ollah_ashrafi_esfahani_martyrdom"
+  new_calendar:
+  - Ancient Iran
+- partial_key: ata_ollah_ashrafi_esfahani_martyrdom
   title:
     fa_IR: شهادت آیت‌الله اشرفی اصفهانی
   description:
@@ -268,9 +306,11 @@ events:
     - Iran
     fa_IR:
     - ایران
+  new_calendar:
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/عطاءالله_اشرفی_اصفهانی
-- partial_key: "parent_day"
+  - https://fa.wikipedia.org/wiki/عطاءالله_اشرفی_اصفهانی
+- partial_key: parent_day
   title:
     fa_IR: روز پیوند اولیا و مربیان
   description:
@@ -282,7 +322,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "national_paralympic_day"
+  new_calendar:
+  - Iran Official
+- partial_key: national_paralympic_day
   title:
     fa_IR: روز ملی پارالمپیک
   description:
@@ -294,7 +336,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "kerman_mosque"
+  new_calendar:
+  - Iran Official
+- partial_key: kerman_mosque
   title:
     fa_IR: به آتش کشیده‌شدن مسجد جامع شهر کرمان
   description:
@@ -307,9 +351,11 @@ events:
     - Iran
     fa_IR:
     - ایران
+  new_calendar:
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/واقعه_آتش‌سوزی_مسجد_جامع_کرمان
-- partial_key: "physical_education_and_sports_day"
+  - https://fa.wikipedia.org/wiki/واقعه_آتش‌سوزی_مسجد_جامع_کرمان
+- partial_key: physical_education_and_sports_day
   title:
     fa_IR: روز تربیت بدنی و ورزش
   description:
@@ -321,7 +367,9 @@ events:
     - Iran
     fa_IR:
     - ایران
-- partial_key: "national_export_day"
+  new_calendar:
+  - Iran Official
+- partial_key: national_export_day
   title:
     fa_IR: روز صادرات
   description:
@@ -333,5 +381,7 @@ events:
     - Iran
     fa_IR:
     - ایران
+  new_calendar:
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/صادرات
+  - https://fa.wikipedia.org/wiki/صادرات

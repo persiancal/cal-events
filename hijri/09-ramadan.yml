@@ -1,5 +1,5 @@
 events:
-- partial_key: "imam_hasan_birthday"
+- partial_key: imam_hasan_birthday
   title:
     fa_IR: ولادت امام حسن مجتبی علیه‌السلام
   description:
@@ -7,28 +7,32 @@ events:
   year: 3
   month: 9
   day: 15
-  calender:
+  calendar:
     en_US:
     - Shia
     fa_IR:
     - شیعه
+  new_calendar:
+  - Shia
   sources:
-    - https://fa.wikipedia.org/wiki/حسن_مجتبی
-- partial_key: "qadr_night1"
+  - https://fa.wikipedia.org/wiki/حسن_مجتبی
+- partial_key: qadr_night1
   title:
     fa_IR: شب قدر اول
   description:
     fa_IR: شب دعا و مناجات
   month: 9
   day: 19
-  calender:
+  calendar:
     en_US:
     - Shia
     fa_IR:
     - شیعه
+  new_calendar:
+  - Shia
   sources:
-    - https://fa.wikipedia.org/wiki/شب_قدر
-- partial_key: "imam_ali_whacked"
+  - https://fa.wikipedia.org/wiki/شب_قدر
+- partial_key: imam_ali_whacked
   title:
     fa_IR: سالروز ضربت خوردن حضرت علی علیه‌السلام
   description:
@@ -36,28 +40,32 @@ events:
   year: 40
   month: 9
   day: 19
-  calender:
+  calendar:
     en_US:
     - Shia
     fa_IR:
     - شیعه
+  new_calendar:
+  - Shia
   sources:
-    - https://fa.wikipedia.org/wiki/علی_بن_ابی‌طالب
-- partial_key: "qadr_night2"
+  - https://fa.wikipedia.org/wiki/علی_بن_ابی‌طالب
+- partial_key: qadr_night2
   title:
     fa_IR: شب قدر دوم
   description:
     fa_IR: شب دعا و مناجات
   month: 9
   day: 21
-  calender:
+  calendar:
     en_US:
     - Shia
     fa_IR:
     - شیعه
+  new_calendar:
+  - Shia
   sources:
-    - https://fa.wikipedia.org/wiki/شب_قدر
-- partial_key: "imam_ali_martyrdom"
+  - https://fa.wikipedia.org/wiki/شب_قدر
+- partial_key: imam_ali_martyrdom
   title:
     fa_IR: شهادت امام علی علیه‌السلام
   description:
@@ -65,12 +73,14 @@ events:
   year: 40
   month: 9
   day: 21
-  calender:
+  calendar:
     en_US:
     - Shia
     fa_IR:
     - شیعه
+  new_calendar:
+  - Shia
   holiday:
     Iran: []
   sources:
-    - https://fa.wikipedia.org/wiki/علی_بن_ابی‌طالب
+  - https://fa.wikipedia.org/wiki/علی_بن_ابی‌طالب

@@ -1,12 +1,12 @@
 events:
-- partial_key: "siffin_war"
+- partial_key: siffin_war
   title:
     fa_IR: جنگ صفین
   description:
     fa_IR: جنگ صفین
+  year: 37
   month: 2
   day: 1
-  year: 37
   calendar:
     en_US:
     - Iran
@@ -14,16 +14,19 @@ events:
     fa_IR:
     - ایران
     - اسلامی
+  new_calendar:
+  - Iran Official
+  - Islamic
   sources:
-    - https://fa.wikipedia.org/wiki/نبرد_صفین
-- partial_key: "arriving_karbala_capatives_to_sham"
+  - https://fa.wikipedia.org/wiki/نبرد_صفین
+- partial_key: arriving_karbala_capatives_to_sham
   title:
     fa_IR: ورود اسیران واقعه کربلا به شام
   description:
     fa_IR: ورود اسیران واقعه کربلا به شام
+  year: 61
   month: 2
   day: 1
-  year: 61
   calendar:
     en_US:
     - Iran
@@ -31,16 +34,19 @@ events:
     fa_IR:
     - ایران
     - شیعه
+  new_calendar:
+  - Iran Official
+  - Shia
   sources:
-    - https://fa.wikipedia.org/wiki/نبرد_کربلا
-- partial_key: "emam_mohammad_bagher_birthday"
+  - https://fa.wikipedia.org/wiki/نبرد_کربلا
+- partial_key: emam_mohammad_bagher_birthday
   title:
     fa_IR: تولد امام محمد باقر
   description:
     fa_IR: تولد امام محمد باقر
+  year: 57
   month: 2
   day: 3
-  year: 57
   calendar:
     en_US:
     - Iran
@@ -48,16 +54,19 @@ events:
     fa_IR:
     - ایران
     - شیعه
+  new_calendar:
+  - Iran Official
+  - Shia
   sources:
-    - https://fa.wikipedia.org/wiki/محمد_باقر
-- partial_key: "emam_hasan_mojtaba_martyrdom"
+  - https://fa.wikipedia.org/wiki/محمد_باقر
+- partial_key: emam_hasan_mojtaba_martyrdom
   title:
     fa_IR: وفات امام حسن مجتبی به روایتی
   description:
     fa_IR: وفات امام حسن مجتبی به روایتی
+  year: 50
   month: 2
   day: 7
-  year: 50
   calendar:
     en_US:
     - Iran
@@ -65,16 +74,19 @@ events:
     fa_IR:
     - ایران
     - شیعه
+  new_calendar:
+  - Iran Official
+  - Shia
   sources:
-    - https://fa.wikipedia.org/wiki/حسن_مجتبی
-- partial_key: "salman_farsi_death"
+  - https://fa.wikipedia.org/wiki/حسن_مجتبی
+- partial_key: salman_farsi_death
   title:
     fa_IR: وفات سلمان فارسی
   description:
     fa_IR: وفات سلمان فارسی
+  year: 36
   month: 2
   day: 8
-  year: 36
   calendar:
     en_US:
     - Iran
@@ -82,16 +94,19 @@ events:
     fa_IR:
     - ایران
     - اسلامی
+  new_calendar:
+  - Iran Official
+  - Islamic
   sources:
-    - https://fa.wikipedia.org/wiki/سلمان_فارسی
-- partial_key: "nahravan_war"
+  - https://fa.wikipedia.org/wiki/سلمان_فارسی
+- partial_key: nahravan_war
   title:
     fa_IR: جنگ نهروان
   description:
     fa_IR: جنگ نهروان
+  year: 38
   month: 2
   day: 9
-  year: 38
   calendar:
     en_US:
     - Iran
@@ -99,16 +114,19 @@ events:
     fa_IR:
     - ایران
     - اسلامی
+  new_calendar:
+  - Iran Official
+  - Islamic
   sources:
-    - https://fa.wikipedia.org/wiki/نبرد_نهروان
-- partial_key: "arbaeen_hoseini"
+  - https://fa.wikipedia.org/wiki/نبرد_نهروان
+- partial_key: arbaeen_hoseini
   title:
     fa_IR: اربعین حسینی
   description:
     fa_IR: اربعین حسینی
+  year: 61
   month: 2
   day: 20
-  year: 61
   calendar:
     en_US:
     - Iran
@@ -116,16 +134,19 @@ events:
     fa_IR:
     - ایران
     - شیعه
+  new_calendar:
+  - Iran Official
+  - Shia
   sources:
-    - https://fa.wikipedia.org/wiki/اربعین
-- partial_key: "demise_of_prophet_mohammad"
+  - https://fa.wikipedia.org/wiki/اربعین
+- partial_key: demise_of_prophet_mohammad
   title:
     fa_IR: وفات حضرت محمد
   description:
     fa_IR: وفات حضرت محمد
+  year: 11
   month: 2
   day: 28
-  year: 11
   calendar:
     en_US:
     - Iran
@@ -133,16 +154,19 @@ events:
     fa_IR:
     - ایران
     - اسلامی
+  new_calendar:
+  - Iran Official
+  - Islamic
   sources:
-    - https://fa.wikipedia.org/wiki/محمد
-- partial_key: "martyrdom_of_emam_hasan_mojtaba"
+  - https://fa.wikipedia.org/wiki/محمد
+- partial_key: martyrdom_of_emam_hasan_mojtaba
   title:
     fa_IR: وفات امام حسن مجتبی به روایتی
   description:
     fa_IR: وفات امام حسن مجتبی به روایتی
+  year: 50
   month: 2
   day: 28
-  year: 50
   calendar:
     en_US:
     - Iran
@@ -150,16 +174,19 @@ events:
     fa_IR:
     - ایران
     - شیعه
+  new_calendar:
+  - Iran Official
+  - Shia
   sources:
-    - https://fa.wikipedia.org/wiki/حسن_مجتبی
-- partial_key: "martyrdom_of_emam_reza"
+  - https://fa.wikipedia.org/wiki/حسن_مجتبی
+- partial_key: martyrdom_of_emam_reza
   title:
     fa_IR: وفات امام علی ابن موسی الرضا
   description:
     fa_IR: وفات امام علی ابن موسی الرضا
+  year: 203
   month: 2
   day: 30
-  year: 203
   calendar:
     en_US:
     - Iran
@@ -167,5 +194,8 @@ events:
     fa_IR:
     - ایران
     - شیعه
+  new_calendar:
+  - Iran Official
+  - Shia
   sources:
-    - https://fa.wikipedia.org/wiki/علی_بن_موسی_الرضا
+  - https://fa.wikipedia.org/wiki/علی_بن_موسی_الرضا

@@ -1,5 +1,5 @@
 events:
-- partial_key: "birthday_of_hazrat_zaynab_and_nurses_day"
+- partial_key: birthday_of_hazrat_zaynab_and_nurses_day
   title:
     fa_IR: ولادت حضرت زینب سلام‌اللّه علیها و روز پرستار
   description:
@@ -14,13 +14,16 @@ events:
     fa_IR:
     - شیعه
     - ایران
+  new_calendar:
+  - Shia
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/زینب
-    - https://fa.wikipedia.org/wiki/پرستار
-- partial_key: "battle_of_mutah"
+  - https://fa.wikipedia.org/wiki/زینب
+  - https://fa.wikipedia.org/wiki/پرستار
+- partial_key: battle_of_mutah
   title:
     fa_IR: جنگ مؤته
-  description: 
+  description:
     fa_IR: جنگ مؤته
   year: 8
   month: 5
@@ -30,12 +33,14 @@ events:
     - Islamic
     fa_IR:
     - اسلامی
+  new_calendar:
+  - Islamic
   sources:
-    - https://fa.wikipedia.org/wiki/سریه_مؤته
-- partial_key: "martyrdom_of_jafar_ibn_abi_taleb"
+  - https://fa.wikipedia.org/wiki/سریه_مؤته
+- partial_key: martyrdom_of_jafar_ibn_abi_taleb
   title:
     fa_IR: شهادت جعفر‌ ابن ابی‌طالب
-  description: 
+  description:
     fa_IR: شهادت جعفر‌ ابن ابی‌طالب
   year: 8
   month: 5
@@ -45,12 +50,14 @@ events:
     - Islamic
     fa_IR:
     - اسلامی
+  new_calendar:
+  - Islamic
   sources:
-    - https://fa.wikipedia.org/wiki/جعفر_بن_ابی‌طالب
-- partial_key: "battle_of_the_camel"
+  - https://fa.wikipedia.org/wiki/جعفر_بن_ابی‌طالب
+- partial_key: battle_of_the_camel
   title:
     fa_IR: جنگ جمل
-  description: 
+  description:
     fa_IR: جنگ جمل
   year: 36
   month: 5
@@ -60,12 +67,14 @@ events:
     - Islamic
     fa_IR:
     - اسلامی
+  new_calendar:
+  - Islamic
   sources:
-    - https://fa.wikipedia.org/wiki/جنگ_جمل
-- partial_key: "martyrdom_of_hazrat_fatemeh_zahra"
+  - https://fa.wikipedia.org/wiki/جنگ_جمل
+- partial_key: martyrdom_of_hazrat_fatemeh_zahra
   title:
     fa_IR: شهادت حضرت فاطمهٔ زهرا سلام‌اللّه علیها به روایتی
-  description: 
+  description:
     fa_IR: شهادت حضرت فاطمهٔ زهرا سلام‌اللّه علیها به روایتی
   year: 11
   month: 5
@@ -77,12 +86,15 @@ events:
     fa_IR:
     - شیعه
     - ایران
+  new_calendar:
+  - Shia
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/فاطمه_زهرا
-- partial_key: "demise_of_abd_al_muttalib"
+  - https://fa.wikipedia.org/wiki/فاطمه_زهرا
+- partial_key: demise_of_abd_al_muttalib
   title:
-    fa_IR: وفات عبدالمطلب 
-  description: 
+    fa_IR: وفات عبدالمطلب
+  description:
     fa_IR: وفات عبدالمطلب
   month: 5
   day: 27
@@ -91,12 +103,14 @@ events:
     - Islamic
     fa_IR:
     - اسلامی
+  new_calendar:
+  - Islamic
   sources:
-    - https://fa.wikipedia.org/wiki/عبدالمطلب
-- partial_key: "demise_of_abu_jafar_muhammad_ibn_uthman"
+  - https://fa.wikipedia.org/wiki/عبدالمطلب
+- partial_key: demise_of_abu_jafar_muhammad_ibn_uthman
   title:
     fa_IR: وفات محمد بن عثمان دومین نائب خاص حضرت مهدی علیه‌السلام
-  description: 
+  description:
     fa_IR: وفات محمد بن عثمان دومین نائب خاص حضرت مهدی علیه‌السلام
   month: 5
   day: 30
@@ -105,5 +119,7 @@ events:
     - Shia
     fa_IR:
     - شیعه
+  new_calendar:
+  - Shia
   sources:
-    - https://fa.wikipedia.org/wiki/محمد_بن_عثمان
+  - https://fa.wikipedia.org/wiki/محمد_بن_عثمان
