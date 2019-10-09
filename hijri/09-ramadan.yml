@@ -59,17 +59,6 @@ events:
     - Islamic
   sources:
     - https://fa.wikipedia.org/wiki/محمد
-- partial_key: first_qadr_night
-  title:
-    fa_IR:  از شب‌های قدر
-  description:
-    fa_IR: از شب‌های قدر
-  month: 9
-  day: 18
-  calendar:
-    - Shia
-  sources:
-    - https://fa.wikipedia.org/wiki/شب_قدر
 - partial_key: second_qadr_night
   title:
     fa_IR: از شب‌های قدر
@@ -89,18 +78,7 @@ events:
   month: 9
   day: 21
   calendar:
-    - Shia
-  sources:
-    - https://fa.wikipedia.org/wiki/شب_قدر
-- partial_key: fourth_gadr_night
-  title:
-    fa_IR: از شب‌های قدر
-  description:
-    fa_IR: از شب‌های قدر
-  month: 9
-  day: 22
-  calendar:
-    - Shia
+    - Islamic
   sources:
     - https://fa.wikipedia.org/wiki/شب_قدر
 - partial_key: fifth_qadr_night
@@ -111,6 +89,28 @@ events:
   month: 9
   day: 23
   calendar:
-    - Shia
+    - Islamic
+  sources:
+    - https://fa.wikipedia.org/wiki/شب_قدر
+- partial_key: qadr_night_sunni25
+  title:
+    fa_IR: از شب‌های قدر
+  description:
+    fa_IR: از شب‌های قدر
+  month: 9
+  day: 25
+  calendar:
+    - Sunni
+  sources:
+    - https://fa.wikipedia.org/wiki/شب_قدر
+- partial_key: qadr_night_sunni27
+  title:
+    fa_IR: از شب‌های قدر
+  description:
+    fa_IR: از شب‌های قدر
+  month: 9
+  day: 27
+  calendar:
+    - Sunni
   sources:
     - https://fa.wikipedia.org/wiki/شب_قدر
