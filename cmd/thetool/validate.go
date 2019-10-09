@@ -124,21 +124,22 @@ func validateEventContent(ev []Event, p *Months, countries []string) error {
 
 func validateEventOrder(ev []Event) error {
 	var (
-		lastIdx, year int
+		year      int
+		lastEvent *Event
 	)
 
 	for i := range ev {
-		if lastIdx > ev[i].idx() {
-			return fmt.Errorf("the key %d is not in order %+v => %+v", i, ev[i], ev[i-1])
+		if lastEvent != nil && lastEvent.idx() > ev[i].idx() {
+			return fmt.Errorf("the key %d is not in order %+v => %+v", i, ev[i], lastEvent)
 		}
 
-		if lastIdx == ev[i].idx() {
+		if lastEvent != nil && lastEvent.idx() == ev[i].idx() {
 			if ev[i].Year < year {
 				return fmt.Errorf("the key %q is not in order", ev[i].PartialKey)
 			}
 		}
 
-		year, lastIdx = ev[i].Year, ev[i].idx()
+		year, lastEvent = ev[i].Year, &ev[i]
 	}
 
 	return nil
