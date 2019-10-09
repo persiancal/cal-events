@@ -96,7 +96,7 @@ func validateEventContent(ev []Event, p *Months, countries []string) error {
 		}
 
 		if ev[i].Month <= 0 || ev[i].Month > len(p.Normal) {
-			return fmt.Errorf("invalid month on key %d", i)
+			return fmt.Errorf("invalid month on key %q", ev[i].PartialKey)
 		}
 
 		max := p.Normal[ev[i].Month-1]
@@ -105,12 +105,16 @@ func validateEventContent(ev []Event, p *Months, countries []string) error {
 		}
 
 		if ev[i].Day <= 0 || ev[i].Day > max {
-			return fmt.Errorf("invalid day on key %d", i)
+			return fmt.Errorf("invalid day on key %q", ev[i].PartialKey)
+		}
+
+		if ev[i].Discontinue != 0 && ev[i].Discontinue < ev[i].Year {
+			return fmt.Errorf("discontinue before year is not allowed %q", ev[i].PartialKey)
 		}
 
 		for country := range ev[i].Holiday {
 			if !isValidCountry(country, countries) {
-				return fmt.Errorf("country is invalid: %q in key %d", country, i)
+				return fmt.Errorf("country is invalid: %q in key %q", country, ev[i].PartialKey)
 			}
 		}
 	}
