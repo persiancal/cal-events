@@ -1,10 +1,10 @@
 events:
 - partial_key: older_person_day
   title:
-    fa_IR: روز جهانی افراد مسن
+    fa_IR: روز جهانی سالمندان
     en_US: International Day of Older Persons
   description:
-    fa_IR: روز جهانی افراد مسن
+    fa_IR: روز جهانی سالمندان
     en_US: International Day of Older Persons
   year: 1990
   month: 10
@@ -12,6 +12,7 @@ events:
   calendar:
   - International
   sources:
+  - https://fa.wikipedia.org/wiki/روز_جهانی_سالمندان
   - https://en.wikipedia.org/wiki/International_Day_of_Older_Persons
 - partial_key: non_violence_day
   title:
@@ -40,13 +41,14 @@ events:
   calendar:
   - International
   sources:
+  - https://fa.wikipedia.org/wiki/روز_جهانی_معلم
   - https://en.wikipedia.org/wiki/World_Teachers_Day
 - partial_key: habitat_day
   title:
-    fa_IR: روز جهانی زیستگاه
+    fa_IR: روز جهانی اسکان بشر
     en_US: World Habitat Day
   description:
-    fa_IR: روز جهانی زیستگاه
+    fa_IR: روز جهانی اسکان بشر
     en_US: World Habitat Day
   year: 1986
   month: 10
@@ -54,6 +56,7 @@ events:
   calendar:
   - International
   sources:
+  - https://fa.wikipedia.org/wiki/روز_جهانی_معماری
   - https://en.wikipedia.org/wiki/World_Habitat_Day
 - partial_key: post_day
   title:
@@ -68,6 +71,7 @@ events:
   calendar:
   - International
   sources:
+  - https://fa.wikipedia.org/wiki/اتحادیه_جهانی_پست
   - https://en.wikipedia.org/wiki/World_Post_Day
 - partial_key: mental_health_day
   title:
@@ -96,6 +100,7 @@ events:
   calendar:
   - International
   sources:
+  - https://fa.wikipedia.org/wiki/دختر
   - https://en.wikipedia.org/wiki/International_Day_of_the_Girl_Child
 - partial_key: migratory_bird_day
   title:
@@ -124,6 +129,7 @@ events:
   calendar:
   - International
   sources:
+  - https://fa.wikipedia.org/wiki/بلایای_طبیعی
   - https://en.wikipedia.org/wiki/International_Day_for_Disaster_Reduction
 - partial_key: food_day
   title:
@@ -138,6 +144,7 @@ events:
   calendar:
   - International
   sources:
+  - https://fa.wikipedia.org/wiki/روز_جهانی_غذا
   - https://en.wikipedia.org/wiki/World_Food_Day
 - partial_key: eradiction_of_poverty_day
   title:
@@ -152,6 +159,7 @@ events:
   calendar:
   - International
   sources:
+  - https://fa.wikipedia.org/wiki/روز_جهانی_ریشه‌کنی_فقر
   - https://en.wikipedia.org/wiki/International_Day_for_the_Eradication_of_Poverty
 - partial_key: statistics_day
   title:
@@ -166,6 +174,7 @@ events:
   calendar:
   - International
   sources:
+  - https://fa.wikipedia.org/wiki/روز_جهانی_آمار
   - https://en.wikipedia.org/wiki/World_Statistics_Day
 - partial_key: united_nation_day
   title:
@@ -180,6 +189,7 @@ events:
   calendar:
   - International
   sources:
+  - https://fa.wikipedia.org/wiki/سازمان_ملل_متحد
   - https://en.wikipedia.org/wiki/United_Nations_Day
 - partial_key: development_information_day
   title:
