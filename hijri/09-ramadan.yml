@@ -45,17 +45,6 @@ events:
   - Shia
   sources:
   - https://fa.wikipedia.org/wiki/علی_بن_ابی‌طالب
-- partial_key: second_qadr_night
-  title:
-    fa_IR: از شب‌های قدر
-  description:
-    fa_IR: از شب‌های قدر
-  month: 9
-  day: 19
-  calendar:
-    - Shia
-  sources:
-    - https://fa.wikipedia.org/wiki/شب_قدر
 - partial_key: imam_ali_martyrdom
   title:
     fa_IR: شهادت امام علی علیه‌السلام
@@ -70,6 +59,17 @@ events:
     Iran: []
   sources:
   - https://fa.wikipedia.org/wiki/علی_بن_ابی‌طالب
+- partial_key: second_qadr_night
+  title:
+    fa_IR: از شب‌های قدر
+  description:
+    fa_IR: از شب‌های قدر
+  month: 9
+  day: 19
+  calendar:
+    - Shia
+  sources:
+    - https://fa.wikipedia.org/wiki/شب_قدر
 - partial_key: third_gadr_night
   title:
     fa_IR: از شب‌های قدر
