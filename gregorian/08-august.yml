@@ -1,1 +1,101 @@
-{}
+events:
+- partial_key: world_indigenous_people_day
+  title:
+    fa_IR: روز جهانی مردمان بومی جهان
+    en_US: International Day of the World's Indigenous Peoples
+  description:
+    fa_IR: روز جهانی مردمان بومی جهان
+    en_US: International Day of the World's Indigenous Peoples
+  year: 1994
+  month: 8
+  day: 9
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/International_Day_of_the_World's_Indigenous_Peoples
+- partial_key: youth_day
+  title:
+    fa_IR: روز جهانی جوانان
+    en_US: International Youth Day
+  description:
+    fa_IR: روز جهانی جوانان
+    en_US: International Youth Day
+  year: 2000
+  month: 8
+  day: 12
+  calendar:
+  - International
+  sources:
+  - https://fa.wikipedia.org/wiki/روز_جهانی_جوانان
+  - https://en.wikipedia.org/wiki/International_Youth_Day
+- partial_key: humanitarian_day
+  title:
+    fa_IR: روز جهانی بشر دوستی
+    en_US: World Humanitarian Day
+  description:
+    fa_IR: روز جهانی بشر دستی
+    en_US: World Humanitarian Day
+  year: 2009
+  month: 8
+  day: 19
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/World_Humanitarian_Day
+- partial_key: victims_of_terrorism_day
+  title:
+    fa_IR: روز جهانی قربانیان تروریسم
+    en_US: International Day of Remembrance and Tribute to the Victims of Terrorism
+  description:
+    fa_IR: روز جهانی قربانیان تروریسم
+    en_US: International Day of Remembrance and Tribute to the Victims of Terrorism
+  year: 2017
+  month: 8
+  day: 21
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/International_Day_of_Remembrance_and_Tribute_to_the_Victims_of_Terrorism
+- partial_key: slave_day
+  title:
+    fa_IR: روز جهانی یادآوری تجارت برده و نابودی آن
+    en_US: International Day for the Remembrance of the Slave Trade and Its Abolition
+  description:
+    fa_IR: روز جهانی یادآوری تجارت برده و نابودی آن
+    en_US: International Day for the Remembrance of the Slave Trade and Its Abolition
+  year: 1998
+  month: 8
+  day: 23
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/International_Day_for_the_Remembrance_of_the_Slave_Trade_and_its_Abolition
+- partial_key: against_nuclear_test_day
+  title:
+    fa_IR: روز جهانی مبارزه با آزمایش هسته ای
+    en_US: International Day against Nuclear Tests
+  description:
+    fa_IR: روز جهانی مبارزه با آزمایش هسته ای
+    en_US: International Day against Nuclear Tests
+  year: 2009
+  month: 8
+  day: 29
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/International_Day_against_Nuclear_Tests
+- partial_key: victims_of_disappearances_day
+  title:
+    fa_IR: روز جهانی ناپدیدشدگان
+    en_US: International Day of the Victims of Enforced Disappearances
+  description:
+    fa_IR: روز جهانی ناپدیدشدگان
+    en_US: International Day of the Victims of Enforced Disappearances
+  year: 1992
+  month: 8
+  day: 30
+  calendar:
+  - International
+  sources:
+  - https://fa.wikipedia.org/wiki/روز_جهانی_ناپدیدشدگان
+  - https://en.wikipedia.org/wiki/International_Day_of_the_Disappeared
