@@ -81,7 +81,7 @@ events:
     - Shia
   sources:
     - https://fa.wikipedia.org/wiki/شب_قدر
-- partial_key: third_night
+- partial_key: third_gadr_night
   title:
     fa_IR: از شب‌های قدر
   description:
@@ -92,7 +92,7 @@ events:
     - Shia
   sources:
     - https://fa.wikipedia.org/wiki/شب_قدر
-- partial_key: fourth_night
+- partial_key: fourth_gadr_night
   title:
     fa_IR: از شب‌های قدر
   description:
@@ -103,7 +103,7 @@ events:
     - Shia
   sources:
     - https://fa.wikipedia.org/wiki/شب_قدر
-- partial_key: fifth_night
+- partial_key: fifth_qadr_night
   title:
     fa_IR: از شب‌های قدر
   description:
