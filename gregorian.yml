@@ -58,3 +58,139 @@ months:
     fa_IR: نوامبر
   - en_US: December
     fa_IR: دسامبر
+events:
+- key: 4113473936
+  title:
+    en_US: world cancer day
+    fa_IR: روز جهانی سرطان
+  description:
+    en_US: World Cancer Day is an international day marked on February 4 to raise
+      awareness of cancer and to encourage its prevention, detection, and treatment.
+    fa_IR: روز جهانی سرطان روز جهانی است که در تاریخ 4 فوریه برای افزایش آگاهی از
+      سرطان و ترغیب به پیشگیری ، تشخیص و درمان آن مشخص شده است.
+  year: 2000
+  month: 2
+  day: 4
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/World_Cancer_Day
+- key: 1661744617
+  title:
+    en_US: International Day of Zero Tolerance for Female Genital Mutilation
+    fa_IR: روز جهانی عدم هرگونه مدارا با مثله‌کردن جنسی زنان
+  description:
+    en_US: International Day of Zero Tolerance for Female Genital Mutilation is a
+      United Nations-sponsored annual awareness day that takes place on February 6
+      as part of the UN's efforts to eradicate female genital mutilation. It was first
+      introduced in 2003.
+    fa_IR: روز بین‌المللی عدم هرگونه مدارا با مثله‌کردن جنسی زنان یکی از روزهای آگاهی
+      دهنده بین‌المللی مورد حمایت سازمان ملل است که برای ۶ فوریه هر سال انتخاب شده
+      و به مبارزه با بریدن آلت تناسلی زنان (ختنه زنان) اختصاص دارد.
+  year: 2003
+  month: 2
+  day: 6
+  calendar:
+  - International
+  sources:
+  - https://fa.wikipedia.org/wiki/روز_جهانی_عدم_هرگونه_مدارا_با_مثله‌کردن_جنسی_زنان
+  - https://en.wikipedia.org/wiki/International_Day_of_Zero_Tolerance_for_Female_Genital_Mutilation
+- key: 1450195335
+  title:
+    en_US: World Pulses Day
+    fa_IR: روز جهانی حبوبات
+  description:
+    en_US: World Pulses Day is a day established by the Food and Agriculture Organization
+      (FAO) of the United Nations to recognize the importance of pulses (dry beans,
+      lentils, dry peas, chickpeas, lupins) as a global food.
+    fa_IR: روز جهانی پالس روزی است که توسط سازمان غذا و کشاورزی (FAO) سازمان ملل متحد
+      برای شناخت اهمیت حبوبات (لوبیا خشک ، عدس ، نخود خشک ، نخود ، لپین) به عنوان
+      یک ماده غذایی جهانی تأسیس شده است.
+  year: 2018
+  month: 2
+  day: 10
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/World_Pulses_Day
+- key: 1313785479
+  title:
+    en_US: International Day of Women and Girls in Science
+    fa_IR: روز جهانی زنان و دختران در علم
+  description:
+    en_US: In order to achieve full and equal access to and participation in science
+      for women and girls, and further achieve gender equality and the empowerment
+      of women and girls, the United Nations General Assembly adopted resolution A/RES/70/212
+      declaring 11 February as the International Day of Women and Girls in Science.
+    fa_IR: به منظور دستیابی کامل و مساوی به مشارکت و مشارکت در علم زنان و دختران و
+      دستیابی بیشتر به برابری جنسیتی و توانمندسازی زنان و دختران ، مجمع عمومی سازمان
+      ملل متحد قطعنامه A / RES / 70/212 را تصویب کرد که 11 فوریه را به عنوان روز جهانی
+      زن و دختر در علم اعلام کرد.
+  year: 2015
+  month: 2
+  day: 11
+  calendar:
+  - International
+  sources:
+  - https://undocs.org/A/RES/70/212
+- key: 3487125915
+  title:
+    en_US: World Radio Day
+    fa_IR: روز جهانی رادیو
+  description:
+    en_US: Following a request from the Spanish Radio Academy on 20 September 2010,
+      Spain proposed that the UNESCO Executive Board include an agenda item on the
+      proclamation of a World Radio Day. UNESCO's Executive Board approved the agenda
+      item in its provisional agenda for the proclamation of a "World Radio Day" on
+      29 September 2011.
+    fa_IR: روز جهانی رادیو یک رویداد سالانه است که در ۱۳ فوریه، برگزار می‌شود. این
+      روز توسط یونسکو نامگذاری شده است.
+  year: 2012
+  month: 2
+  day: 13
+  calendar:
+  - International
+  sources:
+  - https://fa.wikipedia.org/wiki/روز_جهانی_رادیو
+  - https://en.wikipedia.org/wiki/World_Radio_Day
+- key: 4198683185
+  title:
+    en_US: World Day of Social Justice
+    fa_IR: روز جهانی عدالت اجتماعی
+  description:
+    en_US: Social Equality Justice day is a day recognizing the need to promote efforts
+      to tackle issues such as poverty, exclusion and unemployment. Many organizations,
+      including the UN, American Library Association (ALA), and the International
+      Labour Office, make statements on the importance of social justice for people.
+    fa_IR: روز عدالت اجتماعی روزی است که نیاز به ترویج تلاش برای مقابله با موضوعاتی
+      از جمله فقر ، محرومیت و بیکاری است. بسیاری از سازمانها از جمله سازمان ملل متحد
+      ، انجمن كتابخانه های آمریكا (ALA) و دفتر بین المللی كار در مورد اهمیت عدالت
+      اجتماعی برای مردم بیانیه می دهند.
+  year: 2007
+  month: 2
+  day: 20
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/World_Day_of_Social_Justice
+- key: 398838343
+  title:
+    en_US: International Mother Language Day
+    fa_IR: روز جهانی زبان مادری
+  description:
+    en_US: International Mother Language Day (IMLD) is a worldwide annual observance
+      held on 21 February to promote awareness of linguistic and cultural diversity
+      and promote multilingualism. First announced by UNESCO on 17 November 1999,
+      it was formally recognized by the United Nations General Assembly in a resolution
+      establishing 2008 as the International Year of Languages
+    fa_IR: نامگذاری این روز در کنفرانس عمومی یونسکو در سال ۱۹۹۹ به منظور کمک به تنوع
+      زبانی و فرهنگی انجام شده‌است. مجمع عمومی سازمان ملل متحد نیز به دلیل اهمیت زیاد
+      آن، سال ۲۰۰۸ را سال جهانی زبان‌ها اعلام کرد.
+  year: 2002
+  month: 2
+  day: 21
+  calendar:
+  - International
+  sources:
+  - https://fa.wikipedia.org/wiki/روز_جهانی_زبان_مادری
+  - https://en.wikipedia.org/wiki/International_Mother_Language_Day
