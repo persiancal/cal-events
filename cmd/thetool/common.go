@@ -23,6 +23,7 @@ type Event struct {
 	Title       map[string]string   `json:"title,omitempty" yaml:"title,omitempty"`
 	Description map[string]string   `json:"description,omitempty" yaml:"description,omitempty"`
 	Year        int                 `json:"year,omitempty" yaml:"year,omitempty"`
+	Discontinue int                 `json:"discontinue,omitempty" yaml:"discontinue,omitempty"`
 	Month       int                 `json:"month" yaml:"month"`
 	Day         int                 `json:"day" yaml:"day"`
 	Calendar    []string            `json:"calendar,omitempty" yaml:"calendar,omitempty"`
