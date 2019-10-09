@@ -33,32 +33,6 @@ events:
     - Islamic
   sources:
     - https://fa.wikipedia.org/wiki/محمد
-- partial_key: imam_ali_whacked
-  title:
-    fa_IR: سالروز ضربت خوردن حضرت علی علیه‌السلام
-  description:
-    fa_IR: سالروز ضربت خوردن حضرت علی علیه‌السلام به دست ابن ملجم علیه‌اللعنه
-  year: 40
-  month: 9
-  day: 19
-  calendar:
-  - Shia
-  sources:
-  - https://fa.wikipedia.org/wiki/علی_بن_ابی‌طالب
-- partial_key: imam_ali_martyrdom
-  title:
-    fa_IR: شهادت امام علی علیه‌السلام
-  description:
-    fa_IR: شهادت امام علی علیه‌السلام
-  year: 40
-  month: 9
-  day: 21
-  calendar:
-  - Shia
-  holiday:
-    Iran: []
-  sources:
-  - https://fa.wikipedia.org/wiki/علی_بن_ابی‌طالب
 - partial_key: second_qadr_night
   title:
     fa_IR: از شب‌های قدر
@@ -70,6 +44,18 @@ events:
     - Shia
   sources:
     - https://fa.wikipedia.org/wiki/شب_قدر
+- partial_key: imam_ali_whacked
+  title:
+    fa_IR: سالروز ضربت خوردن حضرت علی علیه‌السلام
+  description:
+    fa_IR: سالروز ضربت خوردن حضرت علی علیه‌السلام به دست ابن ملجم علیه‌اللعنه
+  year: 40
+  month: 9
+  day: 19
+  calendar:
+    - Shia
+  sources:
+    - https://fa.wikipedia.org/wiki/علی_بن_ابی‌طالب
 - partial_key: third_gadr_night
   title:
     fa_IR: از شب‌های قدر
@@ -81,6 +67,20 @@ events:
     - Islamic
   sources:
     - https://fa.wikipedia.org/wiki/شب_قدر
+- partial_key: imam_ali_martyrdom
+  title:
+    fa_IR: شهادت امام علی علیه‌السلام
+  description:
+    fa_IR: شهادت امام علی علیه‌السلام
+  year: 40
+  month: 9
+  day: 21
+  calendar:
+    - Shia
+  holiday:
+    Iran: []
+  sources:
+    - https://fa.wikipedia.org/wiki/علی_بن_ابی‌طالب
 - partial_key: fifth_qadr_night
   title:
     fa_IR: از شب‌های قدر
