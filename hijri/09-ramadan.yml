@@ -1,4 +1,15 @@
 events:
+- partial_key: khadijeh_death
+  title:
+    fa_IR: درگذشت خدیجه، همسر پیامبر اسلام
+  description:
+    fa_IR: درگذشت خدیجه، همسر پیامبر اسلام
+  month: 9
+  day: 10
+  calendar:
+    - Islamic
+  sources:
+    - https://fa.wikipedia.org/wiki/خدیجه
 - partial_key: imam_hasan_birthday
   title:
     fa_IR: ولادت امام حسن مجتبی علیه‌السلام
@@ -11,6 +22,17 @@ events:
   - Shia
   sources:
   - https://fa.wikipedia.org/wiki/حسن_مجتبی
+- partial_key: meraj
+  title:
+    fa_IR: معراج پیامبر اسلام
+  description:
+    fa_IR: معراج پیامبر اسلام
+  month: 9
+  day: 17
+  calendar:
+    - Islamic
+  sources:
+    - https://fa.wikipedia.org/wiki/محمد
 - partial_key: imam_ali_whacked
   title:
     fa_IR: سالروز ضربت خوردن حضرت علی علیه‌السلام
@@ -23,6 +45,17 @@ events:
   - Shia
   sources:
   - https://fa.wikipedia.org/wiki/علی_بن_ابی‌طالب
+- partial_key: second_qadr_night
+  title:
+    fa_IR: از شب‌های قدر
+  description:
+    fa_IR: از شب‌های قدر
+  month: 9
+  day: 19
+  calendar:
+    - Shia
+  sources:
+    - https://fa.wikipedia.org/wiki/شب_قدر
 - partial_key: imam_ali_martyrdom
   title:
     fa_IR: شهادت امام علی علیه‌السلام
@@ -37,39 +70,6 @@ events:
     Iran: []
   sources:
   - https://fa.wikipedia.org/wiki/علی_بن_ابی‌طالب
-- partial_key: khadijeh_death
-  title:
-    fa_IR: درگذشت خدیجه، همسر پیامبر اسلام
-  description:
-    fa_IR: درگذشت خدیجه، همسر پیامبر اسلام
-  month: 9
-  day: 10
-  calendar:
-    - Islamic
-  sources:
-    - https://fa.wikipedia.org/wiki/خدیجه
-- partial_key: meraj
-  title:
-    fa_IR: معراج پیامبر اسلام
-  description:
-    fa_IR: معراج پیامبر اسلام
-  month: 9
-  day: 17
-  calendar:
-    - Islamic
-  sources:
-    - https://fa.wikipedia.org/wiki/محمد
-- partial_key: second_qadr_night
-  title:
-    fa_IR: از شب‌های قدر
-  description:
-    fa_IR: از شب‌های قدر
-  month: 9
-  day: 19
-  calendar:
-    - Shia
-  sources:
-    - https://fa.wikipedia.org/wiki/شب_قدر
 - partial_key: third_gadr_night
   title:
     fa_IR: از شب‌های قدر
