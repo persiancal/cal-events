@@ -238,6 +238,148 @@
       ]
     },
     {
+      "key": 317588032,
+      "title": {
+        "en_US": "International Day of the World's Indigenous Peoples",
+        "fa_IR": "روز جهانی مردمان بومی جهان"
+      },
+      "description": {
+        "en_US": "International Day of the World's Indigenous Peoples",
+        "fa_IR": "روز جهانی مردمان بومی جهان"
+      },
+      "year": 1994,
+      "month": 8,
+      "day": 9,
+      "calendar": [
+        "International"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/International_Day_of_the_World's_Indigenous_Peoples"
+      ]
+    },
+    {
+      "key": 4044902533,
+      "title": {
+        "en_US": "International Youth Day",
+        "fa_IR": "روز جهانی جوانان"
+      },
+      "description": {
+        "en_US": "International Youth Day",
+        "fa_IR": "روز جهانی جوانان"
+      },
+      "year": 2000,
+      "month": 8,
+      "day": 12,
+      "calendar": [
+        "International"
+      ],
+      "sources": [
+        "https://fa.wikipedia.org/wiki/روز_جهانی_جوانان",
+        "https://en.wikipedia.org/wiki/International_Youth_Day"
+      ]
+    },
+    {
+      "key": 2940542930,
+      "title": {
+        "en_US": "World Humanitarian Day",
+        "fa_IR": "روز جهانی بشر دوستی"
+      },
+      "description": {
+        "en_US": "World Humanitarian Day",
+        "fa_IR": "روز جهانی بشر دستی"
+      },
+      "year": 2009,
+      "month": 8,
+      "day": 19,
+      "calendar": [
+        "International"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/World_Humanitarian_Day"
+      ]
+    },
+    {
+      "key": 3039648927,
+      "title": {
+        "en_US": "International Day of Remembrance and Tribute to the Victims of Terrorism",
+        "fa_IR": "روز جهانی قربانیان تروریسم"
+      },
+      "description": {
+        "en_US": "International Day of Remembrance and Tribute to the Victims of Terrorism",
+        "fa_IR": "روز جهانی قربانیان تروریسم"
+      },
+      "year": 2017,
+      "month": 8,
+      "day": 21,
+      "calendar": [
+        "International"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/International_Day_of_Remembrance_and_Tribute_to_the_Victims_of_Terrorism"
+      ]
+    },
+    {
+      "key": 769870273,
+      "title": {
+        "en_US": "International Day for the Remembrance of the Slave Trade and Its Abolition",
+        "fa_IR": "روز جهانی یادآوری تجارت برده و نابودی آن"
+      },
+      "description": {
+        "en_US": "International Day for the Remembrance of the Slave Trade and Its Abolition",
+        "fa_IR": "روز جهانی یادآوری تجارت برده و نابودی آن"
+      },
+      "year": 1998,
+      "month": 8,
+      "day": 23,
+      "calendar": [
+        "International"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/International_Day_for_the_Remembrance_of_the_Slave_Trade_and_its_Abolition"
+      ]
+    },
+    {
+      "key": 4279461629,
+      "title": {
+        "en_US": "International Day against Nuclear Tests",
+        "fa_IR": "روز جهانی مبارزه با آزمایش هسته ای"
+      },
+      "description": {
+        "en_US": "International Day against Nuclear Tests",
+        "fa_IR": "روز جهانی مبارزه با آزمایش هسته ای"
+      },
+      "year": 2009,
+      "month": 8,
+      "day": 29,
+      "calendar": [
+        "International"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/International_Day_against_Nuclear_Tests"
+      ]
+    },
+    {
+      "key": 1662825297,
+      "title": {
+        "en_US": "International Day of the Victims of Enforced Disappearances",
+        "fa_IR": "روز جهانی ناپدیدشدگان"
+      },
+      "description": {
+        "en_US": "International Day of the Victims of Enforced Disappearances",
+        "fa_IR": "روز جهانی ناپدیدشدگان"
+      },
+      "year": 1992,
+      "month": 8,
+      "day": 30,
+      "calendar": [
+        "International"
+      ],
+      "sources": [
+        "https://fa.wikipedia.org/wiki/روز_جهانی_ناپدیدشدگان",
+        "https://en.wikipedia.org/wiki/International_Day_of_the_Disappeared"
+      ]
+    },
+    {
       "key": 1492275135,
       "title": {
         "en_US": "International Day of Older Persons",
