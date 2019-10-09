@@ -1,6 +1,15 @@
 name: Jalali
 countries:
 - Iran
+calendars:
+- en_US: Iran Official
+  fa_IR: رسمی ایران
+- en_US: Islamic Republic Of Iran
+  fa_IR: جمهوری اسلامی ایران
+- en_US: Ancient Iran
+  fa_IR: ایران باستان
+- en_US: Iran Pahlavi
+  fa_IR: ایران پهلوی
 months:
   normal:
   - 31

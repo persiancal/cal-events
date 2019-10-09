@@ -1,5 +1,5 @@
 events:
-- partial_key: "165"
+- partial_key: statistics_and_planning_day
   title:
     fa_IR: روز آمار و برنامه‌ریزی
   description:
@@ -7,85 +7,55 @@ events:
   month: 8
   day: 1
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "164"
+  - Iran Official
+- partial_key: capitulation_in_iran
   title:
-    fa_IR: شهادت آیت‌الله حاج سید مصطفی خمینی
+    fa_IR: اعتراض و افشاگری امام خمينی عليه پذيرش كاپيتولاسيون
   description:
-    fa_IR: شهادت آیت‌الله حاج سید مصطفی خمینی
-  year: 1356
-  month: 8
-  day: 1
-  calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "174"
-  title:
-    fa_IR: اعتراض امام خمینی علیه پذیرش کاپیتولاسیون
-  description:
-    fa_IR: اعتراض امام خمینی علیه پذیرش کاپیتولاسیون
+    fa_IR: اعتراض و افشاگری امام خمينی عليه پذيرش كاپيتولاسيون
   year: 1343
   month: 8
   day: 4
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "176"
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/کاپیتولاسیون_در_ایران
+- partial_key: cyrus_the_great_day
   title:
-    fa_IR: 'روز کوروش بزرگ'
+    fa_IR: روز کوروش بزرگ
   description:
-    fa_IR: 'روز کوروش بزرگ'
+    fa_IR: روز کوروش بزرگ
   month: 8
   day: 7
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-- partial_key: "182"
+  - Ancient Iran
+  sources:
+  - https://fa.wikipedia.org/wiki/روز_کوروش_بزرگ
+- partial_key: mohammad_hossein_fahmideh
   title:
-    fa_IR: شهادت محمد حسین فهمیده (بسیجی ۱۳ ساله)
+    fa_IR: شهادت محمدحسين فهميده(بسيجی ۱۳ ساله) ـ روز نوجوان و بسيج دانش آموزی
   description:
-    fa_IR: شهادت محمد حسین فهمیده (بسیجی ۱۳ ساله)
+    fa_IR: شهادت محمدحسين فهميده(بسيجی ۱۳ ساله) ـ روز نوجوان و بسيج دانش آموزی
+  year: 1359
   month: 8
   day: 8
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "183"
-  title:
-    fa_IR: روز نوجوان و بسیج دانش‌آموزی
-  description:
-    fa_IR: روز نوجوان و بسیج دانش‌آموزی
-  month: 8
-  day: 8
-  calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "180"
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/حسین_فهمیده
+- partial_key: passive_defense_day
   title:
     fa_IR: روز پدافند غیرعامل
   description:
     fa_IR: روز پدافند غیرعامل
+  year: 1390
   month: 8
   day: 8
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "187"
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/سازمان_پدافند_غیر_عامل_کشور
+- partial_key: aban_celebration_day
   title:
     fa_IR: آبان‌روز، جشن آبانگان
   description:
@@ -93,74 +63,46 @@ events:
   month: 8
   day: 10
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-- partial_key: "186"
+  - Ancient Iran
+  sources:
+  - https://fa.wikipedia.org/wiki/آبانگان
+- partial_key: mohammad_ali_qazi_tabatabaei
   title:
-    fa_IR: شهادت آیت‌الله قاضی طباطبایی
+    fa_IR: شهادت آيت‌الله قاضی طباطبایی
   description:
-    fa_IR: شهادت آیت‌الله قاضی طباطبایی
+    fa_IR: شهادت آيت‌الله قاضی طباطبایی
   year: 1358
   month: 8
   day: 10
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "194"
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/سید_محمدعلی_قاضی_طباطبایی
+- partial_key: students_day
   title:
-    fa_IR: روز دانش‌آموز
+    fa_IR: روز دانش آموز
   description:
-    fa_IR: روز دانش‌آموز
+    fa_IR: روز دانش آموز
+  year: 1357
   month: 8
   day: 13
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "195"
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/روز_دانش‌آموز
+- partial_key: iran_hostage_crisis
   title:
-    fa_IR: روز ملی مبارزه با استکبار جهانی
+    fa_IR: تسخیر سفارت آمریکا و روز ملی مبارزه با استکبار جهانی
   description:
-    fa_IR: روز ملی مبارزه با استکبار جهانی
-  month: 8
-  day: 13
-  calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "196"
-  title:
-    fa_IR: تبعید امام خمینی از ایران به ترکیه
-  description:
-    fa_IR: تبعید امام خمینی از ایران به ترکیه
-  year: 1343
-  month: 8
-  day: 13
-  calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "192"
-  title:
-    fa_IR: تسخیر سفارت آمریکا
-  description:
-    fa_IR: تسخیر سفارت آمریکا
+    fa_IR: تسخیر سفارت آمریکا و روز ملی مبارزه با استکبار جهانی
   year: 1358
   month: 8
   day: 13
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "198"
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/گروگان‌گیری_در_سفارت_ایالات_متحده_آمریکا
+- partial_key: general_culture_day
   title:
     fa_IR: روز فرهنگ عمومی
   description:
@@ -168,11 +110,8 @@ events:
   month: 8
   day: 14
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "199"
+  - Iran Official
+- partial_key: ayathrem_gahambar
   title:
     fa_IR: گاهنبار اَیاثرَم، جشن میانهٔ پاییز
   description:
@@ -180,11 +119,10 @@ events:
   month: 8
   day: 15
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-- partial_key: "203"
+  - Ancient Iran
+  sources:
+  - https://fa.wikipedia.org/wiki/گاهنبار
+- partial_key: quality_day
   title:
     fa_IR: روز کیفیت
   description:
@@ -192,36 +130,28 @@ events:
   month: 8
   day: 18
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "211"
+  - Iran Official
+- partial_key: books_day
   title:
-    fa_IR: روز کتاب، کتابخوانی و کتابدار
+    fa_IR: روزكتاب، كتابخوانی و كتابدار
   description:
-    fa_IR: روز کتاب، کتابخوانی و کتابدار
+    fa_IR: روزكتاب، كتابخوانی و كتابدار
   month: 8
   day: 24
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "212"
+  - Iran Official
+- partial_key: muhammad_husayn_tabatabai
   title:
-    fa_IR: روز بزرگداشت آیت‌الله علامه سید محمد حسین طباطبایی
+    fa_IR: روز بزرگداشت آيت‌الله علامه سيدمحمدحسين طباطبايی
   description:
-    fa_IR: روز بزرگداشت آیت‌الله علامه سید محمد حسین طباطبایی
-  year: 1360
+    fa_IR: روز بزرگداشت آيت‌الله علامه سيدمحمدحسين طباطبايی
   month: 8
   day: 24
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "215"
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/سید_محمدحسین_طباطبایی
+- partial_key: susangerd_liberation_day
   title:
     fa_IR: آزادسازی سوسنگرد
   description:
@@ -229,7 +159,6 @@ events:
   month: 8
   day: 26
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/عملیات_سوسنگرد

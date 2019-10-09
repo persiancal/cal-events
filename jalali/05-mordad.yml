@@ -1,5 +1,5 @@
 events:
-- partial_key: "91"
+- partial_key: anniversary_of_operation_mersad
   title:
     fa_IR: سالروز عملیات مرصاد
   description:
@@ -8,35 +8,21 @@ events:
   month: 5
   day: 5
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "95"
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/عملیات_مرصاد
+- partial_key: amordadgan
   title:
-    fa_IR: روز کارآفرینی و آموزش‌های فنی و حرفه‌ای
-  description:
-    fa_IR: روز کارآفرینی و آموزش‌های فنی و حرفه‌ای
-  month: 5
-  day: 6
-  calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "96"
-  title:
-    fa_IR: مردادروز، جشن مردادگان
+    fa_IR: امردادگان
   description:
     fa_IR: مردادروز، جشن مردادگان
   month: 5
   day: 7
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-- partial_key: "99"
+  - Ancient Iran
+  sources:
+  - https://fa.wikipedia.org/wiki/امردادگان
+- partial_key: commemoration_of_suhrawardi
   title:
     fa_IR: روز بزرگداشت شیخ شهاب‌الدین سهروردی (شیخ اشراق)
   description:
@@ -44,11 +30,10 @@ events:
   month: 5
   day: 8
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "103"
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/شهاب‌الدین_یحیی_سهروردی
+- partial_key: blood_donation_day
   title:
     fa_IR: روز اهدای خون
   description:
@@ -56,48 +41,20 @@ events:
   month: 5
   day: 9
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "104"
-  title:
-    fa_IR: جشن چلهٔ تابستان
-  description:
-    fa_IR: جشن چلهٔ تابستان
-  month: 5
-  day: 10
-  calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-- partial_key: "107"
+  - Iran Official
+- partial_key: death_of_sheikh_fazlullah_nouri
   title:
     fa_IR: شهادت آیت‌الله شیخ فضل‌الله نوری
   description:
     fa_IR: شهادت آیت‌الله شیخ فضل‌الله نوری
   year: 1288
   month: 5
-  day: 11
+  day: 9
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "116"
-  title:
-    fa_IR: روز حقوق بشر اسلامی و کرامت انسانی
-  description:
-    fa_IR: روز حقوق بشر اسلامی و کرامت انسانی
-  month: 5
-  day: 14
-  calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "113"
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/شیخ_فضل‌الله_نوری
+- partial_key: mashrootiat_ordinance
   title:
     fa_IR: صدور فرمان مشروطیت
   description:
@@ -106,23 +63,10 @@ events:
   month: 5
   day: 14
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "118"
-  title:
-    fa_IR: گاهنبار میدیوشِم، جشن میانهٔ تابستان
-  description:
-    fa_IR: گاهنبار میدیوشِم، جشن میانهٔ تابستان
-  month: 5
-  day: 15
-  calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-- partial_key: "121"
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/فرمان_مشروطیت
+- partial_key: acecr_establishment
   title:
     fa_IR: تشکیل جهاد دانشگاهی
   description:
@@ -131,11 +75,10 @@ events:
   month: 5
   day: 16
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "127"
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/جهاد_دانشگاهی
+- partial_key: journalists_day
   title:
     fa_IR: روز خبرنگار
   description:
@@ -143,23 +86,10 @@ events:
   month: 5
   day: 17
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "128"
-  title:
-    fa_IR: جشن مَی‌خواره
-  description:
-    fa_IR: جشن مَی‌خواره
-  month: 5
-  day: 18
-  calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-- partial_key: "132"
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/خبرنگار
+- partial_key: small_industries_day
   title:
     fa_IR: روز حمایت از صنایع کوچک
   description:
@@ -167,11 +97,8 @@ events:
   month: 5
   day: 21
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "133"
+  - Iran Official
+- partial_key: social_organizations_day
   title:
     fa_IR: روز تشکل‌ها و مشارکت‌های اجتماعی
   description:
@@ -179,11 +106,8 @@ events:
   month: 5
   day: 22
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "136"
+  - Iran Official
+- partial_key: hamas_day
   title:
     fa_IR: روز مقاومت اسلامی
   description:
@@ -191,11 +115,10 @@ events:
   month: 5
   day: 23
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "145"
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/حماس
+- partial_key: return_of_captives_to_iran
   title:
     fa_IR: آغاز بازگشت آزادگان به ایران
   description:
@@ -204,11 +127,8 @@ events:
   month: 5
   day: 26
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "147"
+  - Iran Official
+- partial_key: 1953_iranian_coup_detat
   title:
     fa_IR: کودتای ۲۸ مرداد
   description:
@@ -217,11 +137,10 @@ events:
   month: 5
   day: 28
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "148"
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/کودتای_۲۸_مرداد
+- partial_key: cinema_rex_fire
   title:
     fa_IR: آتش‌سوزی سینما رکس آبادان
   description:
@@ -230,11 +149,10 @@ events:
   month: 5
   day: 28
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "149"
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/آتش‌سوزی_سینما_رکس_آبادان
+- partial_key: start_day_of_assembly_of_experts_for_constitution
   title:
     fa_IR: گشایش مجلس خبرگان برای بررسی نهایی قانون اساسی جمهوری اسلامی ایران
   description:
@@ -243,11 +161,10 @@ events:
   month: 5
   day: 28
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "152"
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/مجلس_خبرگان_قانون_اساسی
+- partial_key: commemoration_of_majlesi
   title:
     fa_IR: روز بزرگداشت علامه مجلسی
   description:
@@ -255,11 +172,10 @@ events:
   month: 5
   day: 30
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "158"
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/محمدباقر_مجلسی
+- partial_key: defence_industries_day
   title:
     fa_IR: روز صنعت دفاعی
   description:
@@ -267,7 +183,6 @@ events:
   month: 5
   day: 31
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/سازمان_صنایع_دفاع_جمهوری_اسلامی_ایران

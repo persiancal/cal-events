@@ -1,5 +1,5 @@
 events:
-- partial_key: "summer_beginning_celebration"
+- partial_key: summer_beginning_celebration
   title:
     fa_IR: جشن آب‌پاشونک، جشن آغاز تابستان / سال نو در گاهشماری گاهنباری / دیدار طلوع
       خورشید در تقویم آفتابی چارتاقی نیاسر
@@ -9,13 +9,10 @@ events:
   month: 4
   day: 1
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
-    - https://fa.wikipedia.org/wiki/تابستان
-- partial_key: "corporation_day"
+  - https://fa.wikipedia.org/wiki/تابستان
+- partial_key: corporation_day
   title:
     fa_IR: روز اصناف
   description:
@@ -23,13 +20,10 @@ events:
   month: 4
   day: 1
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/صنف
-- partial_key: "opening_of_islamic_development_organization"
+  - https://fa.wikipedia.org/wiki/صنف
+- partial_key: opening_of_islamic_development_organization
   title:
     fa_IR: روز تبلیغ و اطلاع‌رسانی دینی (تأسیس سازمان تبلیغات اسلامی)
   description:
@@ -38,13 +32,10 @@ events:
   month: 4
   day: 1
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/سازمان_تبلیغات_اسلامی
-- partial_key: "lotus_celebration"
+  - https://fa.wikipedia.org/wiki/سازمان_تبلیغات_اسلامی
+- partial_key: lotus_celebration
   title:
     fa_IR: جشن نیلوفر
   description:
@@ -52,13 +43,10 @@ events:
   month: 4
   day: 6
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
-    - https://fa.wikipedia.org/wiki/جشن_نیلوفر
-- partial_key: "judicial_system_day"
+  - https://fa.wikipedia.org/wiki/جشن_نیلوفر
+- partial_key: judicial_system_day
   title:
     fa_IR: روز قوهٔ قضاییه
   description:
@@ -66,13 +54,10 @@ events:
   month: 4
   day: 7
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/قوه_قضائیه_ایران
-- partial_key: "7_tir_bombing"
+  - https://fa.wikipedia.org/wiki/قوه_قضائیه_ایران
+- partial_key: 7_tir_bombing
   title:
     fa_IR: شهادت آیت‌الله دکتر بهشتی و ۷۲ تن از یاران
   description:
@@ -81,14 +66,11 @@ events:
   month: 4
   day: 7
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/بمب‌گذاری_در_دفتر_حزب_جمهوری_اسلامی
-    - https://fa.wikipedia.org/wiki/سید_محمد_بهشتی
-- partial_key: "fight_against_chemical_weapons_day"
+  - https://fa.wikipedia.org/wiki/بمب‌گذاری_در_دفتر_حزب_جمهوری_اسلامی
+  - https://fa.wikipedia.org/wiki/سید_محمد_بهشتی
+- partial_key: fight_against_chemical_weapons_day
   title:
     fa_IR: روز مبارزه با سلاح‌های شیمیایی و میکروبی
   description:
@@ -96,13 +78,10 @@ events:
   month: 4
   day: 8
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/جنگ‌افزار_شیمیایی
-- partial_key: "chemical_bombing_of_sardasht"
+  - https://fa.wikipedia.org/wiki/جنگ‌افزار_شیمیایی
+- partial_key: chemical_bombing_of_sardasht
   title:
     fa_IR: بمباران شیمیایی سردشت
   description:
@@ -111,13 +90,10 @@ events:
   month: 4
   day: 8
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/بمباران_شیمیایی_سردشت
-- partial_key: "liberation_of_mehran"
+  - https://fa.wikipedia.org/wiki/بمباران_شیمیایی_سردشت
+- partial_key: liberation_of_mehran
   title:
     fa_IR: روز آزادسازی شهر مهران
   description:
@@ -125,14 +101,11 @@ events:
   month: 4
   day: 10
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/مهران
-    - https://fa.wikipedia.org/wiki/عملیات_کربلای_۱
-- partial_key: "industry_mine_day"
+  - https://fa.wikipedia.org/wiki/مهران
+  - https://fa.wikipedia.org/wiki/عملیات_کربلای_۱
+- partial_key: industry_mine_day
   title:
     fa_IR: روز صنعت و معدن
   description:
@@ -140,13 +113,10 @@ events:
   month: 4
   day: 10
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/وزارت_صنعت،_معدن_و_تجارت
-- partial_key: "mohammad_sadoghi_martyrdom"
+  - https://fa.wikipedia.org/wiki/وزارت_صنعت،_معدن_و_تجارت
+- partial_key: mohammad_sadoghi_martyrdom
   title:
     fa_IR: شهادت آیت‌الله صدوقی
   description:
@@ -155,13 +125,10 @@ events:
   month: 4
   day: 11
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/محمد_صدوقی
-- partial_key: "american_human_rights_disclosure"
+  - https://fa.wikipedia.org/wiki/محمد_صدوقی
+- partial_key: american_human_rights_disclosure
   title:
     fa_IR: روز افشای حقوق بشر آمریکایی
   description:
@@ -169,11 +136,8 @@ events:
   month: 4
   day: 12
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "abdul_hosein_amini_commemoration_day"
+  - Iran Official
+- partial_key: abdul_hosein_amini_commemoration_day
   title:
     fa_IR: روز بزرگداشت علامه امینی
   description:
@@ -182,13 +146,10 @@ events:
   month: 4
   day: 12
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/عبدالحسین_امینی
-- partial_key: "iran_air_flight_655_shot_down"
+  - https://fa.wikipedia.org/wiki/عبدالحسین_امینی
+- partial_key: iran_air_flight_655_shot_down
   title:
     fa_IR: حملهٔ ناوگان آمریکا به هواپیمای مسافربری ایران
   description:
@@ -197,13 +158,10 @@ events:
   month: 4
   day: 12
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/پرواز_شماره_۶۵۵_ایران_ایر
-- partial_key: "tirgan_celebration"
+  - https://fa.wikipedia.org/wiki/پرواز_شماره_۶۵۵_ایران_ایر
+- partial_key: tirgan_celebration
   title:
     fa_IR: تیرروز، جشن تیرگان
   description:
@@ -211,13 +169,10 @@ events:
   month: 4
   day: 13
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
-    - https://fa.wikipedia.org/wiki/تیرگان
-- partial_key: "municipality_day"
+  - https://fa.wikipedia.org/wiki/تیرگان
+- partial_key: municipality_day
   title:
     fa_IR: روز شهرداری و دهیاری
   description:
@@ -225,14 +180,11 @@ events:
   month: 4
   day: 14
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/شهرداری
-    - https://fa.wikipedia.org/wiki/دهیاری
-- partial_key: "pen_day"
+  - https://fa.wikipedia.org/wiki/شهرداری
+  - https://fa.wikipedia.org/wiki/دهیاری
+- partial_key: pen_day
   title:
     fa_IR: روز قلم
   description:
@@ -240,13 +192,10 @@ events:
   month: 4
   day: 14
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/روز_قلم
-- partial_key: "raw_eating_celebration"
+  - https://fa.wikipedia.org/wiki/روز_قلم
+- partial_key: raw_eating_celebration
   title:
     fa_IR: جشن خام‌خواری
   description:
@@ -254,13 +203,10 @@ events:
   month: 4
   day: 15
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
   sources:
-    - https://fa.wikipedia.org/wiki/خام‌خواری
-- partial_key: "tax_day"
+  - https://fa.wikipedia.org/wiki/خام‌خواری
+- partial_key: tax_day
   title:
     fa_IR: روز مالیات
   description:
@@ -268,13 +214,10 @@ events:
   month: 4
   day: 16
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/مالیات
-- partial_key: "children_literature_day"
+  - https://fa.wikipedia.org/wiki/مالیات
+- partial_key: children_literature_day
   title:
     fa_IR: روز ادبیات کودکان و نوجوانان
   description:
@@ -282,13 +225,10 @@ events:
   month: 4
   day: 18
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/ادبیات_کودک
-- partial_key: "nojeh_coup_plot"
+  - https://fa.wikipedia.org/wiki/ادبیات_کودک
+- partial_key: nojeh_coup_plot
   title:
     fa_IR: کشف کودتای نوژه
   description:
@@ -297,13 +237,10 @@ events:
   month: 4
   day: 18
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/کودتای_نوژه
-- partial_key: "hijab_day"
+  - https://fa.wikipedia.org/wiki/کودتای_نوژه
+- partial_key: hijab_day
   title:
     fa_IR: روز عفاف و حجاب
   description:
@@ -311,13 +248,10 @@ events:
   month: 4
   day: 21
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/روز_حجاب_و_عفاف
-- partial_key: "goharshad_mosque_rebellion"
+  - https://fa.wikipedia.org/wiki/روز_حجاب_و_عفاف
+- partial_key: goharshad_mosque_rebellion
   title:
     fa_IR: حمله به مسجد گوهرشاد و کشتار مردم
   description:
@@ -326,13 +260,10 @@ events:
   month: 4
   day: 21
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/واقعه_مسجد_گوهرشاد
-- partial_key: "opening_assembly_of_experts"
+  - https://fa.wikipedia.org/wiki/واقعه_مسجد_گوهرشاد
+- partial_key: opening_assembly_of_experts
   title:
     fa_IR: گشایش نخستین مجلس خبرگان رهبری
   description:
@@ -341,13 +272,10 @@ events:
   month: 4
   day: 23
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/مجلس_خبرگان_رهبری
-- partial_key: "barjam_day"
+  - https://fa.wikipedia.org/wiki/مجلس_خبرگان_رهبری
+- partial_key: barjam_day
   title:
     fa_IR: تصویب برجام و روز گفت‌وگو و تعامل سازنده با جهان
   description:
@@ -356,13 +284,10 @@ events:
   month: 4
   day: 23
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/برنامه_جامع_اقدام_مشترک
-- partial_key: "social_security_day"
+  - https://fa.wikipedia.org/wiki/برنامه_جامع_اقدام_مشترک
+- partial_key: social_security_day
   title:
     fa_IR: روز بهزیستی و تامین اجتماعی
   description:
@@ -370,14 +295,11 @@ events:
   month: 4
   day: 25
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/سازمان_بهزیستی_ایران
-    - https://fa.wikipedia.org/wiki/سازمان_تأمین_اجتماعی
-- partial_key: "opening_guardian_council"
+  - https://fa.wikipedia.org/wiki/سازمان_بهزیستی_ایران
+  - https://fa.wikipedia.org/wiki/سازمان_تأمین_اجتماعی
+- partial_key: opening_guardian_council
   title:
     fa_IR: سالروز تأسیس نهاد شورای نگهبان
   description:
@@ -385,13 +307,10 @@ events:
   month: 4
   day: 26
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/شورای_نگهبان
-- partial_key: "united_nations_security_council_resolution_598"
+  - https://fa.wikipedia.org/wiki/شورای_نگهبان
+- partial_key: united_nations_security_council_resolution_598
   title:
     fa_IR: اعلام پذیرش قطعنامهٔ ۵۹۸ شورای امنیت از سوی ایران
   description:
@@ -400,13 +319,10 @@ events:
   month: 4
   day: 27
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/قطعنامه_۵۹۸_شورای_امنیت
-- partial_key: "abol_ghasem_kashani_commemoration_day"
+  - https://fa.wikipedia.org/wiki/قطعنامه_۵۹۸_شورای_امنیت
+- partial_key: abol_ghasem_kashani_commemoration_day
   title:
     fa_IR: روز بزرگداشت آیت‌الله سیدابوالقاسم کاشانی
   description:
@@ -414,9 +330,6 @@ events:
   month: 4
   day: 30
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
+  - Iran Official
   sources:
-    - https://fa.wikipedia.org/wiki/سید_ابوالقاسم_کاشانی
+  - https://fa.wikipedia.org/wiki/سید_ابوالقاسم_کاشانی

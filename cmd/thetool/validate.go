@@ -34,6 +34,10 @@ func textValidator(s string, rs ...interface{}) error {
 }
 
 func validate(cmd *command, fl *File) error {
+	if err := validateEventCalendar(fl); err != nil {
+		return fmt.Errorf("validate calendars failed: %w", err)
+	}
+
 	if err := validateEventContent(fl.Events, fl.Months, fl.Countries); err != nil {
 		return fmt.Errorf("validate events failed: %w", err)
 	}
@@ -55,7 +59,7 @@ func isValidCountry(c string, list []string) bool {
 	return false
 }
 
-func validateEventContent(ev []Event, p *Preset, countries []string) error {
+func validateEventContent(ev []Event, p *Months, countries []string) error {
 	for i := range ev {
 		if ev[i].Key != 0 {
 			return fmt.Errorf("the Key should not be in the input file")
@@ -74,10 +78,8 @@ func validateEventContent(ev []Event, p *Preset, countries []string) error {
 		}
 
 		for l, t := range ev[i].Calendar {
-			for idx, r := range t {
-				if err := textValidator(r, ev[i].PartialKey, "calendar", l, idx); err != nil {
-					return err
-				}
+			if err := textValidator(t, ev[i].PartialKey, "calendar", l, t); err != nil {
+				return err
 			}
 		}
 
@@ -93,22 +95,26 @@ func validateEventContent(ev []Event, p *Preset, countries []string) error {
 			return fmt.Errorf("the partial key %q is invalid, only lower english chars, _ and numbers are allowed ([a-z0-9_])", ev[i].PartialKey)
 		}
 
-		if ev[i].Month <= 0 || ev[i].Month > len(p.MonthsNormal) {
-			return fmt.Errorf("invalid month on key %d", i)
+		if ev[i].Month <= 0 || ev[i].Month > len(p.Normal) {
+			return fmt.Errorf("invalid month on key %q", ev[i].PartialKey)
 		}
 
-		max := p.MonthsNormal[ev[i].Month-1]
-		if leap := p.MonthsLeap[ev[i].Month-1]; leap > max {
+		max := p.Normal[ev[i].Month-1]
+		if leap := p.Leap[ev[i].Month-1]; leap > max {
 			max = leap
 		}
 
 		if ev[i].Day <= 0 || ev[i].Day > max {
-			return fmt.Errorf("invalid day on key %d", i)
+			return fmt.Errorf("invalid day on key %q", ev[i].PartialKey)
+		}
+
+		if ev[i].Discontinue != 0 && ev[i].Discontinue < ev[i].Year {
+			return fmt.Errorf("discontinue before year is not allowed %q", ev[i].PartialKey)
 		}
 
 		for country := range ev[i].Holiday {
 			if !isValidCountry(country, countries) {
-				return fmt.Errorf("country is invalid: %q in key %d", country, i)
+				return fmt.Errorf("country is invalid: %q in key %q", country, ev[i].PartialKey)
 			}
 		}
 	}
@@ -133,6 +139,25 @@ func validateEventOrder(ev []Event) error {
 		}
 
 		year, lastIdx = ev[i].Year, ev[i].idx()
+	}
+
+	return nil
+}
+
+func validateEventCalendar(fl *File) error {
+	for _, ev := range fl.Events {
+		if len(ev.Calendar) == 0 {
+			return fmt.Errorf("event %q has no calendar", ev.PartialKey)
+		}
+	middleLoop:
+		for _, c := range ev.Calendar {
+			for _, cv := range fl.Calendars {
+				if cv["en_US"] == c {
+					continue middleLoop
+				}
+			}
+			return fmt.Errorf("calendar %q for event %q is invalid", c, ev.PartialKey)
+		}
 	}
 
 	return nil

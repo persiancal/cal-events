@@ -1,5 +1,5 @@
 events:
-- partial_key: "193"
+- partial_key: ormazd_celebration
   title:
     fa_IR: آذرجشن
   description:
@@ -7,11 +7,10 @@ events:
   month: 9
   day: 1
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-- partial_key: "201"
+  - Ancient Iran
+  sources:
+  - https://fa.wikipedia.org/wiki/آذرگان
+- partial_key: uprising_people_of_gorgan
   title:
     fa_IR: سالروز قیام مردم گرگان
   description:
@@ -20,11 +19,8 @@ events:
   month: 9
   day: 5
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "200"
+  - Iran Official
+- partial_key: niruyeh_moghavemat_basij
   title:
     fa_IR: تشکیل بسیج مستضعفان
   description:
@@ -33,23 +29,22 @@ events:
   month: 9
   day: 5
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "204"
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/بسیج
+- partial_key: islamic_republic_of_iran_navy_day
   title:
     fa_IR: روز نیروی دریایی
   description:
     fa_IR: روز نیروی دریایی
+  year: 1359
   month: 9
   day: 7
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "205"
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/نیروی_دریایی_ارتش_جمهوری_اسلامی_ایران
+- partial_key: azargan_cermony
   title:
     fa_IR: آذرروز، جشن آذرگان
   description:
@@ -57,11 +52,10 @@ events:
   month: 9
   day: 9
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
-- partial_key: "206"
+  - Ancient Iran
+  sources:
+  - https://fa.wikipedia.org/wiki/نیروی_دریایی_ارتش_جمهوری_اسلامی_ایران
+- partial_key: al_shaykh_al_mufid_commemoration_day
   title:
     fa_IR: روز بزرگداشت شیخ مفید
   description:
@@ -69,23 +63,22 @@ events:
   month: 9
   day: 9
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "207"
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/شیخ_مفید
+- partial_key: iranian_council_day
   title:
     fa_IR: روز مجلس
   description:
     fa_IR: روز مجلس
+  year: 1316
   month: 9
   day: 10
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "208"
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/روز_مجلس
+- partial_key: seyyed_hassan_modarres_martyrdom
   title:
     fa_IR: شهادت آیت‌الله سید حسن مدرس
   description:
@@ -94,11 +87,10 @@ events:
   month: 9
   day: 10
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "209"
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/سید_حسن_مدرس
+- partial_key: mirza_kuchik_khan_witness_day
   title:
     fa_IR: شهادت میرزا کوچک خان جنگلی
   description:
@@ -107,11 +99,10 @@ events:
   month: 9
   day: 11
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "210"
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/میرزا_کوچک_خان_جنگلی
+- partial_key: constitution_of_the_islamic_republic_of_iran
   title:
     fa_IR: روز قانون اساسی جمهوری اسلامی ایران (تصویب قانون اساسی جمهوری اسلامی ایران)
   description:
@@ -120,23 +111,22 @@ events:
   month: 9
   day: 12
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "214"
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/قانون_اساسی_جمهوری_اسلامی_ایران
+- partial_key: iranian_insurance_day
   title:
     fa_IR: روز بیمه
   description:
     fa_IR: روز بیمه
+  year: 1358
   month: 9
   day: 13
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "217"
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/بیمه
+- partial_key: iranian_student_day
   title:
     fa_IR: روز دانشجو
   description:
@@ -144,11 +134,10 @@ events:
   month: 9
   day: 16
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "221"
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/روز_دانشجو
+- partial_key: introduce_iraq_as_starter_and_responsible_of_iran_war
   title:
     fa_IR: معرفی عراق به عنوان مسئول و آغازگر جنگ از سوی سازمان ملل
   description:
@@ -157,11 +146,10 @@ events:
   month: 9
   day: 18
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "224"
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/قطعنامه_۵۹۸_شورای_امنیت
+- partial_key: supreme_council_of_the_cultura_revolution
   title:
     fa_IR: تشکیل شورای عالی انقلاب فرهنگی
   description:
@@ -170,11 +158,10 @@ events:
   month: 9
   day: 19
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "227"
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/شورای_عالی_انقلاب_فرهنگی
+- partial_key: abdol_hossein_dastgheib_witness_day
   title:
     fa_IR: شهادت آیت‌الله دستغیب
   description:
@@ -183,11 +170,10 @@ events:
   month: 9
   day: 20
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "231"
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/سید_عبدالحسین_دستغیب
+- partial_key: iranian_research_day
   title:
     fa_IR: روز پژوهش
   description:
@@ -195,60 +181,45 @@ events:
   month: 9
   day: 25
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "233"
+  - Iran Official
+- partial_key: iranian_tansportation_day
   title:
     fa_IR: روز حمل و نقل و رانندگان
   description:
     fa_IR: روز حمل و نقل و رانندگان
+  year: 1376
   month: 9
   day: 26
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "235"
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/روز_ملی_حمل‌ونقل_ایران
+- partial_key: mohammad_mofatteh_witness_day
   title:
-    fa_IR: روز وحدت حوزه و دانشگاه
+    fa_IR: شهادت آیت‌الله دکتر محمد مفتح و روز وحدت حوزه و دانشگاه
   description:
-    fa_IR: روز وحدت حوزه و دانشگاه
-  month: 9
-  day: 27
-  calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "236"
-  title:
-    fa_IR: شهادت آیت‌الله دکتر محمد مفتح
-  description:
-    fa_IR: شهادت آیت‌الله دکتر محمد مفتح
+    fa_IR: شهادت آیت‌الله دکتر محمد مفتح و روز وحدت حوزه و دانشگاه
   year: 1358
   month: 9
   day: 27
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "243"
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/محمد_مفتح
+  - https://fa.wikipedia.org/wiki/حوزه_علمیه
+- partial_key: mohammad_javad_tondguyan_celebrate_day
   title:
     fa_IR: روز تجلیل از شهید تندگویان
   description:
     fa_IR: روز تجلیل از شهید تندگویان
+  year: 1370
   month: 9
   day: 29
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "244"
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/محمدجواد_تندگویان
+- partial_key: yalda_night
   title:
     fa_IR: شب یلدا (چله)
   description:
@@ -256,11 +227,10 @@ events:
   month: 9
   day: 30
   calendar:
-    en_US:
-    - Iran
-    fa_IR:
-    - ایران
-- partial_key: "246"
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/شب_یلدا
+- partial_key: maidyozarem_gahambars
   title:
     fa_IR: گاهنبار میدیارِم، جشن میانهٔ سال گاهنباری (از مبدأ آغاز تابستان)
   description:
@@ -268,7 +238,6 @@ events:
   month: 9
   day: 30
   calendar:
-    en_US:
-    - Ancient Iran
-    fa_IR:
-    - باستانی
+  - Ancient Iran
+  sources:
+  - https://fa.wikipedia.org/wiki/گاهنبار

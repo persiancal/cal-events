@@ -1,0 +1,221 @@
+events:
+- partial_key: older_person_day
+  title:
+    fa_IR: روز جهانی سالمندان
+    en_US: International Day of Older Persons
+  description:
+    fa_IR: روز جهانی سالمندان
+    en_US: International Day of Older Persons
+  year: 1990
+  month: 10
+  day: 1
+  calendar:
+  - International
+  sources:
+  - https://fa.wikipedia.org/wiki/روز_جهانی_سالمندان
+  - https://en.wikipedia.org/wiki/International_Day_of_Older_Persons
+- partial_key: non_violence_day
+  title:
+    fa_IR: روز جهانی عدم خشونت
+    en_US: International Day of Non-Violence
+  description:
+    fa_IR: روز جهانی عدم خشونت
+    en_US: International Day of Non-Violence
+  year: 2007
+  month: 10
+  day: 2
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/International_Day_of_Non-Violence
+- partial_key: teacher_day
+  title:
+    fa_IR: روز جهانی معلمان
+    en_US: World Teachers’ Day
+  description:
+    fa_IR: روز جهانی معلمان
+    en_US: World Teachers’ Day
+  year: 1994
+  month: 10
+  day: 5
+  calendar:
+  - International
+  sources:
+  - https://fa.wikipedia.org/wiki/روز_جهانی_معلم
+  - https://en.wikipedia.org/wiki/World_Teachers_Day
+- partial_key: habitat_day
+  title:
+    fa_IR: روز جهانی اسکان بشر
+    en_US: World Habitat Day
+  description:
+    fa_IR: روز جهانی اسکان بشر
+    en_US: World Habitat Day
+  year: 1986
+  month: 10
+  day: 7
+  calendar:
+  - International
+  sources:
+  - https://fa.wikipedia.org/wiki/روز_جهانی_معماری
+  - https://en.wikipedia.org/wiki/World_Habitat_Day
+- partial_key: post_day
+  title:
+    fa_IR: روز جهانی پست
+    en_US: World Post Day
+  description:
+    fa_IR: روز جهانی پست
+    en_US: World Post Day
+  year: 1969
+  month: 10
+  day: 9
+  calendar:
+  - International
+  sources:
+  - https://fa.wikipedia.org/wiki/اتحادیه_جهانی_پست
+  - https://en.wikipedia.org/wiki/World_Post_Day
+- partial_key: mental_health_day
+  title:
+    fa_IR: روز جهانی سلامت روان
+    en_US: World Mental Health Day
+  description:
+    fa_IR: روز جهانی سلامت روان
+    en_US: World Mental Health Day
+  year: 1992
+  month: 10
+  day: 10
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/World_Mental_Health_Day
+- partial_key: girl_child_day
+  title:
+    fa_IR: روز جهانی فرزند دختر
+    en_US: International Day of the Girl Child
+  description:
+    fa_IR: روز جهانی فرزند دختر
+    en_US: International Day of the Girl Child
+  year: 2012
+  month: 10
+  day: 11
+  calendar:
+  - International
+  sources:
+  - https://fa.wikipedia.org/wiki/دختر
+  - https://en.wikipedia.org/wiki/International_Day_of_the_Girl_Child
+- partial_key: migratory_bird_day
+  title:
+    fa_IR: روز جهانی پرنده مهاجر
+    en_US: World Migratory Bird Day
+  description:
+    fa_IR: روز جهانی پرنده مهاجر
+    en_US: World Migratory Bird Day
+  year: 2006
+  month: 10
+  day: 12
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/Bird_Day#World_Migratory_Bird_Day
+- partial_key: disaster_risk_reduction_day
+  title:
+    fa_IR: روز جهانی کاهش خطر بلایای طبیعی
+    en_US: International Day for Disaster Risk Reduction
+  description:
+    fa_IR: روز جهانی کاهش خطر بلایای طبیعی
+    en_US: International Day for Disaster Risk Reduction
+  year: 2009
+  month: 10
+  day: 13
+  calendar:
+  - International
+  sources:
+  - https://fa.wikipedia.org/wiki/بلایای_طبیعی
+  - https://en.wikipedia.org/wiki/International_Day_for_Disaster_Reduction
+- partial_key: food_day
+  title:
+    fa_IR: روز جهانی غذا
+    en_US: World Food Day
+  description:
+    fa_IR: روز جهانی غذا
+    en_US: World Food Day
+  year: 1945
+  month: 10
+  day: 16
+  calendar:
+  - International
+  sources:
+  - https://fa.wikipedia.org/wiki/روز_جهانی_غذا
+  - https://en.wikipedia.org/wiki/World_Food_Day
+- partial_key: eradiction_of_poverty_day
+  title:
+    fa_IR: روز جهانی مبارزه با فقر
+    en_US: International Day for the Eradication of Poverty
+  description:
+    fa_IR: روز جهانی مبارزه با فقر
+    en_US: International Day for the Eradication of Poverty
+  year: 1992
+  month: 10
+  day: 17
+  calendar:
+  - International
+  sources:
+  - https://fa.wikipedia.org/wiki/روز_جهانی_ریشه‌کنی_فقر
+  - https://en.wikipedia.org/wiki/International_Day_for_the_Eradication_of_Poverty
+- partial_key: statistics_day
+  title:
+    fa_IR: روز جهانی آمار
+    en_US: World Statistics Day
+  description:
+    fa_IR: روز جهانی آمار
+    en_US: World Statistics Day
+  year: 2010
+  month: 10
+  day: 20
+  calendar:
+  - International
+  sources:
+  - https://fa.wikipedia.org/wiki/روز_جهانی_آمار
+  - https://en.wikipedia.org/wiki/World_Statistics_Day
+- partial_key: united_nation_day
+  title:
+    fa_IR: روز سازمان ملل
+    en_US: United Nations Day
+  description:
+    fa_IR: روز سازمان ملل
+    en_US: United Nations Day
+  year: 1971
+  month: 10
+  day: 24
+  calendar:
+  - International
+  sources:
+  - https://fa.wikipedia.org/wiki/سازمان_ملل_متحد
+  - https://en.wikipedia.org/wiki/United_Nations_Day
+- partial_key: development_information_day
+  title:
+    fa_IR: روز جهانی توسعه اطلاعات
+    en_US: World Development Information Day
+  description:
+    fa_IR: روز جهانی توسعه اطلاعات
+    en_US: World Development Information Day
+  year: 1972
+  month: 10
+  day: 24
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/World_Development_Information_Day
+- partial_key: audiovisual_heritage_day
+  title:
+    fa_IR: روز جهانی میراث سمعی و بصری
+    en_US: World Day for Audiovisual Heritage
+  description:
+    fa_IR: روز جهانی میراث سمعی و بصری
+    en_US: World Day for Audiovisual Heritage
+  year: 2005
+  month: 10
+  day: 27
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/World_Day_for_Audiovisual_Heritage
