@@ -969,6 +969,23 @@
       ]
     },
     {
+      "key": 1739634031,
+      "title": {
+        "fa_IR": "درگذشت خدیجه، همسر پیامبر اسلام"
+      },
+      "description": {
+        "fa_IR": "درگذشت خدیجه، همسر پیامبر اسلام"
+      },
+      "month": 9,
+      "day": 10,
+      "calendar": [
+        "Islamic"
+      ],
+      "sources": [
+        "https://fa.wikipedia.org/wiki/خدیجه"
+      ]
+    },
+    {
       "key": 2875339717,
       "title": {
         "fa_IR": "ولادت امام حسن مجتبی علیه‌السلام"
@@ -987,12 +1004,29 @@
       ]
     },
     {
-      "key": 282401441,
+      "key": 3352380676,
       "title": {
-        "fa_IR": "شب قدر اول"
+        "fa_IR": "معراج پیامبر اسلام"
       },
       "description": {
-        "fa_IR": "شب دعا و مناجات"
+        "fa_IR": "معراج پیامبر اسلام"
+      },
+      "month": 9,
+      "day": 17,
+      "calendar": [
+        "Islamic"
+      ],
+      "sources": [
+        "https://fa.wikipedia.org/wiki/محمد"
+      ]
+    },
+    {
+      "key": 2486539121,
+      "title": {
+        "fa_IR": "از شب‌های قدر"
+      },
+      "description": {
+        "fa_IR": "از شب‌های قدر"
       },
       "month": 9,
       "day": 19,
@@ -1022,17 +1056,17 @@
       ]
     },
     {
-      "key": 1818651919,
+      "key": 884692247,
       "title": {
-        "fa_IR": "شب قدر دوم"
+        "fa_IR": "از شب‌های قدر"
       },
       "description": {
-        "fa_IR": "شب دعا و مناجات"
+        "fa_IR": "از شب‌های قدر"
       },
       "month": 9,
       "day": 21,
       "calendar": [
-        "Shia"
+        "Islamic"
       ],
       "sources": [
         "https://fa.wikipedia.org/wiki/شب_قدر"
@@ -1057,6 +1091,57 @@
       },
       "sources": [
         "https://fa.wikipedia.org/wiki/علی_بن_ابی‌طالب"
+      ]
+    },
+    {
+      "key": 3576161603,
+      "title": {
+        "fa_IR": "از شب‌های قدر"
+      },
+      "description": {
+        "fa_IR": "از شب‌های قدر"
+      },
+      "month": 9,
+      "day": 23,
+      "calendar": [
+        "Islamic"
+      ],
+      "sources": [
+        "https://fa.wikipedia.org/wiki/شب_قدر"
+      ]
+    },
+    {
+      "key": 2373809590,
+      "title": {
+        "fa_IR": "از شب‌های قدر"
+      },
+      "description": {
+        "fa_IR": "از شب‌های قدر"
+      },
+      "month": 9,
+      "day": 25,
+      "calendar": [
+        "Sunni"
+      ],
+      "sources": [
+        "https://fa.wikipedia.org/wiki/شب_قدر"
+      ]
+    },
+    {
+      "key": 149571250,
+      "title": {
+        "fa_IR": "از شب‌های قدر"
+      },
+      "description": {
+        "fa_IR": "از شب‌های قدر"
+      },
+      "month": 9,
+      "day": 27,
+      "calendar": [
+        "Sunni"
+      ],
+      "sources": [
+        "https://fa.wikipedia.org/wiki/شب_قدر"
       ]
     },
     {
