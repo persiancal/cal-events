@@ -11,6 +11,9 @@ events:
   day: 2
   calendar:
   - International
+  sources:
+  - https://fa.wikipedia.org/wiki/ماهی_تن
+  - https://en.wikipedia.org/wiki/Tuna
 - partial_key: world_press_freedom_day
   title:
     fa_IR: روز جهانی آزادی مطبوعات
