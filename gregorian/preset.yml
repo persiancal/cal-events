@@ -6,6 +6,8 @@ calendars:
   fa_IR: بین‌المللی
 - en_US: Christian
   fa_IR: مسیحی
+- en_US: Buddhist
+  fa_IR: بودایی
 months:
   normal:
   - 31
