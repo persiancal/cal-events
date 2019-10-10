@@ -82,18 +82,6 @@ events:
   - International
   sources:
   - https://en.wikipedia.org/wiki/International_Day_of_Families
-- partial_key: international_day_of_living_together_in_peace
-  title:
-    fa_IR: روز جهانی زندگی صلح‌آمیز در کنارهم
-    en_US: International Day of Living Together in Peace
-  description:
-    fa_IR: روز جهانی زندگی صلح‌آمیز در کنارهم
-    en_US: International Day of Living Together in Peace
-  year: 2018
-  month: 5
-  day: 16
-  calendar:
-  - International
 - partial_key: international_day_of_light
   title:
     fa_IR: روز جهانی نور
@@ -102,6 +90,18 @@ events:
     fa_IR: روز جهانی نور
     en_US: International Day of Light
   year: 2017
+  month: 5
+  day: 16
+  calendar:
+  - International
+- partial_key: international_day_of_living_together_in_peace
+  title:
+    fa_IR: روز جهانی زندگی صلح‌آمیز در کنارهم
+    en_US: International Day of Living Together in Peace
+  description:
+    fa_IR: روز جهانی زندگی صلح‌آمیز در کنارهم
+    en_US: International Day of Living Together in Peace
+  year: 2018
   month: 5
   day: 16
   calendar:
