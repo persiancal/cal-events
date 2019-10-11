@@ -93,19 +93,6 @@ events:
       - International
     sources:
       - https://en.wikipedia.org/wiki/World_Toilet_Day
-  - partial_key: africa_industrialization_day
-    title:
-      fa_IR: روز صنعت‌سازی در آفریقا
-      en_US: Africa Industrialization Day
-    description:
-      en_US: Africa Industrialization Day is celebrated on November 20 each year. It is a time when governments and other organizations in many African countries examine ways to stimulate Africa's industrialization process.
-    year: 1990
-    month: 11
-    day: 20
-    calendar:
-      - International
-    sources:
-      - https://www.un.org/en/events/africaday/
   - partial_key: children_day
     title:
       fa_IR: روز جهانی کودک
@@ -120,6 +107,19 @@ events:
       - International
     sources:
       - https://en.wikipedia.org/wiki/Children%27s_Day
+  - partial_key: africa_industrialization_day
+    title:
+      fa_IR: روز صنعت‌سازی در آفریقا
+      en_US: Africa Industrialization Day
+    description:
+      en_US: Africa Industrialization Day is celebrated on November 20 each year. It is a time when governments and other organizations in many African countries examine ways to stimulate Africa's industrialization process.
+    year: 1990
+    month: 11
+    day: 20
+    calendar:
+      - International
+    sources:
+      - https://www.un.org/en/events/africaday/
   - partial_key: television_day
     title:
       fa_IR: روز جهانی تلویزیون
