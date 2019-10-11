@@ -14,7 +14,7 @@ events:
   sources:
   - https://fa.wikipedia.org/wiki/روز_آگاهی_جهانی_اوتیسم
   - https://en.wikipedia.org/wiki/World_Autism_Awareness_Day
-partial_key: international_day_of_sport_for_development_and_peace
+- partial_key: international_day_of_sport_for_development_and_peace
   title:
     fa_IR: روز جهانی ورزش برای صلح و توسعه
     en_US: International Day of Sport for Development and Peace
@@ -29,7 +29,7 @@ partial_key: international_day_of_sport_for_development_and_peace
   sources:
   - https://fa.wikipedia.org/wiki/روز_جهانی_ورزش_برای_صلح_و_توسعه
   - https://en.wikipedia.org/wiki/International_Day_of_Sport_for_Development_and_Peace
-partial_key: world_health_day
+- partial_key: world_health_day
   title:
     fa_IR: روز جهانی بهداشت
     en_US: World Health Day
@@ -44,7 +44,7 @@ partial_key: world_health_day
   sources:
   - https://fa.wikipedia.org/wiki/روز_جهانی_بهداشت
   - https://en.wikipedia.org/wiki/World_Health_Day
-partial_key: international_day_of_human_space_flight
+- partial_key: international_day_of_human_space_flight
   title:
     fa_IR: روز جهانی پرواز فضایی انسان
     en_US: International Day of Human Space Flight
@@ -58,7 +58,7 @@ partial_key: international_day_of_human_space_flight
   - International
   sources:
   - https://en.wikipedia.org/wiki/International_Day_of_Human_Space_Flight
-partial_key: world_creativity_and_innovation_day
+- partial_key: world_creativity_and_innovation_day
   title:
     fa_IR: روز جهانی خلاقیت و نوآوری
     en_US: World Creativity and Innovation Day
@@ -72,7 +72,7 @@ partial_key: world_creativity_and_innovation_day
   - International
   sources:
   - https://en.wikipedia.org/wiki/World_Creativity_and_Innovation_Day
-partial_key: international_earth_day
+- partial_key: international_earth_day
   title:
     fa_IR: روز جهانی زمین
     en_US: International Earth Day
@@ -87,7 +87,7 @@ partial_key: international_earth_day
   sources:
   - https://fa.wikipedia.org/wiki/روز_زمین
   - https://en.wikipedia.org/wiki/Earth_Day
-partial_key: world_book_and_copyright_day
+- partial_key: world_book_and_copyright_day
   title:
     fa_IR: روز جهانی کتاب و حق مؤلف
     en_US: World Book and Copyright Day
@@ -102,7 +102,7 @@ partial_key: world_book_and_copyright_day
   sources:
   - https://fa.wikipedia.org/wiki/روز_جهانی_کتاب_و_حق_مؤلف
   - https://en.wikipedia.org/wiki/World_Book_Day
-partial_key: world_malaria_day
+- partial_key: world_malaria_day
   title:
     fa_IR: روز جهانی مالاریا
     en_US: World Malaria Day
@@ -117,20 +117,21 @@ partial_key: world_malaria_day
   sources:
   - https://fa.wikipedia.org/wiki/روز_جهانی_مالاریا
   - https://en.wikipedia.org/wiki/World_Malaria_Day
-partial_key: world_day_for_safety_and_health_at_work
+- partial_key: world_day_for_safety_and_health_at_work
   title:
     fa_IR: روز جهانی ایمنی و سلامت در محل کار
     en_US: World Day for Safety and Health at Work
   description:
     fa_IR: روز جهانی ایمنی و بهداشت محیط کار روز جهانی سازمان ملل است که هر روز 28 آوریل برگزار می شود. در مورد کار ایمن و آگاهی از ابعاد و پیامدهای حوادث و بیماری های ناشی از کار. ایمنی و بهداشت شغلی را در برنامه های ملی و بین المللی گنجانید و از تلاش های ملی برای بهبود سیستم ها و برنامه های ملی ملی بهداشت مطابق با استانداردهای بین المللی کار مربوطه پشتیبانی کنید
     en_US: World Day for Safety and Health at Work is a UN international day that is celebrated every April 28. It is concerned about safe work and awareness of the dimensions and consequences of work-related accidents and diseases; to place occupational safety and health (OSH) on the international and national agendas; and to provide support to the national efforts for the improvement of national OSH systems and programmes in line with relevant international labour standards.
+  year: 2003
   month: 4
   day: 28
   calendar:
   - International
   sources:
   - https://en.wikipedia.org/wiki/Workers%27_Memorial_Day#World_Day_for_Safety_and_Health_at_Work
-partial_key: international_jazz_day
+- partial_key: international_jazz_day
   title:
     fa_IR: روز جهانی موسیقی جاز
     en_US: International Jazz Day
