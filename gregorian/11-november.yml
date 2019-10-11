@@ -24,7 +24,7 @@ events:
     calendar:
       - International
     sources:
-      - https://www.un.org/en/events/tsunamiday
+      - https://en.wikipedia.org/wiki/Tsunami
   - partial_key: science_day
     title:
       fa_IR: روز جهانی علم در خدمت صلح و توسعه
@@ -118,8 +118,6 @@ events:
     day: 20
     calendar:
       - International
-    sources:
-      - https://www.un.org/en/events/africaday/
   - partial_key: television_day
     title:
       fa_IR: روز جهانی تلویزیون
