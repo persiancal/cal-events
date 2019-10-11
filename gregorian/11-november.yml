@@ -58,6 +58,7 @@ events:
       fa_IR: روز جهانی مدارا
       en_US: International Day for Tolerance
     description:
+      fa_IR: 25 آبان هر سال برابر با 16 نوامبر روز جهانی مدارا و بردباری در کنفرانس عمومی سازمان یونسکو نامگذاری شده است و برای صلح و رشد در همه زمینه ها در سطح جهان می باشد
       en_US: The International Day for Tolerance is an annual observance day declared by UNESCO in 1995 to generate public awareness of the dangers of intolerance. It is observed on 16 November.
     year: 1995
     month: 11
@@ -68,9 +69,10 @@ events:
       - https://en.wikipedia.org/wiki/International_Day_for_Tolerance
   - partial_key: traffic_victims_day
     title:
-      fa_IR: روز جهانی یادبود برای قربانیان ترافیک جاده ای
+      fa_IR: روز جهانی یادبود برای قربانیان ترافیک جاده‌ای
       en_US: World Day of Remembrance for Road Traffic Victims
     description:
+      fa_IR: در ۲۶ اکتبر سال ۲۰۰۵ سازمان ملل متحد سومین یکشنبه نوامبر هر سال را به عنوان روز جهانی یادبود قربانیان حوادث ترافیک جاده‌ای نامگذاری کرد.
       en_US: The World Day of Remembrance for Road Traffic Victims takes place on the third Sunday in November every year as the appropriate acknowledgment of victims of road traffic crashes and their families.
     year: 2005
     month: 11
@@ -123,6 +125,7 @@ events:
       fa_IR: روز جهانی تلویزیون
       en_US: World Television Day
     description:
+      fa_IR: بیست و یکم نوامبر، روز جهانی تلویزیون است. در دسامبر سال ۱۹۹۶، مجمع عمومی سازمان ملل متحد، ۲۱ نوامبر را روز جهان تلویزیون اعلام کرد؛ و اولین گردهمایی جهانی تلویزیون در همان سال (۱۹۹۶) تشکیل یافت.
       en_US: In December 1996 the United Nations General Assembly proclaimed 21 November as World Television Day commemorating the date on which the first World Television Forum was held in 1996.
     year: 1996
     month: 11
