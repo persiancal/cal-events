@@ -1,1 +1,162 @@
-{}
+events:
+  - partial_key: end_impunity_for_crimes_against_journalists_day
+    title:
+      fa_IR: روز جهانی پایان دادن به مصونیت از مجازات جنایات علیه روزنامه‌نگاران
+      en_US: International Day to End Impunity for Crimes against Journalists
+    description:
+      en_US: The International Day to End Impunity for Crimes against Journalists is a UN-recognized day observed annually on 2 November.
+    year: 2013
+    month: 11
+    day: 2
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/International_Day_to_End_Impunity_for_Crimes_Against_Journalists
+  - partial_key: tsunami_day
+    title:
+      fa_IR: روز جهانی اطلاع از سونامی
+      en_US: World Tsunami Awareness Day
+    description:
+      en_US: In December 2015, the UN General Assembly designated 5 November as World Tsunami Awareness Day.
+    year: 2016
+    month: 11
+    day: 5
+    calendar:
+      - International
+    sources:
+      - https://www.un.org/en/events/tsunamiday
+  - partial_key: science_day
+    title:
+      fa_IR: روز جهانی علم در خدمت صلح و توسعه
+      en_US: World Science Day for Peace and Development
+    description:
+      fa_IR: روز جهانی علم در خدمت صلح و توسعه توسط سازمان فرهنگی، علمی، آموزشی ملل متحد، یونسکو و شورای بین‌المللی علوم در سال ۲۰۰۱ پایه‌گذاری شد و ۱۰ نوامبر به این مناسبت نامگذاری شد.
+      en_US: World Science Day for Peace and Development highlights the important role that science has in society and is celebrated each year on November 10
+    year: 2011
+    month: 11
+    day: 10
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/World_Science_Day_for_Peace_and_Development
+  - partial_key: diabetes_day
+    title:
+      fa_IR: روز جهانی دیابت
+      en_US: World Diabetes Day
+    description:
+      fa_IR: مراسم روز جهانی دیابت هرساله در تاریخ ۱۴ نوامبر (۲۳ آبان) در بیش از ۱۶۰ کشور جهان برگزار می‌گردد.
+      en_US: World Diabetes Day is the primary global awareness campaign focusing on diabetes mellitus and is held on 14 November each year.
+    year: 2006
+    month: 11
+    day: 14
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/World_Diabetes_Day
+  - partial_key: tolerance_day
+    title:
+      fa_IR: روز جهانی مدارا
+      en_US: International Day for Tolerance
+    description:
+      en_US: The International Day for Tolerance is an annual observance day declared by UNESCO in 1995 to generate public awareness of the dangers of intolerance. It is observed on 16 November.
+    year: 1995
+    month: 11
+    day: 16
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/International_Day_for_Tolerance
+  - partial_key: traffic_victims_day
+    title:
+      fa_IR: روز جهانی یادبود برای قربانیان ترافیک جاده ای
+      en_US: World Day of Remembrance for Road Traffic Victims
+    description:
+      en_US: The World Day of Remembrance for Road Traffic Victims takes place on the third Sunday in November every year as the appropriate acknowledgment of victims of road traffic crashes and their families.
+    year: 2005
+    month: 11
+    day: 17
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/World_Day_of_Remembrance_for_Road_Traffic_Victims
+  - partial_key: toilet_day
+    title:
+      fa_IR: روز جهانی توالت
+      en_US: World Toilet Day
+    description:
+      fa_IR: روز جهانی توالت در سال ۲۰۰۱ توسط سازمان جهانی توالت تاسیس شد. دوازده سال بعد، در سال۲۰۱۳، مجمع عمومی سازمان ملل متحد روز جهانی توالت را یک روز رسمی اعلام کرد.
+      en_US: World Toilet Day (WTD) is an official United Nations international observance day on 19 November to inspire action to tackle the global sanitation crisis.
+    year: 2013
+    month: 11
+    day: 19
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/World_Toilet_Day
+  - partial_key: africa_industrialization_day
+    title:
+      fa_IR: روز صنعت‌سازی در آفریقا
+      en_US: Africa Industrialization Day
+    description:
+      en_US: Africa Industrialization Day is celebrated on November 20 each year. It is a time when governments and other organizations in many African countries examine ways to stimulate Africa's industrialization process.
+    year: 1990
+    month: 11
+    day: 20
+    calendar:
+      - International
+    sources:
+      - https://www.un.org/en/events/africaday/
+  - partial_key: children_day
+    title:
+      fa_IR: روز جهانی کودک
+      en_US: Universal Children's Day
+    description:
+      fa_IR: روز جهانی کودک روزی است که برای تجلیل از کودکان به رسمیت شناخته شده‌است. این روز در کشورهای مختلف در تاریخ‌های مختلف جشن می‌گیرد.
+      en_US: International Children's Day is a day recognized to celebrate children. The day is celebrated on various dates in different countries.
+    year: 1920
+    month: 11
+    day: 20
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/Children%27s_Day
+  - partial_key: television_day
+    title:
+      fa_IR: روز جهانی تلویزیون
+      en_US: World Television Day
+    description:
+      en_US: In December 1996 the United Nations General Assembly proclaimed 21 November as World Television Day commemorating the date on which the first World Television Forum was held in 1996.
+    year: 1996
+    month: 11
+    day: 21
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/World_Television_Day
+  - partial_key: end_violence_against_woman_day
+    title:
+      fa_IR: روز بین‌المللی مبارزه با خشونت علیه زنان
+      en_US: International Day for the Elimination of Violence against Women
+    description:
+      fa_IR: از سال ۱۹۸۱، ۲۵ نوامبر هر سال به عنوان روز جهانی رفع خشونت علیه زنان برگزیده شده‌است. این روز برای یادآوری عزم همگانی برای مبارزه با خشونت علیه زنان انتخاب شده‌است. مجمع عمومی سازمان ملل متحد در ۱۷ اکتبر ۱۹۹۹ نامگذاری این روز را به عنوان روزی جهانی تصویب کرد.
+      en_US: The United Nations General Assembly has designated November 25 as the International Day for the Elimination of Violence Against Women.
+    year: 1981
+    month: 11
+    day: 25
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/International_Day_for_the_Elimination_of_Violence_against_Women
+  - partial_key: chemical_warfare_day
+    title:
+      fa_IR: روز یادبود برای همه قربانیان جنگ شیمیایی
+      en_US: Day of Remembrance for all Victims of Chemical Warfare
+    description:
+      en_US: The Day of Remembrance for all Victims of Chemical Warfare is an annual event held November 30.
+    year: 2005
+    month: 11
+    day: 30
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/Day_of_Remembrance_for_all_Victims_of_Chemical_Warfare
