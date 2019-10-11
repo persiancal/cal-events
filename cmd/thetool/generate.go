@@ -79,10 +79,6 @@ func generate(cmd *command, fl *File) error {
 		return err
 	}
 
-	if err := generateMarkdowns(fl, *dist); err != nil {
-		return err
-	}
-
 	return nil
 }
 
