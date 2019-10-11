@@ -1,1 +1,147 @@
-{}
+events:
+- partial_key: world_autism_awareness_day
+  title:
+    fa_IR: روز آگاهی جهانی اوتیسم
+    en_US: World Autism Awareness Day
+  description:
+    fa_IR: .روز آگاهی جهانی اوتیسم روز دوم آوریل هر سال است که به عنوان یک روز جهانی به رسمیت شناخته شده است و هدف آن یادآوری و ترغیب کنش های کشورهای عضو در سازمان ملل متحد در جهت افزایش آگاهی در مورد افراد مبتلا به اختلال اسپکتروم اوتیسم در سراسر جهان است
+    en_US: World Autism Awareness Day is an internationally recognized day on 2 April every year, encouraging Member States of the United Nations to take measures to raise awareness about people with Autism Spectrum Disorder (ASD) throughout the world.
+  year: 2007
+  month: 4
+  day: 2
+  calendar:
+  - International
+  sources:
+  - https://fa.wikipedia.org/wiki/روز_آگاهی_جهانی_اوتیسم
+  - https://en.wikipedia.org/wiki/World_Autism_Awareness_Day
+- partial_key: international_day_of_sport_for_development_and_peace
+  title:
+    fa_IR: روز جهانی ورزش برای صلح و توسعه
+    en_US: International Day of Sport for Development and Peace
+  description:
+    fa_IR: .روز جهانی ورزش برای صلح و توسعه در روز 6 آوریل توسط سازمان ملل متحد نامگزاری شد.روز ششم آوریل در واقع آغازگر نخستین دوره بازی های المپیک تابستانی مدرن در سال 1896 به میزبانی یونان بوده و همین علت این روز به عنوان روز ورزش در خدمت صلح و توسعه نام گذاری شده است
+    en_US: The International Day of Sport for Development and Peace (IDSDP) is an annual celebration of the power of sport to drive social change, community development and to foster peace and understanding.
+  year: 2014
+  month: 4
+  day: 6
+  calendar:
+  - International
+  sources:
+  - https://fa.wikipedia.org/wiki/روز_جهانی_ورزش_برای_صلح_و_توسعه
+  - https://en.wikipedia.org/wiki/International_Day_of_Sport_for_Development_and_Peace
+- partial_key: world_health_day
+  title:
+    fa_IR: روز جهانی بهداشت
+    en_US: World Health Day
+  description:
+    fa_IR: .روز جهانی بهداشت سالروز مقارن هفتم آوریل است که تحت حمایت سازمان بهداشت جهانی قرار دارد و همه ساله در این روز تحت نظارت مجمع بهداشت جهانی و دیگر سازمان های مرتبط جشن گرفته می شود
+    en_US: The World Health Day is a global health awareness day celebrated every year on 7 April, under the sponsorship of the World Health Organization (WHO), as well as other related organizations.
+  year: 1950
+  month: 4
+  day: 7
+  calendar:
+  - International
+  sources:
+  - https://fa.wikipedia.org/wiki/روز_جهانی_بهداشت
+  - https://en.wikipedia.org/wiki/World_Health_Day
+- partial_key: international_day_of_human_space_flight
+  title:
+    fa_IR: روز جهانی پرواز فضایی انسان
+    en_US: International Day of Human Space Flight
+  description:
+    fa_IR: .روز جهانی پرواز فضایی بشر ، جشن سالیانه است که در تاریخ 12 آوریل ، سالگرد اولین پرواز فضایی انسان توسط یوری گاگارین برگزار می شود. این در 65مین جلسه مجمع عمومی سازمان ملل متحد در 7 آوریل 2011، چند روز قبل از پنجاهمین سالگرد پرواز اعلام شد
+    en_US: The International Day of Human Space Flight is the annual celebration, held on April 12, of the anniversary of the first human space flight by Yuri Gagarin. It was proclaimed at the 65th session of the United Nations General Assembly on April 7, 2011,[1] a few days before the 50th anniversary of the flight.
+  year: 2011
+  month: 4
+  day: 12
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/International_Day_of_Human_Space_Flight
+- partial_key: world_creativity_and_innovation_day
+  title:
+    fa_IR: روز جهانی خلاقیت و نوآوری
+    en_US: World Creativity and Innovation Day
+  description:
+    fa_IR: .اولین روز جهانی خلاقیت و نوآوری، همانطور که سازمان ملل اعلام کرده بود، در تاریخ 21 آوریل 2018 جشن گرفته شد
+    en_US: The first World Creativity and Innovation Day (#WCID), as announced by the United Nations, was celebrated on April 21, 2018.
+  year: 2018
+  month: 4
+  day: 21
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/World_Creativity_and_Innovation_Day
+- partial_key: international_earth_day
+  title:
+    fa_IR: روز جهانی زمین
+    en_US: International Earth Day
+  description:
+    fa_IR: .روز زمین یک رویداد سالانه است که در 22 آوریل در سراسر جهان برگزار می شود تا حمایت از حفاظت از محیط زیست را نشان دهد. اولین بار که در سال 1970 جشن گرفته شد، اکنون شامل رویدادهایی است که توسط شبکه جهانی زمین در بیش از 193 کشور جهان هماهنگ شده است
+    en_US: Earth Day is an annual event celebrated around the world on April 22 to demonstrate support for environmental protection. First celebrated in 1970, it now includes events coordinated globally by the Earth Day Network[1] in more than 193 countries.
+  year: 1970
+  month: 4
+  day: 22
+  calendar:
+  - International
+  sources:
+  - https://fa.wikipedia.org/wiki/روز_زمین
+  - https://en.wikipedia.org/wiki/Earth_Day
+- partial_key: world_book_and_copyright_day
+  title:
+    fa_IR: روز جهانی کتاب و حق مؤلف
+    en_US: World Book and Copyright Day
+  description:
+    fa_IR: .روز جهانی کتاب و حق مولف یا روز جهانی کتاب و حق مولف، یک رویداد سالانه‌ی پیش بینی شده توسط یونسکو است که در ۲۳ام آوریل هر سال به منظور ترویج خواندن و احترام به حق مولف برگزار می‌شود. در بریتانیا این روز در اولین دوشنبه ماه مارس برگزار می‌گردد. روز جهانی کتاب و حق مولف اولین بار در سال ۱۹۹۵ معرفی شد
+    en_US: World Book Day, also known as World Book and Copyright Day, or International Day of the Book, is an annual event organized by the United Nations Educational, Scientific and Cultural Organization (UNESCO) to promote reading, publishing, and copyright. World Book Day was first celebrated on 23 April 1995, and continues to be recognized on that day. A related event in the United Kingdom and Ireland is observed in March.
+  year: 1995
+  month: 4
+  day: 23
+  calendar:
+  - International
+  sources:
+  - https://fa.wikipedia.org/wiki/روز_جهانی_کتاب_و_حق_مؤلف
+  - https://en.wikipedia.org/wiki/World_Book_Day
+- partial_key: world_malaria_day
+  title:
+    fa_IR: روز جهانی مالاریا
+    en_US: World Malaria Day
+  description:
+    fa_IR: .روز جهانی مالاریا یک رعایت جهانی‌ست که هر ساله در ۲۵ آوریل برگزار شده و به عنوان تلاش جهانی برای کنترل مالاریا شناخته می‌شود. در جهان ۳٫۳ میلیون نفر در ۱۰۶ کشور در خطر ریسک ابتلا به مالاریا هستند. در سال ۲۰۱۲ مالاریا به‌طور تخمینی ۶۲۷٬۰۰۰ کشته غالباً در کودکان آفریقایی داده‌است. آسیا، آمریکای لاتین و کمتر در خاورمیانه و قسمت‌هایی از اروپا نیز تحت تأثیر بوده‌اند
+    en_US: World Malaria Day (WMD) is an international observance commemorated every year on 25 April and recognizes global efforts to control malaria. Globally, 3.3 billion people in 106 countries are at risk of malaria.[1] In 2012, malaria caused an estimated 627,000 deaths, mostly among African children.[2] Asia, Latin America, and to a lesser extent the Middle East and parts of Europe are also affected.
+  year: 2001
+  month: 4
+  day: 25
+  calendar:
+  - International
+  sources:
+  - https://fa.wikipedia.org/wiki/روز_جهانی_مالاریا
+  - https://en.wikipedia.org/wiki/World_Malaria_Day
+- partial_key: world_day_for_safety_and_health_at_work
+  title:
+    fa_IR: روز جهانی ایمنی و سلامت در محل کار
+    en_US: World Day for Safety and Health at Work
+  description:
+    fa_IR: .روز جهانی ایمنی و بهداشت محیط کار روز جهانی سازمان ملل است که هر روز 28 آوریل برگزار می شود. در مورد کار ایمن و آگاهی از ابعاد و پیامدهای حوادث و بیماری های ناشی از کار. ایمنی و بهداشت شغلی را در برنامه های ملی و بین المللی گنجانید و از تلاش های ملی برای بهبود سیستم ها و برنامه های ملی ملی بهداشت مطابق با استانداردهای بین المللی کار مربوطه پشتیبانی کنید
+    en_US: World Day for Safety and Health at Work is a UN international day that is celebrated every April 28. It is concerned about safe work and awareness of the dimensions and consequences of work-related accidents and diseases; to place occupational safety and health (OSH) on the international and national agendas; and to provide support to the national efforts for the improvement of national OSH systems and programmes in line with relevant international labour standards.
+  year: 2003
+  month: 4
+  day: 28
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/Workers%27_Memorial_Day#World_Day_for_Safety_and_Health_at_Work
+- partial_key: international_jazz_day
+  title:
+    fa_IR: روز جهانی موسیقی جاز
+    en_US: International Jazz Day
+  description:
+    fa_IR: .روز جهانی جاز یک روز جهانی است که در سال 2011 توسط سازمان آموزشی، علمی و فرهنگی سازمان ملل متحد به منظور برجسته کردن جاز و نقش دیپلماتیک آن در متحد کردن مردم در گوشه و کنار جهان اعلام شده است
+    en_US: International Jazz Day is an International Day declared by the United Nations Educational, Scientific and Cultural Organization in 2011 "to highlight jazz and its diplomatic role of uniting people in all corners of the globe.
+  year: 2012
+  month: 4
+  day: 30
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/International_Jazz_Day
