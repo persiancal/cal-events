@@ -23,6 +23,8 @@ events:
   calendar:
     - Iran Official
     - Islamic
+  sources:
+    - https://fa.wikipedia.org/wiki/عایشه
 - partial_key: "imam_zaman_waited_for_hussein_bin_rouh"
   title:
     fa_IR: توقیع امام زمان(عج) برای حسین بن روح
@@ -33,7 +35,7 @@ events:
   day: 6
   calendar:
     - Iran Official
-    - Islamic
+    - Shia
 - partial_key: "destruction_of_the_graves_of_the_imams"
   title:
     fa_IR: تخریب قبور ائمه بقیع(ع) به دست وهابی‌ها(یوم‌الهدم)
@@ -44,7 +46,7 @@ events:
   day: 8
   calendar:
     - Iran Official
-    - Islamic
+    - Shia
   sources:
     - https://fa.wikipedia.org/wiki/تخریب_بقیع
 - partial_key: "death_of_abdul_azim_hassani"
@@ -57,7 +59,7 @@ events:
   day: 15
   calendar:
     - Iran Official
-    - Islamic
+    - Shia
   sources:
     - https://fa.wikipedia.org/wiki/عبدالعظیم_حسنی
 - partial_key: "harun_abbasi_arrested_imam_kazem"
@@ -70,14 +72,14 @@ events:
   day: 20
   calendar:
     - Iran Official
-    - Islamic
+    - Shia
   sources:
-    - https://fa.wikipedia.org/wiki/عبدالعظیم_حسنی
+    - https://fa.wikipedia.org/wiki/موسی_کاظم
 - partial_key: "testimony_of_imam_sadiq"
   title:
-    fa_IR: 	شهادت امام صادق (ع)
+    fa_IR: شهادت امام صادق (ع)
   description:
-    fa_IR: 	شهادت امام صادق (ع)
+    fa_IR: شهادت امام صادق (ع)
   year: 148
   month: 10
   day: 25
