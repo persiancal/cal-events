@@ -1,1 +1,92 @@
-{}
+events:
+- partial_key: "eid_al_fitr"
+  title:
+    fa_IR: عید فطر
+  description:
+    fa_IR: عید فطر
+  month: 10
+  day: 1
+  calendar:
+    - Iran Official
+    - Islamic
+  holiday:
+    Iran: []
+  sources:
+    - https://fa.wikipedia.org/wiki/عید_فطر
+- partial_key: "marriage_of_the_prophet_of_islam_to_aisha"
+  title:
+    fa_IR: ازدواج پیامبر اسلام(ص) با عایشه
+  description:
+    fa_IR: ازدواج پیامبر اسلام(ص) با عایشه
+  month: 10
+  day: 2
+  calendar:
+    - Iran Official
+    - Islamic
+  sources:
+    - https://fa.wikipedia.org/wiki/عایشه
+- partial_key: "imam_zaman_waited_for_hussein_bin_rouh"
+  title:
+    fa_IR: توقیع امام زمان(عج) برای حسین بن روح
+  description:
+    fa_IR: توقیع امام زمان(عج) برای حسین بن روح
+  year: 305
+  month: 10
+  day: 6
+  calendar:
+    - Iran Official
+    - Shia
+- partial_key: "destruction_of_the_graves_of_the_imams"
+  title:
+    fa_IR: تخریب قبور ائمه بقیع(ع) به دست وهابی‌ها(یوم‌الهدم)
+  description:
+    fa_IR: تخریب قبور ائمه بقیع(ع) به دست وهابی‌ها(یوم‌الهدم)
+  year: 1344
+  month: 10
+  day: 8
+  calendar:
+    - Iran Official
+    - Shia
+  sources:
+    - https://fa.wikipedia.org/wiki/تخریب_بقیع
+- partial_key: "death_of_abdul_azim_hassani"
+  title:
+    fa_IR: درگذشت حضرت عبدالعظیم حسنی(ع)
+  description:
+    fa_IR: درگذشت حضرت عبدالعظیم حسنی(ع)
+  year: 252
+  month: 10
+  day: 15
+  calendar:
+    - Iran Official
+    - Shia
+  sources:
+    - https://fa.wikipedia.org/wiki/عبدالعظیم_حسنی
+- partial_key: "harun_abbasi_arrested_imam_kazem"
+  title:
+    fa_IR: دستگیری امام کاظم(ع) توسط هارون عباسی
+  description:
+    fa_IR: دستگیری امام کاظم(ع) توسط هارون عباسی
+  year: 179
+  month: 10
+  day: 20
+  calendar:
+    - Iran Official
+    - Shia
+  sources:
+    - https://fa.wikipedia.org/wiki/موسی_کاظم
+- partial_key: "testimony_of_imam_sadiq"
+  title:
+    fa_IR: شهادت امام صادق (ع)
+  description:
+    fa_IR: شهادت امام صادق (ع)
+  year: 148
+  month: 10
+  day: 25
+  calendar:
+    - Iran Official
+    - Shia
+  holiday:
+    Iran: []
+  sources:
+    - https://fa.wikipedia.org/wiki/جعفر_صادق
