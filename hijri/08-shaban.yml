@@ -111,4 +111,15 @@ events:
     - Islamic Republic Of Iran
   sources:
     - https://fa.wikipedia.org/wiki/حجت_بن_الحسن
-    
+- partial_key: "abbasid_revolution"
+  title:
+    fa_IR: قیام سیاه جامگان
+  description:
+    fa_IR: قیام سیاه جامگان به رهبری ابومسلم خراسانی
+  month: 25
+  day: 5
+  year: 137
+  calendar:
+    - Shia
+  sources:
+    - https://fa.wikipedia.org/wiki/جنبش_سیاه‌جامگان
