@@ -103,8 +103,8 @@ events:
     fa_IR: ولادت محمد بن حسن
   description:
     fa_IR: ولادت محمد بن حسن، دوازدهمین امام شیعه دوازده امامی (مهدی) 
-  month: 15
-  day: 5
+  month: 8
+  day: 15
   year: 255
   calendar:
     - Shia
@@ -116,8 +116,8 @@ events:
     fa_IR: قیام سیاه جامگان
   description:
     fa_IR: قیام سیاه جامگان به رهبری ابومسلم خراسانی
-  month: 25
-  day: 5
+  month: 8
+  day: 25
   year: 137
   calendar:
     - Shia
