@@ -15,7 +15,7 @@ func TestCheckLink(t *testing.T) {
 	}
 
 	client := &http.Client{
-		Timeout: time.Second,
+		Timeout: time.Second * 10,
 	}
 
 	for lnk, valid := range fixtures {

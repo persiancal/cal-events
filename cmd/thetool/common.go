@@ -35,12 +35,6 @@ func (e *Event) idx() int {
 	return e.Month*100 + e.Day
 }
 
-func (e *Event) CalculateKey(collection string) {
-	hash := fnv.New32()
-	_, _ = fmt.Fprintf(hash, "%d_%s_%d_%d_%s_%d", key0, collection, e.Month, e.Day, e.PartialKey, key1)
-	e.Key = hash.Sum32()
-}
-
 // Months is the month structure validator
 type Months struct {
 	Normal []int               `json:"normal,omitempty" yaml:"normal,omitempty"`
@@ -88,6 +82,12 @@ func (f *File) Merge(new *File) {
 
 	f.Countries = append(f.Countries, new.Countries...)
 	f.Events = append(f.Events, new.Events...)
+	for i := range f.Events {
+		hash := fnv.New32()
+		_, _ = fmt.Fprintf(hash, "%d_%s_%d_%d_%s_%d", key0, f.Name,
+			f.Events[i].Month, f.Events[i].Day, f.Events[i].PartialKey, key1)
+		f.Events[i].Key = hash.Sum32()
+	}
 }
 
 func openFolder(folder string) ([]string, error) {
@@ -130,6 +130,12 @@ func loadFolder(folder string) (*File, error) {
 		f, err := loadFile(data)
 		if err != nil {
 			return nil, err
+		}
+
+		for e := range f.Events {
+			if f.Events[e].Key != 0 {
+				return nil, fmt.Errorf("the Key should not be in the input file %q ", f.Events[e].PartialKey)
+			}
 		}
 		res.Merge(f)
 	}
