@@ -884,6 +884,97 @@ events:
   - Sunni
   sources:
   - https://fa.wikipedia.org/wiki/شب_قدر
+- key: 3512304378
+  title:
+    fa_IR: عید فطر
+  description:
+    fa_IR: عید فطر
+  month: 10
+  day: 1
+  calendar:
+  - Iran Official
+  - Islamic
+  holiday:
+    Iran: []
+  sources:
+  - https://fa.wikipedia.org/wiki/عید_فطر
+- key: 137563650
+  title:
+    fa_IR: ازدواج پیامبر اسلام(ص) با عایشه
+  description:
+    fa_IR: ازدواج پیامبر اسلام(ص) با عایشه
+  month: 10
+  day: 2
+  calendar:
+  - Iran Official
+  - Islamic
+  sources:
+  - https://fa.wikipedia.org/wiki/عایشه
+- key: 3857634331
+  title:
+    fa_IR: توقیع امام زمان(عج) برای حسین بن روح
+  description:
+    fa_IR: توقیع امام زمان(عج) برای حسین بن روح
+  year: 305
+  month: 10
+  day: 6
+  calendar:
+  - Iran Official
+  - Shia
+- key: 3246343112
+  title:
+    fa_IR: تخریب قبور ائمه بقیع(ع) به دست وهابی‌ها(یوم‌الهدم)
+  description:
+    fa_IR: تخریب قبور ائمه بقیع(ع) به دست وهابی‌ها(یوم‌الهدم)
+  year: 1344
+  month: 10
+  day: 8
+  calendar:
+  - Iran Official
+  - Shia
+  sources:
+  - https://fa.wikipedia.org/wiki/تخریب_بقیع
+- key: 362234366
+  title:
+    fa_IR: درگذشت حضرت عبدالعظیم حسنی(ع)
+  description:
+    fa_IR: درگذشت حضرت عبدالعظیم حسنی(ع)
+  year: 252
+  month: 10
+  day: 15
+  calendar:
+  - Iran Official
+  - Shia
+  sources:
+  - https://fa.wikipedia.org/wiki/عبدالعظیم_حسنی
+- key: 2069510763
+  title:
+    fa_IR: دستگیری امام کاظم(ع) توسط هارون عباسی
+  description:
+    fa_IR: دستگیری امام کاظم(ع) توسط هارون عباسی
+  year: 179
+  month: 10
+  day: 20
+  calendar:
+  - Iran Official
+  - Shia
+  sources:
+  - https://fa.wikipedia.org/wiki/موسی_کاظم
+- key: 3989931246
+  title:
+    fa_IR: شهادت امام صادق (ع)
+  description:
+    fa_IR: شهادت امام صادق (ع)
+  year: 148
+  month: 10
+  day: 25
+  calendar:
+  - Iran Official
+  - Shia
+  holiday:
+    Iran: []
+  sources:
+  - https://fa.wikipedia.org/wiki/جعفر_صادق
 - key: 1224622444
   title:
     fa_IR: ولادت فاطمه معصومه و روز دختران
