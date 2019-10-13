@@ -74,3 +74,29 @@ events:
     - Islamic Republic Of Iran
   sources:
     - https://fa.wikipedia.org/wiki/جانباز
+- partial_key: "birthday_of_ali_ibn_husayn_aliakbar"
+  title:
+    fa_IR: ولادت علی (علی اکبر ) ابن الحسین
+  description:
+    fa_IR: ولادت علی بن حسین معروف به علی اکبر
+  month: 8
+  day: 11
+  year: 26
+  calendar:
+    - Shia
+    - Islamic Republic Of Iran
+  sources:
+    - https://fa.wikipedia.org/wiki/علی‌اکبر
+- partial_key: "Youth_Day"
+  title:
+    fa_IR: روز جوان
+  description:
+    fa_IR: 
+  month: 8
+  day: 11
+  year: 26
+  calendar:
+    - Islamic Republic Of Iran
+  sources:
+ 
+    
