@@ -1,1 +1,123 @@
-{}
+events:
+- partial_key: "abd_al_husayn_lari_jihad_order"
+  title:
+    fa_IR: صدور حکم جهاد توسط عبدالحسین لاری علیه انگلیس
+  description:
+    fa_IR: صدور حکم جهاد توسط عبدالحسین لاری علیه انگلیس که منجر به جنگ شدید عشایر ولایت فارس با نیروهای انگلیسی‌ شد. (در جریان جنگ جهانی اول)
+  month: 8
+  day: 1
+  year: 1336
+  calendar:
+  - Shia
+  sources:
+    - https://fa.wikipedia.org/wiki/سید_عبدالحسین_لاری
+- partial_key: "pasdar_day"
+  title:
+    fa_IR: روز پاسدار
+  description:
+    fa_IR: روز پاسدار
+  month: 8
+  day: 3
+  calendar:
+    - Islamic Republic Of Iran
+  sources:
+    - https://fa.wikipedia.org/wiki/سپاه_پاسداران_انقلاب_اسلامی
+- partial_key: "birthday_of_husayn_ibn_ali"
+  title:
+    fa_IR: ولادت امام حسین، سومین امام شیعه دوازده امامی
+  description:
+    fa_IR: ولادت امام حسین، سومین امام شیعه دوازده امامی
+  month: 8
+  day: 3
+  year: 4
+  calendar:
+    - Shia
+    - Islamic Republic Of Iran
+  sources:
+    - https://fa.wikipedia.org/wiki/حسین_بن_علی
+- partial_key: "birthday_of_abbas_ibn_ali"
+  title:
+    fa_IR: ولادت عباس بن علی
+  description:
+    fa_IR: ولادت عباس بن علی
+  month: 8
+  day: 4
+  year: 26
+  calendar:
+    - Shia
+    - Islamic Republic Of Iran
+  sources:
+    - https://fa.wikipedia.org/wiki/عباس_بن_علی
+- partial_key: "disabled_iranian_veterans_day"
+  title:
+    fa_IR: روز جانباز
+  description:
+    fa_IR: روز جانباز
+  month: 8
+  day: 5
+  calendar:
+    - Islamic Republic Of Iran
+  sources:
+    - https://fa.wikipedia.org/wiki/جانباز
+- partial_key: "birthday_of_ali_ibn_husayn"
+  title:
+    fa_IR: ولادت علی ابن الحسین
+  description:
+    fa_IR: ولادت علی بن حسین، چهارمین امام شیعه دوازده امامی
+  month: 8
+  day: 5
+  year: 38
+  calendar:
+    - Shia
+    - Islamic Republic Of Iran
+  sources:
+    - https://fa.wikipedia.org/wiki/سجاد
+- partial_key: "youth_day"
+  title:
+    fa_IR: روز جوان
+  description:
+    fa_IR: روز جوان
+  month: 8
+  day: 11
+  year: 
+  calendar:
+    - Islamic Republic Of Iran
+  sources:
+- partial_key: "birthday_of_ali_ibn_husayn_aliakbar"
+  title:
+    fa_IR: ولادت علی (علی اکبر ) ابن الحسین
+  description:
+    fa_IR: ولادت علی بن حسین معروف به علی اکبر
+  month: 8
+  day: 11
+  year: 33
+  calendar:
+    - Shia
+    - Islamic Republic Of Iran
+  sources:
+    - https://fa.wikipedia.org/wiki/علی‌اکبر
+- partial_key: "birthday_of_mohammad_ibn_hasan_mahdi"
+  title:
+    fa_IR: ولادت محمد بن حسن
+  description:
+    fa_IR: ولادت محمد بن حسن، دوازدهمین امام شیعه دوازده امامی (مهدی) 
+  month: 8
+  day: 15
+  year: 255
+  calendar:
+    - Shia
+    - Islamic Republic Of Iran
+  sources:
+    - https://fa.wikipedia.org/wiki/حجت_بن_الحسن
+- partial_key: "abbasid_revolution"
+  title:
+    fa_IR: قیام سیاه جامگان
+  description:
+    fa_IR: قیام سیاه جامگان به رهبری ابومسلم خراسانی
+  month: 8
+  day: 25
+  year: 137
+  calendar:
+    - Shia
+  sources:
+    - https://fa.wikipedia.org/wiki/جنبش_سیاه‌جامگان
