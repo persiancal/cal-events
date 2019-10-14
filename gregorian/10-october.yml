@@ -131,6 +131,21 @@ events:
   sources:
   - https://fa.wikipedia.org/wiki/بلایای_طبیعی
   - https://en.wikipedia.org/wiki/International_Day_for_Disaster_Reduction
+- partial_key: white_cane_safety_day
+  title:
+    fa_IR: روز عصای سفید
+    en_US: White Cane Safety Day
+  description:
+    fa_IR: روز عصای سفید
+    en_US: White Cane Safety Day
+  year: 1964
+  month: 10
+  day: 15
+  calendar:
+  - International
+  sources:
+  - https://fa.wikipedia.org/wiki/روز_عصای_سفید
+  - https://en.wikipedia.org/wiki/White_Cane_Safety_Day
 - partial_key: food_day
   title:
     fa_IR: روز جهانی غذا
