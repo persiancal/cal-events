@@ -1,1 +1,204 @@
-{}
+events:
+- partial_key: international_day_of_charity
+  title:
+    fa_IR: روز جهانی خیریه
+    en_US: International Day of Charity
+  description:
+    fa_IR: روز جهانی خیریه
+    en_US: International Day of Charity
+  year: 2012
+  month: 9
+  day: 5
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/International_Day_of_Charity
+- partial_key: international_literacy_day
+  title:
+    fa_IR: روز جهانی سواد آموزی
+    en_US: International Literacy Day
+  description:
+    fa_IR: روز جهانی سواد آموزی
+    en_US: International Literacy Day
+  year: 1967
+  month: 9
+  day: 8
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/International_Literacy_Day
+  - https://fa.wikipedia.org/wiki/روز_جهانی_سوادآموزی
+- partial_key: world_suicide_prevention_day
+  title:
+    fa_IR: روز جهانی پیشگیری از خودکشی
+    en_US: World Suicide Prevention Day
+  description:
+    fa_IR: روز جهانی پیشگیری از خودکشی
+    en_US: World Suicide Prevention Day
+  year: 2003
+  month: 9
+  day: 10
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/World_Suicide_Prevention_Day
+  - https://fa.wikipedia.org/wiki/روز_جهانی_پیشگیری_از_خودکشی
+- partial_key: united_nations_day_for_south_south_cooperation
+  title:
+    fa_IR: روز سازمان ملل متحد برای همکاری های جنوبی - جنوبی
+    en_US: United Nations Day for South-South Cooperation
+  description:
+    fa_IR: روز سازمان ملل متحد برای همکاری های جنوبی - جنوبی
+    en_US: United Nations Day for South-South Cooperation
+  month: 9
+  day: 12
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/South-South_cooperation
+- partial_key: international_day_of_democracy
+  title:
+    fa_IR: روز جهانی دموکراسی
+    en_US: International Day of Democracy
+  description:
+    fa_IR: روز جهانی دموکراسی
+    en_US: International Day of Democracy
+  year: 2007
+  month: 9
+  day: 15
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/International_Day_of_Democracy
+  - https://fa.wikipedia.org/wiki/روز_جهانی_دموکراسی
+- partial_key: international_day_for_the_preservation_of_the_ozone_layer
+  title:
+    fa_IR: روز جهانی حفظ لایه ازن
+    en_US: International Day for the Preservation of the Ozone Layer
+  description:
+    fa_IR: روز جهانی حفظ لایه ازن
+    en_US: International Day for the Preservation of the Ozone Layer
+  year: 2000
+  month: 9
+  day: 16
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/International_Day_for_the_Preservation_of_the_Ozone_Layer
+  - https://fa.wikipedia.org/wiki/لایه_ازون
+- partial_key: international_day_of_peace
+  title:
+    fa_IR: روز جهانی صلح
+    en_US: International Day of Peace
+  description:
+    fa_IR: روز جهانی صلح
+    en_US: International Day of Peace
+  year: 1981
+  month: 9
+  day: 21
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/International_Day_of_Peace
+  - https://fa.wikipedia.org/wiki/روز_جهانی_صلح
+- partial_key: international_day_of_sign_languages
+  title:
+    fa_IR: روز جهانی زبان های اشاره
+    en_US: International Day of Sign Languages
+  description:
+    fa_IR: روز جهانی زبان های اشاره
+    en_US: International Day of Sign Languages
+  year: 2018
+  month: 9
+  day: 23
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/International_Day_of_Sign_Languages
+  - https://fa.wikipedia.org/wiki/زبان_اشاره
+- partial_key: international_day_for_the_total_elimination_of_nuclear_weapons
+  title:
+    fa_IR: روز جهانی از بین بردن کامل سلاح های هسته ای
+    en_US: International Day for the Total Elimination of Nuclear Weapons
+  description:
+    fa_IR: روز جهانی از بین بردن کامل سلاح های هسته ای
+    en_US: International Day for the Total Elimination of Nuclear Weapons
+  month: 9
+  day: 26
+  calendar:
+  - International
+  sources:
+  - https://www.un.org/en/events/nuclearweaponelimination
+- partial_key: world_maritime_day
+  title:
+    fa_IR: روز جهانی دریانوردی
+    en_US: World Maritime Day
+  description:
+    fa_IR: روز جهانی دریانوردی
+    en_US: World Maritime Day
+  month: 9
+  day: 26
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/Maritime_Day 
+- partial_key: world_tourism_day
+  title:
+    fa_IR: روز جهانی گردشگری
+    en_US: World Tourism Day
+  description:
+    fa_IR: روز جهانی گردشگری
+    en_US: World Tourism Day
+  year: 1980
+  month: 9
+  day: 27
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/World_Tourism_Day
+  - https://fa.wikipedia.org/wiki/روز_جهانی_گردشگری
+- partial_key: world_rabies_day
+  title:
+    fa_IR: روز جهانی هاری
+    en_US: World Rabies Day
+  description:
+    fa_IR: روز جهانی هاری
+    en_US: World Rabies Day
+  month: 9
+  day: 28
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/World_Rabies_Day
+  - https://fa.wikipedia.org/wiki/هاری
+- partial_key: international_day_for_universal_access_to_information
+  title:
+    fa_IR: روز جهانی دسترسی عمومی به اطلاعات
+    en_US: International Day for Universal Access to Information
+  description:
+    fa_IR: روز جهانی دسترسی عمومی به اطلاعات
+    en_US: International Day for Universal Access to Information
+  year: 2015
+  month: 9
+  day: 28
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/Access_to_Information_Day
+  - https://fa.wikipedia.org/wiki/قانونگذاری_برای_دسترسی_آزاد_به_اطلاعات
+- partial_key: international_translation_day
+  title:
+    fa_IR: روز جهانی ترجمه
+    en_US: International Translation Day
+  description:
+    fa_IR: روز جهانی ترجمه
+    en_US: International Translation Day
+  year: 1953
+  month: 9
+  day: 30
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/International_Translation_Day
+  - https://fa.wikipedia.org/wiki/روز_جهانی_ترجمه
+
