@@ -909,6 +909,288 @@
       ]
     },
     {
+      "key": 358103194,
+      "title": {
+        "en_US": "International Day of Charity",
+        "fa_IR": "روز جهانی خیریه"
+      },
+      "description": {
+        "en_US": "International Day of Charity",
+        "fa_IR": "روز جهانی خیریه"
+      },
+      "year": 2012,
+      "month": 9,
+      "day": 5,
+      "calendar": [
+        "International"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/International_Day_of_Charity"
+      ]
+    },
+    {
+      "key": 49623202,
+      "title": {
+        "en_US": "International Literacy Day",
+        "fa_IR": "روز جهانی سواد آموزی"
+      },
+      "description": {
+        "en_US": "International Literacy Day",
+        "fa_IR": "روز جهانی سواد آموزی"
+      },
+      "year": 1967,
+      "month": 9,
+      "day": 8,
+      "calendar": [
+        "International"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/International_Literacy_Day",
+        "https://fa.wikipedia.org/wiki/روز_جهانی_سوادآموزی"
+      ]
+    },
+    {
+      "key": 3360426085,
+      "title": {
+        "en_US": "World Suicide Prevention Day",
+        "fa_IR": "روز جهانی پیشگیری از خودکشی"
+      },
+      "description": {
+        "en_US": "World Suicide Prevention Day",
+        "fa_IR": "روز جهانی پیشگیری از خودکشی"
+      },
+      "year": 2003,
+      "month": 9,
+      "day": 10,
+      "calendar": [
+        "International"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/World_Suicide_Prevention_Day",
+        "https://fa.wikipedia.org/wiki/روز_جهانی_پیشگیری_از_خودکشی"
+      ]
+    },
+    {
+      "key": 3195460027,
+      "title": {
+        "en_US": "United Nations Day for South-South Cooperation",
+        "fa_IR": "روز سازمان ملل متحد برای همکاری های جنوبی - جنوبی"
+      },
+      "description": {
+        "en_US": "United Nations Day for South-South Cooperation",
+        "fa_IR": "روز سازمان ملل متحد برای همکاری های جنوبی - جنوبی"
+      },
+      "month": 9,
+      "day": 12,
+      "calendar": [
+        "International"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/South-South_cooperation"
+      ]
+    },
+    {
+      "key": 4085835896,
+      "title": {
+        "en_US": "International Day of Democracy",
+        "fa_IR": "روز جهانی دموکراسی"
+      },
+      "description": {
+        "en_US": "International Day of Democracy",
+        "fa_IR": "روز جهانی دموکراسی"
+      },
+      "year": 2007,
+      "month": 9,
+      "day": 15,
+      "calendar": [
+        "International"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/International_Day_of_Democracy",
+        "https://fa.wikipedia.org/wiki/روز_جهانی_دموکراسی"
+      ]
+    },
+    {
+      "key": 166987020,
+      "title": {
+        "en_US": "International Day for the Preservation of the Ozone Layer",
+        "fa_IR": "روز جهانی حفظ لایه ازن"
+      },
+      "description": {
+        "en_US": "International Day for the Preservation of the Ozone Layer",
+        "fa_IR": "روز جهانی حفظ لایه ازن"
+      },
+      "year": 2000,
+      "month": 9,
+      "day": 16,
+      "calendar": [
+        "International"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/International_Day_for_the_Preservation_of_the_Ozone_Layer",
+        "https://fa.wikipedia.org/wiki/لایه_ازون"
+      ]
+    },
+    {
+      "key": 3911448138,
+      "title": {
+        "en_US": "International Day of Peace",
+        "fa_IR": "روز جهانی صلح"
+      },
+      "description": {
+        "en_US": "International Day of Peace",
+        "fa_IR": "روز جهانی صلح"
+      },
+      "year": 1981,
+      "month": 9,
+      "day": 21,
+      "calendar": [
+        "International"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/International_Day_of_Peace",
+        "https://fa.wikipedia.org/wiki/روز_جهانی_صلح"
+      ]
+    },
+    {
+      "key": 641680339,
+      "title": {
+        "en_US": "International Day of Sign Languages",
+        "fa_IR": "روز جهانی زبان های اشاره"
+      },
+      "description": {
+        "en_US": "International Day of Sign Languages",
+        "fa_IR": "روز جهانی زبان های اشاره"
+      },
+      "year": 2018,
+      "month": 9,
+      "day": 23,
+      "calendar": [
+        "International"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/International_Day_of_Sign_Languages",
+        "https://fa.wikipedia.org/wiki/زبان_اشاره"
+      ]
+    },
+    {
+      "key": 1673800410,
+      "title": {
+        "en_US": "International Day for the Total Elimination of Nuclear Weapons",
+        "fa_IR": "روز جهانی از بین بردن کامل سلاح های هسته ای"
+      },
+      "description": {
+        "en_US": "International Day for the Total Elimination of Nuclear Weapons",
+        "fa_IR": "روز جهانی از بین بردن کامل سلاح های هسته ای"
+      },
+      "month": 9,
+      "day": 26,
+      "calendar": [
+        "International"
+      ]
+    },
+    {
+      "key": 3789590717,
+      "title": {
+        "en_US": "World Maritime Day",
+        "fa_IR": "روز جهانی دریانوردی"
+      },
+      "description": {
+        "en_US": "World Maritime Day",
+        "fa_IR": "روز جهانی دریانوردی"
+      },
+      "month": 9,
+      "day": 26,
+      "calendar": [
+        "International"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Maritime_Day"
+      ]
+    },
+    {
+      "key": 676009225,
+      "title": {
+        "en_US": "World Tourism Day",
+        "fa_IR": "روز جهانی گردشگری"
+      },
+      "description": {
+        "en_US": "World Tourism Day",
+        "fa_IR": "روز جهانی گردشگری"
+      },
+      "year": 1980,
+      "month": 9,
+      "day": 27,
+      "calendar": [
+        "International"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/World_Tourism_Day",
+        "https://fa.wikipedia.org/wiki/روز_جهانی_گردشگری"
+      ]
+    },
+    {
+      "key": 1777986021,
+      "title": {
+        "en_US": "World Rabies Day",
+        "fa_IR": "روز جهانی هاری"
+      },
+      "description": {
+        "en_US": "World Rabies Day",
+        "fa_IR": "روز جهانی هاری"
+      },
+      "month": 9,
+      "day": 28,
+      "calendar": [
+        "International"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/World_Rabies_Day",
+        "https://fa.wikipedia.org/wiki/هاری"
+      ]
+    },
+    {
+      "key": 2130721632,
+      "title": {
+        "en_US": "International Day for Universal Access to Information",
+        "fa_IR": "روز جهانی دسترسی عمومی به اطلاعات"
+      },
+      "description": {
+        "en_US": "International Day for Universal Access to Information",
+        "fa_IR": "روز جهانی دسترسی عمومی به اطلاعات"
+      },
+      "year": 2015,
+      "month": 9,
+      "day": 28,
+      "calendar": [
+        "International"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Access_to_Information_Day"
+      ]
+    },
+    {
+      "key": 353414211,
+      "title": {
+        "en_US": "International Translation Day",
+        "fa_IR": "روز جهانی ترجمه"
+      },
+      "description": {
+        "en_US": "International Translation Day",
+        "fa_IR": "روز جهانی ترجمه"
+      },
+      "year": 1953,
+      "month": 9,
+      "day": 30,
+      "calendar": [
+        "International"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/International_Translation_Day",
+        "https://fa.wikipedia.org/wiki/روز_جهانی_ترجمه"
+      ]
+    },
+    {
       "key": 1492275135,
       "title": {
         "en_US": "International Day of Older Persons",
