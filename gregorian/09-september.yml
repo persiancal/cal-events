@@ -128,7 +128,6 @@ events:
   calendar:
   - International
   sources:
-  - https://www.un.org/en/events/nuclearweaponelimination
 - partial_key: world_maritime_day
   title:
     fa_IR: روز جهانی دریانوردی
