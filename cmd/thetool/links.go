@@ -50,7 +50,7 @@ func checkLink(wg *sync.WaitGroup, in chan string, out chan error) {
 	}
 }
 
-func validateLinks(_ *command, fl *File) error {
+func validateLinks(_ *command, fls []*File) error {
 	if *parallel < 1 {
 		*parallel = 3
 	}
@@ -64,14 +64,16 @@ func validateLinks(_ *command, fl *File) error {
 	}
 
 	go func() {
-		for i := range fl.Events {
-			if len(fl.Events[i].Sources) == 0 {
-				log.Printf("The event with key %s has no source\n", fl.Events[i].PartialKey)
-				continue
-			}
+		for _, fl := range fls {
+			for i := range fl.Events {
+				if len(fl.Events[i].Sources) == 0 {
+					log.Printf("The event with key %s has no source\n", fl.Events[i].PartialKey)
+					continue
+				}
 
-			for _, lnk := range fl.Events[i].Sources {
-				in <- lnk
+				for _, lnk := range fl.Events[i].Sources {
+					in <- lnk
+				}
 			}
 		}
 

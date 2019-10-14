@@ -12,25 +12,32 @@ import (
 
 var reorderOut *string
 
-func reorder(cmd *command, fl *File) error {
-	sort.Sort(fl)
-	f := os.Stdout
-	var err error
-	if *reorderOut != "-" {
-		f, err := os.Create(*reorderOut)
-		if err != nil {
-			return fmt.Errorf("open target file failed: %w", err)
+func reorder(cmd *command, fls []*File) error {
+	for _, fl := range fls {
+
+		sort.Sort(fl)
+		f := os.Stdout
+		var err error
+		if *reorderOut != "-" {
+			f, err := os.Create(*reorderOut)
+			if err != nil {
+				return fmt.Errorf("open target file failed: %w", err)
+			}
+			defer func() { _ = f.Close() }()
 		}
-		defer func() { _ = f.Close() }()
+
+		b, err := yaml.Marshal(fl)
+		if err != nil {
+			return fmt.Errorf("failed to marshal yaml: %w", err)
+		}
+
+		_, err = f.Write(b)
+		if err != nil {
+			return err
+		}
 	}
 
-	b, err := yaml.Marshal(fl)
-	if err != nil {
-		return fmt.Errorf("failed to marshal yaml: %w", err)
-	}
-
-	_, err = f.Write(b)
-	return err
+	return nil
 }
 
 func init() {

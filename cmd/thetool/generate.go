@@ -47,36 +47,36 @@ func compareAndWrite(fl string, data []byte) error {
 
 }
 
-func generate(cmd *command, fl *File) error {
+func generate(cmd *command, fls []*File) error {
 	// its time for calculating the event key
-	allKey := make(map[uint32]bool)
-	for i := range fl.Events {
-		fl.Events[i].CalculateKey(fl.Name)
-		if allKey[fl.Events[i].Key] {
-			return fmt.Errorf("duplicate key, please change the partial key for %s", fl.Events[i].PartialKey)
+	if err := unique(nil ,fls); err != nil {
+		return err
+	}
+
+	for _, fl := range fls {
+		for i := range fl.Events {
+			fl.Events[i].PartialKey = "" // Remove the partial key in generated files
 		}
-		allKey[fl.Events[i].Key] = true
-		fl.Events[i].PartialKey = "" // Remove the partial key in generated files
-	}
 
-	path := filepath.Join(*dist, strings.ToLower(fl.Name))
+		path := filepath.Join(*dist, strings.ToLower(fl.Name))
 
-	j, err := json.MarshalIndent(fl, "", "  ")
-	if err != nil {
-		return fmt.Errorf("converting to json failed: %w", err)
-	}
+		j, err := json.MarshalIndent(fl, "", "  ")
+		if err != nil {
+			return fmt.Errorf("converting to json failed: %w", err)
+		}
 
-	if err := compareAndWrite(path+".json", j); err != nil {
-		return err
-	}
+		if err := compareAndWrite(path+".json", j); err != nil {
+			return err
+		}
 
-	y, err := yaml.Marshal(fl)
-	if err != nil {
-		return fmt.Errorf("converting to yaml failed: %w", err)
-	}
+		y, err := yaml.Marshal(fl)
+		if err != nil {
+			return fmt.Errorf("converting to yaml failed: %w", err)
+		}
 
-	if err := compareAndWrite(path+".yml", y); err != nil {
-		return err
+		if err := compareAndWrite(path+".yml", y); err != nil {
+			return err
+		}
 	}
 
 	return nil

@@ -4,9 +4,10 @@ import (
 	"flag"
 	"log"
 	"os"
+	"strings"
 )
 
-var folder = flag.String("dir", "", "The directory to load")
+var folders = flag.String("dir", "", "The directory to load")
 
 func main() {
 	flag.Parse()
@@ -17,13 +18,17 @@ func main() {
 		os.Exit(0)
 	}
 
-	fl, err := loadFolder(*folder)
-	if err != nil {
-		log.Fatalf("Loading folder failed: %s", err)
+	fls := make([]*File, 0)
+	for _, f := range strings.Split(*folders, ",") {
+		fl, err := loadFolder(f)
+		if err != nil {
+			log.Fatalf("Loading folder failed: %s", err)
+		}
+		fls = append(fls, fl)
 	}
 
 	cmd := all.Find(args[0], args[1:])
-	if err := cmd.Run(cmd, fl); err != nil {
+	if err := cmd.Run(cmd, fls); err != nil {
 		log.Fatalf("command failed: %s", err)
 	}
 }

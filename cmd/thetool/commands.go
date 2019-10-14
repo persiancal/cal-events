@@ -14,7 +14,7 @@ type command struct {
 	Flags       *flag.FlagSet
 	Command     string
 	Description string
-	Run         func(*command, *File) error
+	Run         func(*command, []*File) error
 }
 
 type commands []*command
@@ -68,7 +68,7 @@ func registerCommand(cmd *command) {
 	sort.Sort(all)
 }
 
-func newCommand(name, desc string, fn func(*command, *File) error) *command {
+func newCommand(name, desc string, fn func(*command, []*File) error) *command {
 	return &command{
 		Flags:       flag.NewFlagSet(name, flag.ExitOnError),
 		Command:     name,

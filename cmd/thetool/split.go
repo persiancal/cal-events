@@ -12,34 +12,36 @@ import (
 
 var target *string
 
-func split(cmd *command, fl *File) error {
-	ev := make([][]Event, len(fl.Months.Normal))
-	for i := range fl.Events {
-		ev[fl.Events[i].Month-1] = append(ev[fl.Events[i].Month-1], fl.Events[i])
-	}
+func split(cmd *command, fls []*File) error {
+	for _, fl := range fls {
+		ev := make([][]Event, len(fl.Months.Normal))
+		for i := range fl.Events {
+			ev[fl.Events[i].Month-1] = append(ev[fl.Events[i].Month-1], fl.Events[i])
+		}
 
-	for i := range ev {
-		name := strings.ToLower(filepath.Join(*target, fmt.Sprintf("%02d-%s.yml", i+1, fl.Months.Name[i]["en_US"])))
-		b, err := yaml.Marshal(File{
-			Events: ev[i],
-		})
+		for i := range ev {
+			name := strings.ToLower(filepath.Join(*target, fmt.Sprintf("%02d-%s.yml", i+1, fl.Months.Name[i]["en_US"])))
+			b, err := yaml.Marshal(File{
+				Events: ev[i],
+			})
+			if err != nil {
+				return err
+			}
+
+			if err := ioutil.WriteFile(name, b, 0600); err != nil {
+				return err
+			}
+		}
+
+		fl.Events = nil
+		name := filepath.Join(*target, "preset.yml")
+		b, err := yaml.Marshal(fl)
 		if err != nil {
 			return err
 		}
-
 		if err := ioutil.WriteFile(name, b, 0600); err != nil {
 			return err
 		}
-	}
-
-	fl.Events = nil
-	name := filepath.Join(*target, "preset.yml")
-	b, err := yaml.Marshal(fl)
-	if err != nil {
-		return err
-	}
-	if err := ioutil.WriteFile(name, b, 0600); err != nil {
-		return err
 	}
 
 	return nil
