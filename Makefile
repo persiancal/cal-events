@@ -14,9 +14,9 @@ generate: $(ROOT)/cmd/thetool/thetool
 	date > $(ROOT)/dist/.build_at
 
 validate: $(ROOT)/cmd/thetool/thetool
-	$(ROOT)/cmd/thetool/thetool -dir $(ROOT)/gregorian,$(ROOT)/hijri,$(ROOT)/gregorian unique
-	$(ROOT)/cmd/thetool/thetool -dir $(ROOT)/gregorian,$(ROOT)/hijri,$(ROOT)/gregorian validate
-	$(ROOT)/cmd/thetool/thetool -dir $(ROOT)/gregorian,$(ROOT)/hijri,$(ROOT)/gregorian validate-links
+	$(ROOT)/cmd/thetool/thetool -dir $(ROOT)/gregorian,$(ROOT)/hijri,$(ROOT)/jalali unique
+	$(ROOT)/cmd/thetool/thetool -dir $(ROOT)/gregorian,$(ROOT)/hijri,$(ROOT)/jalali validate
+	$(ROOT)/cmd/thetool/thetool -dir $(ROOT)/gregorian,$(ROOT)/hijri,$(ROOT)/jalali validate-links
 
 reorder-jalali: $(ROOT)/cmd/thetool/thetool
 	$(ROOT)/cmd/thetool/thetool -dir $(ROOT)/jalali reorder -output - > $(ROOT)/jalali.yaml
