@@ -1,0 +1,13 @@
+events:
+- partial_key: abdol_hossein_dastgheib_witness_day
+  title:
+    fa_IR: شهادت آیت‌الله دستغیب
+  description:
+    fa_IR: شهادت آیت‌الله دستغیب
+  year: 1360
+  month: 9
+  day: 20
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/سید_عبدالحسین_دستغیب

@@ -1,0 +1,10 @@
+events:
+- partial_key: vegan_celebration
+  title:
+    fa_IR: سیرسور، جشن گیاه‌خواری
+  description:
+    fa_IR: سیرسور، جشن گیاه‌خواری
+  month: 10
+  day: 14
+  calendar:
+  - Ancient Iran

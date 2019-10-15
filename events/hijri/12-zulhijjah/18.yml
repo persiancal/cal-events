@@ -1,0 +1,15 @@
+events:
+- partial_key: eid_qadir
+  title:
+    fa_IR: عید غدیر خم
+  description:
+    fa_IR: عید غدیر خم
+  month: 12
+  day: 18
+  calendar:
+  - Iran Official
+  - Shia
+  holiday:
+    Iran: []
+  sources:
+  - https://fa.wikipedia.org/wiki/رویداد_غدیر_خم

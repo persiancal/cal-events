@@ -1,0 +1,12 @@
+events:
+- partial_key: tirgan_celebration
+  title:
+    fa_IR: تیرروز، جشن تیرگان
+  description:
+    fa_IR: تیرروز، جشن تیرگان
+  month: 4
+  day: 13
+  calendar:
+  - Ancient Iran
+  sources:
+  - https://fa.wikipedia.org/wiki/تیرگان

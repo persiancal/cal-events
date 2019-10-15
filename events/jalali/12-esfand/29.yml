@@ -1,0 +1,28 @@
+events:
+- partial_key: oshidar_celebration
+  title:
+    fa_IR: گاهنبار هَمَسپَتمَدَم، جشن پایان زمستان (در آخرین روز سال) / جشن اوشیدر
+      (نجات‌بخش ایرانی) در دریاچهٔ هامون و کوه خواجه / آتش‌افروزی بر بام‌ها در استقبال
+      از نوروز
+  description:
+    fa_IR: گاهنبار هَمَسپَتمَدَم، جشن پایان زمستان (در آخرین روز سال) / جشن اوشیدر
+      (نجات‌بخش ایرانی) در دریاچهٔ هامون و کوه خواجه / آتش‌افروزی بر بام‌ها در استقبال
+      از نوروز
+  month: 12
+  day: 29
+  calendar:
+  - Ancient Iran
+- partial_key: oil_nationalization_movement
+  title:
+    fa_IR: روز ملی شدن صنعت نفت ایران
+  description:
+    fa_IR: روز ملی شدن صنعت نفت ایران
+  year: 1329
+  month: 12
+  day: 29
+  calendar:
+  - Iran Official
+  holiday:
+    Iran: []
+  sources:
+  - https://fa.wikipedia.org/wiki/نهضت_ملی‌شدن_نفت

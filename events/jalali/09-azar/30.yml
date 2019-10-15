@@ -1,0 +1,23 @@
+events:
+- partial_key: maidyozarem_gahambars
+  title:
+    fa_IR: گاهنبار میدیارِم، جشن میانهٔ سال گاهنباری (از مبدأ آغاز تابستان)
+  description:
+    fa_IR: گاهنبار میدیارِم، جشن میانهٔ سال گاهنباری (از مبدأ آغاز تابستان)
+  month: 9
+  day: 30
+  calendar:
+  - Ancient Iran
+  sources:
+  - https://fa.wikipedia.org/wiki/گاهنبار
+- partial_key: yalda_night
+  title:
+    fa_IR: شب یلدا (چله)
+  description:
+    fa_IR: شب یلدا (چله)
+  month: 9
+  day: 30
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/شب_یلدا

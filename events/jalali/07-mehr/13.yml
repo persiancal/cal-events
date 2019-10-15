@@ -1,0 +1,33 @@
+events:
+- partial_key: tirozi_celebration
+  title:
+    fa_IR: تیرروز، جشن تیرروزی
+  description:
+    fa_IR: تیرروز، جشن تیرروزی
+  month: 7
+  day: 13
+  calendar:
+  - Ancient Iran
+- partial_key: naja_day
+  title:
+    fa_IR: روز نیروی انتظامی
+  description:
+    fa_IR: روز نیروی انتظامی
+  month: 7
+  day: 13
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/نیروی_انتظامی_جمهوری_اسلامی_ایران
+- partial_key: ruhollah_khomeini_migration_from_iraq_to_paris
+  title:
+    fa_IR: هجرت آیت‌الله روح‌الله خمینی از عراق به پاریس
+  description:
+    fa_IR: هجرت آیت‌الله روح‌الله خمینی از عراق به پاریس
+  year: 1357
+  month: 7
+  day: 13
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/سید_روح‌الله_خمینی

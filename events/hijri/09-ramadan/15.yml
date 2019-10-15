@@ -1,0 +1,13 @@
+events:
+- partial_key: imam_hasan_birthday
+  title:
+    fa_IR: ولادت امام حسن مجتبی علیه‌السلام
+  description:
+    fa_IR: ولادت امام حسن مجتبی علیه‌السلام
+  year: 3
+  month: 9
+  day: 15
+  calendar:
+  - Shia
+  sources:
+  - https://fa.wikipedia.org/wiki/حسن_مجتبی

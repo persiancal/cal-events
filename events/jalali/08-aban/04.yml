@@ -1,0 +1,13 @@
+events:
+- partial_key: capitulation_in_iran
+  title:
+    fa_IR: اعتراض و افشاگری امام خمينی عليه پذيرش كاپيتولاسيون
+  description:
+    fa_IR: اعتراض و افشاگری امام خمينی عليه پذيرش كاپيتولاسيون
+  year: 1343
+  month: 8
+  day: 4
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/کاپیتولاسیون_در_ایران

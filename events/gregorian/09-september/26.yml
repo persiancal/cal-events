@@ -1,0 +1,25 @@
+events:
+- partial_key: international_day_for_the_total_elimination_of_nuclear_weapons
+  title:
+    en_US: International Day for the Total Elimination of Nuclear Weapons
+    fa_IR: روز جهانی از بین بردن کامل سلاح های هسته ای
+  description:
+    en_US: International Day for the Total Elimination of Nuclear Weapons
+    fa_IR: روز جهانی از بین بردن کامل سلاح های هسته ای
+  month: 9
+  day: 26
+  calendar:
+  - International
+- partial_key: world_maritime_day
+  title:
+    en_US: World Maritime Day
+    fa_IR: روز جهانی دریانوردی
+  description:
+    en_US: World Maritime Day
+    fa_IR: روز جهانی دریانوردی
+  month: 9
+  day: 26
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/Maritime_Day

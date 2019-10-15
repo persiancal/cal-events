@@ -1,0 +1,13 @@
+events:
+- partial_key: mahmoud_taleqani_martyrdom
+  title:
+    fa_IR: وفات آیت‌الله سید محمود طالقانی اولین امام جمعهٔ تهران
+  description:
+    fa_IR: وفات آیت‌الله سید محمود طالقانی اولین امام جمعهٔ تهران
+  year: 1358
+  month: 6
+  day: 19
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/سید_محمود_طالقانی

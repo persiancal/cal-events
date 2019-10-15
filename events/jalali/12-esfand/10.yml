@@ -1,0 +1,10 @@
+events:
+- partial_key: vkhshnkam_celebration
+  title:
+    fa_IR: جشن وخشنکام
+  description:
+    fa_IR: جشن وخشنکام
+  month: 12
+  day: 10
+  calendar:
+  - Ancient Iran

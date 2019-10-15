@@ -1,0 +1,13 @@
+events:
+- partial_key: islamic_republic_of_iran_army_and_ground_forces_day
+  title:
+    fa_IR: روز ارتش جمهوری اسلامی و نیروی زمینی
+  description:
+    fa_IR: روز ارتش جمهوری اسلامی و نیروی زمینی
+  month: 1
+  day: 29
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/ارتش_جمهوری_اسلامی_ایران
+  - https://fa.wikipedia.org/wiki/نیروی_زمینی_ارتش_جمهوری_اسلامی_ایران

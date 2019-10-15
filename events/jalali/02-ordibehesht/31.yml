@@ -1,0 +1,10 @@
+events:
+- partial_key: organ_donation_day
+  title:
+    fa_IR: روز اهدای عضو، اهدای زندگی
+  description:
+    fa_IR: روز اهدای عضو، اهدای زندگی
+  month: 2
+  day: 31
+  calendar:
+  - Iran Official

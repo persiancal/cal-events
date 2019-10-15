@@ -1,0 +1,13 @@
+events:
+- partial_key: amir_kabir_murder
+  title:
+    fa_IR: قتل میرزاتقی‌خان امیرکبیر
+  description:
+    fa_IR: قتل میرزاتقی‌خان امیرکبیر
+  year: 1230
+  month: 10
+  day: 20
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/امیرکبیر#قتل

@@ -1,0 +1,14 @@
+events:
+- partial_key: beginning_of_nowruz
+  title:
+    fa_IR: آغاز عید نوروز
+  description:
+    fa_IR: آغاز عید نوروز
+  month: 1
+  day: 1
+  calendar:
+  - Iran Official
+  holiday:
+    Iran: []
+  sources:
+  - https://fa.wikipedia.org/wiki/نوروز

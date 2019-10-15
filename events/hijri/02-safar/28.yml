@@ -1,0 +1,27 @@
+events:
+- partial_key: demise_of_prophet_mohammad
+  title:
+    fa_IR: وفات حضرت محمد
+  description:
+    fa_IR: وفات حضرت محمد
+  year: 11
+  month: 2
+  day: 28
+  calendar:
+  - Iran Official
+  - Islamic
+  sources:
+  - https://fa.wikipedia.org/wiki/محمد
+- partial_key: martyrdom_of_emam_hasan_mojtaba
+  title:
+    fa_IR: وفات امام حسن مجتبی به روایتی
+  description:
+    fa_IR: وفات امام حسن مجتبی به روایتی
+  year: 50
+  month: 2
+  day: 28
+  calendar:
+  - Iran Official
+  - Shia
+  sources:
+  - https://fa.wikipedia.org/wiki/حسن_مجتبی

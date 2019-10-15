@@ -1,0 +1,13 @@
+events:
+- partial_key: united_nations_security_council_resolution_598
+  title:
+    fa_IR: اعلام پذیرش قطعنامهٔ ۵۹۸ شورای امنیت از سوی ایران
+  description:
+    fa_IR: اعلام پذیرش قطعنامهٔ ۵۹۸ شورای امنیت از سوی ایران
+  year: 1367
+  month: 4
+  day: 27
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/قطعنامه_۵۹۸_شورای_امنیت

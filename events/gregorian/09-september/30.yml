@@ -1,0 +1,16 @@
+events:
+- partial_key: international_translation_day
+  title:
+    en_US: International Translation Day
+    fa_IR: روز جهانی ترجمه
+  description:
+    en_US: International Translation Day
+    fa_IR: روز جهانی ترجمه
+  year: 1953
+  month: 9
+  day: 30
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/International_Translation_Day
+  - https://fa.wikipedia.org/wiki/روز_جهانی_ترجمه

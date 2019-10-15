@@ -1,0 +1,13 @@
+events:
+- partial_key: imam_reza_shrine_bombing
+  title:
+    fa_IR: شهادت زائران حرم رضوی (ع) (عاشورای ۱۳۷۳ ه‍.ش)
+  description:
+    fa_IR: شهادت زائران حرم رضوی (ع) (عاشورای ۱۳۷۳ ه‍.ش)
+  year: 1373
+  month: 3
+  day: 30
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/بمب‌گذاری_در_حرم_امام_رضا

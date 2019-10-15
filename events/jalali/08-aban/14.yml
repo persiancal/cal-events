@@ -1,0 +1,10 @@
+events:
+- partial_key: general_culture_day
+  title:
+    fa_IR: روز فرهنگ عمومی
+  description:
+    fa_IR: روز فرهنگ عمومی
+  month: 8
+  day: 14
+  calendar:
+  - Iran Official

@@ -1,0 +1,12 @@
+events:
+- partial_key: farvardegan_celebration
+  title:
+    fa_IR: فروردگان
+  description:
+    fa_IR: فروردگان
+  month: 12
+  day: 26
+  calendar:
+  - Ancient Iran
+  sources:
+  - https://fa.wikipedia.org/wiki/فروردگان

@@ -1,0 +1,12 @@
+events:
+- partial_key: attar_of_nishapur_commemoration_day
+  title:
+    fa_IR: روز بزرگداشت عطار نیشابوری
+  description:
+    fa_IR: روز بزرگداشت عطار نیشابوری
+  month: 1
+  day: 25
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/عطار_نیشابوری

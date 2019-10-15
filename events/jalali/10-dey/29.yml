@@ -1,0 +1,10 @@
+events:
+- partial_key: qazeh_day
+  title:
+    fa_IR: روز غزه
+  description:
+    fa_IR: روز غزه
+  month: 10
+  day: 29
+  calendar:
+  - Iran Official

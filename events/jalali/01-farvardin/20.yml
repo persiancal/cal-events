@@ -1,0 +1,48 @@
+events:
+- partial_key: islamic_revolution_art_day
+  title:
+    fa_IR: روز هنر انقلاب اسلامی
+  description:
+    fa_IR: روز هنر انقلاب اسلامی
+  month: 1
+  day: 20
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/هنر_انقلاب_اسلامی
+- partial_key: national_nuclear_technology_day
+  title:
+    fa_IR: روز ملی فناوری هسته‌ای
+  description:
+    fa_IR: روز ملی فناوری هسته‌ای
+  month: 1
+  day: 20
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/روز_ملی_فناوری_هسته‌ای
+  - https://fa.wikipedia.org/wiki/انرژی_هسته‌ای
+- partial_key: cutting_off_iran_and_america_political_relations
+  title:
+    fa_IR: قطع مناسبات سیاسی ایران و آمریکا
+  description:
+    fa_IR: قطع مناسبات سیاسی ایران و آمریکا
+  year: 1359
+  month: 1
+  day: 20
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/روابط_ایران_و_ایالات_متحده_آمریکا
+- partial_key: morteza_avini_martyrdom
+  title:
+    fa_IR: شهادت سید مرتضی آوینی
+  description:
+    fa_IR: شهادت سید مرتضی آوینی
+  year: 1372
+  month: 1
+  day: 20
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/مرتضی_آوینی

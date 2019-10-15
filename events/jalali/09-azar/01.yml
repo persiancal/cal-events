@@ -1,0 +1,12 @@
+events:
+- partial_key: ormazd_celebration
+  title:
+    fa_IR: آذرجشن
+  description:
+    fa_IR: آذرجشن
+  month: 9
+  day: 1
+  calendar:
+  - Ancient Iran
+  sources:
+  - https://fa.wikipedia.org/wiki/آذرگان

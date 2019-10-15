@@ -1,0 +1,13 @@
+events:
+- partial_key: introduce_iraq_as_starter_and_responsible_of_iran_war
+  title:
+    fa_IR: معرفی عراق به عنوان مسئول و آغازگر جنگ از سوی سازمان ملل
+  description:
+    fa_IR: معرفی عراق به عنوان مسئول و آغازگر جنگ از سوی سازمان ملل
+  year: 1370
+  month: 9
+  day: 18
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/قطعنامه_۵۹۸_شورای_امنیت

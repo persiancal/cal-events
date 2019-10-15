@@ -1,0 +1,10 @@
+events:
+- partial_key: transportation_safety_day
+  title:
+    fa_IR: روز ایمنی حمل‌ونقل
+  description:
+    fa_IR: روز ایمنی حمل‌ونقل
+  month: 2
+  day: 7
+  calendar:
+  - Iran Official

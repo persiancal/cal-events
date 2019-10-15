@@ -1,0 +1,12 @@
+events:
+- partial_key: imam_zaman_waited_for_hussein_bin_rouh
+  title:
+    fa_IR: توقیع امام زمان(عج) برای حسین بن روح
+  description:
+    fa_IR: توقیع امام زمان(عج) برای حسین بن روح
+  year: 305
+  month: 10
+  day: 6
+  calendar:
+  - Iran Official
+  - Shia

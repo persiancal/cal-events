@@ -1,0 +1,13 @@
+events:
+- partial_key: martyrdom_of_musa_al_kadhim
+  title:
+    fa_IR: درگذشت موسی کاظم
+  description:
+    fa_IR: درگذشت موسی کاظم، هفتمین امام شیعه دوازده‌امامی
+  year: 183
+  month: 7
+  day: 25
+  calendar:
+  - Shia
+  sources:
+  - https://fa.wikipedia.org/wiki/موسی_کاظم#حبس_و_کشته‌شدن

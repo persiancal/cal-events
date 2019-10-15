@@ -1,0 +1,11 @@
+events:
+- partial_key: martyrs_day
+  title:
+    fa_IR: روز بزرگداشت شهدا (تأسیس بنیاد شهید انقلاب اسلامی)
+  description:
+    fa_IR: روز بزرگداشت شهدا (تأسیس بنیاد شهید انقلاب اسلامی)
+  year: 1358
+  month: 12
+  day: 22
+  calendar:
+  - Iran Official

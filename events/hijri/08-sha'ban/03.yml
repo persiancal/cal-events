@@ -1,0 +1,25 @@
+events:
+- partial_key: pasdar_day
+  title:
+    fa_IR: روز پاسدار
+  description:
+    fa_IR: روز پاسدار
+  month: 8
+  day: 3
+  calendar:
+  - Islamic Republic Of Iran
+  sources:
+  - https://fa.wikipedia.org/wiki/سپاه_پاسداران_انقلاب_اسلامی
+- partial_key: birthday_of_husayn_ibn_ali
+  title:
+    fa_IR: ولادت امام حسین، سومین امام شیعه دوازده امامی
+  description:
+    fa_IR: ولادت امام حسین، سومین امام شیعه دوازده امامی
+  year: 4
+  month: 8
+  day: 3
+  calendar:
+  - Shia
+  - Islamic Republic Of Iran
+  sources:
+  - https://fa.wikipedia.org/wiki/حسین_بن_علی

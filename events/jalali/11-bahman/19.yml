@@ -1,0 +1,13 @@
+events:
+- partial_key: islamic_republic_of_iran_air_force_day
+  title:
+    fa_IR: روز نیروی هوایی
+  description:
+    fa_IR: روز نیروی هوایی
+  year: 1357
+  month: 11
+  day: 19
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/نیروی_هوایی_ارتش_جمهوری_اسلامی_ایران

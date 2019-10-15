@@ -1,0 +1,23 @@
+events:
+- partial_key: uprising_people_of_gorgan
+  title:
+    fa_IR: سالروز قیام مردم گرگان
+  description:
+    fa_IR: سالروز قیام مردم گرگان
+  year: 1357
+  month: 9
+  day: 5
+  calendar:
+  - Iran Official
+- partial_key: niruyeh_moghavemat_basij
+  title:
+    fa_IR: تشکیل بسیج مستضعفان
+  description:
+    fa_IR: تشکیل بسیج مستضعفان
+  year: 1358
+  month: 9
+  day: 5
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/بسیج

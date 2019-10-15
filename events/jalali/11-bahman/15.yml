@@ -1,0 +1,10 @@
+events:
+- partial_key: mid_winter_celebration
+  title:
+    fa_IR: جشن میانهٔ زمستان
+  description:
+    fa_IR: جشن میانهٔ زمستان
+  month: 11
+  day: 15
+  calendar:
+  - Ancient Iran

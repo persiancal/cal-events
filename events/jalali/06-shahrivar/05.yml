@@ -1,0 +1,35 @@
+events:
+- partial_key: qolamreza_takhti_wrestling_day
+  title:
+    fa_IR: تولد جهان پهلوان غلامرضاتختی و روز کشتی
+  description:
+    fa_IR: تولد جهان پهلوان غلامرضاتختی و روز کشتی
+  month: 6
+  day: 5
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/غلامرضا_تختی
+  - https://fa.wikipedia.org/wiki/کشتی_(ورزش)
+- partial_key: mohammad_ibn_zakariya_razi_commemoration_day
+  title:
+    fa_IR: روز بزرگداشت محمد بن زکریای رازی
+  description:
+    fa_IR: روز بزرگداشت محمد بن زکریای رازی
+  month: 6
+  day: 5
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/زکریای_رازی
+- partial_key: pharmacy_day
+  title:
+    fa_IR: روز داروسازی
+  description:
+    fa_IR: روز داروسازی
+  month: 6
+  day: 5
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/روز_داروساز

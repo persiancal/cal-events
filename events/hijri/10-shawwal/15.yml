@@ -1,0 +1,14 @@
+events:
+- partial_key: death_of_abdul_azim_hassani
+  title:
+    fa_IR: درگذشت حضرت عبدالعظیم حسنی(ع)
+  description:
+    fa_IR: درگذشت حضرت عبدالعظیم حسنی(ع)
+  year: 252
+  month: 10
+  day: 15
+  calendar:
+  - Iran Official
+  - Shia
+  sources:
+  - https://fa.wikipedia.org/wiki/عبدالعظیم_حسنی

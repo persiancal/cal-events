@@ -1,0 +1,23 @@
+events:
+- partial_key: veterinary_medicine_day
+  title:
+    fa_IR: روز دامپزشکی
+  description:
+    fa_IR: روز دامپزشکی
+  month: 7
+  day: 14
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/دامپزشکی
+- partial_key: salman_farsi_commemoration_day
+  title:
+    fa_IR: روز بزرگداشت سلمان فارسی
+  description:
+    fa_IR: روز بزرگداشت سلمان فارسی
+  month: 7
+  day: 14
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/سلمان_فارسی

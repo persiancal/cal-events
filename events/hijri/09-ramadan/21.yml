@@ -1,0 +1,26 @@
+events:
+- partial_key: third_gadr_night
+  title:
+    fa_IR: از شب‌های قدر
+  description:
+    fa_IR: از شب‌های قدر
+  month: 9
+  day: 21
+  calendar:
+  - Islamic
+  sources:
+  - https://fa.wikipedia.org/wiki/شب_قدر
+- partial_key: imam_ali_martyrdom
+  title:
+    fa_IR: شهادت امام علی علیه‌السلام
+  description:
+    fa_IR: شهادت امام علی علیه‌السلام
+  year: 40
+  month: 9
+  day: 21
+  calendar:
+  - Shia
+  holiday:
+    Iran: []
+  sources:
+  - https://fa.wikipedia.org/wiki/علی_بن_ابی‌طالب

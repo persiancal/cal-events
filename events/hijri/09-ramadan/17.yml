@@ -1,0 +1,12 @@
+events:
+- partial_key: meraj
+  title:
+    fa_IR: معراج پیامبر اسلام
+  description:
+    fa_IR: معراج پیامبر اسلام
+  month: 9
+  day: 17
+  calendar:
+  - Islamic
+  sources:
+  - https://fa.wikipedia.org/wiki/محمد

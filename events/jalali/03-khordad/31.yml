@@ -1,0 +1,34 @@
+events:
+- partial_key: masters_basij_day
+  title:
+    fa_IR: روز بسیج استادان
+  description:
+    fa_IR: روز بسیج استادان
+  month: 3
+  day: 31
+  calendar:
+  - Iran Official
+- partial_key: mostafa_chamran_martyrdom
+  title:
+    fa_IR: شهادت دکتر مصطفی چمران
+  description:
+    fa_IR: شهادت دکتر مصطفی چمران
+  year: 1360
+  month: 3
+  day: 31
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/مصطفی_چمران
+- partial_key: parliament_vote_on_banisadr_inadequacy
+  title:
+    fa_IR: صدور رأی مجلس به عدم کفایت بنی صدر
+  description:
+    fa_IR: صدور رأی مجلس به عدم کفایت بنی صدر
+  year: 1360
+  month: 3
+  day: 31
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/ابوالحسن_بنی‌صدر

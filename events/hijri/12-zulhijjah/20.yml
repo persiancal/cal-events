@@ -1,0 +1,12 @@
+events:
+- partial_key: birth_of_imam_mousa_kazem
+  title:
+    fa_IR: زادروز موسی کاظم، امام هفتم شیعیان
+  description:
+    fa_IR: زادروز موسی کاظم، امام هفتم شیعیان
+  year: 128
+  month: 12
+  day: 20
+  calendar:
+  - Iran Official
+  - Shia

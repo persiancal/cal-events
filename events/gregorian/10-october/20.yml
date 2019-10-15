@@ -1,0 +1,16 @@
+events:
+- partial_key: statistics_day
+  title:
+    en_US: World Statistics Day
+    fa_IR: روز جهانی آمار
+  description:
+    en_US: World Statistics Day
+    fa_IR: روز جهانی آمار
+  year: 2010
+  month: 10
+  day: 20
+  calendar:
+  - International
+  sources:
+  - https://fa.wikipedia.org/wiki/روز_جهانی_آمار
+  - https://en.wikipedia.org/wiki/World_Statistics_Day

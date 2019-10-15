@@ -1,0 +1,13 @@
+events:
+- partial_key: social_security_day
+  title:
+    fa_IR: روز بهزیستی و تامین اجتماعی
+  description:
+    fa_IR: روز بهزیستی و تامین اجتماعی
+  month: 4
+  day: 25
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/سازمان_بهزیستی_ایران
+  - https://fa.wikipedia.org/wiki/سازمان_تأمین_اجتماعی

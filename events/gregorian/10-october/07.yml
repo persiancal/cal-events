@@ -1,0 +1,16 @@
+events:
+- partial_key: habitat_day
+  title:
+    en_US: World Habitat Day
+    fa_IR: روز جهانی اسکان بشر
+  description:
+    en_US: World Habitat Day
+    fa_IR: روز جهانی اسکان بشر
+  year: 1986
+  month: 10
+  day: 7
+  calendar:
+  - International
+  sources:
+  - https://fa.wikipedia.org/wiki/روز_جهانی_معماری
+  - https://en.wikipedia.org/wiki/World_Habitat_Day

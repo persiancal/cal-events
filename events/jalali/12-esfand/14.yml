@@ -1,0 +1,13 @@
+events:
+- partial_key: charity_day
+  title:
+    fa_IR: روز احسان و نیکوکاری و روز تأسیس کمیته امداد امام خمینی
+  description:
+    fa_IR: روز احسان و نیکوکاری و روز تأسیس کمیته امداد امام خمینی
+  year: 1357
+  month: 12
+  day: 14
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/کمیته_امداد_امام_خمینی

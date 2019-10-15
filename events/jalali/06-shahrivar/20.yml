@@ -1,0 +1,13 @@
+events:
+- partial_key: madani_martyrdom
+  title:
+    fa_IR: شهادت آیت‌الله مدنی
+  description:
+    fa_IR: شهادت آیت‌الله مدنی
+  year: 1360
+  month: 6
+  day: 20
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/میر_اسدالله_مدنی

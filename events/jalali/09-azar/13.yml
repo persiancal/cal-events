@@ -1,0 +1,13 @@
+events:
+- partial_key: iranian_insurance_day
+  title:
+    fa_IR: روز بیمه
+  description:
+    fa_IR: روز بیمه
+  year: 1358
+  month: 9
+  day: 13
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/بیمه

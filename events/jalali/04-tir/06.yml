@@ -1,0 +1,12 @@
+events:
+- partial_key: lotus_celebration
+  title:
+    fa_IR: جشن نیلوفر
+  description:
+    fa_IR: جشن نیلوفر
+  month: 4
+  day: 6
+  calendar:
+  - Ancient Iran
+  sources:
+  - https://fa.wikipedia.org/wiki/جشن_نیلوفر
