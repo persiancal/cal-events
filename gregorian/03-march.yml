@@ -6,6 +6,7 @@ events:
   description:
     fa_IR: روز جهانی تبعیض یک روز جهانی سالانه است که توسط سازمان ملل و سایر سازمان‌های بین المللی جشن گرفته می‌شود. هدف این روز ترویج برابری در برابر قانون و در عمل در تمام کشورهای عضو سازمان ملل است.
     en_US: Zero Discrimination Day is an annual day celebrated by the UN and other international organisations. The day aims to promote equality before the law and in practice throughout all of the member countries of the UN.
+  year: 2014
   month: 3
   day: 1
   calendar:
@@ -19,6 +20,7 @@ events:
   description:
     fa_IR: روز جهانی حیات وحش در ۳ مارس هر سال توسط تمام کشورهای عضو سازمان ملل متحد و در جهت افزایش آگاهی از وضعیت گیاهان و جانوران وحشی جشن گرفته می‌شود.
     en_US: In its resolution, the General Assembly reaffirmed the intrinsic value of wildlife and its various contributions, including ecological, genetic, social, economic, scientific, educational, cultural, recreational and aesthetic, to sustainable development and human well-being.
+  year: 2013
   month: 3
   day: 3
   calendar:
@@ -33,6 +35,7 @@ events:
   description:
     fa_IR: روز جهانی زنان بزرگداشتی است که هر ساله در روز ۸ مارس برگزار می‌شود و نقطه کانونی در جنبش حقوق زنان است. بسته به مناطق مختلف، تمرکزِ جشن بر بزرگداشت و دفاع از حقوق زنان و برگزاری جشنی برای دستاوردهای اقتصادی، سیاسی و اجتماعی زنان است.
     en_US: International Women's Day (IWD) is celebrated on the 8th of March every year. It is a focal point in the movement for woman's rights.
+  year: 1975
   month: 3
   day: 8
   calendar:
@@ -47,6 +50,7 @@ events:
   description:
     fa_IR: روز جهانی خوشبختی بزرگداشتی است که هر ساله در روز ۲۰ مارس در سراسر جهان برگزار می‌شود و توسط خیرخواهان، فعالان و دولتمردان برجسته سازمان ملل متحد از جمله مشاور جیمی ایلین برای الهام بخشیدن، بسیج و پیشبرد جنبش شادی جهانی تاسیس شد.
     en_US: The International Day of Happiness is celebrated worldwide every 20 March, and was conceptualized and founded by philanthropist, activist, statesman, and prominent United Nations special advisor Jayme Illien to inspire, mobilize, and advance the global happiness movement.
+  year: 2013
   month: 3
   day: 20
   calendar:
@@ -60,6 +64,7 @@ events:
   description:
     fa_IR: مجمع عمومی سازمان ملل متحد ۲۱ مارس را به عنوان روز جهانی سندروم داون اعلام کرد. و از تمامی کشورهای عضو سازمان ملل و غیر دولتی‌ها دعوت کرد که، روز جهانی سندروم داون را به شیوه‌ای مناسب رعایت کنند تا آگاهی عمومی در مورد سندرم داون را افزایش دهند.
     en_US: (WDSD) is marked each year on March 21. The date for WDSD being the 21st day of the 3rd month, was selected to signify the uniqueness of the triplication (trisomy) of the 21st chromosome which causes Down syndrome.
+  year: 2012
   month: 3
   day: 21
   calendar:
@@ -73,6 +78,7 @@ events:
   description:
     fa_IR: روز جهانی جنگل‌ها با تصویب مجمع عمومی سازمان ملل متحد در ۲۱ مارس تایید شد. هر ساله، رویدادهای مختلف جشن گرفته می‌شود و آگاهی از اهمیت انواع جنگل‌ها، و درختان خارج از جنگل‌ها، به نفع نسل‌های فعلی و آینده.
     en_US: The International Day of Forests was established on the 21st day of March, by resolution of the United Nations General Assembly on November 28, 2012. Each year, various events celebrate and raise awareness of the importance of all types of forests, and trees outside forests, for the benefit of current and future generations.
+  year: 2012
   month: 3
   day: 21
   calendar:
@@ -116,6 +122,7 @@ events:
   description:
     fa_IR: روز جهانی آب مصادف با ۲۲ مارس هر ساله از سوی سازمان ملل نام‌گذاری شده‌است. این روز را به عنوان روز ترویج و آگاه‌سازی مردم در مورد آب اختصاص دهند.
     en_US: World Water Day is an annual UN observance day (always on 22 March) that highlights the importance of freshwater. The day is used to advocate for the sustainable management of freshwater resources.
+  year: 1993
   month: 3
   day: 22
   calendar:
@@ -162,8 +169,6 @@ events:
   day: 24
   calendar:
   - International
-  sources:
-  - https://www.un.org/en/events/righttotruthday/
 - partial_key: international_day_of_remembrance_of_the_victims_of_slavery_and_the_transatlantic_slave_trade
   title:
     fa_IR: روز جهانی یادبود قربانیان برده‌داری و تجارت برده‌
@@ -184,6 +189,7 @@ events:
   description:
     fa_IR: این بزرگداشت سالگرد ربوده شدن آلک كولت، روزنامه نگار سابقی كه در آژانس امدادرسانی و کاریابی برای آوارگان فلسطینی در خاور نزدیک (اونروا) هنگامی كه در سال ۱۹۸۵ توسط افراد مسلح ربوده شد گرفته می‌شود. جسد وی سرانجام در سال ۲۰۰۹ در دره بقاع، لبنان پیدا شد.
     en_US: It commemorates the anniversary of the abduction of Alec Collett, a former journalist who was working for the United Nations Relief and Works Agency for Palestine Refugees (UNRWA) when he was kidnapped by armed gunman in 1985. His body was finally found in the Bekaa Valley, Lebanon in 2009.
+  year: 2007
   month: 3
   day: 25
   calendar:
