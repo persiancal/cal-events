@@ -242,6 +242,286 @@
       ]
     },
     {
+      "key": 602656915,
+      "title": {
+        "en_US": "Zero Discrimination Day",
+        "fa_IR": "روز جهانی تبعیض"
+      },
+      "description": {
+        "en_US": "Zero Discrimination Day is an annual day celebrated by the UN and other international organisations. The day aims to promote equality before the law and in practice throughout all of the member countries of the UN.",
+        "fa_IR": "روز جهانی تبعیض یک روز جهانی سالانه است که توسط سازمان ملل و سایر سازمان‌های بین المللی جشن گرفته می‌شود. هدف این روز ترویج برابری در برابر قانون و در عمل در تمام کشورهای عضو سازمان ملل است."
+      },
+      "year": 2014,
+      "month": 3,
+      "day": 1,
+      "calendar": [
+        "International"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zero_Discrimination_Day"
+      ]
+    },
+    {
+      "key": 3385196868,
+      "title": {
+        "en_US": "World Wildlife Day",
+        "fa_IR": "روز جهانی حیات وحش"
+      },
+      "description": {
+        "en_US": "In its resolution, the General Assembly reaffirmed the intrinsic value of wildlife and its various contributions, including ecological, genetic, social, economic, scientific, educational, cultural, recreational and aesthetic, to sustainable development and human well-being.",
+        "fa_IR": "روز جهانی حیات وحش در ۳ مارس هر سال توسط تمام کشورهای عضو سازمان ملل متحد و در جهت افزایش آگاهی از وضعیت گیاهان و جانوران وحشی جشن گرفته می‌شود."
+      },
+      "year": 2013,
+      "month": 3,
+      "day": 3,
+      "calendar": [
+        "International"
+      ],
+      "sources": [
+        "https://fa.wikipedia.org/wiki/روز_جهانی_حیات_وحش",
+        "https://en.wikipedia.org/wiki/World_Wildlife_Day"
+      ]
+    },
+    {
+      "key": 797258058,
+      "title": {
+        "en_US": "International Women's Day",
+        "fa_IR": "روز جهانی زنان"
+      },
+      "description": {
+        "en_US": "International Women's Day (IWD) is celebrated on the 8th of March every year. It is a focal point in the movement for woman's rights.",
+        "fa_IR": "روز جهانی زنان بزرگداشتی است که هر ساله در روز ۸ مارس برگزار می‌شود و نقطه کانونی در جنبش حقوق زنان است. بسته به مناطق مختلف، تمرکزِ جشن بر بزرگداشت و دفاع از حقوق زنان و برگزاری جشنی برای دستاوردهای اقتصادی، سیاسی و اجتماعی زنان است."
+      },
+      "year": 1975,
+      "month": 3,
+      "day": 8,
+      "calendar": [
+        "International"
+      ],
+      "sources": [
+        "https://fa.wikipedia.org/wiki/روز_جهانی_زن",
+        "https://en.wikipedia.org/wiki/International_Women's_Day"
+      ]
+    },
+    {
+      "key": 2754327934,
+      "title": {
+        "en_US": "International Day of Happiness",
+        "fa_IR": "روز جهانی خوشبختی"
+      },
+      "description": {
+        "en_US": "The International Day of Happiness is celebrated worldwide every 20 March, and was conceptualized and founded by philanthropist, activist, statesman, and prominent United Nations special advisor Jayme Illien to inspire, mobilize, and advance the global happiness movement.",
+        "fa_IR": "روز جهانی خوشبختی بزرگداشتی است که هر ساله در روز ۲۰ مارس در سراسر جهان برگزار می‌شود و توسط خیرخواهان، فعالان و دولتمردان برجسته سازمان ملل متحد از جمله مشاور جیمی ایلین برای الهام بخشیدن، بسیج و پیشبرد جنبش شادی جهانی تاسیس شد."
+      },
+      "year": 2013,
+      "month": 3,
+      "day": 20,
+      "calendar": [
+        "International"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/International_Day_of_Happiness"
+      ]
+    },
+    {
+      "key": 987100504,
+      "title": {
+        "en_US": "International Day for the Elimination of Racial Discrimination",
+        "fa_IR": "روز مبارزه با تبعیض نژادی"
+      },
+      "description": {
+        "en_US": "The International Day for the Elimination of Racial Discrimination is observed annually on 21 March. On that day, in 1960, police opened fire and killed 69 people at a peaceful demonstration in Sharpeville, South Africa, against the apartheid pass laws.",
+        "fa_IR": "روز مبارزه با تبعیض نژادی بزرگداشتی است که هر ساله در روز ۲۱ مارس در سراسر جهان برگزار می‌شود. مجمع عمومی سازمان ملل متحد با اعلام این روز در سال ۱۹۶۶، از جامعه جهانی خواست كه تلاش‌های خود را برای از بین بردن همه‌ی تبعیض‌های نژادی انجام دهند."
+      },
+      "year": 1966,
+      "month": 3,
+      "day": 21,
+      "calendar": [
+        "International"
+      ],
+      "sources": [
+        "https://fa.wikipedia.org/wiki/روز_مبارزه_با_تبعیض_نژادی",
+        "https://en.wikipedia.org/wiki/International_Day_of_Happiness"
+      ]
+    },
+    {
+      "key": 3724002111,
+      "title": {
+        "en_US": "World Poetry Day",
+        "fa_IR": "روز جهانی شعر"
+      },
+      "description": {
+        "en_US": "World Poetry Day is celebrated on 21 March, and was declared by UNESCO (the United Nations Educational, Scientific and Cultural Organization) in 1999. Its purpose is to promote the reading, writing, publishing and teaching of poetry throughout the world and, as the original UNESCO declaration says, to \"give fresh recognition and impetus to national, regional and international poetry movements\".",
+        "fa_IR": "یونسکو در سی امین اجلاس کنفرانس عمومی خود که در سال ۱۹۹۹ برگزار شد، به اتفاق آرا، روز ۲۱ مارس برابر با نوروز باستانی هر سال را به عنوان روز جهانی شعر اعلام کرد و هرسال این روز را گرامی می‌دارد."
+      },
+      "year": 1999,
+      "month": 3,
+      "day": 21,
+      "calendar": [
+        "International"
+      ],
+      "sources": [
+        "https://fa.wikipedia.org/wiki/روز_جهانی_شعر",
+        "https://en.wikipedia.org/wiki/World_Poetry_Day"
+      ]
+    },
+    {
+      "key": 2201246610,
+      "title": {
+        "en_US": "International Day of Happiness",
+        "fa_IR": "روز جهانی سندروم داون"
+      },
+      "description": {
+        "en_US": "(WDSD) is marked each year on March 21. The date for WDSD being the 21st day of the 3rd month, was selected to signify the uniqueness of the triplication (trisomy) of the 21st chromosome which causes Down syndrome.",
+        "fa_IR": "مجمع عمومی سازمان ملل متحد ۲۱ مارس را به عنوان روز جهانی سندروم داون اعلام کرد. و از تمامی کشورهای عضو سازمان ملل و غیر دولتی‌ها دعوت کرد که، روز جهانی سندروم داون را به شیوه‌ای مناسب رعایت کنند تا آگاهی عمومی در مورد سندرم داون را افزایش دهند."
+      },
+      "year": 2012,
+      "month": 3,
+      "day": 21,
+      "calendar": [
+        "International"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/World_Down_Syndrome_Day"
+      ]
+    },
+    {
+      "key": 4172499084,
+      "title": {
+        "en_US": "International Day of Forests",
+        "fa_IR": "روز جهانی جنگل‌ها"
+      },
+      "description": {
+        "en_US": "The International Day of Forests was established on the 21st day of March, by resolution of the United Nations General Assembly on November 28, 2012. Each year, various events celebrate and raise awareness of the importance of all types of forests, and trees outside forests, for the benefit of current and future generations.",
+        "fa_IR": "روز جهانی جنگل‌ها با تصویب مجمع عمومی سازمان ملل متحد در ۲۱ مارس تایید شد. هر ساله، رویدادهای مختلف جشن گرفته می‌شود و آگاهی از اهمیت انواع جنگل‌ها، و درختان خارج از جنگل‌ها، به نفع نسل‌های فعلی و آینده."
+      },
+      "year": 2012,
+      "month": 3,
+      "day": 21,
+      "calendar": [
+        "International"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/International_Day_of_Forests"
+      ]
+    },
+    {
+      "key": 2062949774,
+      "title": {
+        "en_US": "World Water Day",
+        "fa_IR": "روز جهانی آب"
+      },
+      "description": {
+        "en_US": "World Water Day is an annual UN observance day (always on 22 March) that highlights the importance of freshwater. The day is used to advocate for the sustainable management of freshwater resources.",
+        "fa_IR": "روز جهانی آب مصادف با ۲۲ مارس هر ساله از سوی سازمان ملل نام‌گذاری شده‌است. این روز را به عنوان روز ترویج و آگاه‌سازی مردم در مورد آب اختصاص دهند."
+      },
+      "year": 1993,
+      "month": 3,
+      "day": 22,
+      "calendar": [
+        "International"
+      ],
+      "sources": [
+        "https://fa.wikipedia.org/wiki/روز_جهانی_آب",
+        "https://en.wikipedia.org/wiki/World_Water_Day"
+      ]
+    },
+    {
+      "key": 1511126496,
+      "title": {
+        "en_US": "World Meteorological Day",
+        "fa_IR": "روز جهانی هواشناسی"
+      },
+      "description": {
+        "en_US": "The date of the establishment of the World Meteorological Organization in 23 March 1950 has been named World Meteorological Day. This organization announces a slogan for World Meteorology Day every year, and this day is celebrated in all member countries. World Meteorological Day is celebrated every year on 23 March to commemorate the entry into force in 1950 of the convention that created the World Meteorological Organization.",
+        "fa_IR": "روز جهانی هواشناسی هر ساله در ۲۳ مارس به مناسبت بزرگداشت ورود سازمان جهانی هواشناسی جشن گرفته می‌شود."
+      },
+      "year": 1950,
+      "month": 3,
+      "day": 23,
+      "calendar": [
+        "International"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/World_Meteorological_Day"
+      ]
+    },
+    {
+      "key": 2574411165,
+      "title": {
+        "en_US": "World Tuberculosis Day",
+        "fa_IR": "روز جهانی سل"
+      },
+      "description": {
+        "en_US": "World Tuberculosis Day, observed on 24 March each year, is designed to build public awareness about the global epidemic of tuberculosis (TB) and efforts to eliminate the disease. In 2012, 8.6 million people fell ill with TB, and 1.3 million died from the disease, mostly in low and middle-income countries.",
+        "fa_IR": "روز جهانی سل، ۲۴ مارس هر سال، برای افزایش آگاهی عمومی در خصوص همه‌گیری جهانی سل و تلاش برای نابودی آن اختصاص داده شده‌است."
+      },
+      "month": 3,
+      "day": 24,
+      "calendar": [
+        "International"
+      ],
+      "sources": [
+        "https://fa.wikipedia.org/wiki/روز_جهانی_سل",
+        "https://en.wikipedia.org/wiki/World_Tuberculosis_Day"
+      ]
+    },
+    {
+      "key": 3026023765,
+      "title": {
+        "en_US": "International Day for the Right to the Truth concerning Gross Human Rights Violations and for the Dignity of Victims",
+        "fa_IR": "روز جهانی حق برای حقیقت در مورد نقض فاحش حقوق بشر و عزت قربانیان"
+      },
+      "description": {
+        "en_US": "International Day for the Right to the Truth concerning Gross Human Rights Violations and for the Dignity of Victims",
+        "fa_IR": "روز جهانی حق برای حقیقت در مورد نقض فاحش حقوق بشر و عزت قربانیان"
+      },
+      "month": 3,
+      "day": 24,
+      "calendar": [
+        "International"
+      ]
+    },
+    {
+      "key": 642951870,
+      "title": {
+        "en_US": "International Day of Remembrance of the Victims of Slavery and the Transatlantic Slave Trade",
+        "fa_IR": "روز جهانی یادبود قربانیان برده‌داری و تجارت برده‌"
+      },
+      "description": {
+        "en_US": "The day honours and remembers those who suffered and died as a consequence of the transatlantic slave trade, which has been called \"the worst violation of human rights in history\", in which over 400 years more than 15 million men, women and children were the victims.",
+        "fa_IR": "روزی که به یاد کسانی که به دلیل تجارت برده‌ها بین اقیانوس اطلس، که «بدترین نقض حقوق بشر در تاریخ» نامیده شده‌اند، که در طی ۴۰۰ سال بیش از ۱۵ میلیون مرد، زن و کودکان قربانی شدند."
+      },
+      "month": 3,
+      "day": 25,
+      "calendar": [
+        "International"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/International_Day_of_Remembrance_of_the_Victims_of_Slavery_and_the_Transatlantic_Slave_Trade"
+      ]
+    },
+    {
+      "key": 1821443266,
+      "title": {
+        "en_US": "International Day of Solidarity with Detained and Missing Staff Members",
+        "fa_IR": "روز جهانی همبستگی با اعضای بازداشت شده و مفقود شده کارکنان"
+      },
+      "description": {
+        "en_US": "It commemorates the anniversary of the abduction of Alec Collett, a former journalist who was working for the United Nations Relief and Works Agency for Palestine Refugees (UNRWA) when he was kidnapped by armed gunman in 1985. His body was finally found in the Bekaa Valley, Lebanon in 2009.",
+        "fa_IR": "این بزرگداشت سالگرد ربوده شدن آلک كولت، روزنامه نگار سابقی كه در آژانس امدادرسانی و کاریابی برای آوارگان فلسطینی در خاور نزدیک (اونروا) هنگامی كه در سال ۱۹۸۵ توسط افراد مسلح ربوده شد گرفته می‌شود. جسد وی سرانجام در سال ۲۰۰۹ در دره بقاع، لبنان پیدا شد."
+      },
+      "year": 2007,
+      "month": 3,
+      "day": 25,
+      "calendar": [
+        "International"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/International_Day_of_Solidarity_with_Detained_and_Missing_Staff_Members"
+      ]
+    },
+    {
       "key": 2017271387,
       "title": {
         "en_US": "World Autism Awareness Day",
