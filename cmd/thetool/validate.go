@@ -33,17 +33,19 @@ func textValidator(s string, rs ...interface{}) error {
 	return nil
 }
 
-func validate(cmd *command, fl *File) error {
-	if err := validateEventCalendar(fl); err != nil {
-		return fmt.Errorf("validate calendars failed: %w", err)
-	}
+func validate(cmd *command, fls []*File) error {
+	for _, fl := range fls {
+		if err := validateEventCalendar(fl); err != nil {
+			return fmt.Errorf("validate calendars failed: %w", err)
+		}
 
-	if err := validateEventContent(fl.Events, fl.Months, fl.Countries); err != nil {
-		return fmt.Errorf("validate events failed: %w", err)
-	}
+		if err := validateEventContent(fl.Events, fl.Months, fl.Countries); err != nil {
+			return fmt.Errorf("validate events failed: %w", err)
+		}
 
-	if err := validateEventOrder(fl.Events); err != nil {
-		return fmt.Errorf("validating the events order failed: %w", err)
+		if err := validateEventOrder(fl.Events); err != nil {
+			return fmt.Errorf("validating the events order failed: %w", err)
+		}
 	}
 
 	return nil
@@ -61,10 +63,6 @@ func isValidCountry(c string, list []string) bool {
 
 func validateEventContent(ev []Event, p *Months, countries []string) error {
 	for i := range ev {
-		if ev[i].Key != 0 {
-			return fmt.Errorf("the Key should not be in the input file")
-		}
-
 		for l, t := range ev[i].Title {
 			if err := textValidator(t, ev[i].PartialKey, "title", l); err != nil {
 				return err
