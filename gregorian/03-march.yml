@@ -57,34 +57,6 @@ events:
   - International
   sources:
   - https://en.wikipedia.org/wiki/International_Day_of_Happiness
-- partial_key: world_down_syndrome_day
-  title:
-    fa_IR: روز جهانی سندروم داون
-    en_US: International Day of Happiness
-  description:
-    fa_IR: مجمع عمومی سازمان ملل متحد ۲۱ مارس را به عنوان روز جهانی سندروم داون اعلام کرد. و از تمامی کشورهای عضو سازمان ملل و غیر دولتی‌ها دعوت کرد که، روز جهانی سندروم داون را به شیوه‌ای مناسب رعایت کنند تا آگاهی عمومی در مورد سندرم داون را افزایش دهند.
-    en_US: (WDSD) is marked each year on March 21. The date for WDSD being the 21st day of the 3rd month, was selected to signify the uniqueness of the triplication (trisomy) of the 21st chromosome which causes Down syndrome.
-  year: 2012
-  month: 3
-  day: 21
-  calendar:
-  - International
-  sources:
-  - https://en.wikipedia.org/wiki/World_Down_Syndrome_Day
-- partial_key: international_day_of_forests
-  title:
-    fa_IR: روز جهانی جنگل‌ها
-    en_US: International Day of Forests
-  description:
-    fa_IR: روز جهانی جنگل‌ها با تصویب مجمع عمومی سازمان ملل متحد در ۲۱ مارس تایید شد. هر ساله، رویدادهای مختلف جشن گرفته می‌شود و آگاهی از اهمیت انواع جنگل‌ها، و درختان خارج از جنگل‌ها، به نفع نسل‌های فعلی و آینده.
-    en_US: The International Day of Forests was established on the 21st day of March, by resolution of the United Nations General Assembly on November 28, 2012. Each year, various events celebrate and raise awareness of the importance of all types of forests, and trees outside forests, for the benefit of current and future generations.
-  year: 2012
-  month: 3
-  day: 21
-  calendar:
-  - International
-  sources:
-  - https://en.wikipedia.org/wiki/International_Day_of_Forests
 - partial_key: international_day_for_the_elimination_of_racial_discrimination
   title:
     fa_IR: روز مبارزه با تبعیض نژادی
@@ -115,6 +87,34 @@ events:
   sources:
   - https://fa.wikipedia.org/wiki/روز_جهانی_شعر
   - https://en.wikipedia.org/wiki/World_Poetry_Day
+- partial_key: world_down_syndrome_day
+  title:
+    fa_IR: روز جهانی سندروم داون
+    en_US: International Day of Happiness
+  description:
+    fa_IR: مجمع عمومی سازمان ملل متحد ۲۱ مارس را به عنوان روز جهانی سندروم داون اعلام کرد. و از تمامی کشورهای عضو سازمان ملل و غیر دولتی‌ها دعوت کرد که، روز جهانی سندروم داون را به شیوه‌ای مناسب رعایت کنند تا آگاهی عمومی در مورد سندرم داون را افزایش دهند.
+    en_US: (WDSD) is marked each year on March 21. The date for WDSD being the 21st day of the 3rd month, was selected to signify the uniqueness of the triplication (trisomy) of the 21st chromosome which causes Down syndrome.
+  year: 2012
+  month: 3
+  day: 21
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/World_Down_Syndrome_Day
+- partial_key: international_day_of_forests
+  title:
+    fa_IR: روز جهانی جنگل‌ها
+    en_US: International Day of Forests
+  description:
+    fa_IR: روز جهانی جنگل‌ها با تصویب مجمع عمومی سازمان ملل متحد در ۲۱ مارس تایید شد. هر ساله، رویدادهای مختلف جشن گرفته می‌شود و آگاهی از اهمیت انواع جنگل‌ها، و درختان خارج از جنگل‌ها، به نفع نسل‌های فعلی و آینده.
+    en_US: The International Day of Forests was established on the 21st day of March, by resolution of the United Nations General Assembly on November 28, 2012. Each year, various events celebrate and raise awareness of the importance of all types of forests, and trees outside forests, for the benefit of current and future generations.
+  year: 2012
+  month: 3
+  day: 21
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/International_Day_of_Forests
 - partial_key: world_water_day
   title:
     fa_IR: روز جهانی آب
