@@ -49,7 +49,7 @@ func compareAndWrite(fl string, data []byte) error {
 
 func generate(cmd *command, fls []*File) error {
 	// its time for calculating the event key
-	if err := unique(nil ,fls); err != nil {
+	if err := unique(nil, fls); err != nil {
 		return err
 	}
 
@@ -79,7 +79,7 @@ func generate(cmd *command, fls []*File) error {
 		}
 	}
 
-	return nil
+	return writeStaticApi(fls, *dist)
 }
 
 func init() {
