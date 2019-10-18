@@ -69,8 +69,6 @@ events:
   day: 5
   calendar:
     - International
-  sources:
-    - https://www.un.org/en/events/soilday/
 - partial_key: civil_aviation_day
   title:
     fa_IR: روز جهانی هواپیمایی
@@ -113,7 +111,6 @@ events:
   calendar:
     - International
   sources:
-    - https://www.un.org/en/events/genocidepreventionday/
     - https://en.wikipedia.org/wiki/Genocide_Remembrance_Day
 - partial_key: human_rights_day
   title:
@@ -157,8 +154,6 @@ events:
   day: 12
   calendar:
     - International
-  sources:
-    - https://www.un.org/en/events/neutralityday/
 - partial_key: health_voverage_day
   title:
     fa_IR: روز جهانی پوشش همگانی سلامت ‬‎
@@ -213,6 +208,5 @@ events:
   day: 20
   calendar:
     - International
-  sources:
-    - https://www.un.org/en/events/humansolidarityday/
+
 
