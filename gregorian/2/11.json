@@ -1,0 +1,22 @@
+[
+  {
+    "key": 1313785479,
+    "title": {
+      "en_US": "International Day of Women and Girls in Science",
+      "fa_IR": "روز جهانی زنان و دختران در علم"
+    },
+    "description": {
+      "en_US": "In order to achieve full and equal access to and participation in science for women and girls, and further achieve gender equality and the empowerment of women and girls, the United Nations General Assembly adopted resolution A/RES/70/212 declaring 11 February as the International Day of Women and Girls in Science.",
+      "fa_IR": "به منظور دستیابی کامل و مساوی به مشارکت و مشارکت در علم زنان و دختران و دستیابی بیشتر به برابری جنسیتی و توانمندسازی زنان و دختران ، مجمع عمومی سازمان ملل متحد قطعنامه A / RES / 70/212 را تصویب کرد که 11 فوریه را به عنوان روز جهانی زن و دختر در علم اعلام کرد."
+    },
+    "year": 2015,
+    "month": 2,
+    "day": 11,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://undocs.org/A/RES/70/212"
+    ]
+  }
+]

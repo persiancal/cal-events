@@ -1,0 +1,21 @@
+[
+  {
+    "key": 972859231,
+    "title": {
+      "en_US": "Day of Remembrance for all Victims of Chemical Warfare",
+      "fa_IR": "روز یادبود برای همه قربانیان جنگ شیمیایی"
+    },
+    "description": {
+      "en_US": "The Day of Remembrance for all Victims of Chemical Warfare is an annual event held November 30."
+    },
+    "year": 2005,
+    "month": 11,
+    "day": 30,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Day_of_Remembrance_for_all_Victims_of_Chemical_Warfare"
+    ]
+  }
+]

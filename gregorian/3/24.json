@@ -1,0 +1,38 @@
+[
+  {
+    "key": 2574411165,
+    "title": {
+      "en_US": "World Tuberculosis Day",
+      "fa_IR": "روز جهانی سل"
+    },
+    "description": {
+      "en_US": "World Tuberculosis Day, observed on 24 March each year, is designed to build public awareness about the global epidemic of tuberculosis (TB) and efforts to eliminate the disease. In 2012, 8.6 million people fell ill with TB, and 1.3 million died from the disease, mostly in low and middle-income countries.",
+      "fa_IR": "روز جهانی سل، ۲۴ مارس هر سال، برای افزایش آگاهی عمومی در خصوص همه‌گیری جهانی سل و تلاش برای نابودی آن اختصاص داده شده‌است."
+    },
+    "month": 3,
+    "day": 24,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://fa.wikipedia.org/wiki/روز_جهانی_سل",
+      "https://en.wikipedia.org/wiki/World_Tuberculosis_Day"
+    ]
+  },
+  {
+    "key": 3026023765,
+    "title": {
+      "en_US": "International Day for the Right to the Truth concerning Gross Human Rights Violations and for the Dignity of Victims",
+      "fa_IR": "روز جهانی حق برای حقیقت در مورد نقض فاحش حقوق بشر و عزت قربانیان"
+    },
+    "description": {
+      "en_US": "International Day for the Right to the Truth concerning Gross Human Rights Violations and for the Dignity of Victims",
+      "fa_IR": "روز جهانی حق برای حقیقت در مورد نقض فاحش حقوق بشر و عزت قربانیان"
+    },
+    "month": 3,
+    "day": 24,
+    "calendar": [
+      "International"
+    ]
+  }
+]

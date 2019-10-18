@@ -1,0 +1,22 @@
+[
+  {
+    "key": 4198683185,
+    "title": {
+      "en_US": "World Day of Social Justice",
+      "fa_IR": "روز جهانی عدالت اجتماعی"
+    },
+    "description": {
+      "en_US": "Social Equality Justice day is a day recognizing the need to promote efforts to tackle issues such as poverty, exclusion and unemployment. Many organizations, including the UN, American Library Association (ALA), and the International Labour Office, make statements on the importance of social justice for people.",
+      "fa_IR": "روز عدالت اجتماعی روزی است که نیاز به ترویج تلاش برای مقابله با موضوعاتی از جمله فقر ، محرومیت و بیکاری است. بسیاری از سازمانها از جمله سازمان ملل متحد ، انجمن كتابخانه های آمریكا (ALA) و دفتر بین المللی كار در مورد اهمیت عدالت اجتماعی برای مردم بیانیه می دهند."
+    },
+    "year": 2007,
+    "month": 2,
+    "day": 20,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/World_Day_of_Social_Justice"
+    ]
+  }
+]

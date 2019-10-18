@@ -1,0 +1,43 @@
+[
+  {
+    "key": 3157923633,
+    "title": {
+      "en_US": "World Telecommunication and Information Society Day",
+      "fa_IR": "روز جهانی ارتباطات و جامعه اطلاعاتی"
+    },
+    "description": {
+      "en_US": "World Telecommunication and Information Society Day",
+      "fa_IR": "روز جهانی ارتباطات و جامعه اطلاعاتی"
+    },
+    "year": 1969,
+    "month": 5,
+    "day": 17,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/World_Information_Society_Day"
+    ]
+  },
+  {
+    "key": 2879681297,
+    "title": {
+      "en_US": "International Day of Vesak",
+      "fa_IR": "روز جهانی وساک"
+    },
+    "description": {
+      "en_US": "International Day of Vesak",
+      "fa_IR": "روز جهانی وساک یا روز بودا، مقدس‌ترین روز برای میلیون ها بودایی در سراسر جهان"
+    },
+    "year": 2000,
+    "month": 5,
+    "day": 17,
+    "calendar": [
+      "International",
+      "Buddhist"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/International_Day_of_Vesak"
+    ]
+  }
+]

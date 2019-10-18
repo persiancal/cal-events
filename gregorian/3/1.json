@@ -1,0 +1,22 @@
+[
+  {
+    "key": 602656915,
+    "title": {
+      "en_US": "Zero Discrimination Day",
+      "fa_IR": "روز جهانی تبعیض"
+    },
+    "description": {
+      "en_US": "Zero Discrimination Day is an annual day celebrated by the UN and other international organisations. The day aims to promote equality before the law and in practice throughout all of the member countries of the UN.",
+      "fa_IR": "روز جهانی تبعیض یک روز جهانی سالانه است که توسط سازمان ملل و سایر سازمان‌های بین المللی جشن گرفته می‌شود. هدف این روز ترویج برابری در برابر قانون و در عمل در تمام کشورهای عضو سازمان ملل است."
+    },
+    "year": 2014,
+    "month": 3,
+    "day": 1,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Zero_Discrimination_Day"
+    ]
+  }
+]

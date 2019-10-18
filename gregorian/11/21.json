@@ -1,0 +1,22 @@
+[
+  {
+    "key": 212733080,
+    "title": {
+      "en_US": "World Television Day",
+      "fa_IR": "روز جهانی تلویزیون"
+    },
+    "description": {
+      "en_US": "In December 1996 the United Nations General Assembly proclaimed 21 November as World Television Day commemorating the date on which the first World Television Forum was held in 1996.",
+      "fa_IR": "بیست و یکم نوامبر، روز جهانی تلویزیون است. در دسامبر سال ۱۹۹۶، مجمع عمومی سازمان ملل متحد، ۲۱ نوامبر را روز جهان تلویزیون اعلام کرد؛ و اولین گردهمایی جهانی تلویزیون در همان سال (۱۹۹۶) تشکیل یافت."
+    },
+    "year": 1996,
+    "month": 11,
+    "day": 21,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/World_Television_Day"
+    ]
+  }
+]

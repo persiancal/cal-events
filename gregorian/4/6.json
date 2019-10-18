@@ -1,0 +1,23 @@
+[
+  {
+    "key": 493118727,
+    "title": {
+      "en_US": "International Day of Sport for Development and Peace",
+      "fa_IR": "روز جهانی ورزش برای صلح و توسعه"
+    },
+    "description": {
+      "en_US": "The International Day of Sport for Development and Peace (IDSDP) is an annual celebration of the power of sport to drive social change, community development and to foster peace and understanding.",
+      "fa_IR": ".روز جهانی ورزش برای صلح و توسعه در روز 6 آوریل توسط سازمان ملل متحد نامگزاری شد.روز ششم آوریل در واقع آغازگر نخستین دوره بازی های المپیک تابستانی مدرن در سال 1896 به میزبانی یونان بوده و همین علت این روز به عنوان روز ورزش در خدمت صلح و توسعه نام گذاری شده است"
+    },
+    "year": 2014,
+    "month": 4,
+    "day": 6,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://fa.wikipedia.org/wiki/روز_جهانی_ورزش_برای_صلح_و_توسعه",
+      "https://en.wikipedia.org/wiki/International_Day_of_Sport_for_Development_and_Peace"
+    ]
+  }
+]

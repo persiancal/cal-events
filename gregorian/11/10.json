@@ -1,0 +1,22 @@
+[
+  {
+    "key": 478452140,
+    "title": {
+      "en_US": "World Science Day for Peace and Development",
+      "fa_IR": "روز جهانی علم در خدمت صلح و توسعه"
+    },
+    "description": {
+      "en_US": "World Science Day for Peace and Development highlights the important role that science has in society and is celebrated each year on November 10",
+      "fa_IR": "روز جهانی علم در خدمت صلح و توسعه توسط سازمان فرهنگی، علمی، آموزشی ملل متحد، یونسکو و شورای بین‌المللی علوم در سال ۲۰۰۱ پایه‌گذاری شد و ۱۰ نوامبر به این مناسبت نامگذاری شد."
+    },
+    "year": 2011,
+    "month": 11,
+    "day": 10,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/World_Science_Day_for_Peace_and_Development"
+    ]
+  }
+]

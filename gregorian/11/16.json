@@ -1,0 +1,22 @@
+[
+  {
+    "key": 2287461091,
+    "title": {
+      "en_US": "International Day for Tolerance",
+      "fa_IR": "روز جهانی مدارا"
+    },
+    "description": {
+      "en_US": "The International Day for Tolerance is an annual observance day declared by UNESCO in 1995 to generate public awareness of the dangers of intolerance. It is observed on 16 November.",
+      "fa_IR": "25 آبان هر سال برابر با 16 نوامبر روز جهانی مدارا و بردباری در کنفرانس عمومی سازمان یونسکو نامگذاری شده است و برای صلح و رشد در همه زمینه ها در سطح جهان می باشد"
+    },
+    "year": 1995,
+    "month": 11,
+    "day": 16,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/International_Day_for_Tolerance"
+    ]
+  }
+]

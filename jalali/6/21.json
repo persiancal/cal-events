@@ -1,0 +1,19 @@
+[
+  {
+    "key": 1335108260,
+    "title": {
+      "fa_IR": "روز سینما"
+    },
+    "description": {
+      "fa_IR": "روز سینما"
+    },
+    "month": 6,
+    "day": 21,
+    "calendar": [
+      "Iran Official"
+    ],
+    "sources": [
+      "https://fa.wikipedia.org/wiki/سینما"
+    ]
+  }
+]

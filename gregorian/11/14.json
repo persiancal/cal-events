@@ -1,0 +1,22 @@
+[
+  {
+    "key": 1569359865,
+    "title": {
+      "en_US": "World Diabetes Day",
+      "fa_IR": "روز جهانی دیابت"
+    },
+    "description": {
+      "en_US": "World Diabetes Day is the primary global awareness campaign focusing on diabetes mellitus and is held on 14 November each year.",
+      "fa_IR": "مراسم روز جهانی دیابت هرساله در تاریخ ۱۴ نوامبر (۲۳ آبان) در بیش از ۱۶۰ کشور جهان برگزار می‌گردد."
+    },
+    "year": 2006,
+    "month": 11,
+    "day": 14,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/World_Diabetes_Day"
+    ]
+  }
+]

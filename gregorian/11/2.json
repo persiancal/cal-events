@@ -1,0 +1,21 @@
+[
+  {
+    "key": 3204415575,
+    "title": {
+      "en_US": "International Day to End Impunity for Crimes against Journalists",
+      "fa_IR": "روز جهانی پایان دادن به مصونیت از مجازات جنایات علیه روزنامه‌نگاران"
+    },
+    "description": {
+      "en_US": "The International Day to End Impunity for Crimes against Journalists is a UN-recognized day observed annually on 2 November."
+    },
+    "year": 2013,
+    "month": 11,
+    "day": 2,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/International_Day_to_End_Impunity_for_Crimes_Against_Journalists"
+    ]
+  }
+]

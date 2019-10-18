@@ -1,0 +1,22 @@
+[
+  {
+    "key": 1511126496,
+    "title": {
+      "en_US": "World Meteorological Day",
+      "fa_IR": "روز جهانی هواشناسی"
+    },
+    "description": {
+      "en_US": "The date of the establishment of the World Meteorological Organization in 23 March 1950 has been named World Meteorological Day. This organization announces a slogan for World Meteorology Day every year, and this day is celebrated in all member countries. World Meteorological Day is celebrated every year on 23 March to commemorate the entry into force in 1950 of the convention that created the World Meteorological Organization.",
+      "fa_IR": "روز جهانی هواشناسی هر ساله در ۲۳ مارس به مناسبت بزرگداشت ورود سازمان جهانی هواشناسی جشن گرفته می‌شود."
+    },
+    "year": 1950,
+    "month": 3,
+    "day": 23,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/World_Meteorological_Day"
+    ]
+  }
+]

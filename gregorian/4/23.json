@@ -1,0 +1,23 @@
+[
+  {
+    "key": 316052360,
+    "title": {
+      "en_US": "World Book and Copyright Day",
+      "fa_IR": "روز جهانی کتاب و حق مؤلف"
+    },
+    "description": {
+      "en_US": "World Book Day, also known as World Book and Copyright Day, or International Day of the Book, is an annual event organized by the United Nations Educational, Scientific and Cultural Organization (UNESCO) to promote reading, publishing, and copyright. World Book Day was first celebrated on 23 April 1995, and continues to be recognized on that day. A related event in the United Kingdom and Ireland is observed in March.",
+      "fa_IR": ".روز جهانی کتاب و حق مولف یا روز جهانی کتاب و حق مولف، یک رویداد سالانه‌ی پیش بینی شده توسط یونسکو است که در ۲۳ام آوریل هر سال به منظور ترویج خواندن و احترام به حق مولف برگزار می‌شود. در بریتانیا این روز در اولین دوشنبه ماه مارس برگزار می‌گردد. روز جهانی کتاب و حق مولف اولین بار در سال ۱۹۹۵ معرفی شد"
+    },
+    "year": 1995,
+    "month": 4,
+    "day": 23,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://fa.wikipedia.org/wiki/روز_جهانی_کتاب_و_حق_مؤلف",
+      "https://en.wikipedia.org/wiki/World_Book_Day"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "key": 1661744617,
+    "title": {
+      "en_US": "International Day of Zero Tolerance for Female Genital Mutilation",
+      "fa_IR": "روز جهانی عدم هرگونه مدارا با مثله‌کردن جنسی زنان"
+    },
+    "description": {
+      "en_US": "International Day of Zero Tolerance for Female Genital Mutilation is a United Nations-sponsored annual awareness day that takes place on February 6 as part of the UN's efforts to eradicate female genital mutilation. It was first introduced in 2003.",
+      "fa_IR": "روز بین‌المللی عدم هرگونه مدارا با مثله‌کردن جنسی زنان یکی از روزهای آگاهی دهنده بین‌المللی مورد حمایت سازمان ملل است که برای ۶ فوریه هر سال انتخاب شده و به مبارزه با بریدن آلت تناسلی زنان (ختنه زنان) اختصاص دارد."
+    },
+    "year": 2003,
+    "month": 2,
+    "day": 6,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://fa.wikipedia.org/wiki/روز_جهانی_عدم_هرگونه_مدارا_با_مثله‌کردن_جنسی_زنان",
+      "https://en.wikipedia.org/wiki/International_Day_of_Zero_Tolerance_for_Female_Genital_Mutilation"
+    ]
+  }
+]

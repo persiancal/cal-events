@@ -1,0 +1,21 @@
+[
+  {
+    "key": 39212089,
+    "title": {
+      "en_US": "World Tsunami Awareness Day",
+      "fa_IR": "روز جهانی اطلاع از سونامی"
+    },
+    "description": {
+      "en_US": "In December 2015, the UN General Assembly designated 5 November as World Tsunami Awareness Day."
+    },
+    "year": 2016,
+    "month": 11,
+    "day": 5,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Tsunami"
+    ]
+  }
+]

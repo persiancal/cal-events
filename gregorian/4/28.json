@@ -1,0 +1,22 @@
+[
+  {
+    "key": 3080226571,
+    "title": {
+      "en_US": "World Day for Safety and Health at Work",
+      "fa_IR": "روز جهانی ایمنی و سلامت در محل کار"
+    },
+    "description": {
+      "en_US": "World Day for Safety and Health at Work is a UN international day that is celebrated every April 28. It is concerned about safe work and awareness of the dimensions and consequences of work-related accidents and diseases; to place occupational safety and health (OSH) on the international and national agendas; and to provide support to the national efforts for the improvement of national OSH systems and programmes in line with relevant international labour standards.",
+      "fa_IR": ".روز جهانی ایمنی و بهداشت محیط کار روز جهانی سازمان ملل است که هر روز 28 آوریل برگزار می شود. در مورد کار ایمن و آگاهی از ابعاد و پیامدهای حوادث و بیماری های ناشی از کار. ایمنی و بهداشت شغلی را در برنامه های ملی و بین المللی گنجانید و از تلاش های ملی برای بهبود سیستم ها و برنامه های ملی ملی بهداشت مطابق با استانداردهای بین المللی کار مربوطه پشتیبانی کنید"
+    },
+    "year": 2003,
+    "month": 4,
+    "day": 28,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Workers%27_Memorial_Day#World_Day_for_Safety_and_Health_at_Work"
+    ]
+  }
+]

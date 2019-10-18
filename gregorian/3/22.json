@@ -1,0 +1,23 @@
+[
+  {
+    "key": 2062949774,
+    "title": {
+      "en_US": "World Water Day",
+      "fa_IR": "روز جهانی آب"
+    },
+    "description": {
+      "en_US": "World Water Day is an annual UN observance day (always on 22 March) that highlights the importance of freshwater. The day is used to advocate for the sustainable management of freshwater resources.",
+      "fa_IR": "روز جهانی آب مصادف با ۲۲ مارس هر ساله از سوی سازمان ملل نام‌گذاری شده‌است. این روز را به عنوان روز ترویج و آگاه‌سازی مردم در مورد آب اختصاص دهند."
+    },
+    "year": 1993,
+    "month": 3,
+    "day": 22,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://fa.wikipedia.org/wiki/روز_جهانی_آب",
+      "https://en.wikipedia.org/wiki/World_Water_Day"
+    ]
+  }
+]

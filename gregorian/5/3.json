@@ -1,0 +1,23 @@
+[
+  {
+    "key": 3795001220,
+    "title": {
+      "en_US": "World Press Freedom Day",
+      "fa_IR": "روز جهانی آزادی مطبوعات"
+    },
+    "description": {
+      "en_US": "World Press Freedom Day",
+      "fa_IR": "روز جهانی آزادی مطبوعات"
+    },
+    "year": 1993,
+    "month": 5,
+    "day": 3,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://fa.wikipedia.org/wiki/روز_جهانی_آزادی_مطبوعات",
+      "https://en.wikipedia.org/wiki/World_Press_Freedom_Day"
+    ]
+  }
+]

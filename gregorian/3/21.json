@@ -1,0 +1,84 @@
+[
+  {
+    "key": 987100504,
+    "title": {
+      "en_US": "International Day for the Elimination of Racial Discrimination",
+      "fa_IR": "روز مبارزه با تبعیض نژادی"
+    },
+    "description": {
+      "en_US": "The International Day for the Elimination of Racial Discrimination is observed annually on 21 March. On that day, in 1960, police opened fire and killed 69 people at a peaceful demonstration in Sharpeville, South Africa, against the apartheid pass laws.",
+      "fa_IR": "روز مبارزه با تبعیض نژادی بزرگداشتی است که هر ساله در روز ۲۱ مارس در سراسر جهان برگزار می‌شود. مجمع عمومی سازمان ملل متحد با اعلام این روز در سال ۱۹۶۶، از جامعه جهانی خواست كه تلاش‌های خود را برای از بین بردن همه‌ی تبعیض‌های نژادی انجام دهند."
+    },
+    "year": 1966,
+    "month": 3,
+    "day": 21,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://fa.wikipedia.org/wiki/روز_مبارزه_با_تبعیض_نژادی",
+      "https://en.wikipedia.org/wiki/International_Day_of_Happiness"
+    ]
+  },
+  {
+    "key": 3724002111,
+    "title": {
+      "en_US": "World Poetry Day",
+      "fa_IR": "روز جهانی شعر"
+    },
+    "description": {
+      "en_US": "World Poetry Day is celebrated on 21 March, and was declared by UNESCO (the United Nations Educational, Scientific and Cultural Organization) in 1999. Its purpose is to promote the reading, writing, publishing and teaching of poetry throughout the world and, as the original UNESCO declaration says, to \"give fresh recognition and impetus to national, regional and international poetry movements\".",
+      "fa_IR": "یونسکو در سی امین اجلاس کنفرانس عمومی خود که در سال ۱۹۹۹ برگزار شد، به اتفاق آرا، روز ۲۱ مارس برابر با نوروز باستانی هر سال را به عنوان روز جهانی شعر اعلام کرد و هرسال این روز را گرامی می‌دارد."
+    },
+    "year": 1999,
+    "month": 3,
+    "day": 21,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://fa.wikipedia.org/wiki/روز_جهانی_شعر",
+      "https://en.wikipedia.org/wiki/World_Poetry_Day"
+    ]
+  },
+  {
+    "key": 2201246610,
+    "title": {
+      "en_US": "International Day of Happiness",
+      "fa_IR": "روز جهانی سندروم داون"
+    },
+    "description": {
+      "en_US": "(WDSD) is marked each year on March 21. The date for WDSD being the 21st day of the 3rd month, was selected to signify the uniqueness of the triplication (trisomy) of the 21st chromosome which causes Down syndrome.",
+      "fa_IR": "مجمع عمومی سازمان ملل متحد ۲۱ مارس را به عنوان روز جهانی سندروم داون اعلام کرد. و از تمامی کشورهای عضو سازمان ملل و غیر دولتی‌ها دعوت کرد که، روز جهانی سندروم داون را به شیوه‌ای مناسب رعایت کنند تا آگاهی عمومی در مورد سندرم داون را افزایش دهند."
+    },
+    "year": 2012,
+    "month": 3,
+    "day": 21,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/World_Down_Syndrome_Day"
+    ]
+  },
+  {
+    "key": 4172499084,
+    "title": {
+      "en_US": "International Day of Forests",
+      "fa_IR": "روز جهانی جنگل‌ها"
+    },
+    "description": {
+      "en_US": "The International Day of Forests was established on the 21st day of March, by resolution of the United Nations General Assembly on November 28, 2012. Each year, various events celebrate and raise awareness of the importance of all types of forests, and trees outside forests, for the benefit of current and future generations.",
+      "fa_IR": "روز جهانی جنگل‌ها با تصویب مجمع عمومی سازمان ملل متحد در ۲۱ مارس تایید شد. هر ساله، رویدادهای مختلف جشن گرفته می‌شود و آگاهی از اهمیت انواع جنگل‌ها، و درختان خارج از جنگل‌ها، به نفع نسل‌های فعلی و آینده."
+    },
+    "year": 2012,
+    "month": 3,
+    "day": 21,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/International_Day_of_Forests"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "key": 1116089235,
+    "title": {
+      "en_US": "World Teachers’ Day",
+      "fa_IR": "روز جهانی معلمان"
+    },
+    "description": {
+      "en_US": "World Teachers’ Day",
+      "fa_IR": "روز جهانی معلمان"
+    },
+    "year": 1994,
+    "month": 10,
+    "day": 5,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://fa.wikipedia.org/wiki/روز_جهانی_معلم",
+      "https://en.wikipedia.org/wiki/World_Teachers_Day"
+    ]
+  }
+]

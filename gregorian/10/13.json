@@ -1,0 +1,23 @@
+[
+  {
+    "key": 817672011,
+    "title": {
+      "en_US": "International Day for Disaster Risk Reduction",
+      "fa_IR": "روز جهانی کاهش خطر بلایای طبیعی"
+    },
+    "description": {
+      "en_US": "International Day for Disaster Risk Reduction",
+      "fa_IR": "روز جهانی کاهش خطر بلایای طبیعی"
+    },
+    "year": 2009,
+    "month": 10,
+    "day": 13,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://fa.wikipedia.org/wiki/بلایای_طبیعی",
+      "https://en.wikipedia.org/wiki/International_Day_for_Disaster_Reduction"
+    ]
+  }
+]

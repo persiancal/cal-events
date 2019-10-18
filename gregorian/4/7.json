@@ -1,0 +1,23 @@
+[
+  {
+    "key": 3197235219,
+    "title": {
+      "en_US": "World Health Day",
+      "fa_IR": "روز جهانی بهداشت"
+    },
+    "description": {
+      "en_US": "The World Health Day is a global health awareness day celebrated every year on 7 April, under the sponsorship of the World Health Organization (WHO), as well as other related organizations.",
+      "fa_IR": ".روز جهانی بهداشت سالروز مقارن هفتم آوریل است که تحت حمایت سازمان بهداشت جهانی قرار دارد و همه ساله در این روز تحت نظارت مجمع بهداشت جهانی و دیگر سازمان های مرتبط جشن گرفته می شود"
+    },
+    "year": 1950,
+    "month": 4,
+    "day": 7,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://fa.wikipedia.org/wiki/روز_جهانی_بهداشت",
+      "https://en.wikipedia.org/wiki/World_Health_Day"
+    ]
+  }
+]

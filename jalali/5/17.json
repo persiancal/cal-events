@@ -1,0 +1,19 @@
+[
+  {
+    "key": 1271712603,
+    "title": {
+      "fa_IR": "روز خبرنگار"
+    },
+    "description": {
+      "fa_IR": "روز خبرنگار"
+    },
+    "month": 5,
+    "day": 17,
+    "calendar": [
+      "Iran Official"
+    ],
+    "sources": [
+      "https://fa.wikipedia.org/wiki/خبرنگار"
+    ]
+  }
+]

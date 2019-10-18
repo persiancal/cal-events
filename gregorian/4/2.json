@@ -1,0 +1,23 @@
+[
+  {
+    "key": 2017271387,
+    "title": {
+      "en_US": "World Autism Awareness Day",
+      "fa_IR": "روز آگاهی جهانی اوتیسم"
+    },
+    "description": {
+      "en_US": "World Autism Awareness Day is an internationally recognized day on 2 April every year, encouraging Member States of the United Nations to take measures to raise awareness about people with Autism Spectrum Disorder (ASD) throughout the world.",
+      "fa_IR": ".روز آگاهی جهانی اوتیسم روز دوم آوریل هر سال است که به عنوان یک روز جهانی به رسمیت شناخته شده است و هدف آن یادآوری و ترغیب کنش های کشورهای عضو در سازمان ملل متحد در جهت افزایش آگاهی در مورد افراد مبتلا به اختلال اسپکتروم اوتیسم در سراسر جهان است"
+    },
+    "year": 2007,
+    "month": 4,
+    "day": 2,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://fa.wikipedia.org/wiki/روز_آگاهی_جهانی_اوتیسم",
+      "https://en.wikipedia.org/wiki/World_Autism_Awareness_Day"
+    ]
+  }
+]

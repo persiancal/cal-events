@@ -1,0 +1,23 @@
+[
+  {
+    "key": 3360426085,
+    "title": {
+      "en_US": "World Suicide Prevention Day",
+      "fa_IR": "روز جهانی پیشگیری از خودکشی"
+    },
+    "description": {
+      "en_US": "World Suicide Prevention Day",
+      "fa_IR": "روز جهانی پیشگیری از خودکشی"
+    },
+    "year": 2003,
+    "month": 9,
+    "day": 10,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/World_Suicide_Prevention_Day",
+      "https://fa.wikipedia.org/wiki/روز_جهانی_پیشگیری_از_خودکشی"
+    ]
+  }
+]

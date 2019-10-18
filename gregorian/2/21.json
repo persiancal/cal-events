@@ -1,0 +1,23 @@
+[
+  {
+    "key": 398838343,
+    "title": {
+      "en_US": "International Mother Language Day",
+      "fa_IR": "روز جهانی زبان مادری"
+    },
+    "description": {
+      "en_US": "International Mother Language Day (IMLD) is a worldwide annual observance held on 21 February to promote awareness of linguistic and cultural diversity and promote multilingualism. First announced by UNESCO on 17 November 1999, it was formally recognized by the United Nations General Assembly in a resolution establishing 2008 as the International Year of Languages",
+      "fa_IR": "نامگذاری این روز در کنفرانس عمومی یونسکو در سال ۱۹۹۹ به منظور کمک به تنوع زبانی و فرهنگی انجام شده‌است. مجمع عمومی سازمان ملل متحد نیز به دلیل اهمیت زیاد آن، سال ۲۰۰۸ را سال جهانی زبان‌ها اعلام کرد."
+    },
+    "year": 2002,
+    "month": 2,
+    "day": 21,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://fa.wikipedia.org/wiki/روز_جهانی_زبان_مادری",
+      "https://en.wikipedia.org/wiki/International_Mother_Language_Day"
+    ]
+  }
+]

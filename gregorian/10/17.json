@@ -1,0 +1,23 @@
+[
+  {
+    "key": 1554983032,
+    "title": {
+      "en_US": "International Day for the Eradication of Poverty",
+      "fa_IR": "روز جهانی مبارزه با فقر"
+    },
+    "description": {
+      "en_US": "International Day for the Eradication of Poverty",
+      "fa_IR": "روز جهانی مبارزه با فقر"
+    },
+    "year": 1992,
+    "month": 10,
+    "day": 17,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://fa.wikipedia.org/wiki/روز_جهانی_ریشه‌کنی_فقر",
+      "https://en.wikipedia.org/wiki/International_Day_for_the_Eradication_of_Poverty"
+    ]
+  }
+]

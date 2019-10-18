@@ -1,0 +1,23 @@
+[
+  {
+    "key": 2627165971,
+    "title": {
+      "en_US": "World Post Day",
+      "fa_IR": "روز جهانی پست"
+    },
+    "description": {
+      "en_US": "World Post Day",
+      "fa_IR": "روز جهانی پست"
+    },
+    "year": 1969,
+    "month": 10,
+    "day": 9,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://fa.wikipedia.org/wiki/اتحادیه_جهانی_پست",
+      "https://en.wikipedia.org/wiki/World_Post_Day"
+    ]
+  }
+]

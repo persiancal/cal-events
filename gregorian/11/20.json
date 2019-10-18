@@ -1,0 +1,38 @@
+[
+  {
+    "key": 523102042,
+    "title": {
+      "en_US": "Universal Children's Day",
+      "fa_IR": "روز جهانی کودک"
+    },
+    "description": {
+      "en_US": "International Children's Day is a day recognized to celebrate children. The day is celebrated on various dates in different countries.",
+      "fa_IR": "روز جهانی کودک روزی است که برای تجلیل از کودکان به رسمیت شناخته شده‌است. این روز در کشورهای مختلف در تاریخ‌های مختلف جشن می‌گیرد."
+    },
+    "year": 1920,
+    "month": 11,
+    "day": 20,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Children%27s_Day"
+    ]
+  },
+  {
+    "key": 1725305517,
+    "title": {
+      "en_US": "Africa Industrialization Day",
+      "fa_IR": "روز صنعت‌سازی در آفریقا"
+    },
+    "description": {
+      "en_US": "Africa Industrialization Day is celebrated on November 20 each year. It is a time when governments and other organizations in many African countries examine ways to stimulate Africa's industrialization process."
+    },
+    "year": 1990,
+    "month": 11,
+    "day": 20,
+    "calendar": [
+      "International"
+    ]
+  }
+]

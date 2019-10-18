@@ -1,0 +1,23 @@
+[
+  {
+    "key": 3224381776,
+    "title": {
+      "en_US": "World Malaria Day",
+      "fa_IR": "روز جهانی مالاریا"
+    },
+    "description": {
+      "en_US": "World Malaria Day (WMD) is an international observance commemorated every year on 25 April and recognizes global efforts to control malaria. Globally, 3.3 billion people in 106 countries are at risk of malaria.[1] In 2012, malaria caused an estimated 627,000 deaths, mostly among African children.[2] Asia, Latin America, and to a lesser extent the Middle East and parts of Europe are also affected.",
+      "fa_IR": ".روز جهانی مالاریا یک رعایت جهانی‌ست که هر ساله در ۲۵ آوریل برگزار شده و به عنوان تلاش جهانی برای کنترل مالاریا شناخته می‌شود. در جهان ۳٫۳ میلیون نفر در ۱۰۶ کشور در خطر ریسک ابتلا به مالاریا هستند. در سال ۲۰۱۲ مالاریا به‌طور تخمینی ۶۲۷٬۰۰۰ کشته غالباً در کودکان آفریقایی داده‌است. آسیا، آمریکای لاتین و کمتر در خاورمیانه و قسمت‌هایی از اروپا نیز تحت تأثیر بوده‌اند"
+    },
+    "year": 2001,
+    "month": 4,
+    "day": 25,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://fa.wikipedia.org/wiki/روز_جهانی_مالاریا",
+      "https://en.wikipedia.org/wiki/World_Malaria_Day"
+    ]
+  }
+]

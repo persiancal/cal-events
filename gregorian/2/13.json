@@ -1,0 +1,23 @@
+[
+  {
+    "key": 3487125915,
+    "title": {
+      "en_US": "World Radio Day",
+      "fa_IR": "روز جهانی رادیو"
+    },
+    "description": {
+      "en_US": "Following a request from the Spanish Radio Academy on 20 September 2010, Spain proposed that the UNESCO Executive Board include an agenda item on the proclamation of a World Radio Day. UNESCO's Executive Board approved the agenda item in its provisional agenda for the proclamation of a \"World Radio Day\" on 29 September 2011.",
+      "fa_IR": "روز جهانی رادیو یک رویداد سالانه است که در ۱۳ فوریه، برگزار می‌شود. این روز توسط یونسکو نامگذاری شده است."
+    },
+    "year": 2012,
+    "month": 2,
+    "day": 13,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://fa.wikipedia.org/wiki/روز_جهانی_رادیو",
+      "https://en.wikipedia.org/wiki/World_Radio_Day"
+    ]
+  }
+]

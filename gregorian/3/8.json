@@ -1,0 +1,23 @@
+[
+  {
+    "key": 797258058,
+    "title": {
+      "en_US": "International Women's Day",
+      "fa_IR": "روز جهانی زنان"
+    },
+    "description": {
+      "en_US": "International Women's Day (IWD) is celebrated on the 8th of March every year. It is a focal point in the movement for woman's rights.",
+      "fa_IR": "روز جهانی زنان بزرگداشتی است که هر ساله در روز ۸ مارس برگزار می‌شود و نقطه کانونی در جنبش حقوق زنان است. بسته به مناطق مختلف، تمرکزِ جشن بر بزرگداشت و دفاع از حقوق زنان و برگزاری جشنی برای دستاوردهای اقتصادی، سیاسی و اجتماعی زنان است."
+    },
+    "year": 1975,
+    "month": 3,
+    "day": 8,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://fa.wikipedia.org/wiki/روز_جهانی_زن",
+      "https://en.wikipedia.org/wiki/International_Women's_Day"
+    ]
+  }
+]

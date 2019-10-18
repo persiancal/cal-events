@@ -1,0 +1,22 @@
+[
+  {
+    "key": 2547208402,
+    "title": {
+      "en_US": "International Day for the Elimination of Violence against Women",
+      "fa_IR": "روز بین‌المللی مبارزه با خشونت علیه زنان"
+    },
+    "description": {
+      "en_US": "The United Nations General Assembly has designated November 25 as the International Day for the Elimination of Violence Against Women.",
+      "fa_IR": "از سال ۱۹۸۱، ۲۵ نوامبر هر سال به عنوان روز جهانی رفع خشونت علیه زنان برگزیده شده‌است. این روز برای یادآوری عزم همگانی برای مبارزه با خشونت علیه زنان انتخاب شده‌است. مجمع عمومی سازمان ملل متحد در ۱۷ اکتبر ۱۹۹۹ نامگذاری این روز را به عنوان روزی جهانی تصویب کرد."
+    },
+    "year": 1981,
+    "month": 11,
+    "day": 25,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/International_Day_for_the_Elimination_of_Violence_against_Women"
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "key": 1614532998,
+    "title": {
+      "en_US": "World Standards Day",
+      "fa_IR": "روز جهانی استاندارد"
+    },
+    "description": {
+      "en_US": "World Standards Day",
+      "fa_IR": "روز جهانی استاندارد"
+    },
+    "year": 1946,
+    "month": 10,
+    "day": 14,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/World_Standards_Day"
+    ]
+  }
+]

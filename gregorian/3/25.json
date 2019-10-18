@@ -1,0 +1,41 @@
+[
+  {
+    "key": 642951870,
+    "title": {
+      "en_US": "International Day of Remembrance of the Victims of Slavery and the Transatlantic Slave Trade",
+      "fa_IR": "روز جهانی یادبود قربانیان برده‌داری و تجارت برده‌"
+    },
+    "description": {
+      "en_US": "The day honours and remembers those who suffered and died as a consequence of the transatlantic slave trade, which has been called \"the worst violation of human rights in history\", in which over 400 years more than 15 million men, women and children were the victims.",
+      "fa_IR": "روزی که به یاد کسانی که به دلیل تجارت برده‌ها بین اقیانوس اطلس، که «بدترین نقض حقوق بشر در تاریخ» نامیده شده‌اند، که در طی ۴۰۰ سال بیش از ۱۵ میلیون مرد، زن و کودکان قربانی شدند."
+    },
+    "month": 3,
+    "day": 25,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/International_Day_of_Remembrance_of_the_Victims_of_Slavery_and_the_Transatlantic_Slave_Trade"
+    ]
+  },
+  {
+    "key": 1821443266,
+    "title": {
+      "en_US": "International Day of Solidarity with Detained and Missing Staff Members",
+      "fa_IR": "روز جهانی همبستگی با اعضای بازداشت شده و مفقود شده کارکنان"
+    },
+    "description": {
+      "en_US": "It commemorates the anniversary of the abduction of Alec Collett, a former journalist who was working for the United Nations Relief and Works Agency for Palestine Refugees (UNRWA) when he was kidnapped by armed gunman in 1985. His body was finally found in the Bekaa Valley, Lebanon in 2009.",
+      "fa_IR": "این بزرگداشت سالگرد ربوده شدن آلک كولت، روزنامه نگار سابقی كه در آژانس امدادرسانی و کاریابی برای آوارگان فلسطینی در خاور نزدیک (اونروا) هنگامی كه در سال ۱۹۸۵ توسط افراد مسلح ربوده شد گرفته می‌شود. جسد وی سرانجام در سال ۲۰۰۹ در دره بقاع، لبنان پیدا شد."
+    },
+    "year": 2007,
+    "month": 3,
+    "day": 25,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/International_Day_of_Solidarity_with_Detained_and_Missing_Staff_Members"
+    ]
+  }
+]
