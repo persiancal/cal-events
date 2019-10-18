@@ -142,7 +142,7 @@ events:
   sources:
     - https://en.wikipedia.org/wiki/Mountain_Day
     - https://fa.wikipedia.org/wiki/روز_کوهستان
-- partial_key: International Day of Neutrality
+- partial_key: neutrality_day
   title:
     fa_IR: روز جهانی بی طرفی‬‎
     en_US: International Day of Neutrality
@@ -154,7 +154,7 @@ events:
   day: 12
   calendar:
     - International
-- partial_key: health_voverage_day
+- partial_key: health_coverage_day
   title:
     fa_IR: روز جهانی پوشش همگانی سلامت ‬‎
     en_US: International Mountain Day
