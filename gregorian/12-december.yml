@@ -4,8 +4,8 @@ events:
     fa_IR: روز جهانی ایدز
     en_US: World AIDS Day
   description:
-    fa_IR: روز جهانی ایدز از سال ۱۹۸۸ به منظور افزایش بودجه‌ها و افزایش آگاهی، آموزش و مبارزه با تبعیض‌ها به اول دسامبر (برابر ۱۰ آذر) هر سال اطلاق می‌گردد
-    en_US: World AIDS Day, designated on 1 December every year since 1988,[1] is an international day dedicated to raising awareness of the AIDS pandemic caused by the spread of HIV infection .
+    fa_IR: روز جهانی ایدز از سال ۱۹۸۸ به منظور افزایش بودجه‌ها و افزایش آگاهی، آموزش و مبارزه با تبعیض‌ها به اول دسامبر هر سال اطلاق می‌گردد
+    en_US: World AIDS Day, designated on 1 December every year since 1988, is an international day dedicated to raising awareness of the AIDS pandemic caused by the spread of HIV infection .
   year: 1988
   month: 12
   day: 1
@@ -48,7 +48,7 @@ events:
     fa_IR: روز جهانی داوطلبان برای توسعه اقتصادی و اجتماعی
     en_US: International Volunteer Day for Economic and Social Development
   description:
-    fa_IR:  5 دسامبر، 14 آذر، روز بين ‌المللی داوطلبان برای توسعه اقتصادی و اجتماعی
+    fa_IR:  5 دسامبر، روز بين ‌المللی داوطلبان برای توسعه اقتصادی و اجتماعی
     en_US:  International Volunteer Day (IVD), is an international observance mandated by the UN General Assembly in 1985.
   year: 1985
   month: 12
@@ -57,24 +57,12 @@ events:
     - International
   sources:
     - https://en.wikipedia.org/wiki/International_Volunteer_Day
-- partial_key: world_radio_day
-  title:
-    fa_IR: روز جهانی خاک
-    en_US: World Soil Day
-  description:
-    fa_IR:  موضوع روز جهانی خاک در سال ۲۰۱۸ توقف آلودگی خاک "Stop Soil Pollution" انتخاب شده و هدف آن افزایش آگاهی مردم و دولت‌ها در مورد اثرات سوء ناشی از آلودگی خاک است.
-    en_US: World Soil Day
-  year: 2018
-  month: 12
-  day: 5
-  calendar:
-    - International
 - partial_key: civil_aviation_day
   title:
     fa_IR: روز جهانی هواپیمایی
     en_US: International Civil Aviation Day
   description:
-    fa_IR: 16 آذر (7 دسامبر) روز جهانی هواپیمایی
+    fa_IR: روز جهانی هواپیمایی
     en_US: In 1996 the United Nations General Assembly proclaimed that 7 December was to be the International Civil Aviation Day
   year: 1996
   month: 12
@@ -88,7 +76,7 @@ events:
     fa_IR: روز جهانی مبارزه با فساد‬‎
     en_US: International Anti-Corruption Day
   description:
-    fa_IR: روز جهانی مبارزه با فساد از زمان تصویب دفتر مقابله با مواد مخدر و جرم سازمان ملل متحد در ۳۱ اکتبر ۲۰۰۳، بطور سالانه در ۹ دسامبر (۱۸ آذر) جشن گرفته می‌شود‬‎
+    fa_IR: روز جهانی مبارزه با فساد از زمان تصویب دفتر مقابله با مواد مخدر و جرم سازمان ملل متحد در ۳۱ اکتبر ۲۰۰۳، بطور سالانه در ۹ دسامبر جشن گرفته می‌شود‬‎
     en_US: International Anti-Corruption Day has been observed annually, on 9 December(also Mlondi Caluza's birthday)
   year: 2003
   month: 12
@@ -100,10 +88,10 @@ events:
     - https://fa.wikipedia.org/wiki/روز_جهانی_مبارزه_با_فساد
 - partial_key: commemoration_dignity_day
   title:
-    fa_IR: روز جهانی بزرگداشت قربانیان جنایات نسل کشی‬‎
+    fa_IR: روز جهانی بزرگداشت قربانیان نسل کشی‬‎
     en_US: International Day of Commemoration and Dignity of the Victims of the Crime of Genocide and of the Prevention of this Crime
   description:
-    fa_IR: روز جهانی بزرگداشت قربانیان جنایات نسل کشی‬‎
+    fa_IR: روز جهانی بزرگداشت قربانیان نسل کشی‬‎
     en_US: International Day of Commemoration and Dignity of the Victims of the Crime of Genocide and of the Prevention of this Crime
   year: 2015
   month: 12
@@ -117,7 +105,7 @@ events:
     fa_IR: روز حقوق بشر‬‎
     en_US: Human Rights Day
   description:
-    fa_IR: روز جهانی حقوق بشر یک رویداد سالانه است که در ۱۰ دسامبر، برگزار می‌شود. این روز توسط یونسکو نامگذاری شده‌است‬‎
+    fa_IR: روز جهانی حقوق بشر یک رویداد سالانه است که در ۱۰ دسامبر برگزار می‌شود. این روز توسط یونسکو نامگذاری شده ‌است‬‎
     en_US: Human Rights Day is celebrated annually across the world on 10 December every year
   year: 1948
   month: 12
@@ -146,7 +134,6 @@ events:
   title:
     fa_IR: روز جهانی بی طرفی‬‎
     en_US: International Day of Neutrality
-
   description:
     fa_IR: رروز جهانی بی طرفی
     en_US: International Day of Neutrality
@@ -168,12 +155,12 @@ events:
     - International
   sources:
     - https://en.wikipedia.org/wiki/Universal_Health_Coverage_Day
-- partial_key: miggrants_day
+- partial_key: migrants_day
   title:
     fa_IR: روز جهانی مهاجران‬‎
     en_US: International Migrants Day
   description:
-    fa_IR: روز جهانی مهاجران یک رویداد سالانه است که در ۱۸ دسامبر، برگزار می‌شود. این روز توسط یونسکو نامگذاری شده‌است‬‎
+    fa_IR: روز جهانی مهاجران یک رویداد سالانه است که در ۱۸ دسامبربرگزار می‌شود. این روز توسط یونسکو نامگذاری شده ‌است‬‎
     en_US:  International Migrants Day is observed on 18 December in accordance with Resolution 55/93 of the United Nations General Assembly, adopted on 4 December 2000
   year: 2000
   month: 12
@@ -208,5 +195,3 @@ events:
   day: 20
   calendar:
     - International
-
-
