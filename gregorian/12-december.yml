@@ -57,6 +57,18 @@ events:
     - International
   sources:
     - https://en.wikipedia.org/wiki/International_Volunteer_Day
+- partial_key: world_soil_day
+  title:
+    fa_IR: روز جهانی خاک
+    en_US: World Soil Day
+  description:
+    fa_IR: روز جهانی خاک
+    en_US: World Soil Day
+  year: 2018
+  month: 12
+  day: 5
+  calendar:
+    - International
 - partial_key: civil_aviation_day
   title:
     fa_IR: روز جهانی هواپیمایی
