@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "key": 763930873,
+    "title": {
+      "en_US": "World AIDS Day",
+      "fa_IR": "روز جهانی ایدز"
+    },
+    "description": {
+      "en_US": "World AIDS Day, designated on 1 December every year since 1988, is an international day dedicated to raising awareness of the AIDS pandemic caused by the spread of HIV infection.",
+      "fa_IR": "روز جهانی ایدز از سال ۱۹۸۸ به منظور افزایش بودجه‌ها و افزایش آگاهی، آموزش و مبارزه با تبعیض‌ها به اول دسامبر هر سال اطلاق می‌گردد"
+    },
+    "year": 1988,
+    "month": 12,
+    "day": 1,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/World_AIDS_Day",
+      "https://fa.wikipedia.org/wiki/روز_جهانی_ایدز"
+    ]
+  }
+]

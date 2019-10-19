@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "key": 1539813256,
+    "title": {
+      "en_US": "Human Rights Day",
+      "fa_IR": "روز حقوق بشر‬‎"
+    },
+    "description": {
+      "en_US": "Human Rights Day is celebrated annually across the world on 10 December every year",
+      "fa_IR": "روز جهانی حقوق بشر یک رویداد سالانه است که در ۱۰ دسامبر برگزار می‌شود. این روز توسط یونسکو نامگذاری شده ‌است‬‎"
+    },
+    "year": 1948,
+    "month": 12,
+    "day": 10,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Human_Rights_Day",
+      "https://fa.wikipedia.org/wiki/روز_حقوق_بشر"
+    ]
+  }
+]

@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "key": 945717066,
+    "title": {
+      "en_US": "International Human Solidarity Day",
+      "fa_IR": "روز بین المللی همبستگی بشر‬‎"
+    },
+    "description": {
+      "en_US": "International Human Solidarity Day",
+      "fa_IR": "روز بین المللی همبستگی بشر‬‎"
+    },
+    "month": 12,
+    "day": 20,
+    "calendar": [
+      "International"
+    ]
+  }
+]

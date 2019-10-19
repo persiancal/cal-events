@@ -1624,3 +1624,230 @@ events:
   - International
   sources:
   - https://en.wikipedia.org/wiki/Day_of_Remembrance_for_all_Victims_of_Chemical_Warfare
+- key: 763930873
+  title:
+    en_US: World AIDS Day
+    fa_IR: روز جهانی ایدز
+  description:
+    en_US: World AIDS Day, designated on 1 December every year since 1988, is an international
+      day dedicated to raising awareness of the AIDS pandemic caused by the spread
+      of HIV infection.
+    fa_IR: روز جهانی ایدز از سال ۱۹۸۸ به منظور افزایش بودجه‌ها و افزایش آگاهی، آموزش
+      و مبارزه با تبعیض‌ها به اول دسامبر هر سال اطلاق می‌گردد
+  year: 1988
+  month: 12
+  day: 1
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/World_AIDS_Day
+  - https://fa.wikipedia.org/wiki/روز_جهانی_ایدز
+- key: 1140223765
+  title:
+    en_US: International Day for the Abolition of Slavery
+    fa_IR: روز جهانی لغو برده داری
+  description:
+    en_US: The International Day for the Abolition of Slavery is a yearly event on
+      December 2, organized by the United Nations General Assembly. The Day was first
+      celebrated in 1986.
+    fa_IR: روز جهانی لغو برده داری
+  year: 1986
+  month: 12
+  day: 2
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/International_Day_for_the_Abolition_of_Slavery
+- key: 3366538527
+  title:
+    en_US: International Day of Persons with Disabilities
+    fa_IR: روز جهانی معلولین
+  description:
+    en_US: International Day of Persons with Disabilities (December 3) is an international
+      observance promoted by the United Nations since 1992.
+    fa_IR: روز جهانی معلولین از سال ۱۹۹۲ که از سوی مجمع عمومی سازمان ملل متحد اعلام
+      شد، هر ساله در ۳ دسامبر برگزار می‌شود.
+  year: 1992
+  month: 12
+  day: 3
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/United_Nations%27_International_Day_of_Persons_with_Disabilities
+  - https://fa.wikipedia.org/wiki/روز_جهانی_معلولین
+- key: 3122140400
+  title:
+    en_US: International Volunteer Day for Economic and Social Development
+    fa_IR: روز جهانی داوطلبان برای توسعه اقتصادی و اجتماعی
+  description:
+    en_US: International Volunteer Day (IVD), is an international observance mandated
+      by the UN General Assembly in 1985.
+    fa_IR: 5 دسامبر، روز بين ‌المللی داوطلبان برای توسعه اقتصادی و اجتماعی
+  year: 1985
+  month: 12
+  day: 5
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/International_Volunteer_Day
+- key: 3346040909
+  title:
+    en_US: World Soil Day
+    fa_IR: روز جهانی خاک
+  description:
+    en_US: World Soil Day
+    fa_IR: روز جهانی خاک
+  year: 2018
+  month: 12
+  day: 5
+  calendar:
+  - International
+- key: 742834406
+  title:
+    en_US: International Civil Aviation Day
+    fa_IR: روز جهانی هواپیمایی
+  description:
+    en_US: In 1996 the United Nations General Assembly proclaimed that 7 December
+      was to be the International Civil Aviation Day
+    fa_IR: روز جهانی هواپیمایی
+  year: 1996
+  month: 12
+  day: 7
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/International_Civil_Aviation_Day
+- key: 248283803
+  title:
+    en_US: International Anti-Corruption Day
+    fa_IR: روز جهانی مبارزه با فساد‬‎
+  description:
+    en_US: International Anti-Corruption Day has been observed annually, on 9 December(also
+      Mlondi Caluza's birthday)
+    fa_IR: روز جهانی مبارزه با فساد از زمان تصویب دفتر مقابله با مواد مخدر و جرم سازمان
+      ملل متحد در ۳۱ اکتبر ۲۰۰۳، بطور سالانه در ۹ دسامبر جشن گرفته می‌شود‬‎
+  year: 2003
+  month: 12
+  day: 9
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/International_Anti-Corruption_Day
+  - https://fa.wikipedia.org/wiki/روز_جهانی_مبارزه_با_فساد
+- key: 2936797678
+  title:
+    en_US: International Day of Commemoration and Dignity of the Victims of the Crime
+      of Genocide and of the Prevention of this Crime
+    fa_IR: روز جهانی بزرگداشت قربانیان نسل کشی‬‎
+  description:
+    en_US: International Day of Commemoration and Dignity of the Victims of the Crime
+      of Genocide and of the Prevention of this Crime
+    fa_IR: روز جهانی بزرگداشت قربانیان نسل کشی‬‎
+  year: 2015
+  month: 12
+  day: 9
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/Genocide_Remembrance_Day
+- key: 1539813256
+  title:
+    en_US: Human Rights Day
+    fa_IR: روز حقوق بشر‬‎
+  description:
+    en_US: Human Rights Day is celebrated annually across the world on 10 December
+      every year
+    fa_IR: روز جهانی حقوق بشر یک رویداد سالانه است که در ۱۰ دسامبر برگزار می‌شود.
+      این روز توسط یونسکو نامگذاری شده ‌است‬‎
+  year: 1948
+  month: 12
+  day: 10
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/Human_Rights_Day
+  - https://fa.wikipedia.org/wiki/روز_حقوق_بشر
+- key: 1695141926
+  title:
+    en_US: International Mountain Day
+    fa_IR: روز کوهستان‬‎
+  description:
+    en_US: International Mountain Day
+    fa_IR: روز کوهستان‬‎
+  year: 2014
+  month: 12
+  day: 11
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/Mountain_Day
+  - https://fa.wikipedia.org/wiki/روز_کوهستان
+- key: 2762587494
+  title:
+    en_US: International Day of Neutrality
+    fa_IR: روز جهانی بی طرفی‬‎
+  description:
+    en_US: International Day of Neutrality
+    fa_IR: روز جهانی بی طرفی
+  month: 12
+  day: 12
+  calendar:
+  - International
+- key: 3395736318
+  title:
+    en_US: International Mountain Day
+    fa_IR: روز جهانی پوشش همگانی سلامت ‬‎
+  description:
+    en_US: Universal Health Coverage Day is celebrated annually on December 12 and
+      is promoted by the World Health Organization
+    fa_IR: روز جهانی پوشش همگانی سلامت‬‎
+  year: 2012
+  month: 12
+  day: 12
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/Universal_Health_Coverage_Day
+- key: 862080088
+  title:
+    en_US: International Migrants Day
+    fa_IR: روز جهانی مهاجران‬‎
+  description:
+    en_US: International Migrants Day is observed on 18 December in accordance with
+      Resolution 55/93 of the United Nations General Assembly, adopted on 4 December
+      2000
+    fa_IR: روز جهانی مهاجران یک رویداد سالانه است که در ۱۸ دسامبربرگزار می‌شود. این
+      روز توسط یونسکو نامگذاری شده ‌است‬‎
+  year: 2000
+  month: 12
+  day: 18
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/International_Migrants_Day
+  - https://fa.wikipedia.org/wiki/روز_جهانی_مهاجران
+- key: 3834949366
+  title:
+    en_US: Arabic Language Day
+    fa_IR: روز زبان عربی‬‎
+  description:
+    en_US: UN Arabic Language Day is observed annually on December 18
+    fa_IR: روز زبان عربی‬‎
+  year: 2010
+  month: 12
+  day: 18
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/UN_Arabic_Language_Day
+- key: 945717066
+  title:
+    en_US: International Human Solidarity Day
+    fa_IR: روز بین المللی همبستگی بشر‬‎
+  description:
+    en_US: International Human Solidarity Day
+    fa_IR: روز بین المللی همبستگی بشر‬‎
+  month: 12
+  day: 20
+  calendar:
+  - International

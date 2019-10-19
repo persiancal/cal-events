@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "key": 3366538527,
+    "title": {
+      "en_US": "International Day of Persons with Disabilities",
+      "fa_IR": "روز جهانی معلولین"
+    },
+    "description": {
+      "en_US": "International Day of Persons with Disabilities (December 3) is an international observance promoted by the United Nations since 1992.",
+      "fa_IR": "روز جهانی معلولین از سال ۱۹۹۲ که از سوی مجمع عمومی سازمان ملل متحد اعلام شد، هر ساله در ۳ دسامبر برگزار می‌شود."
+    },
+    "year": 1992,
+    "month": 12,
+    "day": 3,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/United_Nations%27_International_Day_of_Persons_with_Disabilities",
+      "https://fa.wikipedia.org/wiki/روز_جهانی_معلولین"
+    ]
+  }
+]
