@@ -5,7 +5,7 @@ events:
     en_US: World AIDS Day
   description:
     fa_IR: روز جهانی ایدز از سال ۱۹۸۸ به منظور افزایش بودجه‌ها و افزایش آگاهی، آموزش و مبارزه با تبعیض‌ها به اول دسامبر هر سال اطلاق می‌گردد
-    en_US: World AIDS Day, designated on 1 December every year since 1988, is an international day dedicated to raising awareness of the AIDS pandemic caused by the spread of HIV infection .
+    en_US: World AIDS Day, designated on 1 December every year since 1988, is an international day dedicated to raising awareness of the AIDS pandemic caused by the spread of HIV infection.
   year: 1988
   month: 12
   day: 1
@@ -20,7 +20,7 @@ events:
     en_US: International Day for the Abolition of Slavery
   description:
     fa_IR: روز جهانی لغو برده داری
-    en_US: The International Day for the Abolition of Slavery is a yearly event on December 2, organized by the United Nations General Assembly. The Day was first celebrated in 1986..
+    en_US: The International Day for the Abolition of Slavery is a yearly event on December 2, organized by the United Nations General Assembly. The Day was first celebrated in 1986.
   year: 1986
   month: 12
   day: 2
@@ -135,7 +135,7 @@ events:
     fa_IR: روز جهانی بی طرفی‬‎
     en_US: International Day of Neutrality
   description:
-    fa_IR: رروز جهانی بی طرفی
+    fa_IR: روز جهانی بی طرفی
     en_US: International Day of Neutrality
   month: 12
   day: 12
