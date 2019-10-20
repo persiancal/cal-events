@@ -1,221 +1,183 @@
 events:
-- partial_key: older_person_day
-  title:
-    fa_IR: روز جهانی سالمندان
-    en_US: International Day of Older Persons
-  description:
-    fa_IR: روز جهانی سالمندان
-    en_US: International Day of Older Persons
-  year: 1990
-  month: 10
-  day: 1
-  calendar:
-  - International
-  sources:
-  - https://fa.wikipedia.org/wiki/روز_جهانی_سالمندان
-  - https://en.wikipedia.org/wiki/International_Day_of_Older_Persons
-- partial_key: non_violence_day
-  title:
-    fa_IR: روز جهانی عدم خشونت
-    en_US: International Day of Non-Violence
-  description:
-    fa_IR: روز جهانی عدم خشونت
-    en_US: International Day of Non-Violence
-  year: 2007
-  month: 10
-  day: 2
-  calendar:
-  - International
-  sources:
-  - https://en.wikipedia.org/wiki/International_Day_of_Non-Violence
-- partial_key: teacher_day
-  title:
-    fa_IR: روز جهانی معلمان
-    en_US: World Teachers’ Day
-  description:
-    fa_IR: روز جهانی معلمان
-    en_US: World Teachers’ Day
-  year: 1994
-  month: 10
-  day: 5
-  calendar:
-  - International
-  sources:
-  - https://fa.wikipedia.org/wiki/روز_جهانی_معلم
-  - https://en.wikipedia.org/wiki/World_Teachers_Day
-- partial_key: habitat_day
-  title:
-    fa_IR: روز جهانی اسکان بشر
-    en_US: World Habitat Day
-  description:
-    fa_IR: روز جهانی اسکان بشر
-    en_US: World Habitat Day
-  year: 1986
-  month: 10
-  day: 7
-  calendar:
-  - International
-  sources:
-  - https://fa.wikipedia.org/wiki/روز_جهانی_معماری
-  - https://en.wikipedia.org/wiki/World_Habitat_Day
-- partial_key: post_day
-  title:
-    fa_IR: روز جهانی پست
-    en_US: World Post Day
-  description:
-    fa_IR: روز جهانی پست
-    en_US: World Post Day
-  year: 1969
-  month: 10
-  day: 9
-  calendar:
-  - International
-  sources:
-  - https://fa.wikipedia.org/wiki/اتحادیه_جهانی_پست
-  - https://en.wikipedia.org/wiki/World_Post_Day
-- partial_key: mental_health_day
-  title:
-    fa_IR: روز جهانی سلامت روان
-    en_US: World Mental Health Day
-  description:
-    fa_IR: روز جهانی سلامت روان
-    en_US: World Mental Health Day
-  year: 1992
-  month: 10
-  day: 10
-  calendar:
-  - International
-  sources:
-  - https://en.wikipedia.org/wiki/World_Mental_Health_Day
-- partial_key: girl_child_day
-  title:
-    fa_IR: روز جهانی فرزند دختر
-    en_US: International Day of the Girl Child
-  description:
-    fa_IR: روز جهانی فرزند دختر
-    en_US: International Day of the Girl Child
-  year: 2012
-  month: 10
-  day: 11
-  calendar:
-  - International
-  sources:
-  - https://fa.wikipedia.org/wiki/دختر
-  - https://en.wikipedia.org/wiki/International_Day_of_the_Girl_Child
-- partial_key: migratory_bird_day
-  title:
-    fa_IR: روز جهانی پرنده مهاجر
-    en_US: World Migratory Bird Day
-  description:
-    fa_IR: روز جهانی پرنده مهاجر
-    en_US: World Migratory Bird Day
-  year: 2006
-  month: 10
-  day: 12
-  calendar:
-  - International
-  sources:
-  - https://en.wikipedia.org/wiki/Bird_Day#World_Migratory_Bird_Day
-- partial_key: disaster_risk_reduction_day
-  title:
-    fa_IR: روز جهانی کاهش خطر بلایای طبیعی
-    en_US: International Day for Disaster Risk Reduction
-  description:
-    fa_IR: روز جهانی کاهش خطر بلایای طبیعی
-    en_US: International Day for Disaster Risk Reduction
-  year: 2009
-  month: 10
-  day: 13
-  calendar:
-  - International
-  sources:
-  - https://fa.wikipedia.org/wiki/بلایای_طبیعی
-  - https://en.wikipedia.org/wiki/International_Day_for_Disaster_Reduction
-- partial_key: food_day
-  title:
-    fa_IR: روز جهانی غذا
-    en_US: World Food Day
-  description:
-    fa_IR: روز جهانی غذا
-    en_US: World Food Day
-  year: 1945
-  month: 10
-  day: 16
-  calendar:
-  - International
-  sources:
-  - https://fa.wikipedia.org/wiki/روز_جهانی_غذا
-  - https://en.wikipedia.org/wiki/World_Food_Day
-- partial_key: eradiction_of_poverty_day
-  title:
-    fa_IR: روز جهانی مبارزه با فقر
-    en_US: International Day for the Eradication of Poverty
-  description:
-    fa_IR: روز جهانی مبارزه با فقر
-    en_US: International Day for the Eradication of Poverty
-  year: 1992
-  month: 10
-  day: 17
-  calendar:
-  - International
-  sources:
-  - https://fa.wikipedia.org/wiki/روز_جهانی_ریشه‌کنی_فقر
-  - https://en.wikipedia.org/wiki/International_Day_for_the_Eradication_of_Poverty
-- partial_key: statistics_day
-  title:
-    fa_IR: روز جهانی آمار
-    en_US: World Statistics Day
-  description:
-    fa_IR: روز جهانی آمار
-    en_US: World Statistics Day
-  year: 2010
-  month: 10
-  day: 20
-  calendar:
-  - International
-  sources:
-  - https://fa.wikipedia.org/wiki/روز_جهانی_آمار
-  - https://en.wikipedia.org/wiki/World_Statistics_Day
-- partial_key: united_nation_day
-  title:
-    fa_IR: روز سازمان ملل
-    en_US: United Nations Day
-  description:
-    fa_IR: روز سازمان ملل
-    en_US: United Nations Day
-  year: 1971
-  month: 10
-  day: 24
-  calendar:
-  - International
-  sources:
-  - https://fa.wikipedia.org/wiki/سازمان_ملل_متحد
-  - https://en.wikipedia.org/wiki/United_Nations_Day
-- partial_key: development_information_day
-  title:
-    fa_IR: روز جهانی توسعه اطلاعات
-    en_US: World Development Information Day
-  description:
-    fa_IR: روز جهانی توسعه اطلاعات
-    en_US: World Development Information Day
-  year: 1972
-  month: 10
-  day: 24
-  calendar:
-  - International
-  sources:
-  - https://en.wikipedia.org/wiki/World_Development_Information_Day
-- partial_key: audiovisual_heritage_day
-  title:
-    fa_IR: روز جهانی میراث سمعی و بصری
-    en_US: World Day for Audiovisual Heritage
-  description:
-    fa_IR: روز جهانی میراث سمعی و بصری
-    en_US: World Day for Audiovisual Heritage
-  year: 2005
-  month: 10
-  day: 27
-  calendar:
-  - International
-  sources:
-  - https://en.wikipedia.org/wiki/World_Day_for_Audiovisual_Heritage
+  - partial_key: world_aids_day
+    title:
+      fa_IR: روز جهانی ایدز
+      en_US: World AIDS Day
+    description:
+      fa_IR: روز جهانی ایدز از سال ۱۹۸۸ به منظور افزایش بودجه‌ها و افزایش آگاهی، آموزش و مبارزه با تبعیض‌ها به اول دسامبر (برابر ۱۰ آذر) هر سال اطلاق می‌گردد و هر ساله برای این روز، شعار خاصی نیز در نظر گرفته می‌شود. هدف عمده از این کار این است که به عموم مردم یادآوری شود که HIV از بین نرفته‌است و هنوز کارهای زیادی است که باید انجام شود.
+      en_US: World AIDS day is an international day dedicated to raising awareness of the AIDS pandemic caused by the spread of HIV infection and mourning those who have died of the disease.
+    year: 1988
+    month: 12
+    day: 1
+    calendar:
+      - International
+    sources:
+      - https://fa.wikipedia.org/wiki/روز_جهانی_ایدز
+      - https://en.wikipedia.org/wiki/World_AIDS_Day
+  - partial_key: international_day_for_the_abolition_of_slavery
+    title:
+      fa_IR: روز جهانی نابودی بردگی
+      en_US: International Day for the Abolition of Slavery
+    description:
+      en_US: The International Day for the Abolition of Slavery is a yearly event on December 2, organized by the United Nations General Assembly.
+    year: 1986
+    month: 12
+    day: 2
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/International_Day_for_the_Abolition_of_Slavery
+  - partial_key: international_day_of_persons_with_disabilities
+    title:
+      fa_IR: روز جهانی معلولین
+      en_US: International Day of Persons with Disabilities
+    description:
+      fa_IR: روز جهانی معلولین از سال ۱۹۹۲ که از سوی مجمع عمومی سازمان ملل متحد اعلام شد، هر ساله در ۳ دسامبر برگزار می‌شود. هدف از تعیین این روز ارتقاء رشد اذهان عمومی درباره مسائل مربوط به معلولیتهای مختلف؛ و افزایش آگاهی هایی بوده‌است که می‌بایست از مسئله پیوستن افراد معلول در تمامی جنبه‌های سیاسی؛ اجتماعی؛ اقتصادی و فرهنگی زندگی منتج شود.
+      en_US: International Day of Persons with Disabilities (December 3) is an international observance promoted by the United Nations since 1992.
+    year: 1992
+    month: 12
+    day: 3
+    calendar:
+      - International
+    sources:
+      - https://fa.wikipedia.org/wiki/روز_جهانی_معلولین
+      - https://en.wikipedia.org/wiki/International_Day_for_the_Abolition_of_Slavery
+  - partial_key: international_volunteer_day
+    title:
+      fa_IR: روز جهانی داوطلب
+      en_US: International Volunteer Day
+    description:
+      en_US: The International Volunteer Day for Economic and Social Development (5 December), more commonly referred to as International Volunteer Day (IVD), is an international observance mandated by the UN General Assembly in 1985.
+    year: 1985
+    month: 12
+    day: 5
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/International_Volunteer_Day
+  - partial_key: world_soil_day
+    title:
+      fa_IR: روز جهانی خاک
+      en_US: World Soil Day
+    description:
+      en_US: The International Year of Soils was declared by the Sixty-eighth session of the United Nations General Assembly on December 20th, 2013 after recognizing December 5th as World Soil Day.
+    year: 2013
+    month: 12
+    day: 5
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/International_Year_of_Soil
+  - partial_key: international_civil_aviation_day
+    title:
+      fa_IR: روز بین‌المللی هوانوردی غیرنظامی
+      en_US: International Civil Aviation Day
+    description:
+      fa_IR: در سال ۱۹۹۶ (میلادی) مجمع عمومی سازمان ملل متحد روز ۷ دسامبر را روز بین‌المللی هوانوردی غیرنظامی نامید.
+      en_US: In 1996 the United Nations General Assembly proclaimed that 7 December was to be the International Civil Aviation Day.
+    year: 1996
+    month: 12
+    day: 7
+    calendar:
+      - International
+    sources:
+      - https://fa.wikipedia.org/wiki/روز_بین‌المللی_هوانوردی_غیرنظامی
+      - https://en.wikipedia.org/wiki/International_Civil_Aviation_Day
+  - partial_key: international_anticorruption_day
+    title:
+      fa_IR: روز جهانی مبارزه با فساد
+      en_US: International Anti-Corruption Day
+    description:
+      fa_IR: روز جهانی مبارزه با فساد از زمان تصویب دفتر مقابله با مواد مخدر و جرم سازمان ملل متحد در ۳۱ اکتبر ۲۰۰۳، بطور سالانه در ۹ دسامبر (۱۸ آذر) جشن گرفته می‌شود.
+      en_US: International Anti-Corruption Day has been observed annually, on 9 December(also Mlondi Caluza's birthday), since the passage of the United Nations Convention Against Corruption on 31 October 2003 to raise public awareness for anti-corruption.
+    year: 2003
+    month: 12
+    day: 9
+    calendar:
+      - International
+    sources:
+      - https://fa.wikipedia.org/wiki/روز_جهانی_مبارزه_با_فساد
+      - https://en.wikipedia.org/wiki/International_Anti-Corruption_Day
+  - partial_key: human_rights_day
+    title:
+      fa_IR: روز حقوق بشر
+      en_US: Human Rights Day
+    description:
+      fa_IR: روز جهانی حقوق بشر یک رویداد سالانه است که در ۱۰ دسامبر، برگزار می‌شود. این روز توسط یونسکو نامگذاری شده‌است.
+      en_US: Human Rights Day is celebrated annually across the world on 10 December every year.
+    year: 1948
+    month: 12
+    day: 10
+    calendar:
+      - International
+    sources:
+      - https://fa.wikipedia.org/wiki/روز_حقوق_بشر
+      - https://en.wikipedia.org/wiki/Human_Rights_Day
+  - partial_key: international_mountain_day
+    title:
+      fa_IR: روز جهانی کوه
+      en_US: International Mountain Day
+    description:
+      en_US: International Mountain Day, held each year on 11 December, which was established by the UN General Assembly in 2003 to encourage sustainable development in mountains.
+    year: 2003
+    month: 12
+    day: 11
+    calendar:
+      - International
+    sources:
+      - https://fa.wikipedia.org/wiki/روز_کوهستان
+      - https://en.wikipedia.org/wiki/Mountain_Day
+  - partial_key: universal_health_coverage_day
+    title:
+      fa_IR: روز جهانی پوشش بهداشت
+      en_US: Universal Health Coverage Day
+    description:
+      en_US: Universal Health Coverage Day is celebrated annually on December 12 and is promoted by the World Health Organization.
+    year: 2016
+    month: 12
+    day: 12
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/Universal_Health_Coverage_Day
+  - partial_key: international_migrants_day
+    title:
+      fa_IR: روز جهانی مهاجران
+      en_US: International Migrants Day
+    description:
+      fa_IR: روز جهانی مهاجران یک رویداد سالانه است که در ۱۸ دسامبر، برگزار می‌شود. این روز توسط یونسکو نامگذاری شده‌است.
+      en_US: International Migrants Day is observed on 18 December in accordance with Resolution 55/93 of the United Nations General Assembly, adopted on 4 December 2000.
+    year: 1990
+    month: 12
+    day: 18
+    calendar:
+      - International
+    sources:
+      - https://fa.wikipedia.org/wiki/روز_جهانی_مهاجران
+      - https://en.wikipedia.org/wiki/International_Migrants_Day
+  - partial_key: arabic_language_day
+    title:
+      fa_IR: روز زبان عربی
+      en_US: Arabic Language Day
+    description:
+      en_US: UN Arabic Language Day is observed annually on December 18.
+    year: 2010
+    month: 12
+    day: 18
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/UN_Arabic_Language_Day
+  - partial_key: international_human_solidarity_day
+    title:
+      fa_IR: روز جهانی همبستگی بشر
+      en_US: International Human Solidarity Day
+    description:
+      en_US: December 20 of each year is International Human Solidarity Day recognized as an international observance.
+    year: 2005
+    month: 12
+    day: 20
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/Solidarity
