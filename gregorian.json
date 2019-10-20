@@ -1047,6 +1047,107 @@
       ]
     },
     {
+      "key": 831779664,
+      "title": {
+        "en_US": "World Population Day",
+        "fa_IR": "روز جهانی جمعیت"
+      },
+      "description": {
+        "en_US": "World Population day is an annual event, observed on July 11 every year, which seeks to raise awareness of global population issues.",
+        "fa_IR": "روز جهانی جمعیت یک رویداد سالانه است که هر سال در 11 ژوئیه برگزار می شود و در صدد افزایش آگاهی از مسائل جهانی جمعیت است."
+      },
+      "year": 1987,
+      "month": 7,
+      "day": 11,
+      "calendar": [
+        "International"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/World_Population_Day"
+      ]
+    },
+    {
+      "key": 3523593794,
+      "title": {
+        "en_US": "Nelson Mandela International Day",
+        "fa_IR": "روز جهانی نلسون ماندلا"
+      },
+      "description": {
+        "en_US": "Nelson Mandela International Day (or Mandela Day) is an annual international day in honour of Nelson Mandela, celebrated each year on 18 July, Mandela's birthday.",
+        "fa_IR": "روز جهانی نلسون ماندلا (یا روز ماندلا) یک روز جهانی سالانه به افتخار نلسون ماندلا است که هر سال در 18 ژوئیه ، سالروز تولد ماندلا برگزار می شود."
+      },
+      "year": 2009,
+      "month": 7,
+      "day": 18,
+      "calendar": [
+        "International"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mandela_Day"
+      ]
+    },
+    {
+      "key": 4185818662,
+      "title": {
+        "en_US": "World Hepatitis Day",
+        "fa_IR": "روز جهانی هپاتیت"
+      },
+      "description": {
+        "en_US": "World Hepatitis Day, observed on July 28 every year, aims to raise global awareness of hepatitis and encourage prevention, diagnosis and treatment.",
+        "fa_IR": "روز جهانی هپاتیت ، که در تاریخ 28 ژوئیه هر سال برگزار می شود ، هدف آن افزایش آگاهی جهانی از هپاتیت و تشویق پیشگیری ، تشخیص و درمان است."
+      },
+      "year": 2012,
+      "month": 7,
+      "day": 28,
+      "calendar": [
+        "International"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/World_Hepatitis_Day"
+      ]
+    },
+    {
+      "key": 382296482,
+      "title": {
+        "en_US": "International Day of Friendship",
+        "fa_IR": "روز جهانی دوستی"
+      },
+      "description": {
+        "en_US": "Friendship Day (also International Friendship Day or Friend's Day) is a day in several countries for celebrating friendship.",
+        "fa_IR": "روزجهانی دوستی یک روز برای بزرگداشت و جشن گرفتن دوستی است."
+      },
+      "year": 1958,
+      "month": 7,
+      "day": 30,
+      "calendar": [
+        "International"
+      ],
+      "sources": [
+        "https://fa.wikipedia.org/wiki/روز_جهانی_دوستی",
+        "https://en.wikipedia.org/wiki/Friendship_Day"
+      ]
+    },
+    {
+      "key": 479146907,
+      "title": {
+        "en_US": "World Day against Trafficking in Persons",
+        "fa_IR": "روز جهانی مبارزه با قاچاق انسان"
+      },
+      "description": {
+        "en_US": "In 2013, the United Nations designated July 30 as the World Day against Trafficking in Persons.",
+        "fa_IR": "سازمان ملل متحد ۳۰ جولای را روز جهانی مبارزه با قاچاق انسان نام‌گذاری کرده است."
+      },
+      "year": 2013,
+      "month": 7,
+      "day": 30,
+      "calendar": [
+        "International"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Human_trafficking"
+      ]
+    },
+    {
       "key": 317588032,
       "title": {
         "en_US": "International Day of the World's Indigenous Peoples",
