@@ -1,1 +1,135 @@
-{}
+- partial_key: parents_day
+  title:
+    fa_IR: روز والدین
+    en_US: Parents' Day
+  description:
+    en_US: Parents' Day is observed in South Korea (May 8) and in the United States (fourth Sunday of July). The South Korean designation was established in 1973, replacing the Mother's Day previously marked on May 8, and includes public and private celebrations.
+  year: 2012
+  month: 6
+  day: 1
+  calendar:
+    - International
+  sources:
+    - https://en.wikipedia.org/wiki/Parents%27_Day
+- partial_key: bicycle_day
+  title:
+    fa_IR: روز جهانی دوچرخه
+    en_US: World Bicycle Day
+  description:
+    en_US: In April 2018, the United Nations General Assembly declared June 3 as International World Bicycle Day.
+  year: 2012
+  month: 6
+  day: 3
+  calendar:
+    - International
+  sources:
+    - https://en.wikipedia.org/wiki/World_Bicycle_Day
+- partial_key: environment_day
+  title:
+    fa_IR: روز جهانی محیط زیست
+    en_US: World Environment Day
+  description:
+    fa_IR: روز جهانی محیط زیست (مخفف انگلیسی WED) روزی است که از سوی سازمان ملل برای افزایش آگاهی مردم برای نگهداری محیط زیست و تحریک سیاستمداران به گرفتن تصمیماتی برای رویارویی با تخریب محیط زیست و گونه‌های زیستی‌جانوری، به‌عنوان روز محیط زیست انتخاب شده‌است.
+    en_US: World Environment Day (WED) is celebrated on 5 June every year, and is the United Nation's principal vehicle for encouraging awareness and action for the protection of our environment.
+  year: 1974
+  month: 6
+  day: 5
+  calendar:
+    - International
+  sources:
+    - https://en.wikipedia.org/wiki/World_Environment_Day
+- partial_key: illegal_fishing_day
+  title:
+    fa_IR: روز مبارزه با ماهیگیری غیرقانونی
+    en_US: International Day for the Fight against Illegal, Unreported and Unregulated Fishing
+  description:
+    en_US: Illegal, unreported and unregulated fishing (IUU) is an international issue around the world. Industry observers believe IUU occurs in most fisheries, and accounts for up to 30% of total catches in some important fisheries.
+  year: 2017
+  month: 6
+  day: 5
+  calendar:
+    - International
+  sources:
+    - https://en.wikipedia.org/wiki/Illegal,_unreported_and_unregulated_fishing
+- partial_key: food_safety_day
+  title:
+    fa_IR: روز ایمنی غذا
+    en_US: Food Safety Day
+  description:
+    en_US: The first ever celebration of the United Nations World Food Safety Day, to be marked globally on 7 June, aims to strengthen joint efforts to make food safer.
+  year: 2017
+  month: 6
+  day: 7
+  calendar:
+    - International
+  sources:
+    - https://en.wikipedia.org/wiki/Food_safety
+- partial_key: oceans_day
+  title:
+    fa_IR: روز جهانی اقیانوس‌ها
+    en_US: World Oceans Day
+  description:
+    fa_IR: روز جهانی اقیانوس‌ها یک رویداد سالانه است که در ۸ ژوئن، برگزار می‌شود. این روز توسط یونسکو نامگذاری شده است.
+    en_US: World Oceans Day takes place every 8 June. The concept was originally proposed in 1992 by Canada's International Centre for Ocean Development (ICOD) and the Ocean Institute of Canada (OIC) at the Earth Summit – UN Conference on Environment and Development (UNCED) in Rio de Janeiro, Brazil.
+  year: 2009
+  month: 6
+  day: 8
+  calendar:
+    - International
+  sources:
+    - https://en.wikipedia.org/wiki/World_Oceans_Day
+- partial_key: child_labour_day
+  title:
+    fa_IR: روز جهانی مبارزه با کار کودکان
+    en_US: World Day Against Child Labour
+  description:
+    fa_IR: روز جهانی مبارزه با کار کودکان روزی است که برای افزایش آگاهی و فعالیت در زمینهٔ جلوگیری کار کودکان از سوی سازمان بین‌المللی کار پیشنهاد شده‌است.
+    en_US: The World Day Against Child Labour is an International Labour Organization (ILO)-sanctioned holiday first launched in 2003 aiming to raise awareness and activism to prevent child labour.
+  year: 2002
+  month: 6
+  day: 12
+  calendar:
+    - International
+  sources:
+    - https://en.wikipedia.org/wiki/World_Day_Against_Child_Labour
+    - https://fa.wikipedia.org/wiki/روز_جهانی_مبارزه_با_کار_کودکان
+- partial_key: albinism_day
+  title:
+    fa_IR: روز جهانی آگاهی از آلبینیسم
+    en_US: International Albinism Awareness Day
+  description:
+    en_US: International Albinism Awareness Day (IAAD) is celebrated annually on June 13 to celebrate the human rights of persons with albinism worldwide.
+  year: 2013
+  month: 6
+  day: 12
+  calendar:
+    - International
+  sources:
+    - https://en.wikipedia.org/wiki/International_Albinism_Awareness_Day
+- partial_key: blood_donor_day
+  title:
+    fa_IR: روز جهانی اهدای خون
+    en_US: World Blood Donor Day
+  description:
+    fa_IR: روز ۲۴ خرداد هر سال (۱۴ ژوئن) به نام روز جهانی اهدای خون (روز جهانی تقدیر از اهدا کنندگان خون) انتخاب شده‌است.
+    en_US: Every year on 14 June, countries around the world celebrate World Blood Donor Day (WBDD).
+  year: 2004
+  month: 6
+  day: 14
+  calendar:
+    - International
+  sources:
+    - https://en.wikipedia.org/wiki/World_Blood_Donor_Day
+- partial_key: elder_abuse_day
+  title:
+    fa_IR: روز جهانی آگاهی از سوءاستفاده سالمندان
+    en_US: World Elder Abuse Awareness Day
+  description:
+    en_US: In 2006 the International Network for Prevention of Elder Abuse (INPEA) designated June 15 as World Elder Abuse Awareness Day (WEAAD).
+  year: 2006
+  month: 6
+  day: 15
+  calendar:
+    - International
+  sources:
+    - https://en.wikipedia.org/wiki/Elder_abuse
