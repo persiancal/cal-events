@@ -1,1 +1,44 @@
-{}
+events:
+- partial_key: world_braille_day
+  title:
+    fa_IR: روز جهانی بریل
+    en_US: World Braille Day
+  description:
+    fa_IR: روز جهانی بریل
+    en_US: World Braille Day
+  year: 2018
+  month: 1
+  day: 4
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/World_Braille_Day
+- partial_key: international_day_of_education
+  title:
+    fa_IR: روز جهانی آموزش
+    en_US: International Day of Education
+  description:
+    fa_IR: روز جهانی آموزش
+    en_US: International Day of Education
+  year: 2018
+  month: 1
+  day: 24
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/International_Day_of_Education
+- partial_key: international_day_of_commemoration_in_memory_of_the_victims_of_the_holocaust
+  title:
+    fa_IR: روز جهانی بزرگداشت به یاد قربانیان هولوکاست
+    en_US: International Day of Commemoration in Memory of the Victims of the Holocaust
+  description:
+    fa_IR: روز جهانی بزرگداشت به یاد قربانیان هولوکاست
+    en_US: International Day of Commemoration in Memory of the Victims of the Holocaust
+  year: 2005
+  month: 1
+  day: 27
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/International_Holocaust_Remembrance_Day
+  - https://fa.wikipedia.org/wiki/روز_جهانی_یادبود_هولوکاست
