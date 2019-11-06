@@ -52,6 +52,19 @@ events:
       - International
     sources:
       - https://en.wikipedia.org/wiki/Illegal,_unreported_and_unregulated_fishing
+  - partial_key: russian_day
+    title:
+      fa_IR: روز زبان روسی
+      en_US: Russian Language Day
+    description:
+      en_US: UN Russian Language Day is observed annually on June 6. The event was established by the United Nations Educational, Scientific and Cultural Organization (UNESCO) in 2010.
+    year: 2010
+    month: 6
+    day: 6
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/UN_Russian_Language_Day
   - partial_key: food_safety_day
     title:
       fa_IR: روز ایمنی غذا
@@ -146,6 +159,8 @@ events:
     day: 17
     calendar:
       - International
+    sources:
+      - https://en.wikipedia.org/wiki/World_Day_to_Combat_Desertification_and_Drought
   - partial_key: refugee_day
     title:
       fa_IR: روز جهانی پناهجویان
@@ -185,6 +200,8 @@ events:
     day: 23
     calendar:
       - International
+    sources:
+      - https://en.wikipedia.org/wiki/UN_Public_Service_Day
   - partial_key: widows_day
     title:
       fa_IR: روز جهانی بیوه‌ها
@@ -196,6 +213,8 @@ events:
     day: 23
     calendar:
       - International
+    sources:
+      - https://en.wikipedia.org/wiki/International_Widows_Day
   - partial_key: seafarer_day
     title:
       fa_IR: روز دریانورد
@@ -207,6 +226,8 @@ events:
     day: 25
     calendar:
       - International
+    sources:
+      - https://en.wikipedia.org/wiki/International_Seafarers%27_Welfare_and_Assistance_Network
   - partial_key: drug_abuse_day
     title:
       fa_IR: روز جهانی مبارزه با سوءمصرف مواد مخدر و قاچاق غیرقانونی
@@ -218,6 +239,8 @@ events:
     day: 26
     calendar:
       - International
+    sources:
+      - https://en.wikipedia.org/wiki/International_Seafarers%27_Welfare_and_Assistance_Network    
   - partial_key: torture_victims_day
     title:
       fa_IR: روز جهانی حمایت از قربانیان شکنجه
@@ -229,6 +252,8 @@ events:
     day: 26
     calendar:
       - International
+    sources:
+      - https://en.wikipedia.org/wiki/International_Day_in_Support_of_Victims_of_Torture
   - partial_key: small_business_day
     title:
       fa_IR: روز بنگاه‌های کوچک و متوسط
@@ -264,6 +289,8 @@ events:
     day: 29
     calendar:
       - International
+    sources:
+      - https://en.wikipedia.org/wiki/Asteroid_Day
   - partial_key: parliamentarism_day
     title:
       fa_IR: روز جهانی پارلمانیسم
