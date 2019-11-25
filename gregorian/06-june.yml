@@ -200,7 +200,7 @@ events:
       - International
     sources:
       - https://en.wikipedia.org/wiki/Gastronomy
-      - https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%E2%80%8C%D8%B4%D9%86%D8%A7%D8%B3%DB%8C
+      - https://fa.wikipedia.org/wiki/خوراک‌شناسی
   - partial_key: elimination_of_sexual_violence_in_conflict_day
     title:
       fa_IR: روز جهانی حذف خشونت جنسی در درگیری
@@ -226,7 +226,7 @@ events:
       - International
     sources:
       - https://en.wikipedia.org/wiki/World_Refugee_Day
-      - https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%B2_%D8%AC%D9%87%D8%A7%D9%86%DB%8C_%D9%BE%D9%86%D8%A7%D9%87%D8%AC%D9%88%DB%8C%D8%A7%D9%86
+      - https://fa.wikipedia.org/wiki/روز_جهانی_پناهجویان
   - partial_key: yoga_day
     title:
       fa_IR: روز جهانی یوگا
@@ -241,7 +241,7 @@ events:
       - International
     sources:
       - https://en.wikipedia.org/wiki/International_Day_of_Yoga
-      - https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%B2_%D8%AC%D9%87%D8%A7%D9%86%DB%8C_%DB%8C%D9%88%DA%AF%D8%A7
+      - https://fa.wikipedia.org/wiki/روز_جهانی_یوگا
   - partial_key: solstice_day
     title:
       fa_IR: روز جهانی جشن انقلابین
@@ -332,7 +332,7 @@ events:
       - International
     sources:
       - https://en.wikipedia.org/wiki/Small_and_medium-sized_enterprises
-      - https://fa.wikipedia.org/wiki/%D8%A8%D9%86%DA%AF%D8%A7%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%DA%A9%D9%88%DA%86%DA%A9_%D9%88_%D9%85%D8%AA%D9%88%D8%B3%D8%B7
+      - https://fa.wikipedia.org/wiki/بنگاه‌های_کوچک_و_متوسط
   - partial_key: tropics_day
     title:
       fa_IR: روز جهانی استوایی
