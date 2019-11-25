@@ -1,1 +1,370 @@
-{}
+events:
+  - partial_key: parents_day
+    title:
+      fa_IR: روز والدین
+      en_US: Parents' Day
+    description:
+      en_US: Parents' Day is observed in South Korea (May 8) and in the United States (fourth Sunday of July). The South Korean designation was established in 1973, replacing the Mother's Day previously marked on May 8, and includes public and private celebrations.
+    year: 2012
+    month: 6
+    day: 1
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/Parents%27_Day
+  - partial_key: bicycle_day
+    title:
+      fa_IR: روز جهانی دوچرخه
+      en_US: World Bicycle Day
+    description:
+      en_US: In April 2018, the United Nations General Assembly declared June 3 as International World Bicycle Day.
+    year: 2018
+    month: 6
+    day: 3
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/World_Bicycle_Day
+  - partial_key: child_victim_day
+    title:
+      fa_IR: روز جهانی کودکان بی‌گناه قربانی پرخاشگری
+      en_US: International Day of Innocent Children Victims of Aggression
+    description:
+      en_US: The International Day of Innocent Children Victims of Aggression is a United Nations observance each 4 June. It was established on 19 August 1982.
+    year: 1982
+    month: 6
+    day: 4
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/International_Day_of_Innocent_Children_Victims_of_Aggression
+  - partial_key: environment_day
+    title:
+      fa_IR: روز جهانی محیط زیست
+      en_US: World Environment Day
+    description:
+      fa_IR: روز جهانی محیط زیست (مخفف انگلیسی WED) روزی است که از سوی سازمان ملل برای افزایش آگاهی مردم برای نگهداری محیط زیست و تحریک سیاستمداران به گرفتن تصمیماتی برای رویارویی با تخریب محیط زیست و گونه‌های زیستی‌جانوری، به‌عنوان روز محیط زیست انتخاب شده‌است.
+      en_US: World Environment Day (WED) is celebrated on 5 June every year, and is the United Nation's principal vehicle for encouraging awareness and action for the protection of our environment.
+    year: 1974
+    month: 6
+    day: 5
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/World_Environment_Day
+  - partial_key: illegal_fishing_day
+    title:
+      fa_IR: روز مبارزه با ماهیگیری غیرقانونی
+      en_US: International Day for the Fight against Illegal, Unreported and Unregulated Fishing
+    description:
+      en_US: Illegal, unreported and unregulated fishing (IUU) is an international issue around the world. Industry observers believe IUU occurs in most fisheries, and accounts for up to 30% of total catches in some important fisheries.
+    year: 2017
+    month: 6
+    day: 5
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/Illegal,_unreported_and_unregulated_fishing
+  - partial_key: russian_day
+    title:
+      fa_IR: روز زبان روسی
+      en_US: Russian Language Day
+    description:
+      en_US: UN Russian Language Day is observed annually on June 6. The event was established by the United Nations Educational, Scientific and Cultural Organization (UNESCO) in 2010.
+    year: 2010
+    month: 6
+    day: 6
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/UN_Russian_Language_Day
+  - partial_key: food_safety_day
+    title:
+      fa_IR: روز ایمنی غذا
+      en_US: Food Safety Day
+    description:
+      en_US: The first ever celebration of the United Nations World Food Safety Day, to be marked globally on 7 June, aims to strengthen joint efforts to make food safer.
+    year: 2017
+    month: 6
+    day: 7
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/Food_safety
+  - partial_key: oceans_day
+    title:
+      fa_IR: روز جهانی اقیانوس‌ها
+      en_US: World Oceans Day
+    description:
+      fa_IR: روز جهانی اقیانوس‌ها یک رویداد سالانه است که در ۸ ژوئن، برگزار می‌شود. این روز توسط یونسکو نامگذاری شده است.
+      en_US: World Oceans Day takes place every 8 June. The concept was originally proposed in 1992 by Canada's International Centre for Ocean Development (ICOD) and the Ocean Institute of Canada (OIC) at the Earth Summit – UN Conference on Environment and Development (UNCED) in Rio de Janeiro, Brazil.
+    year: 2009
+    month: 6
+    day: 8
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/World_Oceans_Day
+  - partial_key: child_labour_day
+    title:
+      fa_IR: روز جهانی مبارزه با کار کودکان
+      en_US: World Day Against Child Labour
+    description:
+      fa_IR: روز جهانی مبارزه با کار کودکان روزی است که برای افزایش آگاهی و فعالیت در زمینهٔ جلوگیری کار کودکان از سوی سازمان بین‌المللی کار پیشنهاد شده‌است.
+      en_US: The World Day Against Child Labour is an International Labour Organization (ILO)-sanctioned holiday first launched in 2003 aiming to raise awareness and activism to prevent child labour.
+    year: 2002
+    month: 6
+    day: 12
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/World_Day_Against_Child_Labour
+      - https://fa.wikipedia.org/wiki/روز_جهانی_مبارزه_با_کار_کودکان
+  - partial_key: albinism_day
+    title:
+      fa_IR: روز جهانی آگاهی از آلبینیسم
+      en_US: International Albinism Awareness Day
+    description:
+      en_US: International Albinism Awareness Day (IAAD) is celebrated annually on June 13 to celebrate the human rights of persons with albinism worldwide.
+    year: 2015
+    month: 6
+    day: 12
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/International_Albinism_Awareness_Day
+  - partial_key: blood_donor_day
+    title:
+      fa_IR: روز جهانی اهدای خون
+      en_US: World Blood Donor Day
+    description:
+      fa_IR: روز ۲۴ خرداد هر سال (۱۴ ژوئن) به نام روز جهانی اهدای خون (روز جهانی تقدیر از اهدا کنندگان خون) انتخاب شده‌است.
+      en_US: Every year on 14 June, countries around the world celebrate World Blood Donor Day (WBDD).
+    year: 2004
+    month: 6
+    day: 14
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/World_Blood_Donor_Day
+  - partial_key: elder_abuse_day
+    title:
+      fa_IR: روز جهانی آگاهی از سوءاستفاده سالمندان
+      en_US: World Elder Abuse Awareness Day
+    description:
+      en_US: In 2006 the International Network for Prevention of Elder Abuse (INPEA) designated June 15 as World Elder Abuse Awareness Day (WEAAD).
+    year: 2006
+    month: 6
+    day: 15
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/Elder_abuse
+  - partial_key: family_remittances_day
+    title:
+      fa_IR: روز جهانی حواله‌های خانوادگی
+      en_US: International Day of Family Remittances
+    description:
+      en_US: The International Day of Family Remittances (IDFR) is a universally-recognized observance adopted by the United Nations General Assembly (A/RES/72/281) and celebrated every year on 16 June.
+    year: 2015
+    month: 6
+    day: 16
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/Remittance
+  - partial_key: desertification_day
+    title:
+      fa_IR: روز جهانی مبارزه با کویرزایی و خشکسالی
+      en_US: World Day to Combat Desertification and Drought
+    description:
+      fa_IR: روز ۱۷ ژوئن در سال ۱۹۹۴ به عنوان روزجهانی مبارزه با بیابان‌زایی به تصویب مجمع عمومی سازمان ملل متحد رسید (سند شماره A/RES/۴۹/۱۱۵ مجمع عمومی) و این روز برای ارتقاء آگاهی عموم مردم در رابطه با همکاری بین المللی برای مبارزه با بیابان‌زایی و اثرات خشکسالی نامگذاری شد. روز جهانی مبارزه با بیابان زایی و خشکسالی چه روزی است ؟
+      en_US: The World Day to Combat Desertification and Drought is a United Nations observance each June 17.
+    year: 1994
+    month: 6
+    day: 17
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/World_Day_to_Combat_Desertification_and_Drought
+  - partial_key: sustainable_gastronomy_day
+    title:
+      fa_IR: روز پایداری خوراک‌شناسی
+      en_US: Sustainable Gastronomy Day
+    description:
+      en_US: The UN General Assembly adopted on 21 December 2016 its resolution A/RES/71/246 and designated 18 June as an international observance, Sustainable Gastronomy Day.
+    year: 2016
+    month: 6
+    day: 18
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/Gastronomy
+      - https://fa.wikipedia.org/wiki/خوراک‌شناسی
+  - partial_key: elimination_of_sexual_violence_in_conflict_day
+    title:
+      fa_IR: روز جهانی حذف خشونت جنسی در درگیری
+      en_US: International Day for the Elimination of Sexual Violence in Conflict
+    description:
+      en_US: On 19 June 2015, the United Nations General Assembly (A/RES/69/293) proclaimed 19 June of each year the International Day for the Elimination of Sexual Violence in Conflict, in order to raise awareness of the need to put an end to conflict-related sexual violence.
+    year: 2015
+    month: 6
+    day: 19
+    calendar:
+      - International
+  - partial_key: refugee_day
+    title:
+      fa_IR: روز جهانی پناهجویان
+      en_US: World Refugee Day
+    description:
+      fa_IR: روزِ جهانیِ پناهجویان یا روزِ جهانیِ پناهندگان یادروزِ سراسری و جهانیِ پناهجویان و رصدِ وضعیتِ آنان در سراسرِ جهان برای آگاهی‌رسانی و بهبودِ وضعیتِ آنان است.
+      en_US: World Refugee Day, international observance observed June 20 each year, is dedicated to raising awareness of the situation of refugees throughout the world.
+    year: 2000
+    month: 6
+    day: 20
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/World_Refugee_Day
+      - https://fa.wikipedia.org/wiki/روز_جهانی_پناهجویان
+  - partial_key: yoga_day
+    title:
+      fa_IR: روز جهانی یوگا
+      en_US: International Day of Yoga
+    description:
+      fa_IR: روز جهانی یوگا روز ۲۱ ژوئن است که از سوی سازمان ملل و به پیشنهاد دولت هند در دسامبر سال ۲۰۱۴ به عنوان «روز جهانی یوگا» تصویب شد.
+      en_US: The International Day of Yoga has been celebrated annually on 21 June since 2015, following its inception in the United Nations General Assembly in 2014.
+    year: 2014
+    month: 6
+    day: 21
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/International_Day_of_Yoga
+      - https://fa.wikipedia.org/wiki/روز_جهانی_یوگا
+  - partial_key: solstice_day
+    title:
+      fa_IR: روز جهانی جشن انقلابین
+      en_US: International Day of the Celebration of the Solstice
+    description:
+      en_US: The Assembly first took up the draft resolution titled “International Day of the Celebration of the Solstice” (document A/73/L.92). By its terms, the Assembly would recognize 21 June as the International Day of the Celebration of the Solstice and encourage Member States to make efforts to raise awareness of the celebration of the solstice in its different manifestations including, among others, the Inti Raymi, the We Tripantu, the Willkakuti and Yasitata Guasú, and to organize annual events in commemoration of these celebrations.
+    year: 2019
+    month: 6
+    day: 21
+    calendar:
+      - International
+  - partial_key: public_service_day
+    title:
+      fa_IR: روز خدمات عمومی سازمان ملل
+      en_US: United Nations Public Service Day
+    description:
+      en_US: The United Nations Public Service Day is celebrated on June 23 of every year. The prestigious UN Public Service Awards are given away on this day.
+    year: 2003
+    month: 6
+    day: 23
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/UN_Public_Service_Day
+  - partial_key: widows_day
+    title:
+      fa_IR: روز جهانی بیوه‌ها
+      en_US: International Widows’ Day
+    description:
+      en_US: The United Nations observes 23 June as International Widows Day, to draw attention to the voices and experiences of widows and to galvanize the unique support that they need.
+    year: 2010
+    month: 6
+    day: 23
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/International_Widows_Day
+  - partial_key: seafarer_day
+    title:
+      fa_IR: روز دریانورد
+      en_US: Day of the Seafarer
+    description:
+      en_US: In 2010, the International Maritime Organization (IMO), designated 25 June as the International Day of the Seafarer as a way to recognize that almost everything that we use in our daily lives has been directly or indirectly affected by sea transport.
+    year: 2010
+    month: 6
+    day: 25
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/International_Seafarers%27_Welfare_and_Assistance_Network
+  - partial_key: drug_abuse_day
+    title:
+      fa_IR: روز جهانی مبارزه با سوءمصرف مواد مخدر و قاچاق غیرقانونی
+      en_US: International Day Against Drug Abuse and Illicit Trafficking
+    description:
+      en_US: By resolution 42/112 of 7 December 1987, the General Assembly decided to observe 26 June as the International Day against Drug Abuse and Illicit Trafficking as an expression of its determination to strengthen action and cooperation to achieve the goal of an international society free of drug abuse.
+    year: 1987
+    month: 6
+    day: 26
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/International_Day_Against_Drug_Abuse_and_Illicit_Trafficking
+      - https://en.wikipedia.org/wiki/International_Seafarers%27_Welfare_and_Assistance_Network
+  - partial_key: torture_victims_day
+    title:
+      fa_IR: روز جهانی حمایت از قربانیان شکنجه
+      en_US: International Day in Support of Victims of Torture
+    description:
+      en_US: On 12 December 1997, by resolution 52/149, the UN General Assembly proclaimed 26 June the United Nations International Day in Support of Victims of Torture.
+    year: 1997
+    month: 6
+    day: 26
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/International_Day_in_Support_of_Victims_of_Torture
+  - partial_key: small_business_day
+    title:
+      fa_IR: روز بنگاه‌های کوچک و متوسط
+      en_US: Micro-, Small and Medium-sized Enterprises Day
+    description:
+      en_US: Since 2017, Micro-, small and Medium-sized businesses celebrate their day in recognition of their work in local and global economies.
+    year: 2017
+    month: 6
+    day: 27
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/Small_and_medium-sized_enterprises
+      - https://fa.wikipedia.org/wiki/بنگاه‌های_کوچک_و_متوسط
+  - partial_key: tropics_day
+    title:
+      fa_IR: روز جهانی استوایی
+      en_US: International Day of the Tropics
+    description:
+      en_US: The United Nations General Assembly adopted resolution A/RES/70/267 on 14 June 2016, which declared that 29 June of each year is to be observed as the International Day of the Tropics.
+    year: 2016
+    month: 6
+    day: 29
+    calendar:
+      - International
+  - partial_key: asteroid_day
+    title:
+      fa_IR: روز جهانی سیارک
+      en_US: International Asteroid Day
+    description:
+      en_US: In December 2016 the United Nations General Assembly adopted resolution A/RES/71/90, declaring 30 June International Asteroid Day.
+    year: 2016
+    month: 6
+    day: 29
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/Asteroid_Day
+  - partial_key: parliamentarism_day
+    title:
+      fa_IR: روز جهانی پارلمانیسم
+      en_US: International Day of Parliamentarism
+    description:
+      en_US: June 30 is the day designated to celebrate the International Day of Parliamentarism. It is also the date, in 1889, on which the Inter-Parliamentary Union — the global organization of parliaments — was established.
+    year: 2018
+    month: 6
+    day: 30
+    calendar:
+      - International
