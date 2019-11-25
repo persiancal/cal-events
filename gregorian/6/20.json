@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "key": 1520801462,
+    "title": {
+      "en_US": "World Refugee Day",
+      "fa_IR": "روز جهانی پناهجویان"
+    },
+    "description": {
+      "en_US": "World Refugee Day, international observance observed June 20 each year, is dedicated to raising awareness of the situation of refugees throughout the world.",
+      "fa_IR": "روزِ جهانیِ پناهجویان یا روزِ جهانیِ پناهندگان یادروزِ سراسری و جهانیِ پناهجویان و رصدِ وضعیتِ آنان در سراسرِ جهان برای آگاهی‌رسانی و بهبودِ وضعیتِ آنان است."
+    },
+    "year": 2000,
+    "month": 6,
+    "day": 20,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/World_Refugee_Day",
+      "https://fa.wikipedia.org/wiki/روز_جهانی_پناهجویان"
+    ]
+  }
+]

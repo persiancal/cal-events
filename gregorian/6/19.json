@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "key": 4229453930,
+    "title": {
+      "en_US": "International Day for the Elimination of Sexual Violence in Conflict",
+      "fa_IR": "روز جهانی حذف خشونت جنسی در درگیری"
+    },
+    "description": {
+      "en_US": "On 19 June 2015, the United Nations General Assembly (A/RES/69/293) proclaimed 19 June of each year the International Day for the Elimination of Sexual Violence in Conflict, in order to raise awareness of the need to put an end to conflict-related sexual violence."
+    },
+    "year": 2015,
+    "month": 6,
+    "day": 19,
+    "calendar": [
+      "International"
+    ]
+  }
+]

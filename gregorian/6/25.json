@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "key": 1659848771,
+    "title": {
+      "en_US": "Day of the Seafarer",
+      "fa_IR": "روز دریانورد"
+    },
+    "description": {
+      "en_US": "In 2010, the International Maritime Organization (IMO), designated 25 June as the International Day of the Seafarer as a way to recognize that almost everything that we use in our daily lives has been directly or indirectly affected by sea transport."
+    },
+    "year": 2010,
+    "month": 6,
+    "day": 25,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/International_Seafarers%27_Welfare_and_Assistance_Network"
+    ]
+  }
+]

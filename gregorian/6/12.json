@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "key": 3140350806,
+    "title": {
+      "en_US": "World Day Against Child Labour",
+      "fa_IR": "روز جهانی مبارزه با کار کودکان"
+    },
+    "description": {
+      "en_US": "The World Day Against Child Labour is an International Labour Organization (ILO)-sanctioned holiday first launched in 2003 aiming to raise awareness and activism to prevent child labour.",
+      "fa_IR": "روز جهانی مبارزه با کار کودکان روزی است که برای افزایش آگاهی و فعالیت در زمینهٔ جلوگیری کار کودکان از سوی سازمان بین‌المللی کار پیشنهاد شده‌است."
+    },
+    "year": 2002,
+    "month": 6,
+    "day": 12,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/World_Day_Against_Child_Labour",
+      "https://fa.wikipedia.org/wiki/روز_جهانی_مبارزه_با_کار_کودکان"
+    ]
+  },
+  {
+    "key": 1752090055,
+    "title": {
+      "en_US": "International Albinism Awareness Day",
+      "fa_IR": "روز جهانی آگاهی از آلبینیسم"
+    },
+    "description": {
+      "en_US": "International Albinism Awareness Day (IAAD) is celebrated annually on June 13 to celebrate the human rights of persons with albinism worldwide."
+    },
+    "year": 2015,
+    "month": 6,
+    "day": 12,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/International_Albinism_Awareness_Day"
+    ]
+  }
+]

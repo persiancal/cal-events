@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "key": 2772868492,
+    "title": {
+      "en_US": "World Day to Combat Desertification and Drought",
+      "fa_IR": "روز جهانی مبارزه با کویرزایی و خشکسالی"
+    },
+    "description": {
+      "en_US": "The World Day to Combat Desertification and Drought is a United Nations observance each June 17.",
+      "fa_IR": "روز ۱۷ ژوئن در سال ۱۹۹۴ به عنوان روزجهانی مبارزه با بیابان‌زایی به تصویب مجمع عمومی سازمان ملل متحد رسید (سند شماره A/RES/۴۹/۱۱۵ مجمع عمومی) و این روز برای ارتقاء آگاهی عموم مردم در رابطه با همکاری بین المللی برای مبارزه با بیابان‌زایی و اثرات خشکسالی نامگذاری شد. روز جهانی مبارزه با بیابان زایی و خشکسالی چه روزی است ؟"
+    },
+    "year": 1994,
+    "month": 6,
+    "day": 17,
+    "calendar": [
+      "International"
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/World_Day_to_Combat_Desertification_and_Drought"
+    ]
+  }
+]
