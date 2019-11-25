@@ -1,0 +1,21 @@
+events:
+- partial_key: behvarz_day
+  title:
+    fa_IR: روز بهورز
+  description:
+    fa_IR: روز بهورز
+  month: 6
+  day: 12
+  calendar:
+  - Iran Official
+- partial_key: rais_ali_delvari_commemoration_day
+  title:
+    fa_IR: روز مبارزه با استعمار انگلیس (سالروز شهادت رئیس‌علی دلواری)
+  description:
+    fa_IR: روز مبارزه با استعمار انگلیس (سالروز شهادت رئیس‌علی دلواری)
+  month: 6
+  day: 12
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/رئیس‌علی_دلواری

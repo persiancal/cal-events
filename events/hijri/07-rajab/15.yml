@@ -1,0 +1,25 @@
+events:
+- partial_key: qibla_shifted
+  title:
+    fa_IR: تغییر قبله مسلمین
+  description:
+    fa_IR: تغییر قبله مسلمین
+  year: 2
+  month: 7
+  day: 15
+  calendar:
+  - Islamic Republic Of Iran
+  sources:
+  - https://fa.wikipedia.org/wiki/قبله#قبله_مسلمانان
+- partial_key: demise_of_zaynab_bint_ali
+  title:
+    fa_IR: درگذشت زینب الکبری بنت علی
+  description:
+    fa_IR: درگذشت زینب الکبری بنت علی
+  year: 62
+  month: 7
+  day: 15
+  calendar:
+  - Shia
+  sources:
+  - https://fa.wikipedia.org/wiki/زینب#وفات

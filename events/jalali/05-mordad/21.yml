@@ -1,0 +1,10 @@
+events:
+- partial_key: small_industries_day
+  title:
+    fa_IR: روز حمایت از صنایع کوچک
+  description:
+    fa_IR: روز حمایت از صنایع کوچک
+  month: 5
+  day: 21
+  calendar:
+  - Iran Official

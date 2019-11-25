@@ -1,0 +1,25 @@
+events:
+- partial_key: disabled_iranian_veterans_day
+  title:
+    fa_IR: روز جانباز
+  description:
+    fa_IR: روز جانباز
+  month: 8
+  day: 5
+  calendar:
+  - Islamic Republic Of Iran
+  sources:
+  - https://fa.wikipedia.org/wiki/جانباز
+- partial_key: birthday_of_ali_ibn_husayn
+  title:
+    fa_IR: ولادت علی ابن الحسین
+  description:
+    fa_IR: ولادت علی بن حسین، چهارمین امام شیعه دوازده امامی
+  year: 38
+  month: 8
+  day: 5
+  calendar:
+  - Shia
+  - Islamic Republic Of Iran
+  sources:
+  - https://fa.wikipedia.org/wiki/سجاد

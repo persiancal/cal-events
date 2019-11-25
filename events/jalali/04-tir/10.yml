@@ -1,0 +1,24 @@
+events:
+- partial_key: industry_mine_day
+  title:
+    fa_IR: روز صنعت و معدن
+  description:
+    fa_IR: روز صنعت و معدن
+  month: 4
+  day: 10
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/وزارت_صنعت،_معدن_و_تجارت
+- partial_key: liberation_of_mehran
+  title:
+    fa_IR: روز آزادسازی شهر مهران
+  description:
+    fa_IR: روز آزادسازی شهر مهران
+  month: 4
+  day: 10
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/مهران
+  - https://fa.wikipedia.org/wiki/عملیات_کربلای_۱

@@ -1,0 +1,25 @@
+events:
+- partial_key: international_day_of_light
+  title:
+    en_US: International Day of Light
+    fa_IR: روز جهانی نور
+  description:
+    en_US: International Day of Light
+    fa_IR: روز جهانی نور
+  year: 2017
+  month: 5
+  day: 16
+  calendar:
+  - International
+- partial_key: international_day_of_living_together_in_peace
+  title:
+    en_US: International Day of Living Together in Peace
+    fa_IR: روز جهانی زندگی صلح‌آمیز در کنارهم
+  description:
+    en_US: International Day of Living Together in Peace
+    fa_IR: روز جهانی زندگی صلح‌آمیز در کنارهم
+  year: 2018
+  month: 5
+  day: 16
+  calendar:
+  - International

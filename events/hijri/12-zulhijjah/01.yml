@@ -1,0 +1,12 @@
+events:
+- partial_key: ali_fatimah_marriage
+  title:
+    fa_IR: ازدواج علی ابن ابی‌طالب و فاطمه بنت محمد
+  description:
+    fa_IR: سالروز ازدواج علی ابن ابی‌طالب و فاطمه بنت محمد
+  year: 2
+  month: 12
+  day: 1
+  calendar:
+  - Iran Official
+  - Shia

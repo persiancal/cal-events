@@ -1,0 +1,12 @@
+events:
+- partial_key: commemoration_of_majlesi
+  title:
+    fa_IR: روز بزرگداشت علامه مجلسی
+  description:
+    fa_IR: روز بزرگداشت علامه مجلسی
+  month: 5
+  day: 30
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/محمدباقر_مجلسی

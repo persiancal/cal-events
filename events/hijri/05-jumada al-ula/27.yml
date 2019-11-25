@@ -1,0 +1,12 @@
+events:
+- partial_key: demise_of_abd_al_muttalib
+  title:
+    fa_IR: وفات عبدالمطلب
+  description:
+    fa_IR: وفات عبدالمطلب
+  month: 5
+  day: 27
+  calendar:
+  - Islamic
+  sources:
+  - https://fa.wikipedia.org/wiki/عبدالمطلب

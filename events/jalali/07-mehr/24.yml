@@ -1,0 +1,31 @@
+events:
+- partial_key: parent_day
+  title:
+    fa_IR: روز پیوند اولیا و مربیان
+  description:
+    fa_IR: روز پیوند اولیا و مربیان
+  month: 7
+  day: 24
+  calendar:
+  - Iran Official
+- partial_key: national_paralympic_day
+  title:
+    fa_IR: روز ملی پارالمپیک
+  description:
+    fa_IR: روز ملی پارالمپیک
+  month: 7
+  day: 24
+  calendar:
+  - Iran Official
+- partial_key: kerman_mosque
+  title:
+    fa_IR: به آتش کشیده‌شدن مسجد جامع شهر کرمان
+  description:
+    fa_IR: به آتش کشیده‌شدن مسجد جامع شهر کرمان
+  year: 1357
+  month: 7
+  day: 24
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/واقعه_آتش‌سوزی_مسجد_جامع_کرمان

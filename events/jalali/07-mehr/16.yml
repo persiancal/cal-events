@@ -1,0 +1,10 @@
+events:
+- partial_key: mehrgan_celebration
+  title:
+    fa_IR: مهرروز، جشن مهرگان
+  description:
+    fa_IR: مهرروز، جشن مهرگان
+  month: 7
+  day: 16
+  calendar:
+  - Ancient Iran

@@ -1,0 +1,13 @@
+events:
+- partial_key: fourth_shia_imam_was_martyred_2
+  title:
+    fa_IR: شهادت حضرت امام زين العابدين (ع) بنا بر روایتی
+  description:
+    fa_IR: شهادت حضرت امام زين العابدين (ع) بنا بر روایتی
+  year: 95
+  month: 1
+  day: 25
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/سجاد

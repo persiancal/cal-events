@@ -1,0 +1,46 @@
+events:
+- partial_key: iran_iraq_war_martyrs_day
+  title:
+    fa_IR: روز بزرگداشت فرماندهان شهید دفاع مقدس
+  description:
+    fa_IR: روز بزرگداشت فرماندهان شهید دفاع مقدس
+  month: 7
+  day: 7
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/جنگ_ایران_و_عراق
+- partial_key: shams_tabrizi_commemoration_day
+  title:
+    fa_IR: روز بزرگداشت شمس
+  description:
+    fa_IR: روز بزرگداشت شمس
+  month: 7
+  day: 7
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/شمس_تبریزی
+- partial_key: firefighting_day
+  title:
+    fa_IR: روز آتش‌نشانی و ایمنی
+  description:
+    fa_IR: روز آتش‌نشانی و ایمنی
+  month: 7
+  day: 7
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/آتش‌نشانی
+- partial_key: 1981_iranian_air_force_c_130_crash
+  title:
+    fa_IR: شهادت فلاحی، فکوری، نامجو، کلاهدوز و جهان‌آرا از فرماندهان ارتش و سپاه
+  description:
+    fa_IR: شهادت فلاحی، فکوری، نامجو، کلاهدوز و جهان‌آرا از فرماندهان ارتش و سپاه
+  year: 1360
+  month: 7
+  day: 7
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/سقوط_هواپیمای_سی-۱۳۰_(۱۳۶۰)

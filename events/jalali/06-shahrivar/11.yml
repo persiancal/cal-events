@@ -1,0 +1,10 @@
+events:
+- partial_key: printing_industry_day
+  title:
+    fa_IR: روز صنعت چاپ
+  description:
+    fa_IR: روز صنعت چاپ
+  month: 6
+  day: 11
+  calendar:
+  - Iran Official

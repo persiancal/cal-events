@@ -1,0 +1,37 @@
+events:
+- partial_key: 1953_iranian_coup_detat
+  title:
+    fa_IR: کودتای ۲۸ مرداد
+  description:
+    fa_IR: کودتای ۲۸ مرداد
+  year: 1332
+  month: 5
+  day: 28
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/کودتای_۲۸_مرداد
+- partial_key: cinema_rex_fire
+  title:
+    fa_IR: آتش‌سوزی سینما رکس آبادان
+  description:
+    fa_IR: آتش‌سوزی سینما رکس آبادان
+  year: 1357
+  month: 5
+  day: 28
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/آتش‌سوزی_سینما_رکس_آبادان
+- partial_key: start_day_of_assembly_of_experts_for_constitution
+  title:
+    fa_IR: گشایش مجلس خبرگان برای بررسی نهایی قانون اساسی جمهوری اسلامی ایران
+  description:
+    fa_IR: گشایش مجلس خبرگان برای بررسی نهایی قانون اساسی جمهوری اسلامی ایران
+  year: 1358
+  month: 5
+  day: 28
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/مجلس_خبرگان_قانون_اساسی

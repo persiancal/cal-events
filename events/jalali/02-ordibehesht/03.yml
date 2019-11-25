@@ -1,0 +1,12 @@
+events:
+- partial_key: shaykh_bahai_commemoration_day
+  title:
+    fa_IR: روز بزرگداشت شیخ بهایی
+  description:
+    fa_IR: روز بزرگداشت شیخ بهایی
+  month: 2
+  day: 3
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/شیخ_بهایی

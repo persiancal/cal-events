@@ -1,0 +1,22 @@
+events:
+- partial_key: attorneys_day
+  title:
+    fa_IR: سالروز استقلال کانون وکلای دادگستری و روز وکیل مدافع
+  description:
+    fa_IR: سالروز استقلال کانون وکلای دادگستری و روز وکیل مدافع
+  month: 12
+  day: 7
+  calendar:
+  - Iran Official
+- partial_key: ali_akbar_dehkhoda_commemoration_day
+  title:
+    fa_IR: سالروز درگذشت علی اکبر دهخدا
+  description:
+    fa_IR: سالروز درگذشت علی اکبر دهخدا
+  year: 1334
+  month: 12
+  day: 7
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/علی‌اکبر_دهخدا

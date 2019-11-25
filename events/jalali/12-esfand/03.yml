@@ -1,0 +1,13 @@
+events:
+- partial_key: reza_khan_coup
+  title:
+    fa_IR: کودتای رضاخان
+  description:
+    fa_IR: کودتای رضاخان
+  year: 1299
+  month: 12
+  day: 3
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/کودتای_۳_اسفند_۱۲۹۹

@@ -1,0 +1,10 @@
+events:
+- partial_key: village_and_ashayir_day
+  title:
+    fa_IR: روز روستا و عشایر
+  description:
+    fa_IR: روز روستا و عشایر
+  month: 7
+  day: 15
+  calendar:
+  - Iran Official

@@ -1,0 +1,10 @@
+events:
+- partial_key: derafshs_celebration
+  title:
+    fa_IR: جشن درامزینان، جشن درفش‌ها
+  description:
+    fa_IR: جشن درامزینان، جشن درفش‌ها
+  month: 10
+  day: 16
+  calendar:
+  - Ancient Iran

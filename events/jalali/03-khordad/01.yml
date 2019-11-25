@@ -1,0 +1,30 @@
+events:
+- partial_key: mulla_sadra_commemoration_day
+  title:
+    fa_IR: روز بزرگداشت ملاصدرا (صدرالمتألهین)
+  description:
+    fa_IR: روز بزرگداشت ملاصدرا (صدرالمتألهین)
+  month: 3
+  day: 1
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/ملاصدرا
+- partial_key: efficiency_and_consumption_optimization_day
+  title:
+    fa_IR: روز بهره‌وری و بهینه‌سازی مصرف
+  description:
+    fa_IR: روز بهره‌وری و بهینه‌سازی مصرف
+  month: 3
+  day: 1
+  calendar:
+  - Iran Official
+- partial_key: arghasoan_heat_celebration
+  title:
+    fa_IR: ارغاسوان، جشن گرما
+  description:
+    fa_IR: ارغاسوان، جشن گرما
+  month: 3
+  day: 1
+  calendar:
+  - Ancient Iran

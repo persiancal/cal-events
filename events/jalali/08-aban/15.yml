@@ -1,0 +1,12 @@
+events:
+- partial_key: ayathrem_gahambar
+  title:
+    fa_IR: گاهنبار اَیاثرَم، جشن میانهٔ پاییز
+  description:
+    fa_IR: گاهنبار اَیاثرَم، جشن میانهٔ پاییز
+  month: 8
+  day: 15
+  calendar:
+  - Ancient Iran
+  sources:
+  - https://fa.wikipedia.org/wiki/گاهنبار

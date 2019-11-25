@@ -1,0 +1,13 @@
+events:
+- partial_key: mehdi_bazargan_prime_ministerial_election
+  title:
+    fa_IR: انتخاب مهدی بازرگان به نخست‌وزیری انقلاب
+  description:
+    fa_IR: انتخاب مهدی بازرگان به نخست‌وزیری انقلاب
+  year: 1357
+  month: 11
+  day: 16
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/مهدی_بازرگان#انقلاب_۱۳۵۷_خورشیدی

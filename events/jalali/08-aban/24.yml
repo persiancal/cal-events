@@ -1,0 +1,21 @@
+events:
+- partial_key: muhammad_husayn_tabatabai
+  title:
+    fa_IR: روز بزرگداشت آيت‌الله علامه سيدمحمدحسين طباطبايی
+  description:
+    fa_IR: روز بزرگداشت آيت‌الله علامه سيدمحمدحسين طباطبايی
+  month: 8
+  day: 24
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/سید_محمدحسین_طباطبایی
+- partial_key: books_day
+  title:
+    fa_IR: روزكتاب، كتابخوانی و كتابدار
+  description:
+    fa_IR: روزكتاب، كتابخوانی و كتابدار
+  month: 8
+  day: 24
+  calendar:
+  - Iran Official

@@ -1,0 +1,37 @@
+events:
+- partial_key: corporation_day
+  title:
+    fa_IR: روز اصناف
+  description:
+    fa_IR: روز اصناف
+  month: 4
+  day: 1
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/صنف
+- partial_key: summer_beginning_celebration
+  title:
+    fa_IR: جشن آب‌پاشونک، جشن آغاز تابستان / سال نو در گاهشماری گاهنباری / دیدار طلوع
+      خورشید در تقویم آفتابی چارتاقی نیاسر
+  description:
+    fa_IR: جشن آب‌پاشونک، جشن آغاز تابستان / سال نو در گاهشماری گاهنباری / دیدار طلوع
+      خورشید در تقویم آفتابی چارتاقی نیاسر
+  month: 4
+  day: 1
+  calendar:
+  - Ancient Iran
+  sources:
+  - https://fa.wikipedia.org/wiki/تابستان
+- partial_key: opening_of_islamic_development_organization
+  title:
+    fa_IR: روز تبلیغ و اطلاع‌رسانی دینی (تأسیس سازمان تبلیغات اسلامی)
+  description:
+    fa_IR: روز تبلیغ و اطلاع‌رسانی دینی (تأسیس سازمان تبلیغات اسلامی)
+  year: 1360
+  month: 4
+  day: 1
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/سازمان_تبلیغات_اسلامی

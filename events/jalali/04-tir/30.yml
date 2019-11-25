@@ -1,0 +1,12 @@
+events:
+- partial_key: abol_ghasem_kashani_commemoration_day
+  title:
+    fa_IR: روز بزرگداشت آیت‌الله سیدابوالقاسم کاشانی
+  description:
+    fa_IR: روز بزرگداشت آیت‌الله سیدابوالقاسم کاشانی
+  month: 4
+  day: 30
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/سید_ابوالقاسم_کاشانی

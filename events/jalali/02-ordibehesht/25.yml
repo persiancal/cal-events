@@ -1,0 +1,12 @@
+events:
+- partial_key: ferdowsi_commemoration_day
+  title:
+    fa_IR: روز پاسداشت زبان فارسی و بزرگداشت حکیم ابوالقاسم فردوسی
+  description:
+    fa_IR: روز پاسداشت زبان فارسی و بزرگداشت حکیم ابوالقاسم فردوسی
+  month: 2
+  day: 25
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/فردوسی

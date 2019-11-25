@@ -1,0 +1,12 @@
+events:
+- partial_key: tax_day
+  title:
+    fa_IR: روز مالیات
+  description:
+    fa_IR: روز مالیات
+  month: 4
+  day: 16
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/مالیات

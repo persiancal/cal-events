@@ -1,0 +1,25 @@
+events:
+- partial_key: iranian_council_day
+  title:
+    fa_IR: روز مجلس
+  description:
+    fa_IR: روز مجلس
+  year: 1316
+  month: 9
+  day: 10
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/روز_مجلس
+- partial_key: seyyed_hassan_modarres_martyrdom
+  title:
+    fa_IR: شهادت آیت‌الله سید حسن مدرس
+  description:
+    fa_IR: شهادت آیت‌الله سید حسن مدرس
+  year: 1316
+  month: 9
+  day: 10
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/سید_حسن_مدرس

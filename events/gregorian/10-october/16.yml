@@ -1,0 +1,16 @@
+events:
+- partial_key: food_day
+  title:
+    en_US: World Food Day
+    fa_IR: روز جهانی غذا
+  description:
+    en_US: World Food Day
+    fa_IR: روز جهانی غذا
+  year: 1945
+  month: 10
+  day: 16
+  calendar:
+  - International
+  sources:
+  - https://fa.wikipedia.org/wiki/روز_جهانی_غذا
+  - https://en.wikipedia.org/wiki/World_Food_Day

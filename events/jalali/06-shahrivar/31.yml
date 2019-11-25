@@ -1,0 +1,33 @@
+events:
+- partial_key: sacred_defence_week
+  title:
+    fa_IR: آغاز هفتهٔ دفاع مقدس
+  description:
+    fa_IR: آغاز هفتهٔ دفاع مقدس
+  month: 6
+  day: 31
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/هفته_دفاع_مقدس
+- partial_key: end_of_summer_celebration
+  title:
+    fa_IR: گاهنبار پَتیَه‌شَهیم، جشن پایان تابستان
+  description:
+    fa_IR: گاهنبار پَتیَه‌شَهیم، جشن پایان تابستان
+  month: 6
+  day: 31
+  calendar:
+  - Ancient Iran
+- partial_key: iraq_invasion_of_iran
+  title:
+    fa_IR: آغاز جنگ تحمیلی
+  description:
+    fa_IR: آغاز جنگ تحمیلی
+  year: 1359
+  month: 6
+  day: 31
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/تهاجم_عراق_به_ایران_(۱۳۵۹)

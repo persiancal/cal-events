@@ -1,0 +1,25 @@
+events:
+- partial_key: natures_day
+  title:
+    fa_IR: روز طبیعت
+  description:
+    fa_IR: روز طبیعت
+  month: 1
+  day: 13
+  calendar:
+  - Iran Official
+  holiday:
+    Iran: []
+  sources:
+  - https://fa.wikipedia.org/wiki/سیزده‌به‌در
+- partial_key: sizdah_be_dar_celebration
+  title:
+    fa_IR: جشن سیزده‌بدر
+  description:
+    fa_IR: جشن سیزده‌بدر
+  month: 1
+  day: 13
+  calendar:
+  - Ancient Iran
+  sources:
+  - https://fa.wikipedia.org/wiki/سیزده‌به‌در

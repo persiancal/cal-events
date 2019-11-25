@@ -1,0 +1,12 @@
+events:
+- partial_key: ascension_of_prophet_mohammad
+  title:
+    fa_IR: عید مبعث
+  description:
+    fa_IR: عید مبعث، سالروز بعثت پیامبر اسلام در جهان اسلام
+  month: 7
+  day: 27
+  calendar:
+  - Islamic Republic Of Iran
+  sources:
+  - https://fa.wikipedia.org/wiki/مبعث

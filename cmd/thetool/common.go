@@ -91,26 +91,23 @@ func (f *File) Merge(new *File) {
 }
 
 func openFolder(folder string) ([]string, error) {
-	fl, err := ioutil.ReadDir(folder)
-	if err != nil {
-		return nil, err
-	}
 
-	var ret = make([]string, 0, len(fl))
-	for i := range fl {
-		if fl[i].IsDir() {
-			continue
-		}
+	var ret = make([]string, 0)
 
-		full := filepath.Join(folder, fl[i].Name())
-		if ext := filepath.Ext(full); ext != ".yml" {
-			continue
-		}
-
-		ret = append(ret, full)
-	}
-
-	return ret, nil
+	return ret, filepath.Walk(folder,
+		func(path string, fi os.FileInfo, err error) error {
+			if fi.IsDir() {
+				return nil
+			}
+	
+			//full := filepath.Join(folder, fi.Name())
+			if ext := filepath.Ext(path); ext != ".yml" {
+				return nil
+			}
+	
+			ret = append(ret, path)
+			return nil
+		})
 }
 
 func loadFolder(folder string) (*File, error) {

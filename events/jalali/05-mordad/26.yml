@@ -1,0 +1,11 @@
+events:
+- partial_key: return_of_captives_to_iran
+  title:
+    fa_IR: آغاز بازگشت آزادگان به ایران
+  description:
+    fa_IR: آغاز بازگشت آزادگان به ایران
+  year: 1369
+  month: 5
+  day: 26
+  calendar:
+  - Iran Official

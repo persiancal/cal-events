@@ -1,0 +1,15 @@
+events:
+- partial_key: international_day_of_charity
+  title:
+    en_US: International Day of Charity
+    fa_IR: روز جهانی خیریه
+  description:
+    en_US: International Day of Charity
+    fa_IR: روز جهانی خیریه
+  year: 2012
+  month: 9
+  day: 5
+  calendar:
+  - International
+  sources:
+  - https://en.wikipedia.org/wiki/International_Day_of_Charity

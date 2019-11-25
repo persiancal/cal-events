@@ -1,0 +1,13 @@
+events:
+- partial_key: mosque_of_the_two_qiblas
+  title:
+    fa_IR: تغيير قبله مسلمين از بيت المقدس به مکه معظمه
+  description:
+    fa_IR: تغيير قبله مسلمين از بيت المقدس به مکه معظمه
+  year: 2
+  month: 1
+  day: 18
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/مسجد_ذوقبلتین

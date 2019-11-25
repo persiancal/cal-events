@@ -1,0 +1,10 @@
+events:
+- partial_key: registry_office_day
+  title:
+    fa_IR: روز ثبت احوال
+  description:
+    fa_IR: روز ثبت احوال
+  month: 10
+  day: 3
+  calendar:
+  - Iran Official

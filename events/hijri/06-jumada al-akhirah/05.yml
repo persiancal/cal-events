@@ -1,0 +1,13 @@
+events:
+- partial_key: demise_of_rumi
+  title:
+    fa_IR: درگذشت مولانا
+  description:
+    fa_IR: درگذشت جلال‌الدین محمد بلخی معروف به مولانا، مولوی و رومی
+  year: 672
+  month: 6
+  day: 5
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/مولوی

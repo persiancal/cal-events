@@ -1,0 +1,13 @@
+events:
+- partial_key: marriage_of_the_prophet_of_islam_to_aisha
+  title:
+    fa_IR: ازدواج پیامبر اسلام(ص) با عایشه
+  description:
+    fa_IR: ازدواج پیامبر اسلام(ص) با عایشه
+  month: 10
+  day: 2
+  calendar:
+  - Iran Official
+  - Islamic
+  sources:
+  - https://fa.wikipedia.org/wiki/عایشه

@@ -1,0 +1,21 @@
+events:
+- partial_key: hope_day
+  title:
+    fa_IR: روز امید، روز شادباش‌نویسی
+  description:
+    fa_IR: روز امید، روز شادباش‌نویسی
+  month: 1
+  day: 6
+  calendar:
+  - Ancient Iran
+- partial_key: zoroasters_birthday
+  title:
+    fa_IR: روز تولد زرتشت
+  description:
+    fa_IR: روز تولد زرتشت
+  month: 1
+  day: 6
+  calendar:
+  - Ancient Iran
+  sources:
+  - https://fa.wikipedia.org/wiki/زرتشت

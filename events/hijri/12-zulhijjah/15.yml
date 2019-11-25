@@ -1,0 +1,12 @@
+events:
+- partial_key: birth_of_imam_mohammad_naqi
+  title:
+    fa_IR: زادروز علی بن محمد نقی، امام دهم شیعیان
+  description:
+    fa_IR: زادروز علی بن محمد نقی، امام دهم شیعیان
+  year: 212
+  month: 12
+  day: 15
+  calendar:
+  - Iran Official
+  - Shia

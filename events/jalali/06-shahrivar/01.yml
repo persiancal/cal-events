@@ -1,0 +1,32 @@
+events:
+- partial_key: iranians_doctors_day
+  title:
+    fa_IR: روز پزشک
+  description:
+    fa_IR: روز پزشک
+  month: 6
+  day: 1
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/روز_پزشک
+- partial_key: abu_ali_sina_commemoration_day
+  title:
+    fa_IR: روز بزرگداشت ابوعلی سینا
+  description:
+    fa_IR: روز بزرگداشت ابوعلی سینا
+  month: 6
+  day: 1
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/ابن_سینا
+- partial_key: faghdieh_cool_celebration
+  title:
+    fa_IR: فغدیه، جشن خنکی هوا
+  description:
+    fa_IR: فغدیه، جشن خنکی هوا
+  month: 6
+  day: 1
+  calendar:
+  - Ancient Iran

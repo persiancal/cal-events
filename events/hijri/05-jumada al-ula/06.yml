@@ -1,0 +1,25 @@
+events:
+- partial_key: battle_of_mutah
+  title:
+    fa_IR: جنگ مؤته
+  description:
+    fa_IR: جنگ مؤته
+  year: 8
+  month: 5
+  day: 6
+  calendar:
+  - Islamic
+  sources:
+  - https://fa.wikipedia.org/wiki/سریه_مؤته
+- partial_key: martyrdom_of_jafar_ibn_abi_taleb
+  title:
+    fa_IR: شهادت جعفر‌ ابن ابی‌طالب
+  description:
+    fa_IR: شهادت جعفر‌ ابن ابی‌طالب
+  year: 8
+  month: 5
+  day: 6
+  calendar:
+  - Islamic
+  sources:
+  - https://fa.wikipedia.org/wiki/جعفر_بن_ابی‌طالب

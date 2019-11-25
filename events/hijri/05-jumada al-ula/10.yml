@@ -1,0 +1,13 @@
+events:
+- partial_key: battle_of_the_camel
+  title:
+    fa_IR: جنگ جمل
+  description:
+    fa_IR: جنگ جمل
+  year: 36
+  month: 5
+  day: 10
+  calendar:
+  - Islamic
+  sources:
+  - https://fa.wikipedia.org/wiki/جنگ_جمل

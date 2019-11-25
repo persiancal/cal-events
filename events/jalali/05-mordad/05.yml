@@ -1,0 +1,13 @@
+events:
+- partial_key: anniversary_of_operation_mersad
+  title:
+    fa_IR: سالروز عملیات مرصاد
+  description:
+    fa_IR: سالروز عملیات مرصاد
+  year: 1367
+  month: 5
+  day: 5
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/عملیات_مرصاد

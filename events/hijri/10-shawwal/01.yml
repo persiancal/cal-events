@@ -1,0 +1,15 @@
+events:
+- partial_key: eid_al_fitr
+  title:
+    fa_IR: عید فطر
+  description:
+    fa_IR: عید فطر
+  month: 10
+  day: 1
+  calendar:
+  - Iran Official
+  - Islamic
+  holiday:
+    Iran: []
+  sources:
+  - https://fa.wikipedia.org/wiki/عید_فطر

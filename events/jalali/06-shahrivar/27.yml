@@ -1,0 +1,23 @@
+events:
+- partial_key: persian_poetry_and_literature_day
+  title:
+    fa_IR: روز شعر و ادب فارسی
+  description:
+    fa_IR: روز شعر و ادب فارسی
+  month: 6
+  day: 27
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/روز_ملی_شعر_و_ادب
+- partial_key: shahriar_day
+  title:
+    fa_IR: روز بزرگداشت استاد سید محمدحسین شهریار
+  description:
+    fa_IR: روز بزرگداشت استاد سید محمدحسین شهریار
+  month: 6
+  day: 27
+  calendar:
+  - Iran Official
+  sources:
+  - https://fa.wikipedia.org/wiki/سید_محمدحسین_شهریار
