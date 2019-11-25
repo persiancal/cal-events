@@ -25,6 +25,19 @@ events:
       - International
     sources:
       - https://en.wikipedia.org/wiki/World_Bicycle_Day
+  - partial_key: child_victim_day
+    title:
+      fa_IR: روز جهانی کودکان بی‌گناه قربانی پرخاشگری
+      en_US: International Day of Innocent Children Victims of Aggression
+    description:
+      en_US: The International Day of Innocent Children Victims of Aggression is a United Nations observance each 4 June. It was established on 19 August 1982.
+    year: 1982
+    month: 6
+    day: 4
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/International_Day_of_Innocent_Children_Victims_of_Aggression
   - partial_key: environment_day
     title:
       fa_IR: روز جهانی محیط زیست
@@ -147,6 +160,19 @@ events:
       - International
     sources:
       - https://en.wikipedia.org/wiki/Elder_abuse
+  - partial_key: family_remittances_day
+    title:
+      fa_IR: روز جهانی حواله‌های خانوادگی
+      en_US: International Day of Family Remittances
+    description:
+      en_US: The International Day of Family Remittances (IDFR) is a universally-recognized observance adopted by the United Nations General Assembly (A/RES/72/281) and celebrated every year on 16 June.
+    year: 2015
+    month: 6
+    day: 16
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/Remittance
   - partial_key: desertification_day
     title:
       fa_IR: روز جهانی مبارزه با کویرزایی و خشکسالی
@@ -161,6 +187,31 @@ events:
       - International
     sources:
       - https://en.wikipedia.org/wiki/World_Day_to_Combat_Desertification_and_Drought
+  - partial_key: sustainable_gastronomy_day
+    title:
+      fa_IR: روز پایداری خوراک‌شناسی
+      en_US: Sustainable Gastronomy Day
+    description:
+      en_US: The UN General Assembly adopted on 21 December 2016 its resolution A/RES/71/246 and designated 18 June as an international observance, Sustainable Gastronomy Day.
+    year: 2016
+    month: 6
+    day: 18
+    calendar:
+      - International
+    sources:
+      - https://en.wikipedia.org/wiki/Gastronomy
+      - https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%B1%D8%A7%DA%A9%E2%80%8C%D8%B4%D9%86%D8%A7%D8%B3%DB%8C
+  - partial_key: elimination_of_sexual_violence_in_conflict_day
+    title:
+      fa_IR: روز جهانی حذف خشونت جنسی در درگیری
+      en_US: International Day for the Elimination of Sexual Violence in Conflict
+    description:
+      en_US: On 19 June 2015, the United Nations General Assembly (A/RES/69/293) proclaimed 19 June of each year the International Day for the Elimination of Sexual Violence in Conflict, in order to raise awareness of the need to put an end to conflict-related sexual violence.
+    year: 2015
+    month: 6
+    day: 19
+    calendar:
+      - International
   - partial_key: refugee_day
     title:
       fa_IR: روز جهانی پناهجویان
@@ -191,6 +242,17 @@ events:
     sources:
       - https://en.wikipedia.org/wiki/International_Day_of_Yoga
       - https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%B2_%D8%AC%D9%87%D8%A7%D9%86%DB%8C_%DB%8C%D9%88%DA%AF%D8%A7
+  - partial_key: solstice_day
+    title:
+      fa_IR: روز جهانی جشن انقلابین
+      en_US: International Day of the Celebration of the Solstice
+    description:
+      en_US: The Assembly first took up the draft resolution titled “International Day of the Celebration of the Solstice” (document A/73/L.92).  By its terms, the Assembly would recognize 21 June as the International Day of the Celebration of the Solstice and encourage Member States to make efforts to raise awareness of the celebration of the solstice in its different manifestations including, among others, the Inti Raymi, the We Tripantu, the Willkakuti and Yasitata Guasú, and to organize annual events in commemoration of these celebrations.
+    year: 2019
+    month: 6
+    day: 21
+    calendar:
+      - International
   - partial_key: public_service_day
     title:
       fa_IR: روز خدمات عمومی سازمان ملل
