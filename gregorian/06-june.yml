@@ -18,7 +18,7 @@ events:
       en_US: World Bicycle Day
     description:
       en_US: In April 2018, the United Nations General Assembly declared June 3 as International World Bicycle Day.
-    year: 2012
+    year: 2018
     month: 6
     day: 3
     calendar:
@@ -113,7 +113,7 @@ events:
       en_US: International Albinism Awareness Day
     description:
       en_US: International Albinism Awareness Day (IAAD) is celebrated annually on June 13 to celebrate the human rights of persons with albinism worldwide.
-    year: 2013
+    year: 2015
     month: 6
     day: 12
     calendar:
@@ -174,6 +174,7 @@ events:
     calendar:
       - International
     sources:
+      - https://en.wikipedia.org/wiki/World_Refugee_Day
       - https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%B2_%D8%AC%D9%87%D8%A7%D9%86%DB%8C_%D9%BE%D9%86%D8%A7%D9%87%D8%AC%D9%88%DB%8C%D8%A7%D9%86
   - partial_key: yoga_day
     title:
@@ -188,6 +189,7 @@ events:
     calendar:
       - International
     sources:
+      - https://en.wikipedia.org/wiki/International_Day_of_Yoga
       - https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%B2_%D8%AC%D9%87%D8%A7%D9%86%DB%8C_%DB%8C%D9%88%DA%AF%D8%A7
   - partial_key: public_service_day
     title:
@@ -234,13 +236,14 @@ events:
       en_US: International Day Against Drug Abuse and Illicit Trafficking
     description:
       en_US: By resolution 42/112 of 7 December 1987, the General Assembly decided to observe 26 June as the International Day against Drug Abuse and Illicit Trafficking as an expression of its determination to strengthen action and cooperation to achieve the goal of an international society free of drug abuse.
-    year: 1946
+    year: 1987
     month: 6
     day: 26
     calendar:
       - International
     sources:
-      - https://en.wikipedia.org/wiki/International_Seafarers%27_Welfare_and_Assistance_Network    
+      - https://en.wikipedia.org/wiki/International_Day_Against_Drug_Abuse_and_Illicit_Trafficking
+      - https://en.wikipedia.org/wiki/International_Seafarers%27_Welfare_and_Assistance_Network
   - partial_key: torture_victims_day
     title:
       fa_IR: روز جهانی حمایت از قربانیان شکنجه
@@ -266,6 +269,7 @@ events:
     calendar:
       - International
     sources:
+      - https://en.wikipedia.org/wiki/Small_and_medium-sized_enterprises
       - https://fa.wikipedia.org/wiki/%D8%A8%D9%86%DA%AF%D8%A7%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%DA%A9%D9%88%DA%86%DA%A9_%D9%88_%D9%85%D8%AA%D9%88%D8%B3%D8%B7
   - partial_key: tropics_day
     title:
